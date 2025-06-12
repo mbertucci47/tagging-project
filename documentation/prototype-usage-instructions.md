@@ -35,9 +35,10 @@ The new code can be used with pdfLaTeX or the Unicode engine
 luaLaTeX. The latter is the preferred engine recommended for new
 documents.
 
-The interface descriptions below are all temporary and will be replaced
-with proper interfaces over time. E.g., the `\DocumentMetadata` will remain, but
-the key `testphase` and its value will eventually vanish.
+Previously, the tagging interfaces were enabled through a combination of the
+`testphase` key in `\DocumentMetadata` and other settings in `\tagpdfsetup`.
+These are still available, however it is recommended to replace these with the
+`\DocumentMetadata` keys `tagging=on` and `tagging-setup={<settings>}`, respectively.
 
 ## Basic setup
 
