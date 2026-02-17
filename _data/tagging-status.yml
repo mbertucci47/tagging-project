@@ -303,13 +303,14 @@
 
 - name: acronym
   type: package
-  status: unchecked
+  status: partially-compatible
   included-in: [ol1]
   priority: 9
   issues:
-  tests: false
-  tasks: needs tests
-  updated: 2026-01-23
+  tests: true
+  comments: "List of acronyms is tagged as list rather than TOC and dotfill
+             should be tagged as artifact."
+  updated: 2026-02-15
 
 - name: addlines
   type: package
@@ -5095,7 +5096,7 @@
              Adjustments towards final tagging interfaces likely necessary."
   issues:
   tests: true
-  updated: 2026-01-14
+  updated: 2026-02-15
 
 - name: eqparbox
   type: package
@@ -5310,13 +5311,13 @@
 
 - name: eurosym
   type: package
-  status: unchecked
+  status: currently-incompatible
   included-in: [ol1]
   priority: 9
-  issues:
-  tests: false
-  tasks: needs tests
-  updated: 2026-01-23
+  issues: [1235]
+  tests: true
+  comments: "`\\euro` not correctly mapped to Unicode symbol."
+  updated: 2026-02-15
 
 - name: euscript
   ctan-pkg: amsfonts
@@ -9057,13 +9058,14 @@
 
 - name: makecell
   type: package
-  status: unchecked
+  status: partially-compatible
   included-in: [arxiv1, ol10]
   priority: 5
   issues:
-  tests: false
-  tasks: needs tests
-  updated: 2024-08-01
+  tests: true
+  comments: "Interaction with incompatible multirow package not yet supported.
+             `\\diaghead` command uses `picture` environment that is tagged as a figure."
+  updated: 2025-02-14
 
 - name: makecmds
   type: package
@@ -15921,13 +15923,12 @@
 
 - name: vruler
   type: package
-  status: unchecked
+  status: compatible
   included-in: [ol1]
   priority: 9
   issues:
-  tests: false
-  tasks: needs tests
-  updated: 2026-01-23
+  tests: true
+  updated: 2026-02-15
 
 - name: vwcol
   type: package
