@@ -5388,13 +5388,13 @@
 
 - name: extarrows
   type: package
-  status: compatible
+  status: partially-compatible
   included-in: [tlc3, arxiv01, ol0.1]
   priority: 2
-  comments:
-  issues:
+  comments: "Produces warnings with mathml-SE."
+  issues: [919]
   tests: true
-  updated: 2024-07-29
+  updated: 2026-02-28
 
 - name: extdash
   type: package
@@ -9613,11 +9613,10 @@
   status: compatible
   included-in: [tlc3, arxiv5, ol10]
   priority: 2
-  comments: Footnote patching doesn’t work but otherwise supported.
+  comments:
   issues: [67]
   tests: false
-  tasks: needs tests
-  updated: 2024-07-06
+  updated: 2026-02-28
 
 - name: midfloat
   ctan-pkg: sttools
@@ -12750,12 +12749,13 @@
 
 - name: relsize
   type: package
-  status: compatible
+  status: partially-compatible
   included-in: [tlc3, arxiv1, ol1]
   priority: 2
-  issues:
+  issues: [1244]
   tests: true
-  updated: 2025-05-28
+  comments: "Warnings with `\\mathlarger` and mathml-SE."
+  updated: 2026-02-27
 
 - name: remreset
   type: package
@@ -17096,7 +17096,7 @@
   status: currently-incompatible
   included-in:
   priority: 9
-  issues: [979,980,1050]
+  issues: [979,980,1050,1241]
   tests: true
   tasks: needs more tests
   updated: 2025-11-10
