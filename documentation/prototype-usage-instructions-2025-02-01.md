@@ -29,33 +29,15 @@ runlatex.packageregex = [
 
 
 
-# Using LaTeX to produce accessible PDF
-## Guidelines for LaTeX2e 2025-11-01
+# Using the LaTeX prototype for accessible PDF (as of 2025/02)
 
 The new code can be used with pdfLaTeX or the Unicode engine
 luaLaTeX. The latter is the preferred engine recommended for new
 documents.
 
-<div style="border: solid thin black; padding: 0em 1em;" markdown=1>
-
-## Using tagging with older LaTeX releases
-
-It is _strongly_ recommended that you use a current LaTeX Release.
-The tagging code is under active development and not all of the features
-or syntax described here are available in older releases.
-
-On OverLeaf, LaTeX 2025-11-01 is available if you use the
-"[Rolling TeXLive](https://docs.overleaf.com/troubleshooting-and-support/tex-live#labs-rolling-tex-live-experiment)"
-option for the TeXLive Release (in the Compiler settings).
-
-If it is not possible to use the current release, instructions dated
-[2025-02-01](prototype-usage-instructions-2025-02-01)
-and
-[2024-06-01](prototype-usage-instructions-2024-06-01)
-are available.
-Note in particular, that the `tagging=on` key was not available in older releases.
-
-</div>
+The interface descriptions below are all temporary and will be replaced
+with proper interfaces over time. E.g., the `\DocumentMetadata` will remain, but
+the key `testphase` and its value will eventually vanish.
 
 ## Basic setup
 
@@ -66,10 +48,10 @@ list:
 ```latex
 \DocumentMetadata{
   lang        = de,
+  pdfversion  = 2.0,
   pdfstandard = ua-2,
   pdfstandard = a-4f, %or a-4
-  tagging=on,
-  tagging-setup={math/setup=mathml-SE} 
+  testphase   = latest
 }
 \documentclass{article}
 \begin{document}
@@ -77,19 +59,34 @@ list:
 abc
 \end{document}
 ```
-The first three keys in the example set important document metadata,
-like the language and the standards the
-document should comply with. By default the PDF version will be set to 2.0. 
-The `pdfversion` key can be used to change this.
+The first four keys in the example set important document metadata,
+like the language, the requested PDF version and the standards the
+document should comply with.
 
-Using `\DocumentMetaData` will load code to  support new interfaces.
+Tagging is then enabled by loading various modules through the
+`testphase` key.
 
-Tagging is then enabled through the `tagging` key.
-The value `on` will then enable tagging. The value `off` will disable it. 
+- The `latest` key loads all modules that we think are sensible. This is the recommended
+  value, it will load new modules automatically once they are added.
 
-The `tagging-setup` key allows configuration of the the tagging. It accepts all keys that can also be used in `\tagpdfsetup`. The value `math/setup=mathml-SE` shown in the above example is explained below.
 
- 
+It is possible to load only individual modules
+- The `phase-III` module activates tagging and loads support for most
+  standard document elements like paragraphs, lists, sectioning, table
+  of contents, graphics, floats, links and more. You should always use
+  this key first.
+- The `title` module redefines the `\title`, `\author`
+  and `\maketitle` command to make them tagging aware. It also takes
+  care that the title and author are added to the XMP metadata.
+
+- The `table` module adds tagging support to tables like `tabular`,
+  `tabularx`, `tabulary` and `longtable`.
+-  The `math` module enables basic tagging of equations.
+- Finally, the `firstaid` module contains small fixes of
+  external packages to make them compatible with the tagging code, e.g.,
+  it fixes clashes with the `cleveref` and the `booktabs`
+  packages.
+
 
 ## Handling graphics in the document
 
@@ -103,12 +100,7 @@ have been added to the `\includegraphics` command:
 ```latex
 \includegraphics[height=4cm,alt={Portrait of Shakespeare}]{william-shakespeare.jpg}
 \includegraphics[height=4cm,artifact]{crinklepaper}\makebox[0pt][r]{Some text }
-\includegraphics[height=\baselineskip,actualtext=A]{example-image-a.jpg}
 ```
-
-
-These keys can also be used with the `\tikz` command and the `tikzpicture` and `picture` environment.
-
 
 ## Handling tables (`tabular`) in the document
 
@@ -213,8 +205,8 @@ tagged with an Associated File of the generated MathML.
 
 ```
 \DocumentMetadata{uncompress,lang=en,
- tagging=on,
- pdfstandard=ua-2,pdfstandard=a-4f}
+ testphase=latest,
+ pdfversion=2.0,pdfstandard=ua-2,pdfstandard=a-4f}
 
 \documentclass{article}
 \usepackage{unicode-math}
@@ -242,15 +234,22 @@ A matrix equation.
 
 ### MathML Structure Element Tagging
 
-To use MathML Structure Element tagging you may use the `tagging-setup` key with 
-the value `math/setup=mathml-SE` key as shown below. This suppresses
-adding the Associated Files, you can use `tagging-setup={math/setup={mathml-SE,mathml-AF}}` if you want to enable both methods.
+To use MathML Structure Element tagging you may use the
+`math/mathml/structelem` key as shown below. Here we also suppress
+adding the Associated Files. With a current lualatex-dev the same can be achieved
+with the key `math/setup=mathml-SE`.
 
 ```
 \DocumentMetadata{uncompress,lang=en,
- tagging=on,
- tagging-setup={math/setup=mathml-SE},
- pdfstandard=ua-2,pdfstandard=a-4f}
+ testphase=latest,
+ pdfversion=2.0,pdfstandard=ua-2,pdfstandard=a-4f}
+
+\tagpdfsetup{
+ math/mathml/structelem,
+ math/tex/AF=false,
+ math/mathml/AF=false,
+ math/mathml/sources=
+}
 
 \documentclass{article}
 \usepackage{unicode-math}
@@ -302,9 +301,9 @@ still be edited and the file renamed to `<file>-mathml.html` .
 
 ```
 % !TeX pdflatex
-\DocumentMetadata{lang=en,
- tagging=on,
- pdfstandard=ua-2,pdfstandard=a-4f}
+\DocumentMetadata{uncompress,lang=en,
+ testphase=latest,
+ pdfversion=2.0,pdfstandard=ua-2,pdfstandard=a-4f}
 
 %\tagpdfsetup{math/mathml/write-dummy}
 
