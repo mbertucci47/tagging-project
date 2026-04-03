@@ -481,7 +481,7 @@
   type: package
   status: compatible
   included-in: [tlc3, arxiv5, ol1]
-  priority: 2
+  priority: 4
   issues:
   tests: false
   updated: 2024-08-06
@@ -491,7 +491,7 @@
   type: package
   status: compatible
   included-in: [tlc3, arxiv1, ol10]
-  priority: 2
+  priority: 4
   issues:
   tests: true
   updated: 2024-08-06
@@ -1136,8 +1136,7 @@
   status: compatible
   included-in: [tlc3, arxiv01]
   priority: 8
-  comments: "This is an obsolete package. The hooks it defines are available
-             directly from the LaTeX kernel when using the `\\AddToHook` interface."
+  comments: "This is an obsolete package. The hooks it defines are available directly from the LaTeX kernel when using the `\\AddToHook` interface."
   issues:
   tests: false
   updated: 2026-01-25
@@ -10147,7 +10146,7 @@
   type: package
   status: compatible
   included-in: [tlc3]
-  priority: 2
+  priority: 8
   issues:
   tests: false
   comments: Not distributed with texlive.
@@ -10281,7 +10280,7 @@
   type: package
   status: compatible
   included-in: [tlc3]
-  priority: 2
+  priority: 8
   issues:
   tests: false
   comments: Not distributed with texlive.
@@ -10838,7 +10837,7 @@
   type: package
   status: unchecked
   included-in: [tlc3, ol0.02]
-  priority: 2
+  priority: 4
   subpackages: [ocgbase]
   issues:
   tests: false
@@ -11186,7 +11185,7 @@
   type: package
   status: unchecked
   included-in: [tlc3, ol0.02]
-  priority: 2
+  priority: 4
   issues:
   tests: false
   tasks: needs tests
@@ -11244,8 +11243,8 @@
 - name: paralist
   type: package
   status: currently-incompatible
-  included-in: [tlc3, arxiv1, ol1]
-  priority: 2
+  included-in: [arxiv1, ol1]
+  priority: 6
   issues: [273]
   tests: true
   updated: 2024-07-26
@@ -11254,7 +11253,7 @@
   type: package
   status: currently-incompatible
   included-in: [tlc3, arxiv001, ol0.02]
-  priority: 2
+  priority: 6
   issues: [471]
   tests: true
   updated: 2024-08-06
@@ -11263,7 +11262,7 @@
   type: package
   status: currently-incompatible
   included-in: [tlc3, arxiv001, ol0.02]
-  priority: 2
+  priority: 6
   issues: [281]
   tests: true
   updated: 2024-07-26
@@ -12841,7 +12840,7 @@
   type: package
   status: currently-incompatible
   included-in: [tlc3]
-  priority: 2
+  priority: 6
   issues: [689]
   tests: true
   updated: 2024-08-28
@@ -12880,7 +12879,7 @@
   type: package
   status: currently-incompatible
   included-in: [tlc3]
-  priority: 2
+  priority: 4
   issues: [461]
   tests: true
   updated: 2024-08-05
@@ -13475,7 +13474,7 @@
   type: package
   status: currently-incompatible
   included-in: [tlc3, arxiv001]
-  priority: 2
+  priority: 8
   comments: Obsolete package; tcolorbox recommended.
   issues:
   tests: true
@@ -13618,7 +13617,7 @@
   type: package
   status: partially-compatible
   included-in: [tlc3, arxiv01, ol0.1]
-  priority: 2
+  priority: 3
   comments: "Rules drawn around labels display as Path in tags and the label in the margin is either not tagged
              at all (pdflatex) or as artifact (lualatex). Unproblematic for a draft, but not UA compatible."
   issues:
@@ -13647,8 +13646,8 @@
 - name: sidecap
   type: package
   status: currently-incompatible
-  included-in: [tlc3, arxiv01, ol1]
-  priority: 2
+  included-in: [arxiv01, ol1]
+  priority: 6
   issues: [290]
   tests: true
   updated: 2024-07-26
@@ -13957,7 +13956,7 @@
   type: package
   status: currently-incompatible
   included-in: [tlc3, arxiv001, ol0.02]
-  priority: 2
+  priority: 4
   issues: [168]
   tests: true
   updated: 2024-07-17
@@ -14053,7 +14052,7 @@
   type: package
   status: currently-incompatible
   included-in: [tlc3, arxiv1, ol1]
-  priority: 2
+  priority: 3
   issues: [900]
   tests: true
   updated: 2025-06-10
@@ -14448,7 +14447,7 @@
   type: package
   status: no-support
   included-in: [tlc3, arxiv01, ol1]
-  priority: 2
+  priority: 8
   comments: "In theory a nice package but it is **broken** and **not maintained**.
              It is not compatible with current LaTeX, let alone with the tagging
              extensions. Do not use it for anything, unless it gets a new maintainer
@@ -14488,7 +14487,7 @@
   type: package
   status: currently-incompatible
   included-in: [tlc3, arxiv01, ol1]
-  priority: 2
+  priority: 4
   package-repository: "https://github.com/lvjr/tabularray"
   issues: [177]
   external-issues: ["https://github.com/lvjr/tabularray/issues/27"]
@@ -14529,7 +14528,7 @@
   type: package
   status: currently-incompatible
   included-in: [tlc3, arxiv001, ol0.1]
-  priority: 2
+  priority: 3
   issues: [370]
   tests: true
   updated: 2024-07-31
@@ -14842,10 +14841,11 @@
   type: package
   status: currently-incompatible
   included-in: [tlc3, arxiv01, ol0.1]
-  priority: 2
+  priority: 6
   issues:
   tests: true
-  updated: 2024-07-10
+  comments: Obsolete package; suggested replacement `amsthm`.
+  updated: 2026-04-30
 
 - name: theoremref
   type: package
@@ -14880,7 +14880,7 @@
   type: package
   status: currently-incompatible
   included-in: [tlc3]
-  priority: 2
+  priority: 4
   issues: [172]
   tests: true
   updated: 2024-07-17
@@ -15208,7 +15208,7 @@
   type: package
   status: currently-incompatible
   included-in: [tlc3, arxiv01, ol1]
-  priority: 2
+  priority: 4
   issues: [687]
   tests: true
   updated: 2024-08-28
@@ -15599,7 +15599,7 @@
   type: package
   status: partially-compatible
   included-in: [tlc3, arxiv5, ol0.1]
-  priority: 2
+  priority: 8
   comments: "Obsolete package; suggested replacement `newtxmath`.
              Incompatible with unicode-math. No luamml support."
   issues:
@@ -15731,7 +15731,7 @@
   type: package
   status: partially-compatible
   included-in: [tlc3]
-  priority: 2
+  priority: 3
   comments: "No luamml support."
   issues:
   tests: true
@@ -15781,7 +15781,7 @@
   type: package
   status: currently-incompatible
   included-in: [tlc3]
-  priority: 2
+  priority: 4
   issues: [175]
   luatex-only: true
   tests: true
@@ -15886,7 +15886,6 @@
   status: compatible
   included-in: [tlc3, arxiv10, ol10]
   priority: 2
-  comments: An old issue has been fixed.
   closed-issues: [5]
   tests: false
   updated: 2024-07-06
@@ -16152,7 +16151,7 @@
   type: package
   status: currently-incompatible
   included-in: [tlc3]
-  priority: 2
+  priority: 3
   issues: [176]
   tests: true
   updated: 2024-07-17
@@ -16439,7 +16438,7 @@
   priority: 9
   issues:
   tests: false
-  comments: "Obsolete. Functionality built in to the kernel."
+  comments: "Legacy package. Functionality built in to the kernel."
   updated: 2026-01-28
 
 - name: xfor
@@ -16557,9 +16556,9 @@
   priority: 2
   closed-issues: [170,1056]
   comments: "An xltabular with page breaks works with pdftex only if at least
-             latex-dev from February 2025 is used."
+             latex from June 2025 is used."
   tests: true
-  updated: 2025-03-02
+  updated: 2026-04-03
 
 - name: xmpmulti
   ctan-pkg: beamer
@@ -16579,6 +16578,7 @@
   priority: 2
   issues:
   tests: false
+  comments: "Legacy package. Functionality built in to the kernel."
   updated: 2024-07-15
 
 - name: xpatch
@@ -16738,7 +16738,7 @@
   type: package
   status: currently-incompatible
   included-in: [tlc3, arxiv1, ol1]
-  priority: 2
+  priority: 5
   comments: "In text mode, no tagging occurs for `\\xymatrix`.
              No luamml support. Requires luatex85 with luatex.
              unicode-math must be loaded after xy."
