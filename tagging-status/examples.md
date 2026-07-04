@@ -89,7 +89,40 @@ interface producing accessible PDF outputs.
 ```
 
 
+## mitthesis
+
+A contributed class, producing accessible PDF with LuaLaTeX.
+Included here to test mult-file tests.
 
 
+{%
+assign mitfiles = "lmodern.ltx,committee_members.ltx,abstract.ltx,acknowledgments.ltx,chapter1.ltx,appendixb.ltx,biography.ltx,mitthesis-01.bbl" | split: "," 
+%}
+
+{% for f in mitfiles %}
+{% assign ff = "testfiles-compatible-luatex/mitthesis/" | append: f %}
+
+<pre class="norun" style="height:8em" markdown="1">
+
+{% raw %}
+{% include_relative  {{ff}} %}
+{% endraw %}
+
+</pre>
+
+{% endfor %}
+
+
+<pre id="mitthesis">
+</pre>
+
+<script>
+fetch('testfiles-compatible-luatex/mitthesis/mitthesis-01.tex').then(function (response) {
+	return response.text();
+}).then(function (t) {
+document.getElementById("mitthesis").innerText=t;
+}).catch(function (err) {
+	console.warn('Something went wrong.', err);
+});
 
 
