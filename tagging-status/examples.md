@@ -21,8 +21,6 @@ function generatepreamble(t,e) {return e.getValue();}
 
 runlatex.editorlines=45;
 
-
-
 </script>
 
 # Tagging Examples
@@ -88,41 +86,63 @@ interface producing accessible PDF outputs.
 {% include_relative testfiles-incompatible/titlesec/titlesec-01-BAD.tex %}
 ```
 
+text here
 
 ## mitthesis
 
 A contributed class, producing accessible PDF with LuaLaTeX.
-Included here to test mult-file tests.
+Included here to test multi-file tests.
 
 
 {%
 assign mitfiles = "lmodern.ltx,committee_members.ltx,abstract.ltx,acknowledgments.ltx,chapter1.ltx,appendixb.ltx,biography.ltx,mitthesis-01.bbl" | split: "," 
 %}
 
+<script>
+runlatex.preincludes = { "pre10": {
+{% for f in mitfiles %}
+"pre{{forloop.index |plus: 1 }}": "{{f}}",
+{% endfor %}
+}}
+</script>
+
+
 {% for f in mitfiles %}
 {% assign ff = "testfiles-compatible-luatex/mitthesis/" | append: f %}
 
+<p><b>{{f}}</b></p>
 <pre class="norun" style="height:8em" markdown="1">
 
-{% raw %}
 {% include_relative  {{ff}} %}
-{% endraw %}
 
 </pre>
 
 {% endfor %}
 
+<p><b>mitthesis-01.tex</b></p>
 
-<pre id="mitthesis">
-</pre>
+```latex
+{% include_relative testfiles-compatible-luatex/mitthesis/mitthesis-01.tex %}
+```
+
+
+
+{% comment %}
+<div id="mitthesiswrap"><pre></pre></div>
 
 <script>
-fetch('testfiles-compatible-luatex/mitthesis/mitthesis-01.tex').then(function (response) {
+fetch('https://raw.githubusercontent.com/latex3/tagging-project/refs/heads/main/tagging-status/testfiles-compatible-luatex/mitthesis/mitthesis-01.tex').then(function (response) {
 	return response.text();
 }).then(function (t) {
-document.getElementById("mitthesis").innerText=t;
-}).catch(function (err) {
-	console.warn('Something went wrong.', err);
+const p = document.getElementById("mitthesiswrap").getElementsByTagName("pre")[0];
+if(p.id) {
+editors[p.id].setValue(t);
+} else {
+p.innerText=t;
+}
 });
+</script>
+
+{% endcomment %}
 
 
