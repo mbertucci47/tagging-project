@@ -3420,6 +3420,14 @@
   tests: false
   updated: 2026-02-12
 
+- name: cmgraded
+  type: package
+  status: compatible
+  priority: 9
+  luatex-only: true
+  tests: true
+  updated: 2026-08-05
+
 - name: cmll
   type: package
   status: partially-compatible
@@ -15912,7 +15920,7 @@
   included-in: [ol0.02]
   priority: 9
   tests: true
-  issues: "Issues with sibling counters unrelated to tagging."
+  comments: "Issues with sibling counters unrelated to tagging."
   updated: 2026-06-14
 
 - name: zref-counter
