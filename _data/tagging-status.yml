@@ -7668,6 +7668,7 @@
 
 - name: lastpage
   type: package
+  subpackages: [lastpage2e,lastpage209,lastpageclassic,lastpagemodern]
   status: compatible
   included-in: [tlc3, arxiv1, ol5]
   priority: 8
@@ -8423,6 +8424,7 @@
   subpackages: [luamml-patches-amsmath,luamml-patches-kernel,luamml-pdf]
   tests: false
   luatex-only: true
+  issues: [1528]
   comments: "Should not need to be loaded directly. Loaded with `tagging=on`
              when luatex is detected."
   updated: 2026-01-30
@@ -10849,7 +10851,7 @@
   status: compatible
   included-in: [tlc3, arxiv01, ol1]
   priority: 2
-  issues: [1356]
+  closed-issues: [1356]
   package-repository: "https://github.com/LaTeX-Package-Repositories/pdflscape"
   tests: true
   updated: 2024-08-04
@@ -13742,12 +13744,11 @@
   package-repository: "https://github.com/T-F-S/tcolorbox"
   comments: "Simple boxes are now tagged correctly.
              Not yet fully supported, but some suggestions in the listed issues"
-  issues: [88,1101,1103,1104,1105,1106,1107,1110,1114]
-  closed-issues: [1066]
+  issues: [88,1101,1103,1104,1105,1106,1107,1110]
+  closed-issues: [1066,1114]
   tests: true
-  tasks: needs further tests
   external-issues: ["https://github.com/T-F-S/tcolorbox/issues/283","https://github.com/T-F-S/tcolorbox/issues/358"]
-  updated: 2025-12-06
+  updated: 2026-08-16
 
 - name: telprint
   type: package
@@ -14484,14 +14485,14 @@
 
 - name: tocloft
   type: package
-  status: currently-incompatible
+  status: compatible
   included-in: [tlc3, arxiv01, ol1]
   priority: 2
-  comments: "Package attempts to redefine `\\@starttoc`and fails."
-  issues: [74]
+  closed-issues: [74]
   tests: true
   package-repository: "https://github.com/LaTeX-Package-Repositories/herries-press"
-  updated: 2024-07-12
+  external-issues: ["https://github.com/LaTeX-Package-Repositories/herries-press/issues/63"]
+  updated: 2026-08-14
 
 - name: tocstyle
   type: package
@@ -14691,6 +14692,7 @@
 
 - name: turnthepage
   type: package
+  subpackages: [turnpagewoetex,turnpageetex]
   status: compatible
   included-in: [tlc3]
   priority: 2
@@ -15799,7 +15801,8 @@
   comments: "In text mode, no tagging occurs for `\\xymatrix`.
              No luamml support. Requires luatex85 with luatex.
              unicode-math must be loaded after xy."
-  issues: [899,1275]
+  issues: [899]
+  closed-issues: [1275]
   tests: true
   updated: 2025-06-09
 
