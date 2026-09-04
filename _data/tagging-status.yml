@@ -936,6 +936,13 @@
   tests: false
   updated: 2026-09-02
 
+- name: arraysort
+  type: package
+  status: compatible
+  priority: 9
+  tests: false
+  updated: 2026-09-02
+
 - name: arsclassica
   type: package
   status: unchecked
@@ -5528,6 +5535,14 @@
   tests: true
   updated: 2024-10-18
 
+- name: fantasquesansmono-otf
+  type: package
+  status: compatible
+  priority: 9
+  tests: false
+  package-repository: "https://github.com/cpierquet/latex-packages/tree/main/fantasquesansmono-otf"
+  updated: 2026-09-04
+
 - name: fapapersize
   ctan-pkg: kotex-oblivoir
   type: package
@@ -6323,6 +6338,14 @@
   tasks: needs tests
   comments: Obsolete
   updated: 2026-01-26
+
+- name: frimurer
+  type: package
+  status: partially-compatible
+  priority: 9
+  comments: "Tagged as the input, not cipher, text. See also pigpen."
+  tests: true
+  updated: 2026-09-04
 
 - name: frontespizio
   type: package
@@ -15028,6 +15051,13 @@
   priority: 9
   tests: false
   updated: 2026-01-28
+
+- name: subtext
+  type: package
+  status: compatible
+  priority: 9
+  tests: false
+  updated: 2026-09-04
 
 - name: superiors
   type: package
