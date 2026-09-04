@@ -10826,6 +10826,13 @@
   package-repository: "https://gitlab.com/agrahn/ocgx2"
   updated: 2026-04-15
 
+- name: ocr
+  type: package
+  status: compatible
+  priority: 9
+  tests: false
+  updated: 2026-09-04
+
 - name: odsfile
   type: package
   status: compatible
