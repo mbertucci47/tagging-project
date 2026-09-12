@@ -8556,6 +8556,14 @@
   tests: true
   updated: 2026-07-04
 
+- name: lora
+  type: package
+  status: compatible
+  priority: 9
+  tests: false
+  package-repository: "https://github.com/DmNosachev/lora"
+  updated: 2026-09-10
+
 - name: lparse
   type: package
   status: compatible
@@ -10271,6 +10279,20 @@
   issues: [540]
   tests: true
   updated: 2024-08-10
+
+- name: nccparskip
+  type: package
+  status: compatible
+  priority: 9
+  tests: false
+  updated: 2026-09-12
+
+- name: nccstretch
+  type: package
+  status: compatible
+  priority: 9
+  tests: false
+  updated: 2026-09-12
 
 - name: needspace
   type: package
