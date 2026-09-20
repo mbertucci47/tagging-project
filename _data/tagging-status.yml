@@ -3303,8 +3303,8 @@
   included-in: [arxiv001, ol0.1]
   priority: 7
   tests: true
-  comments: "Figures are tagged as a sequence of many formulas."
-  updated: 2024-08-07
+  comments: "Figures are tagged as a sequence of many formulas. Errors with lua-unicode-math."
+  updated: 2026-09-19
 
 - name: chemformula
   type: package
@@ -3597,9 +3597,9 @@
   status: partially-compatible
   included-in: [arxiv001]
   priority: 7
-  comments: "No luamml support."
+  comments: "No luamml support. Must be loaded before lua-unicode-math."
   tests: true
-  updated: 2025-05-29
+  updated: 2026-08-13
 
 - name: cmsd
   type: package
@@ -4266,6 +4266,13 @@
   comments: "No way to add Alt text to diagram; see pictex."
   updated: 2026-09-02
 
+- name: decimalcomma
+  type: package
+  status: compatible
+  priority: 9
+  tests: false
+  updated: 2026-09-19
+
 - name: decorule
   type: package
   status: currently-incompatible
@@ -4319,6 +4326,13 @@
   comments: "luamml support of `\\odif` etc. is not ideal."
   tests: true
   updated: 2025-05-29
+
+- name: desclist
+  type: package
+  status: compatible
+  priority: 9
+  tests: false
+  updated: 2026-09-19
 
 - name: diagbox
   type: package
@@ -7337,6 +7351,13 @@
   tests: false
   updated: 2024-07-21
 
+- name: ibrackets
+  type: package
+  status: compatible
+  priority: 9
+  tests: false
+  updated: 2026-09-19
+
 - name: icomma
   type: package
   status: compatible
@@ -7933,9 +7954,11 @@
   priority: 9
   tests: true
   comments: "tcolorbox theorems disabled when tagging is loaded.
-             `headformat` key not fully implemented with tagging."
+             `headformat` key not fully implemented with tagging.
+             `auto-qed` not fully compatible with tagging."
   package-repository: "https://github.com/mbertucci47/keytheorems"
-  updated: 2026-06-03
+  external-issues: ["https://github.com/mbertucci47/keytheorems/issues/68"]
+  updated: 2026-09-19
 
 - name: keyval
   type: package
@@ -8398,6 +8421,16 @@
   tests: false
   updated: 2026-04-08
 
+- name: lilyglyphs
+  type: package
+  status: partially-compatible
+  priority: 9
+  tests: true
+  comments: "Symbols missing Alt text or Unicode mappings."
+  luatex-only: true
+  package-repository: "https://github.com/uliska/lilyglyphs"
+  updated: 2026-09-18
+
 - name: linearb
   type: package
   status: partially-compatible
@@ -8781,7 +8814,7 @@
   package-repository: "https://github.com/zauguin/lua-unicode-math"
   luatex-only: true
   tests: false
-  updated: 2026-01-30
+  updated: 2026-08-13
 
 - name: lua-widow-control
   type: package
@@ -9751,6 +9784,14 @@
   package-repository: "https://github.com/tweh/metrix"
   updated: 2026-08-22
 
+- name: metsymb
+  type: package
+  status: partially-compatible
+  priority: 9
+  tests: true
+  comments: "Symbols missing ToUnicode or Alt text."
+  updated: 2026-09-19
+
 - name: mfb-oldstyle
   type: package
   status: compatible
@@ -10319,6 +10360,13 @@
   tasks: needs tests
   updated: 2024-07-18
 
+- name: ncccomma
+  type: package
+  status: compatible
+  priority: 9
+  tests: false
+  updated: 2026-09-19
+
 - name: ncccropbox
   type: package
   status: currently-incompatible
@@ -10821,6 +10869,13 @@
   tests: true
   updated: 2026-06-02
 
+- name: numname
+  type: package
+  status: compatible
+  priority: 9
+  tests: false
+  updated: 2026-09-19
+
 - name: numprint
   type: package
   status: partially-compatible
@@ -11000,6 +11055,13 @@
   priority: 2
   tests: true
   updated: 2024-08-02
+
+- name: optparams
+  type: package
+  status: compatible
+  priority: 9
+  tests: false
+  updated: 2026-09-19
 
 - name: orcidlink
   type: package
@@ -12193,6 +12255,13 @@
   tests: true
   package-repository: "https://github.com/LaTeX-Package-Repositories/herries-press"
   updated: 2024-08-28
+
+- name: processkv
+  type: package
+  status: compatible
+  priority: 9
+  tests: false
+  updated: 2026-09-19
 
 - name: program
   type: package
@@ -14175,6 +14244,15 @@
   tasks: needs tests
   updated: 2026-01-23
 
+- name: scripture
+  type: package
+  status: currently-incompatible
+  priority: 9
+  package-repository: "https://github.com/dcpurton/scripture"
+  tests: true
+  issues: [1601]
+  updated: 2026-09-19
+
 - name: scrlfile
   type: package
   status: compatible
@@ -14324,6 +14402,13 @@
   comments: "Endnotes are not tagged as `<Note>`s."
   tests: true
   updated: 2024-07-26
+
+- name: sepnum
+  type: package
+  status: compatible
+  priority: 9
+  tests: false
+  updated: 2026-09-19
 
 - name: seqsplit
   type: package
@@ -15513,6 +15598,13 @@
   tests: false
   comments: "Simple files with `\\DocumentMetadata` error when run with `tex4ht`."
   updated: 2025-11-24
+
+- name: texdate
+  type: package
+  status: compatible
+  priority: 9
+  tests: false
+  updated: 2026-09-19
 
 - name: texdimens
   type: package
@@ -17599,6 +17691,13 @@
   tests: true
   updated: 2024-08-02
 
+- name: tokstools
+  type: package
+  status: compatible
+  priority: 9
+  tests: false
+  updated: 2026-09-19
+
 - name: topcapt
   type: package
   status: compatible
@@ -17760,6 +17859,14 @@
   comments: "Environments defined with `\\trivfloat` not tagged as floats. See float package."
   package-repository: "https://github.com/josephwright/trivfloat"
   updated: 2024-08-07
+
+- name: trsym
+  type: package
+  status: partially-compatible
+  priority: 9
+  tests: true
+  comments: "No luamml support."
+  updated: 2026-09-19
 
 - name: truncate
   type: package
@@ -18135,6 +18242,14 @@
   priority: 9
   tests: true
   updated: 2024-08-20
+
+- name: ushort
+  type: package
+  status: partially-compatible
+  priority: 9
+  tests: true
+  comments: No luamml support.
+  updated: 2026-09-19
 
 - name: utf8
   ctan-pkg: arabtex
@@ -19046,6 +19161,13 @@
 
 #------------------------ ZZZ ----------------------------
 
+- name: zahl2string
+  type: package
+  status: compatible
+  priority: 9
+  tests: false
+  updated: 2026-09-19
+
 - name: zeckendorf
   type: package
   status: compatible
@@ -19094,6 +19216,13 @@
   priority: 9
   tests: false
   updated: 2026-01-28
+
+- name: ziffer
+  type: package
+  status: compatible
+  priority: 9
+  tests: false
+  updated: 2026-09-19
 
 - name: zitie
   type: package
@@ -19280,12 +19409,12 @@
 - name: zref-titleref
   ctan-pkg: zref
   type: package
-  status: currently-incompatible
+  status: partially-compatible
   package-repository: "https://github.com/LaTeX-Package-Repositories/zref"
   priority: 9
   tests: true
   issues: [1408]
-  updated: 2026-06-12
+  updated: 2026-09-19
 
 - name: zref-totpages
   ctan-pkg: zref
@@ -19418,7 +19547,7 @@
   status: partially-compatible
   included-in: [tlc3, arxiv001]
   priority: 2
-  issues: [443,737,1477]
+  issues: [443,737,1477,1600]
   closed-issues: [970]
   comments: "Currently `\\maketitle` and `\\@starttoc` will need adjustment."
   tests: true
