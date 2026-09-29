@@ -1,4 +1,4 @@
-\ifdefined\Uchar\RequirePackage{luatagging}\AtBeginDocument{\IfPackageLoadedF{hyperref}{\usepackage{hyperref}}}\fi
+\ifdefined\Uchar\RequirePackage{luatagging}\AddToHook{begindocument/before}{\IfPackageLoadedF{hyperref}{\usepackage{hyperref}}}\fi
 \DocumentMetadata{%
 	pdfstandard=A-3b,
 	pdfversion=2.0,

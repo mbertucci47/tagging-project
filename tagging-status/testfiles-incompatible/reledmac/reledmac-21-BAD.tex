@@ -1,6 +1,6 @@
 % adapted from 2-titles_in_line_numbering_with_notes.tex
 % errors
-\ifdefined\Uchar\RequirePackage{luatagging}\AtBeginDocument{\IfPackageLoadedF{hyperref}{\usepackage{hyperref}}}\fi
+\ifdefined\Uchar\RequirePackage{luatagging}\AddToHook{begindocument/before}{\IfPackageLoadedF{hyperref}{\usepackage{hyperref}}}\fi
 \DocumentMetadata
   {
     lang=en-US,

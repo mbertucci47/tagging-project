@@ -1,5 +1,5 @@
 % !TeX program = txs:///lualatex | txs:///view-pdf
-\ifdefined\Uchar\RequirePackage{luatagging}\AtBeginDocument{\IfPackageLoadedF{hyperref}{\usepackage{hyperref}}}\fi
+\ifdefined\Uchar\RequirePackage{luatagging}\AddToHook{begindocument/before}{\IfPackageLoadedF{hyperref}{\usepackage{hyperref}}}\fi
 \DocumentMetadata
   {
     lang=en-US,

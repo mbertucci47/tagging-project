@@ -1,7 +1,7 @@
 % !TeX program = txs:///lualatex | txs:///view-pdf
 % adapted from 4-reledpar_columns_alignment.tex
 % does not error
-\ifdefined\Uchar\RequirePackage{luatagging}\AtBeginDocument{\IfPackageLoadedF{hyperref}{\usepackage{hyperref}}}\fi
+\ifdefined\Uchar\RequirePackage{luatagging}\AddToHook{begindocument/before}{\IfPackageLoadedF{hyperref}{\usepackage{hyperref}}}\fi
 \DocumentMetadata
   {
     lang=en-US,

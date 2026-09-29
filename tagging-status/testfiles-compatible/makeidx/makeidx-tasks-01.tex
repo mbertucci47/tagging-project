@@ -1,5 +1,5 @@
 %tasks: makeindex %
-\ifdefined\Uchar\RequirePackage{luatagging}\AtBeginDocument{\IfPackageLoadedF{hyperref}{\usepackage{hyperref}}}\fi
+\ifdefined\Uchar\RequirePackage{luatagging}\AddToHook{begindocument/before}{\IfPackageLoadedF{hyperref}{\usepackage{hyperref}}}\fi
 \DocumentMetadata
   {
     lang=en-US,

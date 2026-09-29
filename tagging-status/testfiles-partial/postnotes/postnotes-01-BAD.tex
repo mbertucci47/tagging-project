@@ -1,7 +1,7 @@
 \ExplSyntaxOn
 \sys_gset_rand_seed:n{1000}
 \ExplSyntaxOff
-\ifdefined\Uchar\RequirePackage{luatagging}\AtBeginDocument{\IfPackageLoadedF{hyperref}{\usepackage{hyperref}}}\fi
+\ifdefined\Uchar\RequirePackage{luatagging}\AddToHook{begindocument/before}{\IfPackageLoadedF{hyperref}{\usepackage{hyperref}}}\fi
 \DocumentMetadata{
   tagging=on,
   pdfversion=2.0,
