@@ -23,6 +23,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 
 
+\RequirePackage{luatagging}
 \DocumentMetadata{%
 	tagging=on,
 	pdfstandard=a-4f,
@@ -104,7 +105,8 @@
 %%			* Legacy options for PDF/A compliance under pdftex: [pdf-a] will produce PDF/A-3u compliance with sRGB OutputIntent.
 %%			*	 [pdfapart= 1 or 2 or 3] and [pdfaconformance= b or u] can enable levels 1b, 2b, 2u, and 3b.
 %%			*
-%%			*    Since 2022, LaTeX has included integrated support for pdf-a, through the \DocumentMetadata{..}
+%%			*    Since 2022, LaTeX has included integrated support for pdf-a, through the \RequirePackage{luatagging}
+\DocumentMetadata{..}
 %%			*    command.  This preferred approach works with both pdfTeX and luaLaTeX. The asmeconf class supports this feature, 
 %%			*	 which obviates the aforementioned class options. (An up-to-date LaTeX installation is required.)
 %%
@@ -516,7 +518,8 @@ The option \texttt{[somegovt]} gives a copyright notice for the case when only s
 
 The footers are generated with the \texttt{fancyhdr} package~\cite{oostrum} and can be changed using the commands of that package. Only the default arrangement matches ASME's style, however.
 
-\subsection{Archivability:~PDF/A} In June 2022, the \LaTeX 3 team added support for PDF/A to the \LaTeX\ kernel, using the command \verb|\DocumentMetadata{..}|. This approach works with \textit{both} \hologo{pdfLaTeX} and \hologo{LuaLaTeX}. Note that accessible  conformance~(\texttt{a}) is still under development by the  \LaTeX3 team.
+\subsection{Archivability:~PDF/A} In June 2022, the \LaTeX 3 team added support for PDF/A to the \LaTeX\ kernel, using the command \verb|\RequirePackage{luatagging}
+\DocumentMetadata{..}|. This approach works with \textit{both} \hologo{pdfLaTeX} and \hologo{LuaLaTeX}. Note that accessible  conformance~(\texttt{a}) is still under development by the  \LaTeX3 team.
 
 For out-of-date \LaTeX\ formats, compliance with PDF/A standards can be enabled using the legacy option \texttt{[pdf-a]} when running with \hologo{pdfLaTeX}. The default setting is PDF/A-3u with sRGB OutputIntent (\texttt{sRGB.icc}). If levels 1b, 2b, 2u, or 3b are desired, use the
 options \texttt{[pdfapart=1 or 2 or 3]} and  \texttt{[pdfaconformance=b or u]}. Accessible  conformance~(\texttt{a}) is not possible with this method. 

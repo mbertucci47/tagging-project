@@ -55,7 +55,8 @@
 %%          *    unless a different main language is selected, e.g. [main=spanish]. See Appendix B for details.
 %%
 %%			* PDF/A accessibility and archivability. Since 2022, LaTeX has included integrated support for 
-%%			*	PDF/A, through the \DocumentMetadata{..} command.  This works with both pdfTeX and luaLaTeX.  
+%%			*	PDF/A, through the \RequirePackage{luatagging}
+\DocumentMetadata{..} command.  This works with both pdfTeX and luaLaTeX.  
 %%			*	The legacy PDF/A class options have been dropped as of mid-2025. As of the November 2025 release 
 %%			*   of LaTeX, asmejour class can produce fully tagged, accessible PDF/A-UA2.  See Appendix D for details.
 %%
@@ -81,6 +82,7 @@
 %% 		see https://www.latex-project.org/news/latex2e-news/ltnews35.pdf
 %% If you have problems with these lines, your LaTeX format may be out of date.
 
+\RequirePackage{luatagging}
 \DocumentMetadata{%
 	lang=en-US,
 %	pdfstandard	= A-3u,% A-2b, A-2u, A-3b, or A-3u
@@ -500,7 +502,8 @@ The footers are generated with the \texttt{fancyhdr} package~\cite{oostrum}.
 \subsection{Federal Copyright Notices} Several types of copyright statement can be placed in an unnumbered footnote on the first page. Use the option \texttt{[govt]} when all authors are federal employees, \texttt{[govtsome]} when some authors are federal employees, and \texttt{[contractor]} when the authors are federal contractors.
 
 
-\subsection{Accessibility and Archivability} PDF/A standards for accessibility and archivability are supported through the command \verb|\DocumentMetadata{..}| at the beginning of the document.  The settings for accessibility (e.g., \texttt{UA-2} or ``well-tagged PDF'') are described in Appendix~\ref{app:wtpdf}.
+\subsection{Accessibility and Archivability} PDF/A standards for accessibility and archivability are supported through the command \verb|\RequirePackage{luatagging}
+\DocumentMetadata{..}| at the beginning of the document.  The settings for accessibility (e.g., \texttt{UA-2} or ``well-tagged PDF'') are described in Appendix~\ref{app:wtpdf}.
 
 As of \texttt{asmejour} v1.25, the legacy PDF/A options \texttt{[pdf-a]}, \texttt{[pdfapart=]}, and \texttt{[pdfaconformance=]} have been dropped.
 
@@ -668,7 +671,8 @@ zwischen dem Wärmeaustanch und dem Reibungswiderstand schließen, die eine str�
 As of the November 2025 release of \LaTeX, the \texttt{asmejour} class can produce accessible PDF files that validate under 
 the PDF/A UA-2 and A-4F standards and which meet the WTPDF 1.0 accessibility and reuse standards. For this, run \LuaLaTeX{} and choose the following settings: 
  \begin{quote}
-	\verb|\DocumentMetadata{ | \newline
+	\verb|\RequirePackage{luatagging}
+\DocumentMetadata{ | \newline
 	\verb| pdfversion = 2.0, % default setting | \newline
 	\verb| pdfstandard = { ua-2 , a-4f },| \newline
 	\verb| tagging = on }|
