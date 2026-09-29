@@ -1,7 +1,7 @@
 %tasks: bibtex %1
 %tasks: bibtex %2
 %tasks: bibtex %3
-\ifdefined\Uchar\RequirePackage{luatagging}\fi
+\ifdefined\Uchar\RequirePackage{luatagging}\AtBeginDocument{\IfPackageLoadedF{hyperref}{\usepackage{hyperref}}\fi
 \DocumentMetadata
   {
     lang=en-US,

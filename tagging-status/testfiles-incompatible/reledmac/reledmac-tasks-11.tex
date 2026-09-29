@@ -2,7 +2,7 @@
 %tasks: makeindex name
 % adapted from 2-indexing.tex
 % does not error
-\ifdefined\Uchar\RequirePackage{luatagging}\fi
+\ifdefined\Uchar\RequirePackage{luatagging}\AtBeginDocument{\IfPackageLoadedF{hyperref}{\usepackage{hyperref}}\fi
 \DocumentMetadata
   {
     lang=en-US,

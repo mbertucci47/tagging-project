@@ -2,7 +2,7 @@
 \edef\pdffilemoddate#1{\detokenize{D:20251103120135Z}}% stable version of pdftex primitive
 
 
-\ifdefined\Uchar\RequirePackage{luatagging}\fi
+\ifdefined\Uchar\RequirePackage{luatagging}\AtBeginDocument{\IfPackageLoadedF{hyperref}{\usepackage{hyperref}}\fi
 \DocumentMetadata
   {
     lang=en-US,

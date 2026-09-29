@@ -1,7 +1,7 @@
 %tasks: bibtex %-timeline
 %tasks: bibtex %-sequence
 %tasks: bibtex %-authors
-\ifdefined\Uchar\RequirePackage{luatagging}\fi
+\ifdefined\Uchar\RequirePackage{luatagging}\AtBeginDocument{\IfPackageLoadedF{hyperref}{\usepackage{hyperref}}\fi
 \DocumentMetadata
   {
     lang=en-US,

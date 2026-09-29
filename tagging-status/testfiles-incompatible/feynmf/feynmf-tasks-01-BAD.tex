@@ -1,6 +1,6 @@
 %tasks: mf tt1
 %tasks: mf tt2
-\ifdefined\Uchar\RequirePackage{luatagging}\fi
+\ifdefined\Uchar\RequirePackage{luatagging}\AtBeginDocument{\IfPackageLoadedF{hyperref}{\usepackage{hyperref}}\fi
 \DocumentMetadata
   {
     lang=en-US,

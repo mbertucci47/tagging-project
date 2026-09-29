@@ -24,7 +24,7 @@
 % Date: 11 February 2025
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
-\ifdefined\Uchar\RequirePackage{luatagging}\fi
+\ifdefined\Uchar\RequirePackage{luatagging}\AtBeginDocument{\IfPackageLoadedF{hyperref}{\usepackage{hyperref}}\fi
 \DocumentMetadata 
 {
 	tagging=on,
@@ -187,7 +187,7 @@
 	pdfkeywords={Massachusetts Institute of Technology, MIT},
 	% Add keywords that will help search engines and libraries to find your work.
 	% Includes the name[s] of the author[s] 
-	% (If you used \ifdefined\Uchar\RequirePackage{luatagging}\fi
+	% (If you used \ifdefined\Uchar\RequirePackage{luatagging}\AtBeginDocument{\IfPackageLoadedF{hyperref}{\usepackage{hyperref}}\fi
 \DocumentMetadata at line 14, you can just put "\CopyrightAuthor," for the names.)
 %
 	pdfurl={},

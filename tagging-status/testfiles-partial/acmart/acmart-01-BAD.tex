@@ -1,5 +1,5 @@
 % adapted from acmsmall-tagged.tex
-\ifdefined\Uchar\RequirePackage{luatagging}\fi
+\ifdefined\Uchar\RequirePackage{luatagging}\AtBeginDocument{\IfPackageLoadedF{hyperref}{\usepackage{hyperref}}\fi
 \DocumentMetadata{
  pdfversion=2.0,pdfstandard=ua-2,
  tagging=on,
