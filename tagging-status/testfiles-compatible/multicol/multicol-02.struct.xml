@@ -1,32 +1,26 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
-     id="ID.002"
     >
    <section xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.006"
       rolemaps-to="Sect"
      >
     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.007"
        title="Some section"
        rolemaps-to="H1"
       >
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.008"
         rolemaps-to="Lbl"
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?>  
+     <?MarkedContent page="1" ?> 
      <?MarkedContent page="1" ?>Some section
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.009"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.010"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -43,11 +37,9 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.011"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.012"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -65,43 +57,40 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.013"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.014"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
       <?MarkedContent page="1" ?>some text
       <footnotemark xmlns="https://www.latex-project.org/ns/dflt"
-         id="ID.015"
          rolemaps-to="Lbl"
          referenced-as="2"
         >
         <?References objects="1" ?>
-       <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
-          id="ID.016"
-          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-          Layout:TextPosition="Sup"
-          rolemaps-to="Span"
+       <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>1
-       </text-fragment>
+        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
+           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+           Layout:TextPosition="Sup"
+           rolemaps-to="Span"
+          >
+         <?MarkedContent page="1" ?>1
+        </text-fragment>
+        <?ReferencedObject type="Annot" page="1" ?>
+       </Link>
       </footnotemark>
       <footnote xmlns="https://www.latex-project.org/ns/dflt"
-         id="ID.017"
          rolemaps-to="FENote"
          referenced-as="1"
         >
         <?References objects="2" ?>
        <footnotelabel xmlns="https://www.latex-project.org/ns/dflt"
-          id="ID.020"
           rolemaps-to="Lbl"
          >
         <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
-           id="ID.021"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:TextPosition="Sup"
            rolemaps-to="Span"
@@ -110,11 +99,9 @@
         </text-fragment>
        </footnotelabel>
        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-          id="ID.018"
           rolemaps-to="Part"
          >
         <text-block xmlns="https://www.latex-project.org/ns/dflt"
-           id="ID.019"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:TextAlign="Justify"
            rolemaps-to="P"
