@@ -1,10 +1,8 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
-     id="ID.002"
     >
    <Figure xmlns="http://iso.org/pdf2/ssn"
-      id="ID.006"
       alt="alt text"
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 148.71233, 548.14352, 308.71195, 668.14322 }"
@@ -12,28 +10,23 @@
     <?MarkedContent page="1" ?>
    </Figure>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.007"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.008"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <Figure xmlns="http://iso.org/pdf2/ssn"
-        id="ID.009"
         alt="picture environment"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 148.71233, 548.14352, 307.45164, 667.19801 }"
        >
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>01020304050010203040500 10 20 30 40  0 10 20 30 40LATEX
      </Figure>
     </text-block>
    </semantic-para>
    <Figure xmlns="http://iso.org/pdf2/ssn"
-      id="ID.010"
       alt="alt text"
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 148.71233, 398.80174, 308.71195, 518.80144 }"
@@ -41,58 +34,49 @@
     <?MarkedContent page="1" ?>
    </Figure>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.011"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.012"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <Figure xmlns="http://iso.org/pdf2/ssn"
-        id="ID.013"
         alt="picture environment"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 148.71233, 398.80174, 308.71109, 518.80081 }"
        >
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>010203040506070809010001020304050607080901000 10 20 30 40 50 60 70  0 10 20 30 40 50 60 70LATEX
      </Figure>
     </text-block>
    </semantic-para>
    <Formula xmlns="http://iso.org/pdf2/ssn"
-      id="ID.014"
       title="math"
-      af="mathml-1.xml tag-AFfile1.tex"
+      af="mathml-1.xml source.tex"
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:Placement="Inline"
      >
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="true" scriptlevel="0"> <munderover> <mo lspace="0" movablelimits="true" rspace="0.167em">∑</mo> <mrow> <mi>𝑖</mi> <mo lspace="0" rspace="0">=</mo> <mn>1</mn> </mrow> <mi>𝑛</mi> </munderover> <msub> <mi>𝑥</mi> <mi>𝑖</mi> </msub> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝐴</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝐵</mi> </mstyle> </math>
      </AssociatedFile>
-     <AssociatedFile name="tag-AFfile1.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
      $\displaystyle \sum _{i=1}^n x_i = A + B$
      </AssociatedFile>
     <?MarkedContent page="1" ?>𝑛∑𝑖=1𝑥𝑖=𝐴+𝐵
    </Formula>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.015"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.016"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <Figure xmlns="http://iso.org/pdf2/ssn"
-        id="ID.017"
         alt="picture environment"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 148.71233, 344.42955, 214.57936, 369.45903 }"
        >
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>01020304050010203040500 10  0 10some explanation
      </Figure>
     </text-block>

@@ -1,14 +1,11 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
-     id="ID.002"
     >
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.006"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.007"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -17,11 +14,9 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.008"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.009"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -33,11 +28,9 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.010"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.011"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -46,89 +39,72 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.012"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.013"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>О краеугольных [принципах] То
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>ры, имеется ввиду, которые [есть] ос
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>новы и столпы на которых дом Б-жий 
      <?MarkedContent page="1" ?>опирается/нахон, и с существованием 
      <?MarkedContent page="1" ?>их может быть представлено существо
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>вание Торы упорядоченной от Него, 
      <?MarkedContent page="1" ?>благословенного, и если бы было пред
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>ставлено отсутствие одного из них — 
      <?MarkedContent page="1" ?>упадет Тора в общем, [Б-же] упаси.
     </text-block>
    </semantic-para>
   </Document>
   <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
-     id="ID.014"
      rolemaps-to="Div"
     >
    <chapter xmlns="https://www.latex-project.org/ns/book"
-      id="ID.015"
-      rolemaps-to="Sect"
+      rolemaps-to="H1"
      >
-    <chapter-heading xmlns="https://www.latex-project.org/ns/book"
-       id="ID.016"
+    <chapter-heading xmlns="data:something-custom"
        title="Трактат Второй"
-       rolemaps-to="H1"
+       rolemaps-to="NonStruct"
       >
-     <?MarkedContent page="1" ?>Глава  
+     <?MarkedContent page="1" ?>Глава
+     <?MarkedContent page="1" ?> 
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.017"
         rolemaps-to="Lbl"
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?>Трактат 
-     <?MarkedContent page="1" ?>Второй
+     <?MarkedContent page="1" ?>Трактат Второй
     </chapter-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.018"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.019"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>
      </text-block>
     </semantic-para>
    </chapter>
    <text-block xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.020"
       rolemaps-to="P"
      >
    </text-block>
    <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.021"
       rolemaps-to="Div"
      >
     <chapter xmlns="https://www.latex-project.org/ns/book"
-       id="ID.022"
-       rolemaps-to="Sect"
+       rolemaps-to="H1"
       >
-     <chapter-heading xmlns="https://www.latex-project.org/ns/book"
-        id="ID.023"
+     <chapter-heading xmlns="data:something-custom"
         title="המאמר השני"
-        rolemaps-to="H1"
+        rolemaps-to="NonStruct"
        >
-      <?MarkedContent page="1" ?>פרק  
+      <?MarkedContent page="1" ?>פרק
+      <?MarkedContent page="1" ?> 
       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
-         id="ID.024"
          rolemaps-to="Lbl"
         >
        <?MarkedContent page="1" ?>1
@@ -136,21 +112,17 @@
       <?MarkedContent page="1" ?>המאמר השני
      </chapter-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.025"
         rolemaps-to="Part"
        >
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
-         id="ID.026"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:TextAlign="Justify"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?>
       </text-block>
      </semantic-para>
     </chapter>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.027"
        rolemaps-to="P"
       >
     </text-block>

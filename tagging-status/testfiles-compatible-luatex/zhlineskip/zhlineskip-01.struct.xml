@@ -1,62 +1,53 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
-     id="ID.002"
     >
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.006"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.007"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>人人生而自由，在尊严和权利上一律平等。他们赋有理性和良
-     <?MarkedContent page="1" ?>心，并应以兄弟关系的精神相对待。
+     <?MarkedContent page="1" ?>人人生而自由，在尊严和权利上一律平等。他们赋有理性和良心，并应以兄弟关系的精神相对待。
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.008"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.009"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>All human beings are born free and equal in dignity and rights. They 
-     <?MarkedContent page="1" ?>are endowed with reason and conscience and should act towards one another 
-     <?MarkedContent page="1" ?>in a spirit of brotherhood.
+     <?MarkedContent page="1" ?>All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
      <footnotemark xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.010"
         rolemaps-to="Lbl"
         referenced-as="2"
        >
        <?References objects="1" ?>
-      <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
-         id="ID.011"
-         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-         Layout:TextPosition="Sup"
-         rolemaps-to="Span"
+      <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>1
-      </text-fragment>
+       <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:TextPosition="Sup"
+          rolemaps-to="Span"
+         >
+        <?MarkedContent page="1" ?>1
+       </text-fragment>
+       <?ReferencedObject type="Annot" page="1" ?>
+      </Link>
      </footnotemark>
      <footnote xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.012"
         rolemaps-to="FENote"
         referenced-as="1"
        >
        <?References objects="2" ?>
       <footnotelabel xmlns="https://www.latex-project.org/ns/dflt"
-         id="ID.015"
          rolemaps-to="Lbl"
         >
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
-          id="ID.016"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextPosition="Sup"
           rolemaps-to="Span"
@@ -65,11 +56,9 @@
        </text-fragment>
       </footnotelabel>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-         id="ID.013"
          rolemaps-to="Part"
         >
        <text-block xmlns="https://www.latex-project.org/ns/dflt"
-          id="ID.014"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextAlign="Justify"
           rolemaps-to="P"
@@ -81,11 +70,9 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.017"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.018"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -93,37 +80,33 @@
      <?MarkedContent page="1" ?>人人有资格享有本宣言所载的一切权利和自由，
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
-       id="ID.019"
        title="equation"
-       af="mathml-1.xml tag-AFfile1.tex"
+       af="mathml-1.xml source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
       <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
-      <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (1) </mtext> </mtd> <mtd intent=":pause-medium"> <mrow/> <mi>𝐴</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝐵</mi> </mtd> </mtr> </mtable> </math>
+      <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (1) </mtext> </mtd> <mtd intent=":pause-medium"> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="true" scriptlevel="0"> <mtext/> </mstyle> </math> </mtext> <mrow/> <mi>𝐴</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝐵</mi> </mtd> </mtr> </mtable> </math>
       </AssociatedFile>
-      <AssociatedFile name="tag-AFfile1.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
       \begin {equation}A=B\end {equation}
       </AssociatedFile>
      <?MarkedContent page="1" ?>𝐴=𝐵
      <?MarkedContent page="1" ?>(1)
     </Formula>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.020"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>不分种族、肤色、性别、语言 
+     <?MarkedContent page="1" ?>不分种族、肤色、性别、语言
      <?MarkedContent page="1" ?>
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.021"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.022"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -131,29 +114,26 @@
      <?MarkedContent page="1" ?>Everyone is entitled to all the rights and freedoms set forth in this
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
-       id="ID.023"
        title="equation"
-       af="mathml-1.xml tag-AFfile2.tex"
+       af="mathml-1.xml source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
       <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
-      <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (1) </mtext> </mtd> <mtd intent=":pause-medium"> <mrow/> <mi>𝐴</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝐵</mi> </mtd> </mtr> </mtable> </math>
+      <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (1) </mtext> </mtd> <mtd intent=":pause-medium"> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="true" scriptlevel="0"> <mtext/> </mstyle> </math> </mtext> <mrow/> <mi>𝐴</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝐵</mi> </mtd> </mtr> </mtable> </math>
       </AssociatedFile>
-      <AssociatedFile name="tag-AFfile2.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
       \begin {equation}A=B\end {equation}
       </AssociatedFile>
      <?MarkedContent page="1" ?>𝐴=𝐵
      <?MarkedContent page="1" ?>(2)
     </Formula>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.024"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>Declaration, without distinction of any kind, such as race, colour, sex, lan
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>guage…
     </text-block>
    </semantic-para>

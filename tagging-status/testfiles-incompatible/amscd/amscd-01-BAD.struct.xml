@@ -1,42 +1,36 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
-     id="ID.002"
     >
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.006"
       rolemaps-to="Part"
      >
     <Formula xmlns="http://iso.org/pdf2/ssn"
-       id="ID.007"
        title="equation"
-       af="tag-AFfile1.tex"
+       af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
-      <AssociatedFile name="tag-AFfile1.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
       \begin {equation}\begin {CD} S^{{\mathcal {W}}_\Lambda }\otimes T @>j>> T\\ @VVV @VV{\End P}V\\ (S\otimes T)/I @= (Z\otimes T)/J \end {CD}\end {equation}
       </AssociatedFile>
      <?MarkedContent page="1" ?>SWΛ⊗Tj−−−−→T⏐⏐↓⏐⏐↓EndP(S⊗T)/I(Z⊗T)/J
      <Lbl xmlns="http://iso.org/pdf2/ssn"
-        id="ID.008"
        >
       <?MarkedContent page="1" ?>(1)
      </Lbl>
     </Formula>
     <Formula xmlns="http://iso.org/pdf2/ssn"
-       id="ID.009"
        title="equation"
-       af="tag-AFfile2.tex"
+       af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
-      <AssociatedFile name="tag-AFfile2.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
       \begin {equation}\begin {CD} \cov (\mathcal {L}) @>>> \non (\mathcal {K}) @>>> \cf (\mathcal {K}) @>>> \cf (\mathcal {L})\\ @VVV @AAA @AAA @VVV\\ \add (\mathcal {L}) @>>> \add (\mathcal {K}) @>>> \cov (\mathcal {K}) @>>> \non (\mathcal {L}) \end {CD}\end {equation}
       </AssociatedFile>
      <?MarkedContent page="1" ?>cov(L)−−−−→non(K)−−−−→cf(K)−−−−→cf(L)⏐⏐↓↑⏐⏐↑⏐⏐⏐⏐↓add(L)−−−−→add(K)−−−−→cov(K)−−−−→non(L)
      <Lbl xmlns="http://iso.org/pdf2/ssn"
-        id="ID.010"
        >
       <?MarkedContent page="1" ?>(2)
      </Lbl>

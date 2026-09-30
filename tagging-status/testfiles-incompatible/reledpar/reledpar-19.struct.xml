@@ -1,14 +1,11 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
-     id="ID.002"
     >
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.006"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.007"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -16,27 +13,20 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.008"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.009"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="2" ?>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id erat 
-     <?MarkedContent page="2" ?>imperdiet, sollicitudin tortor a, rhoncus ipsum. Aliquam at maximus nibh. Ut 
-     <?MarkedContent page="2" ?>sed risus porttitor, eleifend tortor non, commodo nisl. Praesent eu ullamcorper 
-     <?MarkedContent page="2" ?>est. Phasellus at eros eget ex feugiat scelerisque.
+     <?MarkedContent page="2" ?>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id erat imperdiet, sollicitudin tortor a, rhoncus ipsum. Aliquam at maximus nibh. Ut sed risus porttitor, eleifend tortor non, commodo nisl. Praesent eu ullamcorper est. Phasellus at eros eget ex feugiat scelerisque.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.010"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.011"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -44,27 +34,21 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.012"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.013"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="2" ?>Vivamus et luctus justo. In aliquet, metus malesuada vestibulum ullamcor
-     <?MarkedContent page="2" ?>
-     <?MarkedContent page="2" ?>per, est sapien facilisis arcu, ac efficitur mi metus ac velit. Sed sagittis laoreet 
-     <?MarkedContent page="2" ?>justo at iaculis.
+     <?MarkedContent page="2" ?>per, est sapien facilisis arcu, ac efficitur mi metus ac velit. Sed sagittis laoreet justo at iaculis.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.014"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.015"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -72,26 +56,21 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.016"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.017"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="2" ?>Aliquam eu erat id tellus bibendum semper eu eget nulla. Lorem ipsum 
-     <?MarkedContent page="2" ?>dolor sit amet, consectetur adipiscing elit. Proin nunc arcu, iaculis sit amet 
+     <?MarkedContent page="2" ?>Aliquam eu erat id tellus bibendum semper eu eget nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nunc arcu, iaculis sit amet 
      <?MarkedContent page="2" ?>laoreet ut, finibus at nibh.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.018"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.019"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -99,27 +78,20 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.020"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.021"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="2" ?>Curabitur non lacus eget tellus consectetur dignissim. Nullam a tempus 
-     <?MarkedContent page="2" ?>enim. Donec ut pulvinar magna, in accumsan velit. Class aptent taciti sociosqu 
-     <?MarkedContent page="2" ?>ad litora torquent per conubia nostra, per inceptos himenaeos. Donec lacinia 
-     <?MarkedContent page="2" ?>scelerisque urna, sagittis fermentum est ultricies semper.
+     <?MarkedContent page="2" ?>Curabitur non lacus eget tellus consectetur dignissim. Nullam a tempus enim. Donec ut pulvinar magna, in accumsan velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec lacinia scelerisque urna, sagittis fermentum est ultricies semper.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.022"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.023"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -127,29 +99,21 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.024"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.025"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="4" ?>Aenean condimentum, leo vitae convallis porta, neque felis rhoncus metus, 
-     <?MarkedContent page="4" ?>in iaculis nulla ligula vitae quam. Fusce at vehicula purus, id sollicitudin dolor. 
-     <?MarkedContent page="4" ?>Maecenas scelerisque non est non luctus. Aliquam erat volutpat. Praesent eu 
-     <?MarkedContent page="4" ?>placerat urna. Donec fermentum mauris sit amet nulla semper lacinia. Donec 
-     <?MarkedContent page="4" ?>eu ipsum ultricies, placerat odio id, ultrices urna. Cras id sapien ut nisi auctor 
+     <?MarkedContent page="4" ?>Aenean condimentum, leo vitae convallis porta, neque felis rhoncus metus, in iaculis nulla ligula vitae quam. Fusce at vehicula purus, id sollicitudin dolor. Maecenas scelerisque non est non luctus. Aliquam erat volutpat. Praesent eu placerat urna. Donec fermentum mauris sit amet nulla semper lacinia. Donec eu ipsum ultricies, placerat odio id, ultrices urna. Cras id sapien ut nisi auctor 
      <?MarkedContent page="4" ?>elementum vel id tellus.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.026"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.027"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -157,51 +121,34 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.028"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.029"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="3" ?>Lorem
      <Link xmlns="http://iso.org/pdf2/ssn"
-        id="ID.030"
        >
-      <?MarkedContent page="3" ?>
       <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
-         id="ID.031"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:TextPosition="Sup"
          rolemaps-to="Span"
         >
        <?MarkedContent page="3" ?>1
       </text-fragment>
-      <?MarkedContent page="3" ?>
       <?ReferencedObject type="Annot" page="3" ?>
      </Link>
-     <?MarkedContent page="3" ?> ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id erat 
-     <?MarkedContent page="3" ?>imperdiet, sollicitudin tortor a, rhoncus ipsum. Aliquam at maximus nibh. Ut 
-     <?MarkedContent page="3" ?>sed risus porttitor, eleifend tortor non, commodo nisl. Praesent eu ullamcorper 
-     <?MarkedContent page="3" ?>est. Phasellus at eros eget ex feugiat scelerisque. Proin pellentesque lorem eu 
-     <?MarkedContent page="3" ?>risus convallis consectetur ac molestie turpis. Maecenas blandit iaculis orci, 
-     <?MarkedContent page="3" ?>et mattis dolor luctus vel. Praesent placerat varius tellus, nec convallis purus 
-     <?MarkedContent page="3" ?>volutpat at. Vivamus sit amet est interdum, condimentum sem ultricies, posuere 
-     <?MarkedContent page="3" ?>sapien. Maecenas vitae sapien diam. Donec et risus non nunc laoreet tincidunt. 
-     <?MarkedContent page="3" ?>Pellentesque vehicula pellentesque sagittis. Morbi elementum tempus nunc, eu 
-     <?MarkedContent page="3" ?>sodales erat convallis et. Maecenas condimentum pretium faucibus. Nam in 
-     <?MarkedContent page="3" ?>ante nunc. Etiam lobortis, arcu a imperdiet interdum, felis erat mattis nunc, id 
-     <?MarkedContent page="3" ?>posuere purus nisl a nibh.
+     <?MarkedContent page="3" ?> ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id erat imperdiet, sollicitudin tortor a, rhoncus ipsum. Aliquam at maximus nibh. Ut sed risus porttitor, eleifend tortor non, commodo nisl. Praesent eu ullamcorper est. Phasellus at eros eget ex feugiat scelerisque. Proin pellentesque lorem eu risus convallis consectetur ac molestie turpis. Maecenas blandit iaculis orci, 
+     <?MarkedContent page="3" ?>et mattis dolor luctus vel. Praesent placerat varius tellus, nec convallis purus volutpat at. Vivamus sit amet est interdum, condimentum sem ultricies, posuere sapien. Maecenas vitae sapien diam. Donec et risus non nunc laoreet tincidunt. Pellentesque vehicula pellentesque sagittis. Morbi elementum tempus nunc, eu sodales erat convallis et. Maecenas condimentum pretium faucibus. Nam in 
+     <?MarkedContent page="3" ?>ante nunc. Etiam lobortis, arcu a imperdiet interdum, felis erat mattis nunc, id posuere purus nisl a nibh.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.032"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.033"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -209,30 +156,22 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.034"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.035"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="3" ?>Vivamus et luctus justo. In aliquet, metus malesuada vestibulum ullamcor
-     <?MarkedContent page="3" ?>
-     <?MarkedContent page="3" ?>per, est sapien facilisis arcu, ac efficitur mi metus ac velit. Sed sagittis laoreet 
-     <?MarkedContent page="3" ?>justo at iaculis. Morbi scelerisque nec quam eu efficitur. Integer nec massa ut 
-     <?MarkedContent page="3" ?>lectus viverra ornare sed id libero. Praesent fermentum suscipit ante ut aliquam. 
-     <?MarkedContent page="3" ?>Sed facilisis rutrum sapien vel blandit. Ut eget ex ut massa consequat sodales. 
-     <?MarkedContent page="3" ?>Vestibulum venenatis in quam a molestie.
+     <?MarkedContent page="3" ?>per, est sapien facilisis arcu, ac efficitur mi metus ac velit. Sed sagittis laoreet justo at iaculis. Morbi scelerisque nec quam eu efficitur. Integer nec massa ut 
+     <?MarkedContent page="3" ?>lectus viverra ornare sed id libero. Praesent fermentum suscipit ante ut aliquam. Sed facilisis rutrum sapien vel blandit. Ut eget ex ut massa consequat sodales. Vestibulum venenatis in quam a molestie.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.036"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.037"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -240,48 +179,34 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.038"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.039"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="3" ?>Aliquam
      <Link xmlns="http://iso.org/pdf2/ssn"
-        id="ID.040"
        >
-      <?MarkedContent page="3" ?>
       <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
-         id="ID.041"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:TextPosition="Sup"
          rolemaps-to="Span"
         >
        <?MarkedContent page="3" ?>2
       </text-fragment>
-      <?MarkedContent page="3" ?>
       <?ReferencedObject type="Annot" page="3" ?>
      </Link>
-     <?MarkedContent page="3" ?> eu erat id tellus bibendum semper eu eget nulla. Lorem ipsum 
-     <?MarkedContent page="3" ?>dolor sit amet, consectetur adipiscing elit. Proin nunc arcu, iaculis sit amet 
-     <?MarkedContent page="3" ?>laoreet ut, finibus at nibh. Aliquam vel nisl a sem pulvinar efficitur. Quisque 
-     <?MarkedContent page="3" ?>dignissim, metus at consectetur ultrices, metus nunc ultrices quam, at ultrices 
-     <?MarkedContent page="3" ?>dolor massa vitae urna. Nullam semper nisi dui, vel commodo mi lobortis 
-     <?MarkedContent page="3" ?>sit amet. In non mattis orci. Integer aliquam dapibus convallis. Suspendisse 
-     <?MarkedContent page="3" ?>sodales tincidunt ante quis laoreet. Etiam sodales mauris nulla, vitae mattis 
-     <?MarkedContent page="3" ?>est consequat sit amet. Nam blandit rhoncus nisi. Sed accumsan, nibh non 
-     <?MarkedContent page="3" ?>venenatis aliquam, dolor quam sodales turpis, nec aliquam nunc arcu quis urna.
+     <?MarkedContent page="3" ?> eu erat id tellus bibendum semper eu eget nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nunc arcu, iaculis sit amet 
+     <?MarkedContent page="3" ?>laoreet ut, finibus at nibh. Aliquam vel nisl a sem pulvinar efficitur. Quisque dignissim, metus at consectetur ultrices, metus nunc ultrices quam, at ultrices dolor massa vitae urna. Nullam semper nisi dui, vel commodo mi lobortis sit amet. In non mattis orci. Integer aliquam dapibus convallis. Suspendisse sodales tincidunt ante quis laoreet. Etiam sodales mauris nulla, vitae mattis 
+     <?MarkedContent page="3" ?>est consequat sit amet. Nam blandit rhoncus nisi. Sed accumsan, nibh non venenatis aliquam, dolor quam sodales turpis, nec aliquam nunc arcu quis urna.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.042"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.043"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -289,32 +214,23 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.044"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.045"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="3" ?>Curabitur non lacus eget tellus consectetur dignissim. Nullam a tempus 
-     <?MarkedContent page="3" ?>enim. Donec ut pulvinar magna, in accumsan velit. Class aptent taciti sociosqu 
-     <?MarkedContent page="3" ?>ad litora torquent per conubia nostra, per inceptos himenaeos. Donec lacinia 
-     <?MarkedContent page="3" ?>scelerisque urna, sagittis fermentum est ultricies semper. Phasellus non augue 
-     <?MarkedContent page="3" ?>ligula. Donec aliquet bibendum elit, quis tempor risus pulvinar id. Curabitur a 
-     <?MarkedContent page="3" ?>cursus enim. Integer sit amet accumsan urna. Nam viverra at tortor ac gravida. 
-     <?MarkedContent page="3" ?>In hac habitasse platea dictumst. Morbi imperdiet eleifend risus id consequat. 
+     <?MarkedContent page="3" ?>Curabitur non lacus eget tellus consectetur dignissim. Nullam a tempus enim. Donec ut pulvinar magna, in accumsan velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec lacinia 
+     <?MarkedContent page="3" ?>scelerisque urna, sagittis fermentum est ultricies semper. Phasellus non augue ligula. Donec aliquet bibendum elit, quis tempor risus pulvinar id. Curabitur a cursus enim. Integer sit amet accumsan urna. Nam viverra at tortor ac gravida. In hac habitasse platea dictumst. Morbi imperdiet eleifend risus id consequat. 
      <?MarkedContent page="5" ?>Proin blandit mi a elit vehicula, a semper quam lacinia. Pellentesque at iaculis 
      <?MarkedContent page="5" ?>diam, quis condimentum justo. Nulla laoreet ut mauris sed tempor.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.046"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.047"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -322,27 +238,20 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.048"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.049"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="5" ?>Aenean condimentum, leo vitae convallis porta, neque felis rhoncus metus, 
-     <?MarkedContent page="5" ?>in iaculis nulla ligula vitae quam. Fusce at vehicula purus, id sollicitudin dolor. 
-     <?MarkedContent page="5" ?>Maecenas scelerisque non est non luctus. Aliquam erat volutpat. Praesent eu 
-     <?MarkedContent page="5" ?>placerat urna. Donec fermentum mauris sit amet nulla semper lacinia.
+     <?MarkedContent page="5" ?>Aenean condimentum, leo vitae convallis porta, neque felis rhoncus metus, in iaculis nulla ligula vitae quam. Fusce at vehicula purus, id sollicitudin dolor. Maecenas scelerisque non est non luctus. Aliquam erat volutpat. Praesent eu placerat urna. Donec fermentum mauris sit amet nulla semper lacinia.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.050"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.051"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -350,35 +259,23 @@
      <?MarkedContent page="2" ?>
      <?MarkedContent page="2" ?>
      <Link xmlns="http://iso.org/pdf2/ssn"
-        id="ID.052"
        >
-      <?MarkedContent page="2" ?>
       <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
-         id="ID.053"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:TextPosition="Sup"
          rolemaps-to="Span"
         >
        <?MarkedContent page="2" ?>1
       </text-fragment>
-      <?MarkedContent page="2" ?>
       <?ReferencedObject type="Annot" page="2" ?>
      </Link>
-     <?MarkedContent page="2" ?>A note called in right side, but printed in left side. A note called in right side, but printed in 
-     <?MarkedContent page="2" ?>left side. A note called in right side, but printed in left side. A note called in right side, but 
-     <?MarkedContent page="2" ?>printed in left side. A note called in right side, but printed in left side. A note called in right 
-     <?MarkedContent page="2" ?>side, but printed in left side. A note called in right side, but printed in left side. A note called 
-     <?MarkedContent page="2" ?>in right side, but printed in left side. A note called in right side, but printed in left side. A 
-     <?MarkedContent page="2" ?>note called in right side, but printed in left side. A note called in right side, but printed in 
-     <?MarkedContent page="2" ?>left side.
+     <?MarkedContent page="2" ?>A note called in right side, but printed in left side. A note called in right side, but printed in left side. A note called in right side, but printed in left side. A note called in right side, but printed in left side. A note called in right side, but printed in left side. A note called in right side, but printed in left side. A note called in right side, but printed in left side. A note called in right side, but printed in left side. A note called in right side, but printed in left side. A note called in right side, but printed in left side. A note called in right side, but printed in left side.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.054"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.055"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -386,25 +283,17 @@
      <?MarkedContent page="2" ?>
      <?MarkedContent page="2" ?>
      <Link xmlns="http://iso.org/pdf2/ssn"
-        id="ID.056"
        >
-      <?MarkedContent page="2" ?>
       <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
-         id="ID.057"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:TextPosition="Sup"
          rolemaps-to="Span"
         >
        <?MarkedContent page="2" ?>2
       </text-fragment>
-      <?MarkedContent page="2" ?>
       <?ReferencedObject type="Annot" page="2" ?>
      </Link>
-     <?MarkedContent page="2" ?>An other note called in right side, but printed in left side. An other note called in right 
-     <?MarkedContent page="2" ?>side, but printed in left side. An other note called in right side, but printed in left side. An 
-     <?MarkedContent page="2" ?>other note called in right side, but printed in left side. An other note called in right side, but 
-     <?MarkedContent page="2" ?>printed in left side. An other note called in right side, but printed in left side. An other note 
-     <?MarkedContent page="2" ?>called in right side, but printed in left side.
+     <?MarkedContent page="2" ?>An other note called in right side, but printed in left side. An other note called in right side, but printed in left side. An other note called in right side, but printed in left side. An other note called in right side, but printed in left side. An other note called in right side, but printed in left side. An other note called in right side, but printed in left side. An other note called in right side, but printed in left side.
     </text-block>
    </semantic-para>
   </Document>
