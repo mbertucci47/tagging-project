@@ -279,7 +279,7 @@
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
-       <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (1) </mtext> </mtd> <mtd intent=":pause-medium"> <mrow/> <mi>𝑑</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑟</mi> <msup> <mi>𝑎</mi> <mi>𝑘</mi> </msup> <mi>𝑒</mi> <mo lspace="0" rspace="0">.</mo> </mtd> </mtr> </mtable> </math>
+       <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (1) </mtext> </mtd> <mtd intent=":pause-medium"> <mpadded depth="0" height="0"> <mtext/> </mpadded> <mrow/> <mi>𝑑</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑟</mi> <msup> <mi>𝑎</mi> <mi>𝑘</mi> </msup> <mi>𝑒</mi> <mo lspace="0" rspace="0">.</mo> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
        <AssociatedFile name="tag-AFfile2.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        \begin {equation}d = r a^k e\hbox {.}\end {equation}
@@ -357,7 +357,7 @@
          Layout:Placement="Block"
         >
         <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
-        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (1) </mtext> </mtd> <mtd intent=":pause-medium"> <mrow/> <mi>𝑑</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑟</mi> <msup> <mi>𝑎</mi> <mi>𝑘</mi> </msup> <mi>𝑒</mi> <mo lspace="0" rspace="0">.</mo> </mtd> </mtr> </mtable> </math>
+        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (1) </mtext> </mtd> <mtd intent=":pause-medium"> <mpadded depth="0" height="0"> <mtext/> </mpadded> <mrow/> <mi>𝑑</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑟</mi> <msup> <mi>𝑎</mi> <mi>𝑘</mi> </msup> <mi>𝑒</mi> <mo lspace="0" rspace="0">.</mo> </mtd> </mtr> </mtable> </math>
         </AssociatedFile>
         <AssociatedFile name="tag-AFfile4.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         \begin {equation}d = r a^k e\hbox {.}\end {equation}
@@ -434,7 +434,7 @@
           Layout:Placement="Block"
          >
          <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
-         <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (1) </mtext> </mtd> <mtd intent=":pause-medium"> <mrow/> <mi>𝑑</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑟</mi> <msup> <mi>𝑎</mi> <mi>𝑘</mi> </msup> <mi>𝑒</mi> <mo lspace="0" rspace="0">.</mo> </mtd> </mtr> </mtable> </math>
+         <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (1) </mtext> </mtd> <mtd intent=":pause-medium"> <mpadded depth="0" height="0"> <mtext/> </mpadded> <mrow/> <mi>𝑑</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑟</mi> <msup> <mi>𝑎</mi> <mi>𝑘</mi> </msup> <mi>𝑒</mi> <mo lspace="0" rspace="0">.</mo> </mtd> </mtr> </mtable> </math>
          </AssociatedFile>
          <AssociatedFile name="tag-AFfile6.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          \begin {equation}d = r a^k e\hbox {.}\end {equation}
@@ -504,7 +504,7 @@
            Layout:Placement="Block"
           >
           <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
-          <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (1) </mtext> </mtd> <mtd intent=":pause-medium"> <mrow/> <mi>𝑑</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑟</mi> <msup> <mi>𝑎</mi> <mi>𝑘</mi> </msup> <mi>𝑒</mi> <mo lspace="0" rspace="0">.</mo> </mtd> </mtr> </mtable> </math>
+          <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (1) </mtext> </mtd> <mtd intent=":pause-medium"> <mpadded depth="0" height="0"> <mtext/> </mpadded> <mrow/> <mi>𝑑</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑟</mi> <msup> <mi>𝑎</mi> <mi>𝑘</mi> </msup> <mi>𝑒</mi> <mo lspace="0" rspace="0">.</mo> </mtd> </mtr> </mtable> </math>
           </AssociatedFile>
           <AssociatedFile name="tag-AFfile8.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           \begin {equation}d = r a^k e\hbox {.}\end {equation}
