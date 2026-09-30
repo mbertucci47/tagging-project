@@ -1,14 +1,11 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
-     id="ID.002"
     >
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.006"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.007"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -25,11 +22,9 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.008"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.009"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -47,17 +42,14 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.016"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.017"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>As is shown in the writings of Aris
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>totle, the things in themselves (and it remains a mystery why this is the case) are a representation of time. Our concepts have lying before them the paralogisms of natural reason, but our a posteriori concepts have lying be
      <?MarkedContent page="1" ?>fore them the practical employment of our experience. Because of our neces
      <?MarkedContent page="1" ?>sary ignorance of the conditions, the paralogisms would thereby be made to contradict, indeed, space; for these reasons, the Transcendental Deduction has lying before it our sense percep
@@ -68,11 +60,9 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.018"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.019"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -91,46 +81,6 @@
      <?MarkedContent page="2" ?>ophy, but in a merely critical essay the simple mention of the fact may suffice.
     </text-block>
    </semantic-para>
-   <tables xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.005"
-      rolemaps-to="Sect"
-     >
-    <float xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.010"
-       rolemaps-to="Aside"
-      >
-     <Caption xmlns="http://iso.org/pdf2/ssn"
-        id="ID.013"
-       >
-      <Lbl xmlns="http://iso.org/pdf2/ssn"
-         id="ID.014"
-        >
-       <?MarkedContent page="2" ?>Table 1: 
-      </Lbl>
-      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-         id="ID.015"
-         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-         Layout:TextAlign="Justify"
-         rolemaps-to="P"
-        >
-       <?MarkedContent page="2" ?>Some caption
-      </text-block>
-     </Caption>
-     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.011"
-        rolemaps-to="Part"
-       >
-      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-         id="ID.012"
-         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-         Layout:TextAlign="Justify"
-         rolemaps-to="P"
-        >
-       <?MarkedContent page="2" ?>a large table
-      </text-block>
-     </semantic-para>
-    </float>
-   </tables>
   </Document>
  </StructTreeRoot>
 </PDF>
