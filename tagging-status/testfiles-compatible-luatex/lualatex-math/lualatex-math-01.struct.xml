@@ -30,7 +30,7 @@
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\frac {1}{2}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>12
@@ -54,7 +54,7 @@
        <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0">(</mo> <mfrac linethickness="0"> <mi>𝑎</mi> <mi>𝑏</mi> </mfrac> <mo lspace="0" rspace="0">)</mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\genfrac {(}{)}{0pt}{}{a}{b}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>(𝑎𝑏)
@@ -73,7 +73,7 @@
       <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
       <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <munder> <mo lspace="0" movablelimits="true" rspace="0.167em">∑</mo> <mi> <mglyph/> </mi> </munder> <mi>𝑃</mi> <mo lspace="0" rspace="0" stretchy="false">(</mo> <mi>𝑖</mi> <mo lspace="0" rspace="0.167em">,</mo> <mi>𝑗</mi> <mo lspace="0" rspace="0" stretchy="false">)</mo> </math>
       </AssociatedFile>
-      <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}\sum _{\begin {subarray}{l} i\in \Lambda \\ 0&lt;j&lt;n \end {subarray}} P(i,j)\end {equation*}
       </AssociatedFile>
      <?MarkedContent page="1" ?>∑𝑖∈Λ0&lt;𝑗&lt;𝑛𝑃(𝑖,𝑗)
@@ -91,7 +91,7 @@
       <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
       <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="true" scriptlevel="0"> <msup> <mi>𝑥</mi> <mn>2</mn> </msup> </mstyle> <mo lspace="0.278em" rspace="0.278em" stretchy="false">↔</mo> <msup> <mi>𝑥</mi> <mn>2</mn> </msup> <mspace width="9.963pt"/> <mstyle displaystyle="false" scriptlevel="1"> <msup> <mi>𝑥</mi> <mn>2</mn> </msup> </mstyle> <mo lspace="0.278em" rspace="0.278em" stretchy="false">↔</mo> <mstyle displaystyle="false" scriptlevel="1"> <msup> <mi>𝑥</mi> <mn>2</mn> </msup> </mstyle> </math>
       </AssociatedFile>
-      <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}\cramped {x^2} \leftrightarrow x^2 \quad \cramped [\scriptstyle ]{x^2} \leftrightarrow {\scriptstyle x^2}\end {equation*}
       </AssociatedFile>
      <?MarkedContent page="1" ?>𝑥2↔𝑥2𝑥2↔𝑥2

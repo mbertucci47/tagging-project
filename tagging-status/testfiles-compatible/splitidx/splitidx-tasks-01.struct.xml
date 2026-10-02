@@ -30,12 +30,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="2" ?>animals, 
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="2" ?>1
-       <?ReferencedObject type="Annot" page="2" ?>
-      </Link>
+      <?MarkedContent page="2" ?>animals, 1
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -46,12 +41,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="2" ?>fruits, 
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="2" ?>1
-       <?ReferencedObject type="Annot" page="2" ?>
-      </Link>
+      <?MarkedContent page="2" ?>fruits, 1
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -62,12 +52,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="2" ?>vegetables, 
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="2" ?>1
-       <?ReferencedObject type="Annot" page="2" ?>
-      </Link>
+      <?MarkedContent page="2" ?>vegetables, 1
      </text-block>
     </semantic-para>
    </section>
@@ -88,12 +73,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="3" ?>cat, 
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="3" ?>1
-       <?ReferencedObject type="Annot" page="3" ?>
-      </Link>
+      <?MarkedContent page="3" ?>cat, 1
      </text-block>
     </semantic-para>
    </section>
@@ -114,12 +94,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="4" ?>apple, 
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="4" ?>1
-       <?ReferencedObject type="Annot" page="4" ?>
-      </Link>
+      <?MarkedContent page="4" ?>apple, 1
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -130,12 +105,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="4" ?>orange, 
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="4" ?>1
-       <?ReferencedObject type="Annot" page="4" ?>
-      </Link>
+      <?MarkedContent page="4" ?>orange, 1
      </text-block>
     </semantic-para>
    </section>
@@ -156,12 +126,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="5" ?>tomato, 
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="5" ?>1
-       <?ReferencedObject type="Annot" page="5" ?>
-      </Link>
+      <?MarkedContent page="5" ?>tomato, 1
      </text-block>
     </semantic-para>
    </section>
