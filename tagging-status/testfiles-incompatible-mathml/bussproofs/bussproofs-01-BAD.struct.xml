@@ -1,87 +1,78 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
-     id="ID.002"
     >
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.006"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.007"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?> A  B  C  D 
+     <?MarkedContent page="1" ?> A B C D
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.008"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.009"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
       >
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.010"
         title="math"
-        af="mathml-1.xml tag-AFfile1.tex"
+        af="mathml-1.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝐴</mi> <mo lspace="0" rspace="0.167em">,</mo> <mi>𝐵</mi> <mo lspace="0" rspace="0.167em">,</mo> <mi>𝐶</mi> <mo lspace="0" rspace="0.167em">,</mo> <mi>𝐷</mi> <mo lspace="0" rspace="0">,</mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile1.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\mathord {A, B, C, D,}\fCenter \mathord {\relax }$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝐴,𝐵,𝐶,𝐷,
      </Formula>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.011"
         title="math"
-        af="mathml-2.xml tag-AFfile2.tex"
+        af="mathml-2.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="3.318pt"/> <mi>𝐸</mi> <mo lspace="0" rspace="0.167em">,</mo> <mi>𝐹</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile2.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\ E, F$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝐸,𝐹
      </Formula>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.012"
         title="math"
-        af="mathml-3.xml tag-AFfile3.tex"
+        af="mathml-3.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝐴</mi> <mo lspace="0" rspace="0.167em">,</mo> <mi>𝐵</mi> <mo lspace="0" rspace="0">,</mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile3.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\mathord {A, B,}\fCenter \mathord {\relax }$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝐴,𝐵,
      </Formula>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.013"
         title="math"
-        af="mathml-4.xml tag-AFfile4.tex"
+        af="mathml-4.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="3.318pt"/> <mi>𝐶</mi> <mo lspace="0" rspace="0.167em">,</mo> <mi>𝐷</mi> <mo lspace="0" rspace="0.167em">,</mo> <mi>𝐸</mi> <mo lspace="0" rspace="0.167em">,</mo> <mi>𝐹</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile4.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\ C, D, E, F$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝐶,𝐷,𝐸,𝐹
@@ -90,42 +81,38 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.014"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.015"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
       >
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.016"
         title="math"
-        af="mathml-5.xml tag-AFfile5.tex"
+        af="mathml-5.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">Γ</mi> <mo lspace="0" rspace="0.167em">,</mo> <mi>𝐴</mi> <mo lspace="0.278em" rspace="0.278em">⊢</mo> <mi>𝐵</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile5.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\Gamma , A \vdash B$
        </AssociatedFile>
       <?MarkedContent page="1" ?>Γ,𝐴⊢𝐵
      </Formula>
      <?MarkedContent page="1" ?>Conditional Proof: 
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.017"
         title="math"
-        af="mathml-6.xml tag-AFfile6.tex"
+        af="mathml-6.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-6.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">Γ</mi> <mo lspace="0.278em" rspace="0.278em">⊢</mo> <mi>𝐴</mi> <mo lspace="0.278em" rspace="0.278em" stretchy="false">→</mo> <mi>𝐵</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile6.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\Gamma \vdash A \rightarrow B$
        </AssociatedFile>
       <?MarkedContent page="1" ?>Γ⊢𝐴→𝐵
