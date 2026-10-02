@@ -19,7 +19,7 @@
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝐴</mi> <mi>𝐵</mi> <mi>𝐶</mi> <mi mathvariant="normal"> ABC </mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $ABC\mathbb {ABC}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>ABCABC
