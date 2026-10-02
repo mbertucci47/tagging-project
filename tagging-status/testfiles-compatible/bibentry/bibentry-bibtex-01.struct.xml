@@ -13,11 +13,7 @@
      <?MarkedContent page="1" ?>text [
      <Reference xmlns="http://iso.org/pdf/ssn"
        >
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="1" ?>Knu73
-       <?ReferencedObject type="Annot" page="1" ?>
-      </Link>
+      <?MarkedContent page="1" ?>Knu73
      </Reference>
      <?MarkedContent page="1" ?>]
     </text-block>

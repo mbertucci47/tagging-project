@@ -1,7 +1,7 @@
 % !TeX program = txs:///lualatex | txs:///view-pdf
 % adapted from 3-reledpar_columns_different_languages.tex
 % does not error
-\RequirePackage{luatagging}
+\ifdefined\Uchar\RequirePackage{luatagging}\fi
 \DocumentMetadata
   {
     lang=en-US,

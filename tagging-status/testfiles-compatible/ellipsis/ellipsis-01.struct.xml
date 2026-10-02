@@ -10,7 +10,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>Some text…more text.
+     <?MarkedContent page="1" ?>Some text...more text.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -21,7 +21,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>Some text….
+     <?MarkedContent page="1" ?>Some text....
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -32,7 +32,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>Some text…more text.
+     <?MarkedContent page="1" ?>Some text...more text.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -43,7 +43,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>Some text….
+     <?MarkedContent page="1" ?>Some text....
     </text-block>
    </semantic-para>
   </Document>
