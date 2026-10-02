@@ -173,7 +173,7 @@
          <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <msup> <mrow/> <mtext>†</mtext> </msup> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $^{\textbf {\textrm {\dagger }}}$
          </AssociatedFile>
         <?MarkedContent page="1" ?>†
@@ -194,7 +194,7 @@
          <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <msup> <mrow/> <mtext>∗</mtext> </msup> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $^{\textbf {\textrm {\ast }}}$
          </AssociatedFile>
         <?MarkedContent page="1" ?>∗
@@ -229,7 +229,7 @@
          <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <msup> <mrow/> <mtext>†</mtext> </msup> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $^{\textbf {\textrm {\dagger }}}$
          </AssociatedFile>
         <?MarkedContent page="1" ?>†
@@ -292,7 +292,7 @@
          <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <msup> <mrow/> <mtext>∗</mtext> </msup> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $^{\textbf {\textrm {\ast }}}$
          </AssociatedFile>
         <?MarkedContent page="1" ?>∗
@@ -599,7 +599,7 @@
           <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
           <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑘</mi> </math>
           </AssociatedFile>
-          <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           $k$
           </AssociatedFile>
          <?MarkedContent page="1" ?>𝑘
@@ -626,7 +626,7 @@
             <AssociatedFile name="mathml-6.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
             <math xmlns="http://www.w3.org/1998/Math/MathML"> <msup> <mrow/> <mrow> <mo lspace="0" rspace="0">−</mo> <mn>1</mn> </mrow> </msup> </math>
             </AssociatedFile>
-            <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+            <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
             $^{-1}$
             </AssociatedFile>
            <?MarkedContent page="1" ?>−1
@@ -641,7 +641,7 @@
             <AssociatedFile name="mathml-6.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
             <math xmlns="http://www.w3.org/1998/Math/MathML"> <msup> <mrow/> <mrow> <mo lspace="0" rspace="0">−</mo> <mn>1</mn> </mrow> </msup> </math>
             </AssociatedFile>
-            <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+            <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
             $^{-1}$
             </AssociatedFile>
            <?MarkedContent page="1" ?>−1
@@ -666,7 +666,7 @@
           <AssociatedFile name="mathml-8.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
           <math xmlns="http://www.w3.org/1998/Math/MathML"> <mover> <mi>𝑞</mi> <mo stretchy="false">→</mo> </mover> </math>
           </AssociatedFile>
-          <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           $\vec {q}$
           </AssociatedFile>
          <?MarkedContent page="1" ?>⃗𝑞
@@ -693,7 +693,7 @@
             <AssociatedFile name="mathml-9.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
             <math xmlns="http://www.w3.org/1998/Math/MathML"> <msup> <mrow/> <mrow> <mo lspace="0" rspace="0">−</mo> <mn>2</mn> </mrow> </msup> </math>
             </AssociatedFile>
-            <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+            <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
             $^{-2}$
             </AssociatedFile>
            <?MarkedContent page="1" ?>−2
@@ -744,7 +744,7 @@
           <AssociatedFile name="mathml-10.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
           <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝛼</mi> </math>
           </AssociatedFile>
-          <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           $\alpha $
           </AssociatedFile>
          <?MarkedContent page="1" ?>𝛼
@@ -771,7 +771,7 @@
             <AssociatedFile name="mathml-11.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
             <math xmlns="http://www.w3.org/1998/Math/MathML"> <msup> <mrow/> <mn>2</mn> </msup> </math>
             </AssociatedFile>
-            <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+            <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
             $^2$
             </AssociatedFile>
            <?MarkedContent page="1" ?>2
@@ -786,7 +786,7 @@
             <AssociatedFile name="mathml-6.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
             <math xmlns="http://www.w3.org/1998/Math/MathML"> <msup> <mrow/> <mrow> <mo lspace="0" rspace="0">−</mo> <mn>1</mn> </mrow> </msup> </math>
             </AssociatedFile>
-            <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+            <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
             $^{-1}$
             </AssociatedFile>
            <?MarkedContent page="1" ?>−1
@@ -811,7 +811,7 @@
           <AssociatedFile name="mathml-13.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
           <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝜈</mi> </math>
           </AssociatedFile>
-          <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           $\nu $
           </AssociatedFile>
          <?MarkedContent page="1" ?>𝜈
@@ -838,7 +838,7 @@
             <AssociatedFile name="mathml-11.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
             <math xmlns="http://www.w3.org/1998/Math/MathML"> <msup> <mrow/> <mn>2</mn> </msup> </math>
             </AssociatedFile>
-            <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+            <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
             $^2$
             </AssociatedFile>
            <?MarkedContent page="1" ?>2
@@ -853,7 +853,7 @@
             <AssociatedFile name="mathml-6.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
             <math xmlns="http://www.w3.org/1998/Math/MathML"> <msup> <mrow/> <mrow> <mo lspace="0" rspace="0">−</mo> <mn>1</mn> </mrow> </msup> </math>
             </AssociatedFile>
-            <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+            <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
             $^{-1}$
             </AssociatedFile>
            <?MarkedContent page="1" ?>−1
@@ -918,7 +918,7 @@
             <AssociatedFile name="mathml-16.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
             <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝜈</mi> <mo lspace="0" rspace="0">/</mo> <mi>𝛼</mi> </math>
             </AssociatedFile>
-            <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+            <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
             $\nu /\alpha $
             </AssociatedFile>
            <?MarkedContent page="1" ?>𝜈/𝛼
@@ -956,7 +956,7 @@
             <AssociatedFile name="mathml-17.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
             <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝜈</mi> <mo lspace="0" rspace="0">/</mo> <msub> <mi>𝒟</mi> <mrow> <mn>1</mn> <mo lspace="0" rspace="0">,</mo> <mn>2</mn> </mrow> </msub> </math>
             </AssociatedFile>
-            <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+            <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
             $\nu /\mathcal {D}_{1,2}$
             </AssociatedFile>
            <?MarkedContent page="1" ?>𝜈/𝒟1,2
@@ -1030,7 +1030,7 @@
           <AssociatedFile name="mathml-18.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
           <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">∞</mi> </math>
           </AssociatedFile>
-          <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           $\infty $
           </AssociatedFile>
          <?MarkedContent page="1" ?>∞
@@ -1208,7 +1208,7 @@
          <AssociatedFile name="mathml-19.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑛</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mn>1</mn> <mo lspace="0" rspace="0.167em">,</mo> <mn>2</mn> <mo lspace="0" rspace="0">,</mo> <mo lspace="0.167em" rspace="0">…</mo> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $n = 1,2,\ldots $
          </AssociatedFile>
         <?MarkedContent page="1" ?>𝑛=1,2,…
@@ -1472,7 +1472,7 @@
        <AssociatedFile name="mathml-20.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (1) </mtext> </mtd> <mtd intent=":pause-medium"> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="true" scriptlevel="0"> <mtext/> </mstyle> </math> </mtext> <mrow/> <mover> <mi>𝑞</mi> <mo stretchy="false">→</mo> </mover> <mo lspace="0.278em" rspace="0">=</mo> <mo lspace="0.278em" rspace="0">−</mo> <mi>𝑘</mi> <mi mathvariant="normal">∇</mi> <mi>𝑇</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        \begin {equation}\label {eqn:fourier} \vec {q} = -k\nabla T\end {equation}
        </AssociatedFile>
       <?MarkedContent page="2" ?>⃗𝑞=−𝑘∇𝑇
@@ -2147,7 +2147,7 @@
        <AssociatedFile name="mathml-33.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mover> <mi mathvariant="normal">u</mi> <mo stretchy="false">→</mo> </mover> <mo lspace="0.222em" rspace="0.222em">⋅</mo> <mover> <mi>𝜔</mi> <mo stretchy="false">→</mo> </mover> <mo lspace="0.278em" rspace="0.278em">=</mo> <mn>0</mn> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\vec {\mathrm {u}}\cdot \vec {\omega }=0$
        </AssociatedFile>
       <?MarkedContent page="3" ?>⃗u⋅⃗𝜔=0
@@ -2183,7 +2183,7 @@
        <AssociatedFile name="mathml-34.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="multline" displaystyle="true" intent=":system-of-equations" width="100%"> <mtr columnalign="left"> <mtd> <mspace width="9.963pt"/> <mfrac> <mi>𝜕</mi> <mrow> <mi>𝜕</mi> <mi>𝑡</mi> </mrow> </mfrac> <mspace width="0.167em"/> <mrow> <mo fence="true" lspace="0" rspace="0" symmetric="true">[</mo> <mi>𝜌</mi> <mo fence="true" lspace="0" maxsize="9.755pt" minsize="9.755pt" rspace="0" symmetric="true">(</mo> <mi>𝑒</mi> <mo lspace="0.222em" rspace="0">+</mo> <mo lspace="0.222em" rspace="0" stretchy="false">|</mo> <mover> <mi>𝑢</mi> <mo stretchy="false">→</mo> </mover> <msup> <mo lspace="0" rspace="0" stretchy="false">|</mo> <mn>2</mn> </msup> <mo fence="true" lspace="0" maxsize="9.755pt" minsize="9.755pt" rspace="0" stretchy="true" symmetric="true">/</mo> <mn>2</mn> <mo fence="true" lspace="0" maxsize="9.755pt" minsize="9.755pt" rspace="0" symmetric="true">)</mo> <mo fence="true" lspace="0" rspace="0" symmetric="true">]</mo> </mrow> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi mathvariant="normal">∇</mi> <mo lspace="0.222em" rspace="0.222em">⋅</mo> <mrow> <mo fence="true" lspace="0" rspace="0" symmetric="true">[</mo> <mi>𝜌</mi> <mo fence="true" lspace="0" maxsize="9.755pt" minsize="9.755pt" rspace="0" symmetric="true">(</mo> <mi mathvariant="normal">ℎ</mi> <mo lspace="0.222em" rspace="0">+</mo> <mo lspace="0.222em" rspace="0" stretchy="false">|</mo> <mover> <mi>𝑢</mi> <mo stretchy="false">→</mo> </mover> <msup> <mo lspace="0" rspace="0" stretchy="false">|</mo> <mn>2</mn> </msup> <mo fence="true" lspace="0" maxsize="9.755pt" minsize="9.755pt" rspace="0" stretchy="true" symmetric="true">/</mo> <mn>2</mn> <mo fence="true" lspace="0" maxsize="9.755pt" minsize="9.755pt" rspace="0" symmetric="true">)</mo> <mover> <mi>𝑢</mi> <mo stretchy="false">→</mo> </mover> <mo fence="true" lspace="0" rspace="0" symmetric="true">]</mo> </mrow> </mtd> </mtr> <mtr columnalign="right"> <mtd intent=":equation-label"> <mtext> (2) </mtext> </mtd> <mtd intent=":pause-medium"> <mo lspace="0.278em" rspace="0.278em">=</mo> <mo lspace="0.222em" rspace="0.222em">−</mo> <mi mathvariant="normal">∇</mi> <mo lspace="0.222em" rspace="0.222em">⋅</mo> <mover> <mi>𝑞</mi> <mo stretchy="false">→</mo> </mover> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝜌</mi> <mover> <mi>𝑢</mi> <mo stretchy="false">→</mo> </mover> <mo lspace="0.222em" rspace="0.222em">⋅</mo> <mover> <mi>𝑔</mi> <mo stretchy="false">→</mo> </mover> <mo lspace="0.222em" rspace="0.222em">+</mo> <mfrac> <mi>𝜕</mi> <mrow> <mi>𝜕</mi> <msub> <mi>𝑥</mi> <mi>𝑗</mi> </msub> </mrow> </mfrac> <mo fence="true" lspace="0" maxsize="9.755pt" minsize="9.755pt" rspace="0" symmetric="true">(</mo> <msub> <mi>𝑑</mi> <mrow> <mi>𝑗</mi> <mi>𝑖</mi> </mrow> </msub> <msub> <mi>𝑢</mi> <mi>𝑖</mi> </msub> <mo fence="true" lspace="0" maxsize="9.755pt" minsize="9.755pt" rspace="0" symmetric="true">)</mo> <mo lspace="0.222em" rspace="0.222em">+</mo> <msub> <mover> <mi>𝑄</mi> <mo>.</mo> </mover> <mi>𝑣</mi> </msub> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        \begin {multline}\label {eqn:energy} \frac {\partial }{\partial t}\left [\rho \bigl (e + \lvert \vec {u}\rvert ^2\big /2\bigr )\right ] + \nabla \cdot \left [\rho \bigl (h + \lvert \vec {u}\rvert ^2\big /2 \bigr )\vec {u}\right ] \\ ={}-\nabla \cdot \vec {q} + \rho \vec {u}\cdot \vec {g}+ \frac {\partial }{\partial x_j}\bigl (d_{ji}u_i\bigr ) + \dot {Q}_v\end {multline}
        </AssociatedFile>
       <?MarkedContent page="3" ?>
@@ -2250,7 +2250,7 @@
        <AssociatedFile name="mathml-35.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (3) </mtext> </mtd> <mtd intent=":pause-medium"> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="true" scriptlevel="0"> <mtext/> </mstyle> </math> </mtext> <mrow/> <mover> <mi>𝐹</mi> <mo stretchy="false">→</mo> </mover> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑚</mi> <mover> <mi>𝑎</mi> <mo stretchy="false">→</mo> </mover> <mspace width="9.963pt"/> <mtext> or </mtext> <mspace width="9.963pt"/> <mover> <mi mathvariant="normal">F</mi> <mo stretchy="false">→</mo> </mover> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑚</mi> <mover> <mi mathvariant="normal">a</mi> <mo stretchy="false">→</mo> </mover> <mspace width="9.963pt"/> <mtext> or </mtext> <mspace width="9.963pt"/> <mi>𝐅</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑚</mi> <mi>𝐚</mi> <mspace width="9.963pt"/> <mtext> or </mtext> <mspace width="9.963pt"/> <mover> <mi mathvariant="normal">F</mi> <mo stretchy="false">→</mo> </mover> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑚</mi> <mover> <mi mathvariant="normal">a</mi> <mo stretchy="false">→</mo> </mover> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        \begin {equation}\label {eqn:dw} \vec {F} = m \vec {a} \quad \textrm {or}\quad \vec {\mathrm {F}} = m \vec {\mathrm {a}} \quad \textrm {or}\quad \mathbf {F} = m \mathbf {a} \quad \textrm {or}\quad \vec {\mathsf {F}} = m \vec {\mathsf {a}}\end {equation}
        </AssociatedFile>
       <?MarkedContent page="3" ?>⃗𝐹=𝑚⃗𝑎or⃗F=𝑚⃗aor𝐅=𝑚𝐚or⃗F=𝑚⃗a
@@ -2298,7 +2298,7 @@
         <AssociatedFile name="mathml-36.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">α</mi> <mo lspace="0" rspace="0.167em">,</mo> <mi mathvariant="normal">β</mi> <mo lspace="0" rspace="0.167em">,</mo> <mi mathvariant="normal">γ</mi> <mo lspace="0" rspace="0.167em">,</mo> <mi mathvariant="normal">δ</mi> </math>
         </AssociatedFile>
-        <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $\sfalpha , \sfbeta , \sfgamma , \sfdelta $
         </AssociatedFile>
        <?MarkedContent page="3" ?>α,β,γ,δ 
@@ -2313,7 +2313,7 @@
         <AssociatedFile name="mathml-37.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">α</mi> <mo lspace="0" rspace="0.167em">,</mo> <mi mathvariant="normal">β</mi> <mo lspace="0" rspace="0.167em">,</mo> <mi mathvariant="normal">γ</mi> <mo lspace="0" rspace="0.167em">,</mo> <mi mathvariant="normal">δ</mi> <mo lspace="0.167em" rspace="0">…</mo> </math>
         </AssociatedFile>
-        <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $\bm {\sfalpha , \sfbeta , \sfgamma , \sfdelta \ldots }$
         </AssociatedFile>
        <?MarkedContent page="3" ?>α,β,γ,δ…
@@ -2468,7 +2468,7 @@
          <AssociatedFile name="mathml-38.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝐴</mi> <mo lspace="0.278em" rspace="0.278em">∈</mo> <mi>𝒫</mi> <mo lspace="0" rspace="0" stretchy="false">(</mo> <mi>𝐴</mi> <mo lspace="0" rspace="0" stretchy="false">)</mo> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $A \in \mathcal {P}(A)$
          </AssociatedFile>
         <?MarkedContent page="4" ?>𝐴∈𝒫(𝐴)
@@ -3171,6 +3171,7 @@
       </item>
       <item xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="LI"
+         referenced-as="35"
         >
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
@@ -3247,6 +3248,7 @@
       </item>
       <item xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="LI"
+         referenced-as="36"
         >
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
@@ -4114,7 +4116,7 @@
        <AssociatedFile name="mathml-39.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mover> <mi>𝐴</mi> <mo stretchy="false">→</mo> </mover> <mo lspace="0.222em" rspace="0.222em">×</mo> <mover> <mi>𝐵</mi> <mo stretchy="false">→</mo> </mover> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\vec {A}\times \vec {B}$
        </AssociatedFile>
       <?MarkedContent page="6" ?>⃗𝐴×⃗𝐵
@@ -4139,7 +4141,7 @@
         <AssociatedFile name="mathml-40.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝜌</mi> <mo lspace="0.278em" rspace="0.278em">≠</mo> <mtext> fn </mtext> <mo lspace="0" rspace="0" stretchy="false">(</mo> <mi>𝑝</mi> <mo lspace="0" rspace="0" stretchy="false">)</mo> </math>
         </AssociatedFile>
-        <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $\rho \neq \textrm {fn}(p)$
         </AssociatedFile>
        <?MarkedContent page="6" ?>𝜌≠fn(𝑝)
@@ -4155,7 +4157,7 @@
        <AssociatedFile name="mathml-41.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="align" columnalign="left right left" columnspacing="0 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (4) </mtext> </mtd> <mtd intent=":pause-medium"> <mfrac> <mrow> <mi>𝑑</mi> <mi mathvariant="normal">Γ</mi> </mrow> <mrow> <mi>𝑑</mi> <mi>𝑡</mi> </mrow> </mfrac> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mfrac> <mi>𝑑</mi> <mrow> <mi>𝑑</mi> <mi>𝑡</mi> </mrow> </mfrac> <msub> <mo lspace="0.167em" rspace="0.167em">∫</mo> <mi>𝒞</mi> </msub> <mi>𝐮</mi> <mo lspace="0.222em" rspace="0.222em">⋅</mo> <mi>𝑑</mi> <mi>𝐫</mi> </mtd> </mtr> <mtr> <mtd intent=":equation-label"> <mtext> (5) </mtext> </mtd> <mtd intent=":pause-medium"/> <mtd> <mo lspace="0.278em" rspace="0">=</mo> <msub> <mo lspace="0.278em" rspace="0.167em">∫</mo> <mi>𝒞</mi> </msub> <mfrac> <mrow> <mi>𝐷</mi> <mi>𝐮</mi> </mrow> <mrow> <mi>𝐷</mi> <mi>𝑡</mi> </mrow> </mfrac> <mo lspace="0.222em" rspace="0.222em">⋅</mo> <mi>𝑑</mi> <mi>𝐫</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <munder> <munder> <mrow> <msub> <mo lspace="0.167em" rspace="0.167em">∫</mo> <mi>𝒞</mi> </msub> <mi>𝐮</mi> <mo lspace="0.222em" rspace="0.222em">⋅</mo> <mi>𝑑</mi> <mo fence="true" lspace="0" maxsize="19.511pt" minsize="19.511pt" rspace="0" symmetric="true">(</mo> <mfrac> <mrow> <mi>𝑑</mi> <mi>𝐫</mi> </mrow> <mrow> <mi>𝑑</mi> <mi>𝑡</mi> </mrow> </mfrac> <mo fence="true" lspace="0" maxsize="19.511pt" minsize="19.511pt" rspace="0" symmetric="true">)</mo> </mrow> <mo>⏟</mo> </munder> <mrow> <mo lspace="0" rspace="0">=</mo> <mspace width="0.167em"/> <mn>0</mn> </mrow> </munder> </mtd> </mtr> <mtr> <mtd intent=":equation-label"> <mtext> (6) </mtext> </mtd> <mtd intent=":pause-medium"/> <mtd> <mo lspace="0.278em" rspace="0">=</mo> <msub> <mo lspace="0.278em" rspace="0.167em">∬</mo> <mi>𝒮</mi> </msub> <mi mathvariant="normal">∇</mi> <mo lspace="0.222em" rspace="0.222em">×</mo> <mfrac> <mrow> <mi>𝐷</mi> <mi>𝐮</mi> </mrow> <mrow> <mi>𝐷</mi> <mi>𝑡</mi> </mrow> </mfrac> <mo lspace="0.222em" rspace="0.222em">⋅</mo> <mi>𝑑</mi> <mi>𝐀</mi> </mtd> </mtr> <mtr> <mtd intent=":equation-label"> <mtext> (7) </mtext> </mtd> <mtd intent=":pause-medium"/> <mtd> <mo lspace="0.278em" rspace="0">=</mo> <msub> <mo lspace="0.278em" rspace="0.167em">∬</mo> <mi>𝒮</mi> </msub> <mi mathvariant="normal">∇</mi> <mi>𝑝</mi> <mo lspace="0.222em" rspace="0.222em">×</mo> <mi mathvariant="normal">∇</mi> <mspace width="0.167em"/> <mrow> <mo fence="true" lspace="0" rspace="0" symmetric="true">(</mo> <mfrac> <mn>1</mn> <mi>𝜌</mi> </mfrac> <mo fence="true" lspace="0" rspace="0" symmetric="true">)</mo> </mrow> <mo lspace="0.222em" rspace="0.222em">⋅</mo> <mi>𝑑</mi> <mi>𝐀</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        \begin {align}\frac {d\Gamma }{dt} &amp;{}= \frac {d}{dt} \int _{\mathcal {C}} \mathbf {u} \cdot d\mathbf {r}\\ &amp;{}= \int _{\mathcal {C}} \frac {D\mathbf {u}}{Dt} \cdot d\mathbf {r} + \underbrace {\int _{\mathcal {C}} \mathbf {u}\cdot d\biggl ( \frac {d\mathbf {r}}{dt}\biggr )}_{=\, 0} \\[-2pt] &amp;{}= \iint _{\mathcal {S}} \nabla \times \frac {D\mathbf {u}}{Dt} \cdot d\mathbf {A}\\ &amp;{}= \iint _{\mathcal {S}} \nabla p \times \nabla \left ( \frac {1}{\rho }\right ) \cdot d\mathbf {A}\end {align}
        </AssociatedFile>
       <?MarkedContent page="6" ?>𝑑Γ𝑑𝑡=𝑑𝑑𝑡∫𝒞𝐮⋅𝑑𝐫
@@ -4638,6 +4640,971 @@
      </text-block>
     </semantic-para>
    </section>
+   <figures xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Sect"
+     >
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Part"
+        >
+       <text-block xmlns="https://www.latex-project.org/ns/dflt"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:TextAlign="Center"
+          rolemaps-to="P"
+         >
+        <?MarkedContent page="2" ?>FIGURE 1: Caption with math, eqn. (
+        <Link xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>1
+         <?ReferencedObject type="Annot" page="2" ?>
+        </Link>
+        <?MarkedContent page="2" ?>): 
+        <Formula xmlns="http://iso.org/pdf2/ssn"
+           title="math"
+           af="mathml-21.xml source.tex"
+           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+           Layout:Placement="Inline"
+          >
+          <AssociatedFile name="mathml-21.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">Δ</mi> <mi>𝑇</mi> <mo lspace="0" rspace="0">/</mo> <msub> <mi>𝑇</mi> <mi>𝑚</mi> </msub> </math>
+          </AssociatedFile>
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          $\Delta T/T_m$
+          </AssociatedFile>
+         <?MarkedContent page="2" ?>Δ𝑇/𝑇𝑚
+        </Formula>
+        <?MarkedContent page="2" ?> vs. 
+        <Formula xmlns="http://iso.org/pdf2/ssn"
+           title="math"
+           af="mathml-22.xml source.tex"
+           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+           Layout:Placement="Inline"
+          >
+          <AssociatedFile name="mathml-22.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">Δ</mi> <mi>𝑇</mi> <mo lspace="0" rspace="0">/</mo> <msub> <mi>𝑇</mi> <mn>1</mn> </msub> </math>
+          </AssociatedFile>
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          $\Delta T/T_1$
+          </AssociatedFile>
+         <?MarkedContent page="2" ?>Δ𝑇/𝑇1
+        </Formula>
+        <?MarkedContent page="2" ?> [
+        <Reference xmlns="http://iso.org/pdf/ssn"
+          >
+          <?References objects="35" ?>
+         <Link xmlns="http://iso.org/pdf2/ssn"
+           >
+          <?MarkedContent page="2" ?>7
+          <?ReferencedObject type="Annot" page="2" ?>
+         </Link>
+        </Reference>
+        <?MarkedContent page="2" ?>]
+       </text-block>
+      </semantic-para>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <Figure xmlns="http://iso.org/pdf2/ssn"
+          alt="Linearization error in radiant flux"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:BBox="{ 36, 593.12453, 292.31982, 756 }"
+         >
+        <?MarkedContent page="2" ?>
+       </Figure>
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Part"
+        >
+       <text-block xmlns="https://www.latex-project.org/ns/dflt"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:TextAlign="Justify"
+          rolemaps-to="P"
+         >
+        <?MarkedContent page="4" ?>FIGURE 2: A figure with two subfigures [
+        <Reference xmlns="http://iso.org/pdf/ssn"
+          >
+          <?References objects="36" ?>
+         <Link xmlns="http://iso.org/pdf2/ssn"
+           >
+          <?MarkedContent page="4" ?>9
+          <?ReferencedObject type="Annot" page="4" ?>
+         </Link>
+        </Reference>
+        <?MarkedContent page="4" ?>]
+       </text-block>
+      </semantic-para>
+     </Caption>
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Part"
+        >
+       <text-block xmlns="https://www.latex-project.org/ns/dflt"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:TextAlign="Center"
+          rolemaps-to="P"
+         >
+        <?MarkedContent page="4" ?>(b) Uniform heat flux wall with unheated starting length
+       </text-block>
+      </semantic-para>
+     </Caption>
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Part"
+        >
+       <text-block xmlns="https://www.latex-project.org/ns/dflt"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:TextAlign="Center"
+          rolemaps-to="P"
+         >
+        <?MarkedContent page="4" ?>(a) Uniform temperature wall
+       </text-block>
+      </semantic-para>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="4" ?>
+      </text-block>
+      <text-minipage xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Div"
+        >
+       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Part"
+         >
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+           Layout:TextAlign="Center"
+           rolemaps-to="P"
+          >
+         <Figure xmlns="http://iso.org/pdf2/ssn"
+            alt="Nusselt number data for isothermal wall"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:BBox="{ 48.81677, 524.1612, 279.50305, 756.00002 }"
+           >
+          <?MarkedContent page="4" ?>
+         </Figure>
+        </text-block>
+       </semantic-para>
+      </text-minipage>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <text-minipage xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Div"
+        >
+       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Part"
+         >
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+           Layout:TextAlign="Center"
+           rolemaps-to="P"
+          >
+         <Figure xmlns="http://iso.org/pdf2/ssn"
+            alt="Nusselt number data for uniform heat flux wall"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:BBox="{ 329.03561, 524.1612, 566.64459, 750.12775 }"
+           >
+          <?MarkedContent page="4" ?>
+         </Figure>
+        </text-block>
+       </semantic-para>
+      </text-minipage>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+   </figures>
+   <tables xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Sect"
+     >
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Part"
+        >
+       <text-block xmlns="https://www.latex-project.org/ns/dflt"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:TextAlign="Justify"
+          rolemaps-to="P"
+         >
+        <?MarkedContent page="2" ?>TABLE 1: A simple table
+       </text-block>
+      </semantic-para>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>Experiment
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <Formula xmlns="http://iso.org/pdf2/ssn"
+            title="math"
+            af="mathml-23.xml source.tex"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:Placement="Inline"
+           >
+           <AssociatedFile name="mathml-23.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+           <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑢</mi> </math>
+           </AssociatedFile>
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           $u$
+           </AssociatedFile>
+          <?MarkedContent page="2" ?>𝑢
+         </Formula>
+         <?MarkedContent page="2" ?> [m/s]
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <Formula xmlns="http://iso.org/pdf2/ssn"
+            title="math"
+            af="mathml-24.xml source.tex"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:Placement="Inline"
+           >
+           <AssociatedFile name="mathml-24.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+           <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑇</mi> </math>
+           </AssociatedFile>
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           $T$
+           </AssociatedFile>
+          <?MarkedContent page="2" ?>𝑇
+         </Formula>
+         <?MarkedContent page="2" ?> [°C]
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>Run 11
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>12.5
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>103.4
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>Run 12
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>24
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>68.3
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Part"
+        >
+       <text-block xmlns="https://www.latex-project.org/ns/dflt"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:TextAlign="Justify"
+          rolemaps-to="P"
+         >
+        <?MarkedContent page="2" ?>TABLE 2: Table with more complicated columns
+       </text-block>
+      </semantic-para>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <Div xmlns="http://iso.org/pdf2/ssn"
+           >
+          <text-block xmlns="https://www.latex-project.org/ns/dflt"
+             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+             Layout:TextAlign="Start"
+             rolemaps-to="P"
+            >
+           <?MarkedContent page="2" ?>Experiment
+          </text-block>
+         </Div>
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <Formula xmlns="http://iso.org/pdf2/ssn"
+            title="math"
+            af="mathml-23.xml source.tex"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:Placement="Inline"
+           >
+           <AssociatedFile name="mathml-23.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+           <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑢</mi> </math>
+           </AssociatedFile>
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           $u$
+           </AssociatedFile>
+          <?MarkedContent page="2" ?>𝑢
+         </Formula>
+         <?MarkedContent page="2" ?> [m/s]
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <Formula xmlns="http://iso.org/pdf2/ssn"
+            title="math"
+            af="mathml-24.xml source.tex"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:Placement="Inline"
+           >
+           <AssociatedFile name="mathml-24.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+           <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑇</mi> </math>
+           </AssociatedFile>
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           $T$
+           </AssociatedFile>
+          <?MarkedContent page="2" ?>𝑇
+         </Formula>
+         <?MarkedContent page="2" ?> [°C]
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <Div xmlns="http://iso.org/pdf2/ssn"
+           >
+          <text-block xmlns="https://www.latex-project.org/ns/dflt"
+             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+             Layout:TextAlign="Start"
+             rolemaps-to="P"
+            >
+           <?MarkedContent page="2" ?>The first test we ran this morning
+          </text-block>
+         </Div>
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>124.3
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>68,3
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <Div xmlns="http://iso.org/pdf2/ssn"
+           >
+          <text-block xmlns="https://www.latex-project.org/ns/dflt"
+             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+             Layout:TextAlign="Start"
+             rolemaps-to="P"
+            >
+           <?MarkedContent page="2" ?>The second test we ran this morning
+          </text-block>
+         </Div>
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>82.50
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>103,46
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <Div xmlns="http://iso.org/pdf2/ssn"
+           >
+          <text-block xmlns="https://www.latex-project.org/ns/dflt"
+             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+             Layout:TextAlign="Start"
+             rolemaps-to="P"
+            >
+           <?MarkedContent page="2" ?>Our competitor’s test
+          </text-block>
+         </Div>
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>72.321
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>141,384
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Part"
+        >
+       <text-block xmlns="https://www.latex-project.org/ns/dflt"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:TextAlign="Justify"
+          rolemaps-to="P"
+         >
+        <?MarkedContent page="3" ?>TABLE 3: A table spanning two columns
+       </text-block>
+      </semantic-para>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <Formula xmlns="http://iso.org/pdf2/ssn"
+            title="math"
+            af="mathml-27.xml source.tex"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:Placement="Inline"
+           >
+           <AssociatedFile name="mathml-27.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+           <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑥</mi> </math>
+           </AssociatedFile>
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           $x$
+           </AssociatedFile>
+          <?MarkedContent page="3" ?>𝑥
+         </Formula>
+         <?MarkedContent page="3" ?>
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <Formula xmlns="http://iso.org/pdf2/ssn"
+            title="math"
+            af="mathml-28.xml source.tex"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:Placement="Inline"
+           >
+           <AssociatedFile name="mathml-28.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+           <math xmlns="http://www.w3.org/1998/Math/MathML"> <mtext> erf </mtext> <mo lspace="0" rspace="0" stretchy="false">(</mo> <mi>𝑥</mi> <mo lspace="0" rspace="0" stretchy="false">)</mo> </math>
+           </AssociatedFile>
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           $\textrm {erf}(x)$
+           </AssociatedFile>
+          <?MarkedContent page="3" ?>erf(𝑥)
+         </Formula>
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <Formula xmlns="http://iso.org/pdf2/ssn"
+            title="math"
+            af="mathml-29.xml source.tex"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:Placement="Inline"
+           >
+           <AssociatedFile name="mathml-29.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+           <math xmlns="http://www.w3.org/1998/Math/MathML"> <mtext> erfc </mtext> <mo lspace="0" rspace="0" stretchy="false">(</mo> <mi>𝑥</mi> <mo lspace="0" rspace="0" stretchy="false">)</mo> </math>
+           </AssociatedFile>
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           $\textrm {erfc}(x)$
+           </AssociatedFile>
+          <?MarkedContent page="3" ?>erfc(𝑥)
+         </Formula>
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <Formula xmlns="http://iso.org/pdf2/ssn"
+            title="math"
+            af="mathml-27.xml source.tex"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:Placement="Inline"
+           >
+           <AssociatedFile name="mathml-27.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+           <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑥</mi> </math>
+           </AssociatedFile>
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           $x$
+           </AssociatedFile>
+          <?MarkedContent page="3" ?>𝑥
+         </Formula>
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <Formula xmlns="http://iso.org/pdf2/ssn"
+            title="math"
+            af="mathml-28.xml source.tex"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:Placement="Inline"
+           >
+           <AssociatedFile name="mathml-28.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+           <math xmlns="http://www.w3.org/1998/Math/MathML"> <mtext> erf </mtext> <mo lspace="0" rspace="0" stretchy="false">(</mo> <mi>𝑥</mi> <mo lspace="0" rspace="0" stretchy="false">)</mo> </math>
+           </AssociatedFile>
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           $\textrm {erf}(x)$
+           </AssociatedFile>
+          <?MarkedContent page="3" ?>erf(𝑥)
+         </Formula>
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <Formula xmlns="http://iso.org/pdf2/ssn"
+            title="math"
+            af="mathml-29.xml source.tex"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:Placement="Inline"
+           >
+           <AssociatedFile name="mathml-29.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+           <math xmlns="http://www.w3.org/1998/Math/MathML"> <mtext> erfc </mtext> <mo lspace="0" rspace="0" stretchy="false">(</mo> <mi>𝑥</mi> <mo lspace="0" rspace="0" stretchy="false">)</mo> </math>
+           </AssociatedFile>
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           $\textrm {erfc}(x)$
+           </AssociatedFile>
+          <?MarkedContent page="3" ?>erfc(𝑥)
+         </Formula>
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.00
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.00000
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>1.00000
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>1.10
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.88021
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.11980
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.05
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.05637
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.94363
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>1.20
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.91031
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.08969
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.10
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.11246
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.88754
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>1.30
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.93401
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.06599
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.15
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.16800
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.83200
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>1.40
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.95229
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.04771
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.20
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.22270
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.77730
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>1.50
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.96611
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.03389
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.30
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.32863
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.67137
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>1.60
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.97635
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.02365
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.40
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.42839
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.57161
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>1.70
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.98379
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.01621
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.50
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.52050
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.47950
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>1.80
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.98909
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.01091
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.60
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.60386
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.39614
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>1.8214
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.99000
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.01000
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.70
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.67780
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.32220
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>1.90
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.99279
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.00721
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.80
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.74210
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.25790
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>2.00
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.99532
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.00468
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.90
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.79691
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.20309
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>2.50
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.99959
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.00041
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>1.00
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.84270
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.15730
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>3.00
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.99998
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>0.00002
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+   </tables>
   </Document>
  </StructTreeRoot>
 </PDF>

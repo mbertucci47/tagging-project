@@ -1,1 +1,157 @@
-<run-error code="1" />
+<PDF version="2.0">
+ <StructTreeRoot>
+  <Document xmlns="http://iso.org/pdf2/ssn"
+    >
+   <section xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Sect"
+     >
+    <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+       title="Contents"
+       rolemaps-to="H1"
+      >
+     <?MarkedContent page="1" ?>Contents
+    </section-heading>
+    <TOC xmlns="http://iso.org/pdf/ssn"
+       title="toc"
+      >
+     <TOCI xmlns="http://iso.org/pdf/ssn"
+        title="Difficult chars ( or )"
+       >
+       <?References objects="1" ?>
+      <Reference xmlns="http://iso.org/pdf/ssn"
+        >
+       <Lbl xmlns="http://iso.org/pdf2/ssn"
+         >
+        <?MarkedContent page="1" ?>1
+       </Lbl>
+       <?MarkedContent page="1" ?>Difficult chars (%&amp; $^_ or %&amp; $^_)
+       <?MarkedContent page="1" ?>1
+      </Reference>
+     </TOCI>
+    </TOC>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="1" ?>By default the package provides ``
+      <Code xmlns="http://iso.org/pdf/ssn"
+        >
+       <?MarkedContent page="1" ?>\qverb
+      </Code>
+      <?MarkedContent page="1" ?>'' and 
+      <Code xmlns="http://iso.org/pdf/ssn"
+        >
+       <?MarkedContent page="1" ?>\fverb
+      </Code>
+      <?MarkedContent page="1" ?> ready for use. We have added 
+      <Code xmlns="http://iso.org/pdf/ssn"
+        >
+       <?MarkedContent page="1" ?>\cverb
+      </Code>
+      <?MarkedContent page="1" ?>.
+     </text-block>
+    </semantic-para>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="1" ?>Now code like 
+      <Code xmlns="http://iso.org/pdf/ssn"
+        >
+       <?MarkedContent page="1" ?>pdflatex␣myfile
+      </Code>
+      <?MarkedContent page="1" ?> can be ``
+      <Code xmlns="http://iso.org/pdf/ssn"
+        >
+       <?MarkedContent page="1" ?>enter
+      </Code>
+      <?MarkedContent page="1" ?>''ed in a simplified way. ``
+      <Code xmlns="http://iso.org/pdf/ssn"
+        >
+       <?MarkedContent page="1" ?>\DeleteShortVerb
+      </Code>
+      <?MarkedContent page="1" ?>'' removes previously defined shorthands again: |see|?
+     </text-block>
+    </semantic-para>
+   </section>
+   <section xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Sect"
+     >
+    <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+       title="Difficult chars ( or )"
+       rolemaps-to="H1"
+       referenced-as="1"
+      >
+     <heading-number xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Lbl"
+       >
+      <?MarkedContent page="1" ?>1
+     </heading-number>
+     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>Difficult chars (%&amp; $^_ or %&amp; $^_)
+    </section-heading>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="1" ?>This hides 
+      <Code xmlns="http://iso.org/pdf/ssn"
+        >
+       <?MarkedContent page="1" ?>%&amp;␣$^_
+      </Code>
+      <?MarkedContent page="1" ?> within 
+      <Code xmlns="http://iso.org/pdf/ssn"
+        >
+       <?MarkedContent page="1" ?>\foo
+      </Code>
+      <?MarkedContent page="1" ?> and 
+      <Code xmlns="http://iso.org/pdf/ssn"
+        >
+       <?MarkedContent page="1" ?>\baz
+      </Code>
+      <?MarkedContent page="1" ?> so that it can be used in the heading. Warning: 
+      <Code xmlns="http://iso.org/pdf/ssn"
+        >
+       <?MarkedContent page="1" ?>%&amp;␣$^_
+      </Code>
+      <?MarkedContent page="1" ?> is equal to %&amp; $^_ but not to %&amp; $^_!
+     </text-block>
+    </semantic-para>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="1" ?>bla bla
+     </text-block>
+    </semantic-para>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="1" ?>#$^&amp;*_
+     </text-block>
+    </semantic-para>
+   </section>
+  </Document>
+ </StructTreeRoot>
+</PDF>

@@ -16,11 +16,7 @@
         referenced-as="2"
        >
        <?References objects="1" ?>
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="1" ?>¹
-       <?ReferencedObject type="Annot" page="1" ?>
-      </Link>
+      <?MarkedContent page="1" ?>¹
      </footnotemark>
      <footnote xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="FENote"
