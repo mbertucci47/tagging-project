@@ -14,7 +14,7 @@
       <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
       <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtext/> <msup> <mi>𝑒</mi> <mrow> <mi>𝑖</mi> <mi>𝜋</mi> <mo lspace="0" rspace="0">/</mo> <mn>2</mn> </mrow> </msup> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑖</mi> </math>
       </AssociatedFile>
-      <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}\tikzmark {a} e^{i \pi /2} = i\end {equation*}
       </AssociatedFile>
      <?MarkedContent page="1" ?>𝑒𝑖𝜋/2=𝑖
@@ -165,7 +165,7 @@
       <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
       <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtext>   <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="true" scriptlevel="0"> <munderover> <mo lspace="0" movablelimits="true" rspace="0">∑</mo> <mrow> <mi>𝑘</mi> <mo lspace="0" rspace="0">=</mo> <mn>1</mn> </mrow> <mi>𝑛</mi> </munderover> </mstyle> </math> </mtext> <msup> <mi>𝑘</mi> <mtext>   <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="false" scriptlevel="1"> <mn>2</mn> </mstyle> </math> </mtext> </msup> </math>
       </AssociatedFile>
-      <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}\tikzmarknode {a}{\sum _{k=1}^n} k^{\tikzmarknode {b}{2}}\end {equation*}
       </AssociatedFile>
      <?MarkedContent page="1" ?>𝑛∑𝑘=1

@@ -27,15 +27,11 @@
          >
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
-         <Link xmlns="http://iso.org/pdf2/ssn"
+         <Lbl xmlns="http://iso.org/pdf2/ssn"
            >
-          <Lbl xmlns="http://iso.org/pdf2/ssn"
-            >
-           <?MarkedContent page="1" ?>1
-          </Lbl>
-          <?MarkedContent page="1" ?>blub
-          <?ReferencedObject type="Annot" page="1" ?>
-         </Link>
+          <?MarkedContent page="1" ?>1
+         </Lbl>
+         <?MarkedContent page="1" ?>blub
          <?MarkedContent page="1" ?>1
         </Reference>
        </text-block>
@@ -57,15 +53,11 @@
           >
          <Reference xmlns="http://iso.org/pdf/ssn"
            >
-          <Link xmlns="http://iso.org/pdf2/ssn"
+          <Lbl xmlns="http://iso.org/pdf2/ssn"
             >
-           <Lbl xmlns="http://iso.org/pdf2/ssn"
-             >
-            <?MarkedContent page="1" ?>1.1
-           </Lbl>
-           <?MarkedContent page="1" ?>blub blub
-           <?ReferencedObject type="Annot" page="1" ?>
-          </Link>
+           <?MarkedContent page="1" ?>1.1
+          </Lbl>
+          <?MarkedContent page="1" ?>blub blub
           <?MarkedContent page="1" ?>1
          </Reference>
         </text-block>

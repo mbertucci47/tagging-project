@@ -58,7 +58,8 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>plaintopfloat 2: Another captionAnother figure 
+      <?MarkedContent page="1" ?>plaintopfloat 2: Another caption
+      <?MarkedContent page="1" ?>Another figure 
      </text-block>
     </semantic-para>
    </float>

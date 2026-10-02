@@ -28,7 +28,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 148.71233, 480.67725, 415.23045, 667.19801 }"
        >
-      <?MarkedContent page="1" ?>x0δxx0+δxTx0XδxTx0XX=Rf(δx)Tf(x0)YTf(x0)Yf(δx)f(x0)+f(δx)f(x0)f(x0+δx)(δx)Y=RGraph of fGraph of y=f(x)
+      <?MarkedContent page="1" ?>x0δxx0+δxTx0XδxTx0XX=Rdf(δx)Tf(x0)YTf(x0)Ydf(δx)f(x0)+df(δx)f(x0)f(x0+δx)o(δx)Y=RGraph of dfGraph of y=f(x)
      </Figure>
     </text-block>
    </semantic-para>

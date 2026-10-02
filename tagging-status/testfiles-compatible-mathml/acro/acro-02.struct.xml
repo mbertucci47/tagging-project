@@ -42,7 +42,7 @@
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝐹</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax F$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝐹
@@ -134,12 +134,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>Electro Chemical Machining (Elektrochemisches Abtragen).....
-          <Link xmlns="http://iso.org/pdf2/ssn"
-            >
-           <?MarkedContent page="1" ?>1
-           <?ReferencedObject type="Annot" page="1" ?>
-          </Link>
+          <?MarkedContent page="1" ?>Electro Chemical Machining (Elektrochemisches Abtragen).....1
          </text-block>
         </semantic-para>
        </itembody>
@@ -205,7 +200,7 @@
          <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝐴</mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax A$
          </AssociatedFile>
         <?MarkedContent page="1" ?>𝐴
@@ -222,7 +217,7 @@
          <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <msup> <mi mathvariant="normal">m</mi> <mn>2</mn> </msup> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\MathMLintent {:unit}{\mathrm {m}^{2}}$
          </AssociatedFile>
         <?MarkedContent page="1" ?>m2
@@ -249,7 +244,7 @@
          <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝐶</mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax C$
          </AssociatedFile>
         <?MarkedContent page="1" ?>𝐶
@@ -266,7 +261,7 @@
          <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi intent=":unit" mathvariant="normal">F</mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\MathMLintent {:unit}{\mathrm {F}}$
          </AssociatedFile>
         <?MarkedContent page="1" ?>F
@@ -293,7 +288,7 @@
          <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝐹</mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax F$
          </AssociatedFile>
         <?MarkedContent page="1" ?>𝐹
@@ -310,7 +305,7 @@
          <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi intent=":unit" mathvariant="normal">N</mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\MathMLintent {:unit}{\mathrm {N}}$
          </AssociatedFile>
         <?MarkedContent page="1" ?>N
@@ -322,11 +317,7 @@
       </TD>
       <TD xmlns="http://iso.org/pdf2/ssn"
         >
-       <Link xmlns="http://iso.org/pdf2/ssn"
-         >
-        <?MarkedContent page="1" ?>1
-        <?ReferencedObject type="Annot" page="1" ?>
-       </Link>
+       <?MarkedContent page="1" ?>1
       </TD>
      </TR>
      <TR xmlns="http://iso.org/pdf2/ssn"
@@ -342,7 +333,7 @@
          <AssociatedFile name="mathml-8.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑓</mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax f$
          </AssociatedFile>
         <?MarkedContent page="1" ?>𝑓
@@ -359,7 +350,7 @@
          <AssociatedFile name="mathml-9.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi intent=":unit" mathvariant="normal"> Hz </mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\MathMLintent {:unit}{\mathrm {Hz}}$
          </AssociatedFile>
         <?MarkedContent page="1" ?>Hz

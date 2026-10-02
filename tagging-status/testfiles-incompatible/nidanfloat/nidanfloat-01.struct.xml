@@ -13,6 +13,45 @@
      <?MarkedContent page="1" ?>normal text
     </text-block>
    </semantic-para>
+   <figures xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Sect"
+     >
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>Figure 1: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?>my caption text
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <Figure xmlns="http://iso.org/pdf2/ssn"
+          alt="my alt text"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:BBox="{ 145.6243, -136.68683, 465.62352, 103.31257 }"
+         >
+        <?MarkedContent page="1" ?>
+       </Figure>
+      </text-block>
+     </semantic-para>
+    </float>
+   </figures>
   </Document>
  </StructTreeRoot>
 </PDF>

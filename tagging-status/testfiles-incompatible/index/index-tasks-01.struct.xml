@@ -3,11 +3,11 @@
   <Document xmlns="http://iso.org/pdf2/ssn"
     >
    <chapter xmlns="https://www.latex-project.org/ns/book"
-      rolemaps-to="H1"
+      rolemaps-to="Sect"
      >
-    <chapter-heading xmlns="data:something-custom"
+    <chapter-heading xmlns="https://www.latex-project.org/ns/book"
        title="Chapter header"
-       rolemaps-to="NonStruct"
+       rolemaps-to="H1"
       >
      <?MarkedContent page="1" ?>Chapter
      <?MarkedContent page="1" ?> 
@@ -54,12 +54,7 @@
          Layout:TextAlign="Justify"
          rolemaps-to="P"
         >
-       <?MarkedContent page="2" ?>chapter, 
-       <Link xmlns="http://iso.org/pdf2/ssn"
-         >
-        <?MarkedContent page="2" ?>1
-        <?ReferencedObject type="Annot" page="2" ?>
-       </Link>
+       <?MarkedContent page="2" ?>chapter, 1
       </text-block>
      </semantic-para>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -70,12 +65,7 @@
          Layout:TextAlign="Justify"
          rolemaps-to="P"
         >
-       <?MarkedContent page="2" ?>section, 
-       <Link xmlns="http://iso.org/pdf2/ssn"
-         >
-        <?MarkedContent page="2" ?>1
-        <?ReferencedObject type="Annot" page="2" ?>
-       </Link>
+       <?MarkedContent page="2" ?>section, 1
       </text-block>
      </semantic-para>
     </section>

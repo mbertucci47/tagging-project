@@ -19,7 +19,7 @@
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mi>𝐀</mi> <mi>𝐁</mi> <mi>𝐂</mi> </mrow> <mi>𝒜</mi> <mi mathvariant="normal">ℬ</mi> <mi>𝒞</mi> <mi>𝔄</mi> <mi>𝔅</mi> <mi mathvariant="normal">ℭ</mi> <mi mathvariant="normal">ℏ</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\bold {ABC} \scr {ABC} \germ {ABC} \hslash $
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝐀𝐁𝐂𝒜ℬ𝒞𝔄𝔅ℭℏ
@@ -66,7 +66,7 @@
        <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0">-</mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\rhook $
        </AssociatedFile>
       <?MarkedContent page="1" ?>↩
@@ -91,7 +91,7 @@
        <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0">,</mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\lhook $
        </AssociatedFile>
       <?MarkedContent page="1" ?>↪

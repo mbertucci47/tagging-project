@@ -19,7 +19,7 @@
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟨</mo> <mrow> <mi>𝑡</mi> <mi>𝑒</mi> <mi>𝑥</mi> <mi>𝑡</mi> </mrow> <mo lspace="0" rspace="0" stretchy="false">|</mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\bra {text}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>⟨𝑡𝑒𝑥𝑡|
@@ -43,7 +43,7 @@
        <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo fence="true" lspace="0" rspace="0" symmetric="true">⟨</mo> <mi>𝑡</mi> <mi>𝑒</mi> <mi>𝑥</mi> <mi>𝑡</mi> <mo fence="true" lspace="0" rspace="0" symmetric="true">|</mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\Bra {text}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>⟨𝑡𝑒𝑥𝑡|
@@ -67,7 +67,7 @@
        <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">|</mo> <mrow> <mi>𝑡</mi> <mi>𝑒</mi> <mi>𝑥</mi> <mi>𝑡</mi> </mrow> <mo lspace="0" rspace="0" stretchy="false">⟩</mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\ket {text}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>|𝑡𝑒𝑥𝑡⟩
@@ -91,7 +91,7 @@
        <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo fence="true" lspace="0" rspace="0" symmetric="true">|</mo> <mi>𝑡</mi> <mi>𝑒</mi> <mi>𝑥</mi> <mi>𝑡</mi> <mo fence="true" lspace="0" rspace="0" symmetric="true">⟩</mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\Ket {text}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>|𝑡𝑒𝑥𝑡⟩
@@ -115,7 +115,7 @@
        <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟨</mo> <mrow> <mi>𝑡</mi> <mi>𝑒</mi> <mi>𝑥</mi> <mi>𝑡</mi> </mrow> <mo lspace="0" rspace="0" stretchy="false">⟩</mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\braket {text}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>⟨𝑡𝑒𝑥𝑡⟩
@@ -139,7 +139,7 @@
        <AssociatedFile name="mathml-6.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo fence="true" lspace="0" rspace="0" symmetric="true">⟨</mo> <mrow> <mi>𝑡</mi> <mi>𝑒</mi> <mi>𝑥</mi> <mi>𝑡</mi> </mrow> <mo fence="true" lspace="0" rspace="0" symmetric="true">⟩</mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\Braket {text}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>⟨𝑡𝑒𝑥𝑡⟩
@@ -163,7 +163,7 @@
        <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">{</mo> <mspace width="0.167em"/> <mrow> <mi>𝑡</mi> <mi>𝑒</mi> <mi>𝑥</mi> <mi>𝑡</mi> </mrow> <mspace width="0.167em"/> <mo lspace="0" rspace="0" stretchy="false">}</mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\set {text}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>{𝑡𝑒𝑥𝑡}
@@ -187,7 +187,7 @@
        <AssociatedFile name="mathml-8.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo fence="true" lspace="0" rspace="0" symmetric="true">{</mo> <mspace width="0.222em"/> <mrow> <mi>𝑡</mi> <mi>𝑒</mi> <mi>𝑥</mi> <mi>𝑡</mi> </mrow> <mspace width="0.222em"/> <mo fence="true" lspace="0" rspace="0" symmetric="true">}</mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\Set {text}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>{𝑡𝑒𝑥𝑡}

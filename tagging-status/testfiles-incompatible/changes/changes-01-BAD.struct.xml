@@ -9,7 +9,6 @@
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
-       referenced-as="1"
       >
      <?MarkedContent page="1" ?>Sample text, something added, a wordblob replaced and some stuff
      <?MarkedContent page="1" ?> removed. 
@@ -64,7 +63,6 @@
      <TOCI xmlns="http://iso.org/pdf/ssn"
         title="Added: added"
        >
-       <?References objects="1" ?>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Part"
         >
@@ -75,28 +73,23 @@
          >
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
-         <Link xmlns="http://iso.org/pdf2/ssn"
-           >
-          <?MarkedContent page="1" ?>Added: 
-          <?ReferencedObject type="Annot" page="1" ?>
-         </Link>
-         <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
-            rolemaps-to="Div"
-           >
-         </text-parbox>
-         <text-block xmlns="https://www.latex-project.org/ns/dflt"
-            rolemaps-to="P"
-           >
-         </text-block>
-         <?MarkedContent page="1" ?>1
+         <?MarkedContent page="1" ?>Added: 
         </Reference>
+        <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Div"
+          >
+        </text-parbox>
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="P"
+          >
+         <?MarkedContent page="1" ?>1
+        </text-block>
        </text-block>
       </semantic-para>
      </TOCI>
      <TOCI xmlns="http://iso.org/pdf/ssn"
         title="Replaced: word"
        >
-       <?References objects="1" ?>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Part"
         >
@@ -107,28 +100,23 @@
          >
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
-         <Link xmlns="http://iso.org/pdf2/ssn"
-           >
-          <?MarkedContent page="1" ?>Replaced: 
-          <?ReferencedObject type="Annot" page="1" ?>
-         </Link>
-         <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
-            rolemaps-to="Div"
-           >
-         </text-parbox>
-         <text-block xmlns="https://www.latex-project.org/ns/dflt"
-            rolemaps-to="P"
-           >
-         </text-block>
-         <?MarkedContent page="1" ?>1
+         <?MarkedContent page="1" ?>Replaced: 
         </Reference>
+        <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Div"
+          >
+        </text-parbox>
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="P"
+          >
+         <?MarkedContent page="1" ?>1
+        </text-block>
        </text-block>
       </semantic-para>
      </TOCI>
      <TOCI xmlns="http://iso.org/pdf/ssn"
         title="Deleted: some"
        >
-       <?References objects="1" ?>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Part"
         >
@@ -139,28 +127,23 @@
          >
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
-         <Link xmlns="http://iso.org/pdf2/ssn"
-           >
-          <?MarkedContent page="1" ?>Deleted: 
-          <?ReferencedObject type="Annot" page="1" ?>
-         </Link>
-         <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
-            rolemaps-to="Div"
-           >
-         </text-parbox>
-         <text-block xmlns="https://www.latex-project.org/ns/dflt"
-            rolemaps-to="P"
-           >
-         </text-block>
-         <?MarkedContent page="1" ?>1
+         <?MarkedContent page="1" ?>Deleted: 
         </Reference>
+        <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Div"
+          >
+        </text-parbox>
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="P"
+          >
+         <?MarkedContent page="1" ?>1
+        </text-block>
        </text-block>
       </semantic-para>
      </TOCI>
      <TOCI xmlns="http://iso.org/pdf/ssn"
         title="Commented: Fix!"
        >
-       <?References objects="1" ?>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Part"
         >
@@ -171,28 +154,23 @@
          >
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
-         <Link xmlns="http://iso.org/pdf2/ssn"
-           >
-          <?MarkedContent page="1" ?>Commented: 
-          <?ReferencedObject type="Annot" page="1" ?>
-         </Link>
-         <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
-            rolemaps-to="Div"
-           >
-         </text-parbox>
-         <text-block xmlns="https://www.latex-project.org/ns/dflt"
-            rolemaps-to="P"
-           >
-         </text-block>
-         <?MarkedContent page="1" ?>1
+         <?MarkedContent page="1" ?>Commented: 
         </Reference>
+        <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Div"
+          >
+        </text-parbox>
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="P"
+          >
+         <?MarkedContent page="1" ?>1
+        </text-block>
        </text-block>
       </semantic-para>
      </TOCI>
      <TOCI xmlns="http://iso.org/pdf/ssn"
         title="Highlighted: Whoa!"
        >
-       <?References objects="1" ?>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Part"
         >
@@ -203,21 +181,17 @@
          >
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
-         <Link xmlns="http://iso.org/pdf2/ssn"
-           >
-          <?MarkedContent page="1" ?>Highlighted: 
-          <?ReferencedObject type="Annot" page="1" ?>
-         </Link>
-         <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
-            rolemaps-to="Div"
-           >
-         </text-parbox>
-         <text-block xmlns="https://www.latex-project.org/ns/dflt"
-            rolemaps-to="P"
-           >
-         </text-block>
-         <?MarkedContent page="1" ?>1
+         <?MarkedContent page="1" ?>Highlighted: 
         </Reference>
+        <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Div"
+          >
+        </text-parbox>
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="P"
+          >
+         <?MarkedContent page="1" ?>1
+        </text-block>
        </text-block>
       </semantic-para>
      </TOCI>

@@ -67,15 +67,11 @@
         <?References objects="2" ?>
        <Reference xmlns="http://iso.org/pdf/ssn"
          >
-        <Link xmlns="http://iso.org/pdf2/ssn"
+        <Lbl xmlns="http://iso.org/pdf2/ssn"
           >
-         <Lbl xmlns="http://iso.org/pdf2/ssn"
-           >
-          <?MarkedContent page="1" ?>1.1
-         </Lbl>
-         <?MarkedContent page="1" ?>Heading on level 2 (subsection)
-         <?ReferencedObject type="Annot" page="1" ?>
-        </Link>
+         <?MarkedContent page="1" ?>1.1
+        </Lbl>
+        <?MarkedContent page="1" ?>Heading on level 2 (subsection)
         <?MarkedContent page="1" ?>1
        </Reference>
       </TOCI>
@@ -87,17 +83,12 @@
          <?References objects="3" ?>
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
-         <Link xmlns="http://iso.org/pdf2/ssn"
+         <Lbl xmlns="http://iso.org/pdf2/ssn"
            >
-          <Lbl xmlns="http://iso.org/pdf2/ssn"
-            >
-           <?MarkedContent page="1" ?>1.1.1
-          </Lbl>
-          <?MarkedContent page="1" ?>Heading on level 3 (subsubsec
-          <?MarkedContent page="1" ?>tion)
-          <?ReferencedObject type="Annot" page="1" ?>
-          <?ReferencedObject type="Annot" page="1" ?>
-         </Link>
+          <?MarkedContent page="1" ?>1.1.1
+         </Lbl>
+         <?MarkedContent page="1" ?>Heading on level 3 (subsubsec
+         <?MarkedContent page="1" ?>tion)
          <?MarkedContent page="1" ?>1
         </Reference>
        </TOCI>
@@ -121,15 +112,11 @@
         <?References objects="5" ?>
        <Reference xmlns="http://iso.org/pdf/ssn"
          >
-        <Link xmlns="http://iso.org/pdf2/ssn"
+        <Lbl xmlns="http://iso.org/pdf2/ssn"
           >
-         <Lbl xmlns="http://iso.org/pdf2/ssn"
-           >
-          <?MarkedContent page="1" ?>2.1
-         </Lbl>
-         <?MarkedContent page="1" ?>Example for list (itemize)
-         <?ReferencedObject type="Annot" page="1" ?>
-        </Link>
+         <?MarkedContent page="1" ?>2.1
+        </Lbl>
+        <?MarkedContent page="1" ?>Example for list (itemize)
         <?MarkedContent page="1" ?>2
        </Reference>
       </TOCI>
@@ -141,15 +128,11 @@
          <?References objects="6" ?>
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
-         <Link xmlns="http://iso.org/pdf2/ssn"
+         <Lbl xmlns="http://iso.org/pdf2/ssn"
            >
-          <Lbl xmlns="http://iso.org/pdf2/ssn"
-            >
-           <?MarkedContent page="1" ?>2.1.1
-          </Lbl>
-          <?MarkedContent page="1" ?>Example for list (4*itemize)
-          <?ReferencedObject type="Annot" page="1" ?>
-         </Link>
+          <?MarkedContent page="1" ?>2.1.1
+         </Lbl>
+         <?MarkedContent page="1" ?>Example for list (4*itemize)
          <?MarkedContent page="1" ?>2
         </Reference>
        </TOCI>
@@ -160,15 +143,11 @@
         <?References objects="7" ?>
        <Reference xmlns="http://iso.org/pdf/ssn"
          >
-        <Link xmlns="http://iso.org/pdf2/ssn"
+        <Lbl xmlns="http://iso.org/pdf2/ssn"
           >
-         <Lbl xmlns="http://iso.org/pdf2/ssn"
-           >
-          <?MarkedContent page="1" ?>2.2
-         </Lbl>
-         <?MarkedContent page="1" ?>Example for list (enumerate)
-         <?ReferencedObject type="Annot" page="1" ?>
-        </Link>
+         <?MarkedContent page="1" ?>2.2
+        </Lbl>
+        <?MarkedContent page="1" ?>Example for list (enumerate)
         <?MarkedContent page="1" ?>2
        </Reference>
       </TOCI>
@@ -180,15 +159,11 @@
          <?References objects="8" ?>
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
-         <Link xmlns="http://iso.org/pdf2/ssn"
+         <Lbl xmlns="http://iso.org/pdf2/ssn"
            >
-          <Lbl xmlns="http://iso.org/pdf2/ssn"
-            >
-           <?MarkedContent page="1" ?>2.2.1
-          </Lbl>
-          <?MarkedContent page="1" ?>Example for list (4*enumerate)
-          <?ReferencedObject type="Annot" page="1" ?>
-         </Link>
+          <?MarkedContent page="1" ?>2.2.1
+         </Lbl>
+         <?MarkedContent page="1" ?>Example for list (4*enumerate)
          <?MarkedContent page="1" ?>2
         </Reference>
        </TOCI>
@@ -199,15 +174,11 @@
         <?References objects="9" ?>
        <Reference xmlns="http://iso.org/pdf/ssn"
          >
-        <Link xmlns="http://iso.org/pdf2/ssn"
+        <Lbl xmlns="http://iso.org/pdf2/ssn"
           >
-         <Lbl xmlns="http://iso.org/pdf2/ssn"
-           >
-          <?MarkedContent page="1" ?>2.3
-         </Lbl>
-         <?MarkedContent page="1" ?>Example for list (description)
-         <?ReferencedObject type="Annot" page="1" ?>
-        </Link>
+         <?MarkedContent page="1" ?>2.3
+        </Lbl>
+        <?MarkedContent page="1" ?>Example for list (description)
         <?MarkedContent page="1" ?>2
        </Reference>
       </TOCI>
@@ -219,15 +190,11 @@
          <?References objects="10" ?>
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
-         <Link xmlns="http://iso.org/pdf2/ssn"
+         <Lbl xmlns="http://iso.org/pdf2/ssn"
            >
-          <Lbl xmlns="http://iso.org/pdf2/ssn"
-            >
-           <?MarkedContent page="1" ?>2.3.1
-          </Lbl>
-          <?MarkedContent page="1" ?>Example for list (4*description)
-          <?ReferencedObject type="Annot" page="1" ?>
-         </Link>
+          <?MarkedContent page="1" ?>2.3.1
+         </Lbl>
+         <?MarkedContent page="1" ?>Example for list (4*description)
          <?MarkedContent page="1" ?>2
         </Reference>
        </TOCI>

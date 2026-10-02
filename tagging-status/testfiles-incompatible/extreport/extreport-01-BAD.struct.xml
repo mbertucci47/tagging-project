@@ -41,11 +41,11 @@
     </text-block>
    </semantic-para>
    <chapter xmlns="https://www.latex-project.org/ns/book"
-      rolemaps-to="H1"
+      rolemaps-to="Sect"
      >
-    <chapter-heading xmlns="data:something-custom"
+    <chapter-heading xmlns="https://www.latex-project.org/ns/book"
        title="Contents"
-       rolemaps-to="NonStruct"
+       rolemaps-to="H1"
        referenced-as="1"
       >
      <?MarkedContent page="2" ?>ContentsContents1
@@ -76,15 +76,11 @@
         <?References objects="3" ?>
        <Reference xmlns="http://iso.org/pdf/ssn"
          >
-        <Link xmlns="http://iso.org/pdf2/ssn"
+        <Lbl xmlns="http://iso.org/pdf2/ssn"
           >
-         <Lbl xmlns="http://iso.org/pdf2/ssn"
-           >
-          <?MarkedContent page="2" ?>1.1
-         </Lbl>
-         <?MarkedContent page="2" ?>Heading on level 1 (section)
-         <?ReferencedObject type="Annot" page="2" ?>
-        </Link>
+         <?MarkedContent page="2" ?>1.1
+        </Lbl>
+        <?MarkedContent page="2" ?>Heading on level 1 (section)
         <?MarkedContent page="2" ?>2
        </Reference>
       </TOCI>
@@ -96,15 +92,11 @@
          <?References objects="4" ?>
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
-         <Link xmlns="http://iso.org/pdf2/ssn"
+         <Lbl xmlns="http://iso.org/pdf2/ssn"
            >
-          <Lbl xmlns="http://iso.org/pdf2/ssn"
-            >
-           <?MarkedContent page="2" ?>1.1.1
-          </Lbl>
-          <?MarkedContent page="2" ?>Heading on level 2 (subsection)
-          <?ReferencedObject type="Annot" page="2" ?>
-         </Link>
+          <?MarkedContent page="2" ?>1.1.1
+         </Lbl>
+         <?MarkedContent page="2" ?>Heading on level 2 (subsection)
          <?MarkedContent page="2" ?>2
         </Reference>
        </TOCI>
@@ -115,15 +107,11 @@
         <?References objects="5" ?>
        <Reference xmlns="http://iso.org/pdf/ssn"
          >
-        <Link xmlns="http://iso.org/pdf2/ssn"
+        <Lbl xmlns="http://iso.org/pdf2/ssn"
           >
-         <Lbl xmlns="http://iso.org/pdf2/ssn"
-           >
-          <?MarkedContent page="2" ?>1.2
-         </Lbl>
-         <?MarkedContent page="2" ?>Lists
-         <?ReferencedObject type="Annot" page="2" ?>
-        </Link>
+         <?MarkedContent page="2" ?>1.2
+        </Lbl>
+        <?MarkedContent page="2" ?>Lists
         <?MarkedContent page="2" ?>3
        </Reference>
       </TOCI>
@@ -135,15 +123,11 @@
          <?References objects="6" ?>
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
-         <Link xmlns="http://iso.org/pdf2/ssn"
+         <Lbl xmlns="http://iso.org/pdf2/ssn"
            >
-          <Lbl xmlns="http://iso.org/pdf2/ssn"
-            >
-           <?MarkedContent page="2" ?>1.2.1
-          </Lbl>
-          <?MarkedContent page="2" ?>Example for list (itemize)
-          <?ReferencedObject type="Annot" page="2" ?>
-         </Link>
+          <?MarkedContent page="2" ?>1.2.1
+         </Lbl>
+         <?MarkedContent page="2" ?>Example for list (itemize)
          <?MarkedContent page="2" ?>3
         </Reference>
        </TOCI>
@@ -153,15 +137,11 @@
          <?References objects="7" ?>
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
-         <Link xmlns="http://iso.org/pdf2/ssn"
+         <Lbl xmlns="http://iso.org/pdf2/ssn"
            >
-          <Lbl xmlns="http://iso.org/pdf2/ssn"
-            >
-           <?MarkedContent page="2" ?>1.2.2
-          </Lbl>
-          <?MarkedContent page="2" ?>Example for list (enumerate)
-          <?ReferencedObject type="Annot" page="2" ?>
-         </Link>
+          <?MarkedContent page="2" ?>1.2.2
+         </Lbl>
+         <?MarkedContent page="2" ?>Example for list (enumerate)
          <?MarkedContent page="2" ?>4
         </Reference>
        </TOCI>
@@ -171,15 +151,11 @@
          <?References objects="8" ?>
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
-         <Link xmlns="http://iso.org/pdf2/ssn"
+         <Lbl xmlns="http://iso.org/pdf2/ssn"
            >
-          <Lbl xmlns="http://iso.org/pdf2/ssn"
-            >
-           <?MarkedContent page="2" ?>1.2.3
-          </Lbl>
-          <?MarkedContent page="2" ?>Example for list (description)
-          <?ReferencedObject type="Annot" page="2" ?>
-         </Link>
+          <?MarkedContent page="2" ?>1.2.3
+         </Lbl>
+         <?MarkedContent page="2" ?>Example for list (description)
          <?MarkedContent page="2" ?>4
         </Reference>
        </TOCI>
@@ -188,11 +164,11 @@
     </TOC>
    </chapter>
    <chapter xmlns="https://www.latex-project.org/ns/book"
-      rolemaps-to="H1"
+      rolemaps-to="Sect"
      >
-    <chapter-heading xmlns="data:something-custom"
+    <chapter-heading xmlns="https://www.latex-project.org/ns/book"
        title="Heading on level0 (chapter)"
-       rolemaps-to="NonStruct"
+       rolemaps-to="H1"
        referenced-as="2"
       >
      <?MarkedContent page="3" ?>Chapter

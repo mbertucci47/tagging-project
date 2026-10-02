@@ -60,13 +60,7 @@
         >
        <?MarkedContent page="1" ?>sensu
       </Em>
-      <?MarkedContent page="1" ?> 
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="1" ?>Thomas and Reif (1993
-       <?ReferencedObject type="Annot" page="1" ?>
-      </Link>
-      <?MarkedContent page="1" ?>)).
+      <?MarkedContent page="1" ?> Thomas and Reif (1993)).
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -77,25 +71,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>In this paper, I review the construction of a morphospace for early land plants (
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="1" ?>Niklas and Kerchner, 1984
-       <?ReferencedObject type="Annot" page="1" ?>
-      </Link>
-      <?MarkedContent page="1" ?>; 
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="1" ?>Niklas, 1997a
-       <?ReferencedObject type="Annot" page="1" ?>
-      </Link>
-      <?MarkedContent page="1" ?>; 
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="1" ?> 1997b
-       <?ReferencedObject type="Annot" page="1" ?>
-      </Link>
-      <?MarkedContent page="1" ?>) and show how it can be used ….
+      <?MarkedContent page="1" ?>In this paper, I review the construction of a morphospace for early land plants (Niklas and Kerchner, 1984; Niklas, 1997a; 1997b) and show how it can be used ….
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -106,19 +82,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>… horizontally cantilevered branches impose the largest bending moments on subtending branches (
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="1" ?>Niklas, 1992
-       <?ReferencedObject type="Annot" page="1" ?>
-      </Link>
-      <?MarkedContent page="1" ?>; 
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="1" ?> 1994a
-       <?ReferencedObject type="Annot" page="1" ?>
-      </Link>
-      <?MarkedContent page="1" ?>).
+      <?MarkedContent page="1" ?>… horizontally cantilevered branches impose the largest bending moments on subtending branches (Niklas, 1992; 1994a).
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -129,13 +93,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>… This definition removes the sharp dichotomy said to exist between ‘object’ and ‘process’ complexity (i.e. the number of different parts in an organic system versus the number of different interactions among them (
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="1" ?>McShea, 1996
-       <?ReferencedObject type="Annot" page="1" ?>
-      </Link>
-      <?MarkedContent page="1" ?>)).
+      <?MarkedContent page="1" ?>… This definition removes the sharp dichotomy said to exist between ‘object’ and ‘process’ complexity (i.e. the number of different parts in an organic system versus the number of different interactions among them (McShea, 1996)).
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -146,26 +104,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>… fossil record for Devonian and Carboniferous vascular land plants (
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="1" ?>Niklas et al., 1980
-       <?ReferencedObject type="Annot" page="1" ?>
-       <?ReferencedObject type="Annot" page="1" ?>
-      </Link>
-      <?MarkedContent page="1" ?>; 
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="1" ?> 1983
-       <?ReferencedObject type="Annot" page="1" ?>
-      </Link>
-      <?MarkedContent page="1" ?>; 
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="1" ?>Gensel and Andrews, 1984
-       <?ReferencedObject type="Annot" page="1" ?>
-      </Link>
-      <?MarkedContent page="1" ?>).
+      <?MarkedContent page="1" ?>… fossil record for Devonian and Carboniferous vascular land plants (Niklas et al., 1980; 1983; Gensel and Andrews, 1984).
      </text-block>
     </semantic-para>
    </section>
