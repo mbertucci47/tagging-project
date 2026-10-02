@@ -152,7 +152,7 @@ Gonzalez and J.~A. Pople},
   doi = {10.1021/ic9907718},
 }
 \end{filecontents}
-\ifdefined\Uchar\RequirePackage{luatagging}\AddToHook{begindocument/before}{\IfPackageLoadedF{hyperref}{\usepackage{hyperref}}}\fi
+\RequirePackage{luatagging}
 \DocumentMetadata{tagging=on}
 \documentclass{article}
 \usepackage[journal=jacsat,manuscript=article]{achemso}
