@@ -3,11 +3,11 @@
   <Document xmlns="http://iso.org/pdf2/ssn"
     >
    <chapter xmlns="https://www.latex-project.org/ns/book"
-      rolemaps-to="H1"
+      rolemaps-to="Sect"
      >
-    <chapter-heading xmlns="data:something-custom"
+    <chapter-heading xmlns="https://www.latex-project.org/ns/book"
        title="Clementine"
-       rolemaps-to="NonStruct"
+       rolemaps-to="H1"
       >
      <?MarkedContent page="1" ?>Clementine
     </chapter-heading>
@@ -123,11 +123,11 @@
     </semantic-para>
    </chapter>
    <chapter xmlns="https://www.latex-project.org/ns/book"
-      rolemaps-to="H1"
+      rolemaps-to="Sect"
      >
-    <chapter-heading xmlns="data:something-custom"
+    <chapter-heading xmlns="https://www.latex-project.org/ns/book"
        title="Mouse's Tale"
-       rolemaps-to="NonStruct"
+       rolemaps-to="H1"
       >
      <?MarkedContent page="1" ?>Mouse’s Tale
     </chapter-heading>

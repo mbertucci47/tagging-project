@@ -22,11 +22,11 @@
      <?MarkedContent page="3" ?>
     </part-heading>
     <chapter xmlns="https://www.latex-project.org/ns/book"
-       rolemaps-to="H1"
+       rolemaps-to="Sect"
       >
-     <chapter-heading xmlns="data:something-custom"
+     <chapter-heading xmlns="https://www.latex-project.org/ns/book"
         title="Some chapter"
-        rolemaps-to="NonStruct"
+        rolemaps-to="H1"
        >
       <?MarkedContent page="3" ?>CHAPTER
       <?MarkedContent page="3" ?> 

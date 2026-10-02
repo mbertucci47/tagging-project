@@ -25,11 +25,11 @@
     </text-block>
    </semantic-para>
    <chapter xmlns="https://www.latex-project.org/ns/book"
-      rolemaps-to="H1"
+      rolemaps-to="Sect"
      >
-    <chapter-heading xmlns="data:something-custom"
+    <chapter-heading xmlns="https://www.latex-project.org/ns/book"
        title="The Books index"
-       rolemaps-to="NonStruct"
+       rolemaps-to="H1"
       >
      <?MarkedContent page="3" ?>The Books index
     </chapter-heading>
@@ -41,12 +41,7 @@
         Layout:TextAlign="Start"
         rolemaps-to="P"
        >
-      <?MarkedContent page="3" ?>b1, 
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="3" ?>1
-       <?ReferencedObject type="Annot" page="3" ?>
-      </Link>
+      <?MarkedContent page="3" ?>b1, 1
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -57,21 +52,16 @@
         Layout:TextAlign="Start"
         rolemaps-to="P"
        >
-      <?MarkedContent page="3" ?>b2, 
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="3" ?>1
-       <?ReferencedObject type="Annot" page="3" ?>
-      </Link>
+      <?MarkedContent page="3" ?>b2, 1
      </text-block>
     </semantic-para>
    </chapter>
    <chapter xmlns="https://www.latex-project.org/ns/book"
-      rolemaps-to="H1"
+      rolemaps-to="Sect"
      >
-    <chapter-heading xmlns="data:something-custom"
+    <chapter-heading xmlns="https://www.latex-project.org/ns/book"
        title="The Authors index"
-       rolemaps-to="NonStruct"
+       rolemaps-to="H1"
       >
      <?MarkedContent page="5" ?>The Authors index
     </chapter-heading>
@@ -83,12 +73,7 @@
         Layout:TextAlign="Start"
         rolemaps-to="P"
        >
-      <?MarkedContent page="5" ?>a1, 
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="5" ?>1
-       <?ReferencedObject type="Annot" page="5" ?>
-      </Link>
+      <?MarkedContent page="5" ?>a1, 1
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -99,12 +84,7 @@
         Layout:TextAlign="Start"
         rolemaps-to="P"
        >
-      <?MarkedContent page="5" ?>a2, 
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="5" ?>1
-       <?ReferencedObject type="Annot" page="5" ?>
-      </Link>
+      <?MarkedContent page="5" ?>a2, 1
      </text-block>
     </semantic-para>
    </chapter>

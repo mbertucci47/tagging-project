@@ -59,11 +59,7 @@
        >
       <Reference xmlns="http://iso.org/pdf/ssn"
         >
-       <Link xmlns="http://iso.org/pdf2/ssn"
-         >
-        <?MarkedContent page="1" ?>Abstract
-        <?ReferencedObject type="Annot" page="1" ?>
-       </Link>
+       <?MarkedContent page="1" ?>Abstract
        <?MarkedContent page="1" ?>1
       </Reference>
      </TOCI>

@@ -153,7 +153,7 @@
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
-           <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\frac {1}{2}$
            </AssociatedFile>
           <?MarkedContent page="1" ?>12
@@ -165,7 +165,7 @@
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
-           <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\frac {1}{2}$
            </AssociatedFile>
           <?MarkedContent page="1" ?>12
@@ -253,7 +253,7 @@
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
-           <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\frac {1}{2}$
            </AssociatedFile>
           <?MarkedContent page="1" ?>12
@@ -265,7 +265,7 @@
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
-           <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\frac {1}{2}$
            </AssociatedFile>
           <?MarkedContent page="1" ?>12

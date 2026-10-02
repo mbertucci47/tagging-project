@@ -20,11 +20,7 @@
        <?References objects="1" ?>
       <Reference xmlns="http://iso.org/pdf/ssn"
         >
-       <Link xmlns="http://iso.org/pdf2/ssn"
-         >
-        <?MarkedContent page="1" ?>Something beside “A Limerick” in the ToC
-        <?ReferencedObject type="Annot" page="1" ?>
-       </Link>
+       <?MarkedContent page="1" ?>Something beside “A Limerick” in the ToC
        <?MarkedContent page="1" ?>1
       </Reference>
      </TOCI>
@@ -34,22 +30,18 @@
        <?References objects="2" ?>
       <Reference xmlns="http://iso.org/pdf/ssn"
         >
-       <Link xmlns="http://iso.org/pdf2/ssn"
-         >
-        <?MarkedContent page="1" ?>Love’s lost
-        <?ReferencedObject type="Annot" page="1" ?>
-       </Link>
+       <?MarkedContent page="1" ?>Love’s lost
        <?MarkedContent page="1" ?>1
       </Reference>
      </TOCI>
     </TOC>
    </section>
    <chapter xmlns="https://www.latex-project.org/ns/book"
-      rolemaps-to="H1"
+      rolemaps-to="Sect"
      >
-    <chapter-heading xmlns="data:something-custom"
+    <chapter-heading xmlns="https://www.latex-project.org/ns/book"
        title="A Limerick"
-       rolemaps-to="NonStruct"
+       rolemaps-to="H1"
        referenced-as="1"
       >
      <?MarkedContent page="1" ?>A Limerick
@@ -133,11 +125,11 @@
     </semantic-para>
    </chapter>
    <chapter xmlns="https://www.latex-project.org/ns/book"
-      rolemaps-to="H1"
+      rolemaps-to="Sect"
      >
-    <chapter-heading xmlns="data:something-custom"
+    <chapter-heading xmlns="https://www.latex-project.org/ns/book"
        title="Love's lost"
-       rolemaps-to="NonStruct"
+       rolemaps-to="H1"
        referenced-as="2"
       >
      <?MarkedContent page="1" ?>Love’s lost
@@ -210,11 +202,11 @@
     </semantic-para>
    </chapter>
    <chapter xmlns="https://www.latex-project.org/ns/book"
-      rolemaps-to="H1"
+      rolemaps-to="Sect"
      >
-    <chapter-heading xmlns="data:something-custom"
+    <chapter-heading xmlns="https://www.latex-project.org/ns/book"
        title="Yet another love's lost"
-       rolemaps-to="NonStruct"
+       rolemaps-to="H1"
       >
      <?MarkedContent page="1" ?>Yet another love’s lost
     </chapter-heading>

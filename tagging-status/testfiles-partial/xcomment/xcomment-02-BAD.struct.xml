@@ -35,7 +35,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>This figure is included. 
+     <?MarkedContent page="1" ?>This figure is included.
     </text-block>
    </semantic-para>
   </Document>

@@ -43,12 +43,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="2" ?>b1, 
-     <Link xmlns="http://iso.org/pdf2/ssn"
-       >
-      <?MarkedContent page="2" ?>1
-      <?ReferencedObject type="Annot" page="2" ?>
-     </Link>
+     <?MarkedContent page="2" ?>b1, 1
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -59,12 +54,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="2" ?>b2, 
-     <Link xmlns="http://iso.org/pdf2/ssn"
-       >
-      <?MarkedContent page="2" ?>1
-      <?ReferencedObject type="Annot" page="2" ?>
-     </Link>
+     <?MarkedContent page="2" ?>b2, 1
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -86,12 +76,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="3" ?>a1, 
-     <Link xmlns="http://iso.org/pdf2/ssn"
-       >
-      <?MarkedContent page="3" ?>1
-      <?ReferencedObject type="Annot" page="3" ?>
-     </Link>
+     <?MarkedContent page="3" ?>a1, 1
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -102,12 +87,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="3" ?>a2, 
-     <Link xmlns="http://iso.org/pdf2/ssn"
-       >
-      <?MarkedContent page="3" ?>1
-      <?ReferencedObject type="Annot" page="3" ?>
-     </Link>
+     <?MarkedContent page="3" ?>a2, 1
     </text-block>
    </semantic-para>
   </Document>

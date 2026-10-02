@@ -16,17 +16,13 @@
         referenced-as="2"
        >
        <?References objects="1" ?>
-      <Link xmlns="http://iso.org/pdf2/ssn"
+      <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextPosition="Sup"
+         rolemaps-to="Span"
         >
-       <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
-          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-          Layout:TextPosition="Sup"
-          rolemaps-to="Span"
-         >
-        <?MarkedContent page="1" ?>1
-       </text-fragment>
-       <?ReferencedObject type="Annot" page="1" ?>
-      </Link>
+       <?MarkedContent page="1" ?>1
+      </text-fragment>
      </footnotemark>
      <footnote xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="FENote"
@@ -73,17 +69,13 @@
         referenced-as="4"
        >
        <?References objects="3" ?>
-      <Link xmlns="http://iso.org/pdf2/ssn"
+      <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextPosition="Sup"
+         rolemaps-to="Span"
         >
-       <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
-          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-          Layout:TextPosition="Sup"
-          rolemaps-to="Span"
-         >
-        <?MarkedContent page="1" ?>2
-       </text-fragment>
-       <?ReferencedObject type="Annot" page="1" ?>
-      </Link>
+       <?MarkedContent page="1" ?>2
+      </text-fragment>
      </footnotemark>
      <footnote xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="FENote"
@@ -153,17 +145,13 @@
         referenced-as="6"
        >
        <?References objects="5" ?>
-      <Link xmlns="http://iso.org/pdf2/ssn"
+      <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextPosition="Sup"
+         rolemaps-to="Span"
         >
-       <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
-          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-          Layout:TextPosition="Sup"
-          rolemaps-to="Span"
-         >
-        <?MarkedContent page="2" ?>3
-       </text-fragment>
-       <?ReferencedObject type="Annot" page="2" ?>
-      </Link>
+       <?MarkedContent page="2" ?>3
+      </text-fragment>
      </footnotemark>
      <footnote xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="FENote"
@@ -211,17 +199,13 @@
         referenced-as="8"
        >
        <?References objects="7" ?>
-      <Link xmlns="http://iso.org/pdf2/ssn"
+      <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextPosition="Sup"
+         rolemaps-to="Span"
         >
-       <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
-          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-          Layout:TextPosition="Sup"
-          rolemaps-to="Span"
-         >
-        <?MarkedContent page="2" ?>4
-       </text-fragment>
-       <?ReferencedObject type="Annot" page="2" ?>
-      </Link>
+       <?MarkedContent page="2" ?>4
+      </text-fragment>
      </footnotemark>
      <footnote xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="FENote"
@@ -292,17 +276,13 @@
         referenced-as="10"
        >
        <?References objects="9" ?>
-      <Link xmlns="http://iso.org/pdf2/ssn"
+      <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextPosition="Sup"
+         rolemaps-to="Span"
         >
-       <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
-          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-          Layout:TextPosition="Sup"
-          rolemaps-to="Span"
-         >
-        <?MarkedContent page="3" ?>5
-       </text-fragment>
-       <?ReferencedObject type="Annot" page="3" ?>
-      </Link>
+       <?MarkedContent page="3" ?>5
+      </text-fragment>
      </footnotemark>
      <footnote xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="FENote"
@@ -373,17 +353,13 @@
         referenced-as="12"
        >
        <?References objects="11" ?>
-      <Link xmlns="http://iso.org/pdf2/ssn"
+      <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextPosition="Sup"
+         rolemaps-to="Span"
         >
-       <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
-          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-          Layout:TextPosition="Sup"
-          rolemaps-to="Span"
-         >
-        <?MarkedContent page="4" ?>6
-       </text-fragment>
-       <?ReferencedObject type="Annot" page="4" ?>
-      </Link>
+       <?MarkedContent page="4" ?>6
+      </text-fragment>
      </footnotemark>
      <footnote xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="FENote"
@@ -428,16 +404,16 @@
       >
     </text-block>
    </semantic-para>
-   <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      rolemaps-to="Part"
-     >
-    <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-       Layout:TextAlign="Justify"
-       rolemaps-to="P"
-      >
-    </text-block>
-   </semantic-para>
   </Document>
+  <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+     rolemaps-to="Part"
+    >
+   <text-block xmlns="https://www.latex-project.org/ns/dflt"
+      xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+      Layout:TextAlign="Justify"
+      rolemaps-to="P"
+     >
+   </text-block>
+  </semantic-para>
  </StructTreeRoot>
 </PDF>

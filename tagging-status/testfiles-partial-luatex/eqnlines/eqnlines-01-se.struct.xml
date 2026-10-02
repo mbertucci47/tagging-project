@@ -72,7 +72,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="1" ?>
@@ -135,7 +135,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="1" ?>
@@ -193,7 +193,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="1" ?>
@@ -292,7 +292,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="1" ?>
@@ -399,7 +399,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="1" ?>
@@ -498,7 +498,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="1" ?>
@@ -592,7 +592,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="1" ?>
@@ -694,7 +694,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="1" ?>
@@ -861,7 +861,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="1" ?>
@@ -959,7 +959,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="1" ?>
@@ -1063,7 +1063,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="1" ?>
@@ -1172,7 +1172,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="2" ?>
@@ -1231,7 +1231,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="2" ?>
@@ -1295,7 +1295,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="2" ?>
@@ -1643,7 +1643,7 @@
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:Placement="Inline"
         >
-        <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         
         </AssociatedFile>
        <?MarkedContent page="2" ?>
@@ -1734,7 +1734,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="2" ?>
@@ -1901,7 +1901,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="2" ?>
@@ -1954,7 +1954,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="2" ?>
@@ -2029,7 +2029,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="2" ?>
@@ -2098,7 +2098,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="2" ?>
@@ -2173,7 +2173,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="2" ?>
@@ -2252,7 +2252,7 @@
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:Placement="Block"
          >
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          
          </AssociatedFile>
         <?MarkedContent page="2" ?>
@@ -2321,7 +2321,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="2" ?>
@@ -2467,7 +2467,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="3" ?>
@@ -2607,7 +2607,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="3" ?>
@@ -2737,7 +2737,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="3" ?>
@@ -2879,7 +2879,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="3" ?>
@@ -3014,7 +3014,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="3" ?>
@@ -3149,7 +3149,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="3" ?>
@@ -3330,7 +3330,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="3" ?>
@@ -3528,7 +3528,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="4" ?>
@@ -3649,7 +3649,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <?MarkedContent page="4" ?>
@@ -3819,7 +3819,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
@@ -3842,14 +3842,6 @@
          <mtd xmlns="http://www.w3.org/1998/Math/MathML"
             intent=":pause-medium"
            >
-          <mpadded xmlns="http://www.w3.org/1998/Math/MathML"
-             depth="0"
-             height="0"
-            >
-           <mtext xmlns="http://www.w3.org/1998/Math/MathML"
-             >
-           </mtext>
-          </mpadded>
           <mrow xmlns="http://www.w3.org/1998/Math/MathML"
             >
           </mrow>
@@ -3926,7 +3918,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
@@ -4066,7 +4058,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
@@ -4202,7 +4194,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
@@ -4327,7 +4319,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
@@ -4350,14 +4342,6 @@
          <mtd xmlns="http://www.w3.org/1998/Math/MathML"
             intent=":pause-medium"
            >
-          <mpadded xmlns="http://www.w3.org/1998/Math/MathML"
-             depth="0"
-             height="0"
-            >
-           <mtext xmlns="http://www.w3.org/1998/Math/MathML"
-             >
-           </mtext>
-          </mpadded>
           <mrow xmlns="http://www.w3.org/1998/Math/MathML"
             >
           </mrow>
@@ -4487,20 +4471,12 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
          display="block"
         >
-       <mpadded xmlns="http://www.w3.org/1998/Math/MathML"
-          depth="0"
-          height="0"
-         >
-        <mtext xmlns="http://www.w3.org/1998/Math/MathML"
-          >
-        </mtext>
-       </mpadded>
        <mrow xmlns="http://www.w3.org/1998/Math/MathML"
          >
        </mrow>
@@ -4586,7 +4562,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
@@ -4734,7 +4710,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
@@ -4872,7 +4848,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
@@ -5001,7 +4977,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
@@ -5130,7 +5106,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
@@ -5300,7 +5276,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
@@ -5470,7 +5446,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
@@ -5640,7 +5616,7 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        
        </AssociatedFile>
       <math xmlns="http://www.w3.org/1998/Math/MathML"

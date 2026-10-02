@@ -287,11 +287,7 @@
           <Reference xmlns="http://iso.org/pdf/ssn"
             >
             <?References objects="1" ?>
-           <Link xmlns="http://iso.org/pdf2/ssn"
-             >
-            <?MarkedContent page="1" ?>1
-            <?ReferencedObject type="Annot" page="1" ?>
-           </Link>
+           <?MarkedContent page="1" ?>1
           </Reference>
           <?MarkedContent page="1" ?>].
          </text-block>
