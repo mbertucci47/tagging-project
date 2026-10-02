@@ -52,12 +52,7 @@
         Layout:TextAlign="Start"
         rolemaps-to="P"
        >
-      <?MarkedContent page="2" ?>relativity, 
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="2" ?>1
-       <?ReferencedObject type="Annot" page="2" ?>
-      </Link>
+      <?MarkedContent page="2" ?>relativity, 1
      </text-block>
     </semantic-para>
    </section>
@@ -89,12 +84,7 @@
         Layout:TextAlign="Start"
         rolemaps-to="P"
        >
-      <?MarkedContent page="3" ?>Einstein, Albert, 
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="3" ?>1
-       <?ReferencedObject type="Annot" page="3" ?>
-      </Link>
+      <?MarkedContent page="3" ?>Einstein, Albert, 1
      </text-block>
     </semantic-para>
    </section>

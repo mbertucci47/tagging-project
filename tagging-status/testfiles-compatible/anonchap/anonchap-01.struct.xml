@@ -1,1 +1,108 @@
-<run-error code="1" />
+<PDF version="2.0">
+ <StructTreeRoot>
+  <Document xmlns="http://iso.org/pdf2/ssn"
+    >
+   <chapter xmlns="https://www.latex-project.org/ns/book"
+      rolemaps-to="Sect"
+     >
+    <chapter-heading xmlns="https://www.latex-project.org/ns/book"
+       title="First"
+       rolemaps-to="H1"
+      >
+     <heading-number xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Lbl"
+       >
+      <?MarkedContent page="1" ?>1
+     </heading-number>
+     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>First
+    </chapter-heading>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="1" ?>text
+     </text-block>
+    </semantic-para>
+   </chapter>
+   <chapter xmlns="https://www.latex-project.org/ns/book"
+      rolemaps-to="Sect"
+     >
+    <chapter-heading xmlns="https://www.latex-project.org/ns/book"
+       title="Second"
+       rolemaps-to="H1"
+      >
+     <heading-number xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Lbl"
+       >
+      <?MarkedContent page="3" ?>2:
+     </heading-number>
+     <?MarkedContent page="3" ?> 
+     <?MarkedContent page="3" ?>Second
+    </chapter-heading>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="3" ?>text
+     </text-block>
+    </semantic-para>
+   </chapter>
+   <chapter xmlns="https://www.latex-project.org/ns/book"
+      rolemaps-to="Sect"
+     >
+    <chapter-heading xmlns="https://www.latex-project.org/ns/book"
+       title="Third"
+       rolemaps-to="H1"
+      >
+     <?MarkedContent page="5" ?>Chap
+     <?MarkedContent page="5" ?> 
+     <heading-number xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Lbl"
+       >
+      <?MarkedContent page="5" ?>3:
+     </heading-number>
+     <?MarkedContent page="5" ?> 
+     <?MarkedContent page="5" ?>Third
+    </chapter-heading>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="5" ?>text
+     </text-block>
+    </semantic-para>
+   </chapter>
+   <chapter xmlns="https://www.latex-project.org/ns/book"
+      rolemaps-to="Sect"
+     >
+    <chapter-heading xmlns="https://www.latex-project.org/ns/book"
+       title="Fourth"
+       rolemaps-to="H1"
+      >
+     <?MarkedContent page="7" ?>Chapter
+     <?MarkedContent page="7" ?> 
+     <heading-number xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Lbl"
+       >
+      <?MarkedContent page="7" ?>4
+     </heading-number>
+     <?MarkedContent page="7" ?>Fourth
+     <?MarkedContent page="7" ?>
+    </chapter-heading>
+   </chapter>
+  </Document>
+ </StructTreeRoot>
+</PDF>

@@ -14,11 +14,11 @@
     </text-block>
    </semantic-para>
    <chapter xmlns="https://www.latex-project.org/ns/book"
-      rolemaps-to="H1"
+      rolemaps-to="Sect"
      >
-    <chapter-heading xmlns="data:something-custom"
+    <chapter-heading xmlns="https://www.latex-project.org/ns/book"
        title="One"
-       rolemaps-to="NonStruct"
+       rolemaps-to="H1"
       >
      <?MarkedContent page="2" ?>Chapter
      <?MarkedContent page="2" ?> 
@@ -42,11 +42,11 @@
     </semantic-para>
    </chapter>
    <chapter xmlns="https://www.latex-project.org/ns/book"
-      rolemaps-to="H1"
+      rolemaps-to="Sect"
      >
-    <chapter-heading xmlns="data:something-custom"
+    <chapter-heading xmlns="https://www.latex-project.org/ns/book"
        title="Two"
-       rolemaps-to="NonStruct"
+       rolemaps-to="H1"
       >
      <?MarkedContent page="3" ?>Chapter
      <?MarkedContent page="3" ?> 

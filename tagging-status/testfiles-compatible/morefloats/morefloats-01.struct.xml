@@ -13,6 +13,2236 @@
      <?MarkedContent page="1" ?>text
     </text-block>
    </semantic-para>
+   <tables xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Sect"
+     >
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>Table 1: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="1" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>Table 2: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="1" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="2" ?>Table 3: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="2" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="2" ?>Table 4: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="2" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="2" ?>Table 5: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="2" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="2" ?>Table 6: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="2" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="2" ?>Table 7: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="2" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="2" ?>Table 8: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="2" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="2" ?>Table 9: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="2" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="2" ?>Table 10: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="2" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="2" ?>Table 11: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="2" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="2" ?>Table 12: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="2" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="2" ?>Table 13: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="2" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="2" ?>Table 14: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="2" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="2" ?>Table 15: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="2" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="2" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="3" ?>Table 16: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="3" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="3" ?>Table 17: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="3" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="3" ?>Table 18: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="3" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="3" ?>Table 19: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="3" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="3" ?>Table 20: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="3" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="3" ?>Table 21: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="3" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="3" ?>Table 22: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="3" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="3" ?>Table 23: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="3" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="3" ?>Table 24: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="3" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="3" ?>Table 25: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="3" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="3" ?>Table 26: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="3" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="3" ?>Table 27: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="3" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="3" ?>Table 28: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="3" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="4" ?>Table 29: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="4" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="4" ?>Table 30: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="4" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="4" ?>Table 31: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="4" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="4" ?>Table 32: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="4" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="4" ?>Table 33: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="4" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="4" ?>Table 34: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="4" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="4" ?>Table 35: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="4" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="4" ?>Table 36: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="4" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="4" ?>Table 37: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="4" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="4" ?>Table 38: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="4" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="4" ?>Table 39: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="4" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="4" ?>Table 40: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="4" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="4" ?>Table 41: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="4" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="5" ?>Table 42: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="5" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="5" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="5" ?>Table 43: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="5" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="5" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="5" ?>Table 44: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="5" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="5" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="5" ?>Table 45: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="5" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="5" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="5" ?>Table 46: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="5" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="5" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="5" ?>Table 47: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="5" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="5" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="5" ?>Table 48: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="5" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="5" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="5" ?>Table 49: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="5" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="5" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="5" ?>Table 50: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="5" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="5" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="5" ?>Table 51: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="5" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="5" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="5" ?>Table 52: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="5" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="5" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="5" ?>Table 53: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="5" ?>A floating Table.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="5" ?>Atable, which will keep floating.
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+   </tables>
   </Document>
  </StructTreeRoot>
 </PDF>

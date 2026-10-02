@@ -95,12 +95,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="1" ?>1
-       <?ReferencedObject type="Annot" page="1" ?>
-      </Link>
-      <?MarkedContent page="1" ?>Bc.
+      <?MarkedContent page="1" ?>1Bc.
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -148,12 +143,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="1" ?>1
-       <?ReferencedObject type="Annot" page="1" ?>
-      </Link>
-      <?MarkedContent page="1" ?>Bc.
+      <?MarkedContent page="1" ?>1Bc.
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

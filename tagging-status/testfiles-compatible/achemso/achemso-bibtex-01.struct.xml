@@ -111,32 +111,20 @@
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
           <?References objects="1" ?>
-         <Link xmlns="http://iso.org/pdf2/ssn"
-           >
-          <?MarkedContent page="1" ?>1
-          <?ReferencedObject type="Annot" page="1" ?>
-         </Link>
+         <?MarkedContent page="1" ?>1
         </Reference>
         <?MarkedContent page="1" ?>–
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
           <?References objects="2" ?>
-         <Link xmlns="http://iso.org/pdf2/ssn"
-           >
-          <?MarkedContent page="1" ?>4
-          <?ReferencedObject type="Annot" page="1" ?>
-         </Link>
+         <?MarkedContent page="1" ?>4
         </Reference>
        </text-fragment>
        <?MarkedContent page="1" ?> The use of natbib allows the use of the various citation commands of that package: 
        <Reference xmlns="http://iso.org/pdf/ssn"
          >
          <?References objects="3" ?>
-        <Link xmlns="http://iso.org/pdf2/ssn"
-          >
-         <?MarkedContent page="1" ?>Abernethy et al.
-         <?ReferencedObject type="Annot" page="1" ?>
-        </Link>
+        <?MarkedContent page="1" ?>Abernethy et al.
        </Reference>
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -148,11 +136,7 @@
        <Reference xmlns="http://iso.org/pdf/ssn"
          >
          <?References objects="4" ?>
-        <Link xmlns="http://iso.org/pdf2/ssn"
-          >
-         <?MarkedContent page="1" ?>1999
-         <?ReferencedObject type="Annot" page="1" ?>
-        </Link>
+        <?MarkedContent page="1" ?>1999
        </Reference>
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -164,11 +148,7 @@
        <Reference xmlns="http://iso.org/pdf/ssn"
          >
          <?References objects="1" ?>
-        <Link xmlns="http://iso.org/pdf2/ssn"
-          >
-         <?MarkedContent page="1" ?>1
-         <?ReferencedObject type="Annot" page="1" ?>
-        </Link>
+        <?MarkedContent page="1" ?>1
        </Reference>
        <?MarkedContent page="1" ?>. Long lists of authors will be automatically truncated in most article formats, but not in supplementary information or reviews.
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
@@ -179,11 +159,7 @@
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
           <?References objects="5" ?>
-         <Link xmlns="http://iso.org/pdf2/ssn"
-           >
-          <?MarkedContent page="1" ?>6
-          <?ReferencedObject type="Annot" page="1" ?>
-         </Link>
+         <?MarkedContent page="1" ?>6
         </Reference>
        </text-fragment>
        <?MarkedContent page="1" ?> If you encounter problems with the citation macros, please check that your copy of natbib is up to date. The demonstration database file achemso-demo.bib shows how to complete entries correctly. Notice that “et al.” is auto-formatted using the \latin command.
@@ -207,20 +183,10 @@
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
           <?References objects="6" ?>
-         <Link xmlns="http://iso.org/pdf2/ssn"
-           >
-          <?MarkedContent page="1" ?>7
-          <?ReferencedObject type="Annot" page="1" ?>
-         </Link>
+         <?MarkedContent page="1" ?>7
         </Reference>
        </text-fragment>
-       <?MarkedContent page="1" ?> Citations other than the first of the list should be indicated with a star. If the mciteplus package is not installed, the standard bibliography tools will still work but starred references will be ignored. Individual references can be referred to using \mciteSubRef: “ref. 
-       <Link xmlns="http://iso.org/pdf2/ssn"
-         >
-        <?MarkedContent page="1" ?>7.c
-        <?ReferencedObject type="Annot" page="1" ?>
-       </Link>
-       <?MarkedContent page="1" ?>”.
+       <?MarkedContent page="1" ?> Citations other than the first of the list should be indicated with a star. If the mciteplus package is not installed, the standard bibliography tools will still work but starred references will be ignored. Individual references can be referred to using \mciteSubRef: “ref. 7.c”.
       </text-block>
      </semantic-para>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -240,11 +206,7 @@
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
           <?References objects="7" ?>
-         <Link xmlns="http://iso.org/pdf2/ssn"
-           >
-          <?MarkedContent page="1" ?>8
-          <?ReferencedObject type="Annot" page="1" ?>
-         </Link>
+         <?MarkedContent page="1" ?>8
         </Reference>
        </text-fragment>
        <?MarkedContent page="1" ?> As with citations, the text should be placed before punctuation. A note is also generated if a citation has an optional note. This assumes that the whole work has already been cited: odd numbering will result if this is not the case.
@@ -256,11 +218,7 @@
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
           <?References objects="8" ?>
-         <Link xmlns="http://iso.org/pdf2/ssn"
-           >
-          <?MarkedContent page="1" ?>9
-          <?ReferencedObject type="Annot" page="1" ?>
-         </Link>
+         <?MarkedContent page="1" ?>9
         </Reference>
        </text-fragment>
       </text-block>
@@ -572,11 +530,7 @@
           <Reference xmlns="http://iso.org/pdf/ssn"
             >
             <?References objects="4" ?>
-           <Link xmlns="http://iso.org/pdf2/ssn"
-             >
-            <?MarkedContent page="2" ?>5
-            <?ReferencedObject type="Annot" page="2" ?>
-           </Link>
+           <?MarkedContent page="2" ?>5
           </Reference>
           <?MarkedContent page="2" ?>, p. 1.
          </text-block>

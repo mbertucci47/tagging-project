@@ -58,17 +58,13 @@
          referenced-as="2"
         >
         <?References objects="1" ?>
-       <Link xmlns="http://iso.org/pdf2/ssn"
+       <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:TextPosition="Sup"
+          rolemaps-to="Span"
          >
-        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
-           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-           Layout:TextPosition="Sup"
-           rolemaps-to="Span"
-          >
-         <?MarkedContent page="2" ?>1
-        </text-fragment>
-        <?ReferencedObject type="Annot" page="2" ?>
-       </Link>
+        <?MarkedContent page="2" ?>1
+       </text-fragment>
       </footnotemark>
       <footnote xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="FENote"
@@ -112,6 +108,39 @@
      </text-block>
     </semantic-para>
    </section>
+   <figures xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Sect"
+     >
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="2" ?>Figure 1: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="2" ?>Some caption
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="2" ?>Some figure
+      </text-block>
+     </semantic-para>
+    </float>
+   </figures>
   </Document>
  </StructTreeRoot>
 </PDF>
