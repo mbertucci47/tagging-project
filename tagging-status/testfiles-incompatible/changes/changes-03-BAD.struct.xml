@@ -9,7 +9,6 @@
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
-       referenced-as="1"
       >
      <?MarkedContent page="1" ?>Sample text, something added, a wordblob
      <?MarkedContent page="1" ?> replaced and some
@@ -108,7 +107,6 @@
      <TOCI xmlns="http://iso.org/pdf/ssn"
         title="Added: added"
        >
-       <?References objects="1" ?>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Part"
         >
@@ -119,28 +117,23 @@
          >
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
-         <Link xmlns="http://iso.org/pdf2/ssn"
-           >
-          <?MarkedContent page="1" ?>Added: 
-          <?ReferencedObject type="Annot" page="1" ?>
-         </Link>
-         <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
-            rolemaps-to="Div"
-           >
-         </text-parbox>
-         <text-block xmlns="https://www.latex-project.org/ns/dflt"
-            rolemaps-to="P"
-           >
-         </text-block>
-         <?MarkedContent page="1" ?>1
+         <?MarkedContent page="1" ?>Added: 
         </Reference>
+        <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Div"
+          >
+        </text-parbox>
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="P"
+          >
+         <?MarkedContent page="1" ?>1
+        </text-block>
        </text-block>
       </semantic-para>
      </TOCI>
      <TOCI xmlns="http://iso.org/pdf/ssn"
         title="Replaced (FMi): word"
        >
-       <?References objects="1" ?>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Part"
         >
@@ -151,28 +144,23 @@
          >
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
-         <Link xmlns="http://iso.org/pdf2/ssn"
-           >
-          <?MarkedContent page="1" ?>Replaced (FMi): 
-          <?ReferencedObject type="Annot" page="1" ?>
-         </Link>
-         <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
-            rolemaps-to="Div"
-           >
-         </text-parbox>
-         <text-block xmlns="https://www.latex-project.org/ns/dflt"
-            rolemaps-to="P"
-           >
-         </text-block>
-         <?MarkedContent page="1" ?>1
+         <?MarkedContent page="1" ?>Replaced (FMi): 
         </Reference>
+        <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Div"
+          >
+        </text-parbox>
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="P"
+          >
+         <?MarkedContent page="1" ?>1
+        </text-block>
        </text-block>
       </semantic-para>
      </TOCI>
      <TOCI xmlns="http://iso.org/pdf/ssn"
         title="Deleted (FMi): some"
        >
-       <?References objects="1" ?>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Part"
         >
@@ -183,28 +171,23 @@
          >
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
-         <Link xmlns="http://iso.org/pdf2/ssn"
-           >
-          <?MarkedContent page="1" ?>Deleted (FMi): 
-          <?ReferencedObject type="Annot" page="1" ?>
-         </Link>
-         <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
-            rolemaps-to="Div"
-           >
-         </text-parbox>
-         <text-block xmlns="https://www.latex-project.org/ns/dflt"
-            rolemaps-to="P"
-           >
-         </text-block>
-         <?MarkedContent page="1" ?>1
+         <?MarkedContent page="1" ?>Deleted (FMi): 
         </Reference>
+        <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Div"
+          >
+        </text-parbox>
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="P"
+          >
+         <?MarkedContent page="1" ?>1
+        </text-block>
        </text-block>
       </semantic-para>
      </TOCI>
      <TOCI xmlns="http://iso.org/pdf/ssn"
         title="Commented: Fix it everywhere in the document!"
        >
-       <?References objects="1" ?>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Part"
         >
@@ -215,21 +198,17 @@
          >
         <Reference xmlns="http://iso.org/pdf/ssn"
           >
-         <Link xmlns="http://iso.org/pdf2/ssn"
-           >
-          <?MarkedContent page="1" ?>Commented: 
-          <?ReferencedObject type="Annot" page="1" ?>
-         </Link>
-         <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
-            rolemaps-to="Div"
-           >
-         </text-parbox>
-         <text-block xmlns="https://www.latex-project.org/ns/dflt"
-            rolemaps-to="P"
-           >
-         </text-block>
-         <?MarkedContent page="1" ?>1
+         <?MarkedContent page="1" ?>Commented: 
         </Reference>
+        <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Div"
+          >
+        </text-parbox>
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="P"
+          >
+         <?MarkedContent page="1" ?>1
+        </text-block>
        </text-block>
       </semantic-para>
      </TOCI>

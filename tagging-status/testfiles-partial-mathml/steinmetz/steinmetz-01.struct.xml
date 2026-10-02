@@ -19,7 +19,7 @@
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝐴</mi> <mi> <mglyph/> </mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $A\phase {\alpha }$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝐴
@@ -51,7 +51,7 @@
        <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝐴</mi> <mi> <mglyph/> </mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $A\phase {30^{\circ }}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝐴
@@ -83,7 +83,7 @@
        <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝐴</mi> <mi> <mglyph/> </mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $A\phase [0]{\alpha }$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝐴
@@ -115,7 +115,7 @@
        <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝐴</mi> <mi> <mglyph/> </mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $A\phase [1]{\alpha }$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝐴
@@ -147,7 +147,7 @@
        <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝐴</mi> <mi> <mglyph/> </mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $A\phase [2]{\alpha }$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝐴
@@ -179,7 +179,7 @@
        <AssociatedFile name="mathml-6.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝐴</mi> <mi> <mglyph/> </mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $A\phase [3]{\alpha }$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝐴
@@ -211,7 +211,7 @@
        <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝐴</mi> <mi> <mglyph/> </mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $A\phase [0]{\frac {\alpha }{2}}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝐴
@@ -243,7 +243,7 @@
        <AssociatedFile name="mathml-8.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝐴</mi> <mi> <mglyph/> </mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $A\phase [1]{\frac {\alpha }{2}}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝐴
@@ -275,7 +275,7 @@
        <AssociatedFile name="mathml-9.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝐴</mi> <mi> <mglyph/> </mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $A\phase [2]{\frac {\alpha }{2}}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝐴
@@ -307,7 +307,7 @@
        <AssociatedFile name="mathml-10.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝐴</mi> <mi> <mglyph/> </mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $A\phase [3]{\frac {\alpha }{2}}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝐴

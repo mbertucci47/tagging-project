@@ -25,7 +25,7 @@
         <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝜆</mi> <mn>1</mn> </msub> </math>
         </AssociatedFile>
-        <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $\lambda _1$
         </AssociatedFile>
        <?MarkedContent page="1" ?>𝜆1
@@ -44,7 +44,7 @@
         <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝐴</mi> <mn>1</mn> </msub> </math>
         </AssociatedFile>
-        <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $A_1$
         </AssociatedFile>
        <?MarkedContent page="1" ?>𝐴1
@@ -63,7 +63,7 @@
         <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝐷</mi> <mn>1</mn> </msub> </math>
         </AssociatedFile>
-        <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $D_1$
         </AssociatedFile>
        <?MarkedContent page="1" ?>𝐷1
@@ -82,7 +82,7 @@
         <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝜆</mi> <mn>1</mn> </msub> </math>
         </AssociatedFile>
-        <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $\lambda _1$
         </AssociatedFile>
        <?MarkedContent page="1" ?>𝜆1
@@ -101,7 +101,7 @@
         <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝐴</mi> <mn>1</mn> </msub> </math>
         </AssociatedFile>
-        <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $A_1$
         </AssociatedFile>
        <?MarkedContent page="1" ?>𝐴1
@@ -120,7 +120,7 @@
         <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝐷</mi> <mn>1</mn> </msub> </math>
         </AssociatedFile>
-        <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $D_1$
         </AssociatedFile>
        <?MarkedContent page="1" ?>𝐷1
@@ -139,7 +139,7 @@
         <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝜆</mi> <mn>1</mn> </msub> </math>
         </AssociatedFile>
-        <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $\lambda _1$
         </AssociatedFile>
        <?MarkedContent page="1" ?>𝜆1
@@ -158,7 +158,7 @@
         <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝐴</mi> <mn>1</mn> </msub> </math>
         </AssociatedFile>
-        <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $A_1$
         </AssociatedFile>
        <?MarkedContent page="1" ?>𝐴1
@@ -177,7 +177,7 @@
         <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝐷</mi> <mn>1</mn> </msub> </math>
         </AssociatedFile>
-        <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $D_1$
         </AssociatedFile>
        <?MarkedContent page="1" ?>𝐷1
@@ -201,7 +201,7 @@
         <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝜆</mi> <mn>1</mn> </msub> </math>
         </AssociatedFile>
-        <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $\lambda _1$
         </AssociatedFile>
       </Formula>
@@ -217,7 +217,7 @@
         <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝐴</mi> <mn>1</mn> </msub> </math>
         </AssociatedFile>
-        <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $A_1$
         </AssociatedFile>
       </Formula>
@@ -233,7 +233,7 @@
         <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝐷</mi> <mn>1</mn> </msub> </math>
         </AssociatedFile>
-        <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $D_1$
         </AssociatedFile>
       </Formula>
@@ -249,7 +249,7 @@
         <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝜆</mi> <mn>1</mn> </msub> </math>
         </AssociatedFile>
-        <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $\lambda _1$
         </AssociatedFile>
       </Formula>
@@ -265,7 +265,7 @@
         <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝐴</mi> <mn>1</mn> </msub> </math>
         </AssociatedFile>
-        <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $A_1$
         </AssociatedFile>
       </Formula>
@@ -281,7 +281,7 @@
         <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝐷</mi> <mn>1</mn> </msub> </math>
         </AssociatedFile>
-        <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $D_1$
         </AssociatedFile>
       </Formula>
@@ -297,7 +297,7 @@
         <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝜆</mi> <mn>1</mn> </msub> </math>
         </AssociatedFile>
-        <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $\lambda _1$
         </AssociatedFile>
       </Formula>
@@ -313,7 +313,7 @@
         <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝐴</mi> <mn>1</mn> </msub> </math>
         </AssociatedFile>
-        <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $A_1$
         </AssociatedFile>
       </Formula>
@@ -329,7 +329,7 @@
         <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝐷</mi> <mn>1</mn> </msub> </math>
         </AssociatedFile>
-        <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $D_1$
         </AssociatedFile>
       </Formula>
@@ -551,6 +551,255 @@
      </TD>
     </TR>
    </Table>
+   <tables xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Sect"
+     >
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TH xmlns="http://iso.org/pdf2/ssn"
+           xmlns:Table="http://iso.org/pdf/ssn/Table"
+           Table:Scope="Column"
+          >
+         <?MarkedContent page="1" ?>Bi
+        </TH>
+        <TH xmlns="http://iso.org/pdf2/ssn"
+           xmlns:Table="http://iso.org/pdf/ssn/Table"
+           Table:Scope="Column"
+          >
+         <Formula xmlns="http://iso.org/pdf2/ssn"
+            title="math"
+            af="mathml-1.xml source.tex"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:Placement="Inline"
+           >
+           <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+           <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝜆</mi> <mn>1</mn> </msub> </math>
+           </AssociatedFile>
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           $\lambda _1$
+           </AssociatedFile>
+          <?MarkedContent page="1" ?>𝜆1
+         </Formula>
+        </TH>
+        <TH xmlns="http://iso.org/pdf2/ssn"
+           xmlns:Table="http://iso.org/pdf/ssn/Table"
+           Table:Scope="Column"
+          >
+         <Formula xmlns="http://iso.org/pdf2/ssn"
+            title="math"
+            af="mathml-2.xml source.tex"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:Placement="Inline"
+           >
+           <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+           <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝐴</mi> <mn>1</mn> </msub> </math>
+           </AssociatedFile>
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           $A_1$
+           </AssociatedFile>
+          <?MarkedContent page="1" ?>𝐴1
+         </Formula>
+        </TH>
+        <TH xmlns="http://iso.org/pdf2/ssn"
+           xmlns:Table="http://iso.org/pdf/ssn/Table"
+           Table:Scope="Column"
+          >
+         <Formula xmlns="http://iso.org/pdf2/ssn"
+            title="math"
+            af="mathml-3.xml source.tex"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:Placement="Inline"
+           >
+           <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+           <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝐷</mi> <mn>1</mn> </msub> </math>
+           </AssociatedFile>
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           $D_1$
+           </AssociatedFile>
+          <?MarkedContent page="1" ?>𝐷1
+         </Formula>
+        </TH>
+        <TH xmlns="http://iso.org/pdf2/ssn"
+           xmlns:Table="http://iso.org/pdf/ssn/Table"
+           Table:Scope="Column"
+          >
+         <Formula xmlns="http://iso.org/pdf2/ssn"
+            title="math"
+            af="mathml-1.xml source.tex"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:Placement="Inline"
+           >
+           <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+           <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝜆</mi> <mn>1</mn> </msub> </math>
+           </AssociatedFile>
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           $\lambda _1$
+           </AssociatedFile>
+          <?MarkedContent page="1" ?>𝜆1
+         </Formula>
+        </TH>
+        <TH xmlns="http://iso.org/pdf2/ssn"
+           xmlns:Table="http://iso.org/pdf/ssn/Table"
+           Table:Scope="Column"
+          >
+         <Formula xmlns="http://iso.org/pdf2/ssn"
+            title="math"
+            af="mathml-2.xml source.tex"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:Placement="Inline"
+           >
+           <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+           <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝐴</mi> <mn>1</mn> </msub> </math>
+           </AssociatedFile>
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           $A_1$
+           </AssociatedFile>
+          <?MarkedContent page="1" ?>𝐴1
+         </Formula>
+        </TH>
+        <TH xmlns="http://iso.org/pdf2/ssn"
+           xmlns:Table="http://iso.org/pdf/ssn/Table"
+           Table:Scope="Column"
+          >
+         <Formula xmlns="http://iso.org/pdf2/ssn"
+            title="math"
+            af="mathml-3.xml source.tex"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:Placement="Inline"
+           >
+           <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+           <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝐷</mi> <mn>1</mn> </msub> </math>
+           </AssociatedFile>
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           $D_1$
+           </AssociatedFile>
+          <?MarkedContent page="1" ?>𝐷1
+         </Formula>
+        </TH>
+        <TH xmlns="http://iso.org/pdf2/ssn"
+           xmlns:Table="http://iso.org/pdf/ssn/Table"
+           Table:Scope="Column"
+          >
+         <Formula xmlns="http://iso.org/pdf2/ssn"
+            title="math"
+            af="mathml-1.xml source.tex"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:Placement="Inline"
+           >
+           <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+           <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝜆</mi> <mn>1</mn> </msub> </math>
+           </AssociatedFile>
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           $\lambda _1$
+           </AssociatedFile>
+          <?MarkedContent page="1" ?>𝜆1
+         </Formula>
+        </TH>
+        <TH xmlns="http://iso.org/pdf2/ssn"
+           xmlns:Table="http://iso.org/pdf/ssn/Table"
+           Table:Scope="Column"
+          >
+         <Formula xmlns="http://iso.org/pdf2/ssn"
+            title="math"
+            af="mathml-2.xml source.tex"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:Placement="Inline"
+           >
+           <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+           <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝐴</mi> <mn>1</mn> </msub> </math>
+           </AssociatedFile>
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           $A_1$
+           </AssociatedFile>
+          <?MarkedContent page="1" ?>𝐴1
+         </Formula>
+        </TH>
+        <TH xmlns="http://iso.org/pdf2/ssn"
+           xmlns:Table="http://iso.org/pdf/ssn/Table"
+           Table:Scope="Column"
+          >
+         <Formula xmlns="http://iso.org/pdf2/ssn"
+            title="math"
+            af="mathml-3.xml source.tex"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:Placement="Inline"
+           >
+           <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+           <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝐷</mi> <mn>1</mn> </msub> </math>
+           </AssociatedFile>
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           $D_1$
+           </AssociatedFile>
+          <?MarkedContent page="1" ?>𝐷1
+         </Formula>
+         <?MarkedContent page="1" ?>
+        </TH>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="1" ?>0.01
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="1" ?>0.09983
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="1" ?>1.0017
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="1" ?>1.0000
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="1" ?>0.14124
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="1" ?>1.0025
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="1" ?>1.0000
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="1" ?>0.17303
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="1" ?>1.0030
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="1" ?>1.0000
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+   </tables>
   </Document>
  </StructTreeRoot>
 </PDF>

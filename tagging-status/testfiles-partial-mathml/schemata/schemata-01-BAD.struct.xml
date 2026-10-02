@@ -22,7 +22,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi> <mglyph/> </mi> <mspace width="0.167em"/> <mrow> <mspace width="1.196pt"/> <mi> <mglyph/> </mi> <mo fence="true" lspace="0" rspace="0" symmetric="true">{</mo> </mrow> <mspace width="0.167em"/> <mi> <mglyph/> </mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\vcenter {\schemabox {A}}\@schemata@lbrace {\@schemata@rheight }\vcenter {\schemabox {B\\C}}$
      </AssociatedFile>
     <?MarkedContent page="1" ?>A{
@@ -37,7 +37,7 @@
      <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi> <mglyph/> </mi> <mspace width="0.167em"/> <mrow> <mspace width="1.196pt"/> <mi> <mglyph/> </mi> <mo fence="true" lspace="0" rspace="0" symmetric="true">[</mo> </mrow> <mspace width="0.167em"/> <mi> <mglyph/> </mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\vcenter {\schemabox {A}}\@schemata@lbrace {\@schemata@rheight }\vcenter {\NudgeSB [left]\schemabox {B\\C}}$
      </AssociatedFile>
     <?MarkedContent page="1" ?>A[
@@ -52,7 +52,7 @@
      <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi> <mglyph/> </mi> <mspace width="-1.992pt"/> <mspace width="0.167em"/> <mrow> <mo fence="true" lspace="0" rspace="0" symmetric="true">)</mo> <mi> <mglyph/> </mi> <mspace width="1.196pt"/> </mrow> <mspace width="0.167em"/> <mi> <mglyph/> </mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\vcenter {\NudgeSB \schemabox {A\\B}}\kern -0.2em\@schemata@rbrace {\@schemata@lheight }\vcenter {\schemabox {C}}$
      </AssociatedFile>
     <?MarkedContent page="1" ?>AB)
@@ -67,7 +67,7 @@
      <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi> <mglyph/> </mi> <mi> <mglyph/> </mi> <mi> <mglyph/> </mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\vcenter {\vskip 1.44265\@schemata@one \smallskip \schemabox {A}}\@schemata@biglbrace {0ex}{3ex}\vcenter {\Schema [close]{0ex}{3ex} {\NudgeSB \schemabox {B\\C}} {\smallskip \schemabox {D}} }$
      </AssociatedFile>
     <?MarkedContent page="1" ?>A⟮⟮⟮⟮
@@ -83,7 +83,7 @@
      <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi> <mglyph/> </mi> <mspace width="0.167em"/> <mrow> <mspace width="1.196pt"/> <mi> <mglyph/> </mi> <mo fence="true" lspace="0" rspace="0" symmetric="true">⟮</mo> </mrow> <mspace width="0.167em"/> <mi> <mglyph/> </mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\vcenter { \schemabox {\textsc {Essentiam},} }\@schemata@lbrace {\@schemata@rheight }\vcenter { \schemabox {Unitate natur\ae {}.\\ Trinitate personarum.\\ Operibus ad intra.} }$
      </AssociatedFile>
    </Formula>
@@ -96,7 +96,7 @@
      <AssociatedFile name="mathml-6.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi> <mglyph/> </mi> <mspace width="0.167em"/> <mrow> <mspace width="1.196pt"/> <mi> <mglyph/> </mi> <mo fence="true" lspace="0" rspace="0" symmetric="true">⟮</mo> </mrow> <mspace width="0.167em"/> <mi> <mglyph/> </mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\vcenter { \schemabox {\textsc {Voluntatem},\\ manifestatam in\\ operibus ad extra;\\ ut in} }\@schemata@lbrace {\@schemata@rheight }\vcenter { \schemabox {Creatione.\\ Sustentatione natur\ae {} laps\ae {}.\\ Reparatione.\\ Conversione.\\ Justificatione.\\ Sanctificatione \&amp;\\ Glorificatione ejusdem.} }$
      </AssociatedFile>
    </Formula>
@@ -109,7 +109,7 @@
      <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi> <mglyph/> </mi> <mspace width="0.167em"/> <mrow> <mspace width="1.196pt"/> <mi> <mglyph/> </mi> <mo fence="true" lspace="0" rspace="0" symmetric="true">⟮</mo> </mrow> <mspace width="0.167em"/> <mi> <mglyph/> </mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\vcenter { \schemabox {Subjectum theo-\\ logi\ae {} est Notitia\\ Dei. Considerat\\ ergo, Dei, vel} }\@schemata@lbrace {\@schemata@rheight }\vcenter { \schema { \schemabox {\textsc {Essentiam},} } { \schemabox {Unitate natur\ae {}.\\ Trinitate personarum.\\ Operibus ad intra.} } \schema { \schemabox {\textsc {Voluntatem},\\ manifestatam in\\ operibus ad extra;\\ ut in} } { \schemabox {Creatione.\\ Sustentatione natur\ae {} laps\ae {}.\\ Reparatione.\\ Conversione.\\ Justificatione.\\ Sanctificatione \&amp;\\ Glorificatione ejusdem.} } }$
      </AssociatedFile>
     <?MarkedContent page="1" ?>Subjectum theo-logiæ est NotitiaDei. Consideratergo, Dei, vel⟮⟮⟮⟮⟮⟮⟮⟮⟮⟮⟮⟮⟮

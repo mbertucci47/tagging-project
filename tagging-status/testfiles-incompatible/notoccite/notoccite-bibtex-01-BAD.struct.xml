@@ -1,1 +1,310 @@
-<run-error err="assertion failed!" />
+<PDF version="2.0">
+ <StructTreeRoot>
+  <Document xmlns="http://iso.org/pdf2/ssn"
+    >
+   <section xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Sect"
+     >
+    <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+       title="Contents"
+       rolemaps-to="H1"
+      >
+     <?MarkedContent page="1" ?>Contents
+    </section-heading>
+    <TOC xmlns="http://iso.org/pdf/ssn"
+      >
+     <TOCI xmlns="http://iso.org/pdf/ssn"
+        title="Let's cite: inproceedings-full"
+       >
+       <?References objects="1" ?>
+      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Part"
+        >
+       <text-block xmlns="https://www.latex-project.org/ns/dflt"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:TextAlign="Justify"
+          rolemaps-to="P"
+         >
+        <Reference xmlns="http://iso.org/pdf/ssn"
+          >
+         <Lbl xmlns="http://iso.org/pdf2/ssn"
+           >
+          <?MarkedContent page="1" ?>1
+         </Lbl>
+         <?MarkedContent page="1" ?>Let’s cite: [
+         <Reference xmlns="http://iso.org/pdf/ssn"
+           >
+           <?References objects="2" ?>
+          <?MarkedContent page="1" ?>2
+         </Reference>
+         <?MarkedContent page="1" ?>]
+         <?MarkedContent page="1" ?>1
+        </Reference>
+       </text-block>
+      </semantic-para>
+     </TOCI>
+     <section xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Sect"
+       >
+      <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+         title="List of Figures"
+         rolemaps-to="H1"
+        >
+       <?MarkedContent page="1" ?>List of Figures
+      </section-heading>
+      <TOCI xmlns="http://iso.org/pdf/ssn"
+         title="Cite again: phdthesis-minimal"
+        >
+        <?References objects="3" ?>
+       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Part"
+         >
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+           Layout:TextAlign="Justify"
+           rolemaps-to="P"
+          >
+         <Reference xmlns="http://iso.org/pdf/ssn"
+           >
+          <Lbl xmlns="http://iso.org/pdf2/ssn"
+            >
+           <?MarkedContent page="1" ?>1
+          </Lbl>
+          <?MarkedContent page="1" ?>Cite again: [
+          <Reference xmlns="http://iso.org/pdf/ssn"
+            >
+            <?References objects="4" ?>
+           <?MarkedContent page="1" ?>4
+          </Reference>
+          <?MarkedContent page="1" ?>]
+          <?MarkedContent page="1" ?>1
+         </Reference>
+        </text-block>
+       </semantic-para>
+      </TOCI>
+      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Part"
+        >
+       <text-block xmlns="https://www.latex-project.org/ns/dflt"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:TextAlign="Justify"
+          rolemaps-to="P"
+         >
+        <?MarkedContent page="1" ?>text [
+        <Reference xmlns="http://iso.org/pdf/ssn"
+          >
+          <?References objects="5" ?>
+         <?MarkedContent page="1" ?>1
+        </Reference>
+        <?MarkedContent page="1" ?>]
+       </text-block>
+      </semantic-para>
+     </section>
+     <section xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Sect"
+       >
+      <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+         title="Let's cite: inproceedings-full"
+         rolemaps-to="H1"
+         referenced-as="1"
+        >
+       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Lbl"
+         >
+        <?MarkedContent page="1" ?>1
+       </heading-number>
+       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>Let’s cite: [
+       <Reference xmlns="http://iso.org/pdf/ssn"
+         >
+         <?References objects="2" ?>
+        <?MarkedContent page="1" ?>2
+       </Reference>
+       <?MarkedContent page="1" ?>]
+      </section-heading>
+      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Part"
+        >
+       <text-block xmlns="https://www.latex-project.org/ns/dflt"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:TextAlign="Justify"
+          rolemaps-to="P"
+         >
+        <?MarkedContent page="1" ?>more text [
+        <Reference xmlns="http://iso.org/pdf/ssn"
+          >
+          <?References objects="6" ?>
+         <?MarkedContent page="1" ?>3
+        </Reference>
+        <?MarkedContent page="1" ?>] 
+       </text-block>
+      </semantic-para>
+     </section>
+     <section xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Sect"
+       >
+      <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+         title="References"
+         rolemaps-to="H1"
+        >
+       <?MarkedContent page="1" ?>References
+      </section-heading>
+      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Part"
+        >
+       <list xmlns="https://www.latex-project.org/ns/dflt"
+          xmlns:List="http://iso.org/pdf/ssn/List"
+          List:ListNumbering="Ordered"
+          rolemaps-to="L"
+         >
+        <item xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="LI"
+           referenced-as="5"
+          >
+         <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="Lbl"
+           >
+          <?MarkedContent page="1" ?>[1]
+         </itemlabel>
+         <itembody xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="LBody"
+           >
+          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="Part"
+            >
+           <text-block xmlns="https://www.latex-project.org/ns/dflt"
+              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+              Layout:TextAlign="Justify"
+              rolemaps-to="P"
+             >
+            <?MarkedContent page="1" ?>Joe-Bob Missilany. Handing out random pamphlets in airports. Handed out at O’Hare, October 1984. This is a full MISC entry.
+           </text-block>
+          </semantic-para>
+         </itembody>
+        </item>
+        <item xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="LI"
+           referenced-as="2"
+          >
+         <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="Lbl"
+           >
+          <?MarkedContent page="1" ?>[2]
+         </itemlabel>
+         <itembody xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="LBody"
+           >
+          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="Part"
+            >
+           <text-block xmlns="https://www.latex-project.org/ns/dflt"
+              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+              Layout:TextAlign="Justify"
+              rolemaps-to="P"
+             >
+            <?MarkedContent page="1" ?>Alfred V. Oaho, Jeffrey D. Ullman, and Mihalis Yannakakis. On notions of information transfer in VLSI circuits. In Wizard V. Oz and Mihalis Yannakakis, editors, Proc. Fifteenth Annual ACM Symposium on the The
+            <?MarkedContent page="1" ?>ory of Computing, number 17 in All ACM Conferences, pages 133–139, Boston, March 1983. The OX Association for Computing Machinery, Aca
+            <?MarkedContent page="1" ?>demic Press. This is a full INPROCEDINGS entry.
+           </text-block>
+          </semantic-para>
+         </itembody>
+        </item>
+        <item xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="LI"
+           referenced-as="6"
+          >
+         <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="Lbl"
+           >
+          <?MarkedContent page="1" ?>[3]
+         </itemlabel>
+         <itembody xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="LBody"
+           >
+          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="Part"
+            >
+           <text-block xmlns="https://www.latex-project.org/ns/dflt"
+              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+              Layout:TextAlign="Justify"
+              rolemaps-to="P"
+             >
+            <?MarkedContent page="1" ?>Donald E. Knuth. Fundamental Algorithms, volume 1 of The Art of Com
+            <?MarkedContent page="1" ?>puter Programming, section 1.2, pages 10–119. Addison-Wesley, Reading, Massachusetts, second edition, 10 January 1973. This is a full INBOOK entry.
+           </text-block>
+          </semantic-para>
+         </itembody>
+        </item>
+        <item xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="LI"
+           referenced-as="4"
+          >
+         <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="Lbl"
+           >
+          <?MarkedContent page="1" ?>[4]
+         </itemlabel>
+         <itembody xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="LBody"
+           >
+          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="Part"
+            >
+           <text-block xmlns="https://www.latex-project.org/ns/dflt"
+              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+              Layout:TextAlign="Justify"
+              rolemaps-to="P"
+             >
+            <?MarkedContent page="1" ?>F. Phidias Phony-Baloney. Fighting Fire with Fire: Festooning French Phrases. PhD thesis, Fanstord University, 1988.
+           </text-block>
+          </semantic-para>
+         </itembody>
+        </item>
+       </list>
+      </semantic-para>
+     </section>
+     <figures xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Sect"
+       >
+      <float xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Aside"
+         referenced-as="3"
+        >
+       <Caption xmlns="http://iso.org/pdf2/ssn"
+         >
+        <Lbl xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="1" ?>Figure 1: 
+        </Lbl>
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+           Layout:TextAlign="Center"
+           rolemaps-to="P"
+          >
+         <?MarkedContent page="1" ?>Cite again: [
+         <Reference xmlns="http://iso.org/pdf/ssn"
+           >
+           <?References objects="4" ?>
+          <?MarkedContent page="1" ?>4
+         </Reference>
+         <?MarkedContent page="1" ?>]
+        </text-block>
+       </Caption>
+       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Part"
+         >
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+           Layout:TextAlign="Center"
+           rolemaps-to="P"
+          >
+         <?MarkedContent page="1" ?>Some figure
+        </text-block>
+       </semantic-para>
+      </float>
+     </figures>
+    </TOC>
+   </section>
+  </Document>
+ </StructTreeRoot>
+</PDF>

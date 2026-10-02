@@ -19,7 +19,7 @@
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msubsup> <mi>𝑅</mi> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="false" scriptlevel="1"> <mi>𝑖</mi> <mi>𝑗</mi> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="false" scriptlevel="1"> <mo lspace="0" rspace="0">⋅</mo> </mstyle> </math> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="false" scriptlevel="1"> <mo lspace="0" rspace="0">⋅</mo> </mstyle> </math> </mtext> <mi>𝛼</mi> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="false" scriptlevel="1"> <mo lspace="0" rspace="0">⋅</mo> </mstyle> </math> </mtext> </mstyle> </math> </mtext> <mrow> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="false" scriptlevel="1"/> </math> </mtext> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="-0.239pt"/> <mstyle displaystyle="false" scriptlevel="1"> <mtext/> <mtext/> <mi>𝑘</mi> <mi>𝑙</mi> <mtext/> <mi>𝛽</mi> </mstyle> </math> </mtext> </mrow> </msubsup> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $?R_ij^kl_\alpha ^\beta ?$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑅𝑘𝑙𝛽𝑖𝑗⋅⋅𝛼⋅
@@ -43,7 +43,7 @@
        <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msubsup> <mi>𝑅</mi> <mrow> <mspace width="1.097pt"/> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="false" scriptlevel="1"> <mi>𝑖</mi> <mi>𝑗</mi> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="false" scriptlevel="1"> <mo lspace="0" rspace="0">⋅</mo> </mstyle> </math> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="false" scriptlevel="1"> <mo lspace="0" rspace="0">⋅</mo> </mstyle> </math> </mtext> <mi>𝛼</mi> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="false" scriptlevel="1"> <mo lspace="0" rspace="0">⋅</mo> </mstyle> </math> </mtext> </mstyle> </math> </mtext> </mrow> <mrow> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="false" scriptlevel="1"> <mrow> <mo lspace="0" rspace="0">∗</mo> <mo lspace="0" rspace="0">∗</mo> </mrow> </mstyle> </math> </mtext> <mspace width="1.097pt"/> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="-0.239pt"/> <mstyle displaystyle="false" scriptlevel="1"> <mtext/> <mtext/> <mi>𝑘</mi> <mi>𝑙</mi> <mtext/> <mi>𝛽</mi> </mstyle> </math> </mtext> </mrow> </msubsup> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $?R**_ij^kl_\alpha ^\beta ?$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑅∗∗𝑘𝑙𝛽𝑖𝑗⋅⋅𝛼⋅
@@ -67,7 +67,7 @@
        <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msubsup> <mi>𝑅</mi> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="false" scriptlevel="1"> <mi>𝑖</mi> <mi>𝑗</mi> <mi>𝑘</mi> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="false" scriptlevel="1"> <mo lspace="0" rspace="0">⋅</mo> </mstyle> </math> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="false" scriptlevel="1"> <mo lspace="0" rspace="0">⋅</mo> </mstyle> </math> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="false" scriptlevel="1"> <mo lspace="0" rspace="0">⋅</mo> </mstyle> </math> </mtext> </mstyle> </math> </mtext> <mrow> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="false" scriptlevel="1"> <mo lspace="0" rspace="0">′</mo> </mstyle> </math> </mtext> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="-0.239pt"/> <mstyle displaystyle="false" scriptlevel="1"> <mtext/> <mtext/> <mtext/> <mi>𝛼</mi> <mi>𝛽</mi> <mi>𝛾</mi> </mstyle> </math> </mtext> </mrow> </msubsup> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $?R'_ijk^abg?$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑅′𝛼𝛽𝛾𝑖𝑗𝑘⋅⋅⋅

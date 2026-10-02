@@ -46,24 +46,29 @@
      </text-block>
     </semantic-para>
    </TOCI>
+   <TOCI xmlns="http://iso.org/pdf/ssn"
+      title="Some section"
+     >
+     <?References objects="3" ?>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="1" ?>1.1Some section............................3
+     </text-block>
+    </semantic-para>
+   </TOCI>
    <TOC xmlns="http://iso.org/pdf/ssn"
       referenced-as="2"
      >
     <TOCI xmlns="http://iso.org/pdf/ssn"
-       title="Some section"
+       title="Some subsection"
       >
-      <?References objects="3" ?>
-     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-        rolemaps-to="Part"
-       >
-      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-         Layout:TextAlign="Justify"
-         rolemaps-to="P"
-        >
-       <?MarkedContent page="1" ?>1.1Some section............................3
-      </text-block>
-     </semantic-para>
+      <?References objects="4" ?>
     </TOCI>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Part"
@@ -109,6 +114,7 @@
       <subsection-heading xmlns="https://www.latex-project.org/ns/dflt"
          title="Some subsection"
          rolemaps-to="H2"
+         referenced-as="4"
         >
        <?MarkedContent page="3" ?>Some subsection
        <?MarkedContent page="3" ?>

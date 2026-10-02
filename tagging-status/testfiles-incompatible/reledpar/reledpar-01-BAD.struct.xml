@@ -62,11 +62,11 @@
      rolemaps-to="Div"
     >
    <chapter xmlns="https://www.latex-project.org/ns/book"
-      rolemaps-to="H1"
+      rolemaps-to="Sect"
      >
-    <chapter-heading xmlns="data:something-custom"
+    <chapter-heading xmlns="https://www.latex-project.org/ns/book"
        title="Трактат Второй"
-       rolemaps-to="NonStruct"
+       rolemaps-to="H1"
       >
      <?MarkedContent page="1" ?>Глава
      <?MarkedContent page="1" ?> 
@@ -96,11 +96,11 @@
       rolemaps-to="Div"
      >
     <chapter xmlns="https://www.latex-project.org/ns/book"
-       rolemaps-to="H1"
+       rolemaps-to="Sect"
       >
-     <chapter-heading xmlns="data:something-custom"
+     <chapter-heading xmlns="https://www.latex-project.org/ns/book"
         title="המאמר השני"
-        rolemaps-to="NonStruct"
+        rolemaps-to="H1"
        >
       <?MarkedContent page="1" ?>פרק
       <?MarkedContent page="1" ?> 

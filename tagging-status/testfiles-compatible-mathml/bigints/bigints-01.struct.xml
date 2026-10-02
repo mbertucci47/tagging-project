@@ -19,7 +19,7 @@
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0">∫</mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\int $
        </AssociatedFile>
       <?MarkedContent page="1" ?>∫
@@ -43,7 +43,7 @@
        <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0"> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0">∫</mo> </math> </mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\bigint $
        </AssociatedFile>
       <?MarkedContent page="1" ?>∫
@@ -67,7 +67,7 @@
        <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0"> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0">∫</mo> </math> </mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\bigints $
        </AssociatedFile>
       <?MarkedContent page="1" ?>∫
@@ -91,7 +91,7 @@
        <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0"> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0">∫</mo> </math> </mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\bigintss $
        </AssociatedFile>
       <?MarkedContent page="1" ?>∫
@@ -115,7 +115,7 @@
        <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0"> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0">∫</mo> </math> </mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\bigintsss $
        </AssociatedFile>
       <?MarkedContent page="1" ?>∫
@@ -139,7 +139,7 @@
        <AssociatedFile name="mathml-6.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0"> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0">∫</mo> </math> </mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\bigintssss $
        </AssociatedFile>
       <?MarkedContent page="1" ?>∫
@@ -163,7 +163,7 @@
        <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0"> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0">∮</mo> </math> </mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\bigoint $
        </AssociatedFile>
       <?MarkedContent page="1" ?>∮
@@ -187,7 +187,7 @@
        <AssociatedFile name="mathml-8.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0"> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0">∮</mo> </math> </mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\bigoints $
        </AssociatedFile>
       <?MarkedContent page="1" ?>∮
@@ -211,7 +211,7 @@
        <AssociatedFile name="mathml-9.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0"> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0">∮</mo> </math> </mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\bigointss $
        </AssociatedFile>
       <?MarkedContent page="1" ?>∮
@@ -235,7 +235,7 @@
        <AssociatedFile name="mathml-10.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0"> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0">∮</mo> </math> </mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\bigointsss $
        </AssociatedFile>
       <?MarkedContent page="1" ?>∮
@@ -259,7 +259,7 @@
        <AssociatedFile name="mathml-11.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0"> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0">∮</mo> </math> </mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\bigointssss $
        </AssociatedFile>
       <?MarkedContent page="1" ?>∮

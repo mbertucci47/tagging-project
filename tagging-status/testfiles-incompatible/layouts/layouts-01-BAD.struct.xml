@@ -159,13 +159,7 @@
            Layout:TextAlign="Justify"
            rolemaps-to="P"
           >
-         <?MarkedContent page="1" ?>Figure 
-         <Link xmlns="http://iso.org/pdf2/ssn"
-           >
-          <?MarkedContent page="1" ?>12
-          <?ReferencedObject type="Annot" page="1" ?>
-         </Link>
-         <?MarkedContent page="1" ?> illustrates the layout of an enumerate list. 
+         <?MarkedContent page="1" ?>Figure 12 illustrates the layout of an enumerate list. 
         </text-block>
        </semantic-para>
       </itembody>
@@ -186,17 +180,13 @@
         referenced-as="2"
        >
        <?References objects="1" ?>
-      <Link xmlns="http://iso.org/pdf2/ssn"
+      <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextPosition="Sup"
+         rolemaps-to="Span"
         >
-       <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
-          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-          Layout:TextPosition="Sup"
-          rolemaps-to="Span"
-         >
-        <?MarkedContent page="1" ?>1
-       </text-fragment>
-       <?ReferencedObject type="Annot" page="1" ?>
-      </Link>
+       <?MarkedContent page="1" ?>1
+      </text-fragment>
      </footnotemark>
      <footnote xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="FENote"
@@ -290,6 +280,1265 @@
       >
     </text-block>
    </semantic-para>
+   <figures xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Sect"
+     >
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>Figure 1: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?>(Left) The 
+       <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
+          actualtext="LaTeX"
+          phoneme="[ˈlaːtɛx]"
+          rolemaps-to="Span"
+         >
+        <?MarkedContent page="1" ?>LATEX
+       </text-fragment>
+       <?MarkedContent page="1" ?> book spread; (Right) Spread for many of Gutenberg’s books
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <text-minipage xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Div"
+        >
+       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Part"
+         >
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+           Layout:TextAlign="Center"
+           rolemaps-to="P"
+          >
+         <Figure xmlns="http://iso.org/pdf2/ssn"
+            alt="picture environment"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:BBox="{ 133.76837, 554.62018, 283.20796, 652.25406 }"
+           >
+          <?MarkedContent page="1" ?>
+         </Figure>
+        </text-block>
+       </semantic-para>
+      </text-minipage>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <text-minipage xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Div"
+        >
+       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Part"
+         >
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+           Layout:TextAlign="Center"
+           rolemaps-to="P"
+          >
+         <Figure xmlns="http://iso.org/pdf2/ssn"
+            alt="picture environment"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:BBox="{ 327.10585, 554.62018, 476.54546, 667.19801 }"
+           >
+          <?MarkedContent page="1" ?>
+         </Figure>
+        </text-block>
+       </semantic-para>
+      </text-minipage>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="2" ?>Figure 2: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="2" ?>Left-hand two-column page layout parameters
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="2" ?>The circle is at 1 inch from the top and left of the page. Dashed lines represent (\hoffset + 1 inch) and (\voffset + 1 inch) from the top and left of the page.
+      </text-block>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <Figure xmlns="http://iso.org/pdf2/ssn"
+          alt="picture environment"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:BBox="{ 152.44832, 198.44284, 458.7995, 594.4578 }"
+         >
+        <?MarkedContent page="2" ?>[TEXT]
+       </Figure>
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="3" ?>Figure 3: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="3" ?>Odd page layout for this document
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="3" ?>The circle is at 1 inch from the top and left of the page. Dashed lines represent (\hoffset + 1 inch) and (\voffset + 1 inch) from the top and left of the page.
+      </text-block>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <Figure xmlns="http://iso.org/pdf2/ssn"
+          alt="picture environment"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:BBox="{ 152.69739, 243.70013, 458.55043, 639.71507 }"
+         >
+        <?MarkedContent page="3" ?>[TEXT]
+       </Figure>
+      </text-block>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="3" ?>Lengths are to the nearest pt.
+      </text-block>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>page height = 795pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?> page width = 614pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>\hoffset = 0pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?> \voffset = 0pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>\oddsidemargin = 62pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?> \topmargin = 16pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>\headheight = 12pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?> \headsep = 25pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>\textheight = 550pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?> \textwidth = 345pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>\footskip = 30pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?> \marginparsep = 11pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>\marginparpush = 5pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?> \columnsep = 10pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="3" ?>\columnseprule = 0.0pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="4" ?>Figure 4: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="4" ?>An experimental page layout
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <Figure xmlns="http://iso.org/pdf2/ssn"
+          alt="picture environment"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:BBox="{ 133.76837, 303.24278, 529.78331, 609.09583 }"
+         >
+        <?MarkedContent page="4" ?>[TEXT]
+       </Figure>
+      </text-block>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="4" ?>Lengths are to the nearest pt.
+      </text-block>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?>page height = 614pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?> page width = 795pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?>\hoffset = -36pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?> \voffset = 36pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?>\oddsidemargin = 62pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?> \topmargin = 16pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?>\headheight = 12pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?> \headsep = 25pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?>\textheight = 550pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?> \textwidth = 500pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?>\footskip = 30pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?> \marginparsep = 11pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?>\marginparpush = 5pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?> \columnsep = 40pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="4" ?>\columnseprule = 3.0pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="5" ?>Figure 5: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="5" ?>Paragraph parameters
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <Figure xmlns="http://iso.org/pdf2/ssn"
+          alt="picture environment"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:BBox="{ 152.44832, 506.72478, 458.7995, 600.87172 }"
+         >
+        <?MarkedContent page="5" ?>Preceding Text[TEXT]
+       </Figure>
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="5" ?>Figure 6: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="5" ?>Paragraphs in this document
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <Figure xmlns="http://iso.org/pdf2/ssn"
+          alt="picture environment"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:BBox="{ 219.69614, 254.46074, 391.55168, 332.16934 }"
+         >
+        <?MarkedContent page="5" ?>Preceding Text
+       </Figure>
+      </text-block>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="5" ?>Lengths are to the nearest pt.
+      </text-block>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="5" ?>\parindent = 15pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="5" ?> \parskip = 0pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="5" ?>\baselineskip = 12pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="5" ?> \linewidth = 345pt
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="6" ?>Figure 7: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="6" ?>Float and text page parameters
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <Figure xmlns="http://iso.org/pdf2/ssn"
+          alt="picture environment"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:BBox="{ 152.44832, 230.11707, 458.7995, 590.26651 }"
+         >
+        <?MarkedContent page="6" ?>\bottomnumber[TEXT]
+       </Figure>
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="7" ?>Figure 8: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="7" ?>The standard 
+       <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
+          actualtext="LaTeX"
+          phoneme="[ˈlaːtɛx]"
+          rolemaps-to="Span"
+         >
+        <?MarkedContent page="7" ?>LATEX
+       </text-fragment>
+       <?MarkedContent page="7" ?> float and text page settings
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <Figure xmlns="http://iso.org/pdf2/ssn"
+          alt="picture environment"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:BBox="{ 229.03612, 487.12329, 382.2117, 667.19801 }"
+         >
+        <?MarkedContent page="7" ?>\bottomnumber[TEXT]
+       </Figure>
+      </text-block>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="7" ?>\topnumber = 2
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="7" ?> \topfraction = 0.699
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="7" ?>\bottomnumber = 1
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="7" ?> \bottomfraction = 0.300
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="7" ?>\totalnumber = 3
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="7" ?> \textfraction = 0.199
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="8" ?>Figure 9: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="8" ?>Float parameters
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <Figure xmlns="http://iso.org/pdf2/ssn"
+          alt="picture environment"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:BBox="{ 181.88876, 227.27895, 429.35905, 593.10461 }"
+         >
+        <?MarkedContent page="8" ?>A BOTTOM FLOAT…last text line before bottom float.First text line after ‘here’ float …A ‘HERE’ FLOAT…last text line before ‘here’ float.First text line after top float …A TOP FLOATA TOP FLOAT[TEXT]
+       </Figure>
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="9" ?>Figure 10: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="9" ?>Float layout with rules
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <Figure xmlns="http://iso.org/pdf2/ssn"
+          alt="picture environment"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:BBox="{ 181.88876, 305.07681, 429.35905, 559.72017 }"
+         >
+        <?MarkedContent page="9" ?>A BOTTOM FLOAT…last text line before bottom float.First text line after ‘here’ float …A ‘HERE’ FLOAT…last text line before ‘here’ float.First text line after top float …A TOP FLOATA TOP FLOAT
+       </Figure>
+      </text-block>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="9" ?>Lengths are to the nearest pt.
+      </text-block>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="9" ?>\floatsep = 12pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="9" ?> \textfloatsep = 20pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="9" ?>\intextsep = 12pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="9" ?> topfigrule thickness = 0.5pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="9" ?>botfigrule thickness = 1.0pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="10" ?>Figure 11: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="10" ?>List parameters
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <Figure xmlns="http://iso.org/pdf2/ssn"
+          alt="picture environment"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:BBox="{ 152.44832, 204.71233, 458.7995, 615.67123 }"
+         >
+        <?MarkedContent page="10" ?>Following TextItem 2LabelItem 1, Paragraph 2[TEXT]
+       </Figure>
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="11" ?>Figure 12: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="11" ?>Layout of an enumerate list
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <Figure xmlns="http://iso.org/pdf2/ssn"
+          alt="picture environment"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:BBox="{ 152.44832, 322.86421, 458.7995, 570.43582 }"
+         >
+        <?MarkedContent page="11" ?>Following TextItem 2LabelItem 1, Paragraph 2Item 1LabelPreceding Text
+       </Figure>
+      </text-block>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="11" ?>Lengths are to the nearest pt.
+      </text-block>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="11" ?>\leftmargin = 25pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="11" ?> \rightmargin = 0pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="11" ?>\itemindent = 0pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="11" ?> \labelwidth = 20pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="11" ?>\labelsep = 5pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="11" ?> \listparindent = 0pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="11" ?>\topsep = 8pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="11" ?> \parskip = 0pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="11" ?>\partopsep = 2pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="11" ?> \parsep = 4pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="11" ?>\itemsep = 4pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="12" ?>Figure 13: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="12" ?>Display heading parameters
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <Figure xmlns="http://iso.org/pdf2/ssn"
+          alt="picture environment"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:BBox="{ 133.76837, 447.80075, 477.47945, 622.14696 }"
+         >
+        <?MarkedContent page="12" ?>second line of text following the heading …This is the start of the after-heading text, which continues on …3.5 Heading Title…end of last line of preceding text.[TEXT]
+       </Figure>
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="12" ?>Figure 14: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="12" ?>Run-in heading parameters
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <Figure xmlns="http://iso.org/pdf2/ssn"
+          alt="picture environment"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:BBox="{ 133.76837, 198.23662, 477.47945, 315.79578 }"
+         >
+        <?MarkedContent page="12" ?>second line of text following the heading …3.5 Heading TitleStart of text ……end of last line of preceding text.[TEXT]
+       </Figure>
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="13" ?>Figure 15: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="13" ?>The footnote parameter layout
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <Figure xmlns="http://iso.org/pdf2/ssn"
+          alt="picture environment"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:BBox="{ 183.0853, 435.54614, 428.1625, 649.14188 }"
+         >
+        <?MarkedContent page="13" ?>21MAIN TEXT[TEXT]
+       </Figure>
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="13" ?>Figure 16: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="13" ?>The current footnote layout
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <Figure xmlns="http://iso.org/pdf2/ssn"
+          alt="picture environment"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:BBox="{ 183.0853, 225.22917, 428.1625, 357.53102 }"
+         >
+        <?MarkedContent page="13" ?>21MAIN TEXT
+       </Figure>
+      </text-block>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="13" ?>Lengths are to the nearest pt.
+      </text-block>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="13" ?>\footins = 9pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="13" ?> \footnotesep = 7pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="13" ?>\baselineskip = 10pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="13" ?> note separation = 40pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="13" ?>rule thickness = 0.4pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+           xmlns:Table="http://iso.org/pdf/ssn/Table"
+           Table:ColSpan="2"
+          >
+         <?MarkedContent page="13" ?>rule length = 0.25 times the \textwidth
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="14" ?>Figure 17: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="14" ?>Table of Contents entry parameters
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <Figure xmlns="http://iso.org/pdf2/ssn"
+          alt="picture environment"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:BBox="{ 133.76837, 480.59993, 508.36507, 640.00278 }"
+         >
+        <?MarkedContent page="14" ?>3.5Heading ……titlecontinue ……titletitle end487........[TEXT]
+       </Figure>
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="14" ?>Figure 18: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="14" ?>Typical Table of Contents entry for this document
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <Figure xmlns="http://iso.org/pdf2/ssn"
+          alt="picture environment"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:BBox="{ 168.13896, 224.90378, 443.10887, 384.30663 }"
+         >
+        <?MarkedContent page="14" ?>3.5Heading ……titlecontinue ……titletitle end487....................
+       </Figure>
+      </text-block>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="14" ?>Lengths are to the nearest pt.
+      </text-block>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+      </text-block>
+      <Table xmlns="http://iso.org/pdf2/ssn"
+        >
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="14" ?>indent = 15pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="14" ?>numwidth = 23pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="14" ?>\@tocrmarg = 26pt
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="14" ?> \@pnumwidth = 16pt
+        </TD>
+       </TR>
+       <TR xmlns="http://iso.org/pdf2/ssn"
+         >
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="14" ?>\@dotsep = 4.5
+        </TD>
+        <TD xmlns="http://iso.org/pdf2/ssn"
+          >
+        </TD>
+       </TR>
+      </Table>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+   </figures>
   </Document>
  </StructTreeRoot>
 </PDF>

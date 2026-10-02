@@ -19,7 +19,7 @@
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msubsup> <mi mathvariant="normal"> MyOp </mi> <mi>𝑖</mi> <mi>𝑗</mi> </msubsup> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\operatorname {MyOp}_i^j$
        </AssociatedFile>
       <?MarkedContent page="1" ?>MyOp𝑗𝑖
@@ -43,7 +43,7 @@
        <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"> Proj </mi> <mo lspace="0" rspace="0" stretchy="false">(</mo> <mi>𝑆</mi> <mo lspace="0" rspace="0" stretchy="false">)</mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\Proj (S)$
        </AssociatedFile>
       <?MarkedContent page="1" ?>Proj(𝑆)
@@ -67,7 +67,7 @@
        <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"> cosh </mi> <mo lspace="0" rspace="0" stretchy="false">(</mo> <mi>𝜃</mi> <mo lspace="0" rspace="0" stretchy="false">)</mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\cosh (\theta )$
        </AssociatedFile>
       <?MarkedContent page="1" ?>cosh(𝜃)

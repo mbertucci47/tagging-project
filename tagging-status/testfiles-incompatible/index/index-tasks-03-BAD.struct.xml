@@ -41,12 +41,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="2" ?>blub, 
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="2" ?>1
-       <?ReferencedObject type="Annot" page="2" ?>
-      </Link>
+      <?MarkedContent page="2" ?>blub, 1
      </text-block>
     </semantic-para>
    </section>

@@ -39,7 +39,7 @@
        Layout:TextAlign="Center"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>Some figure 
+     <?MarkedContent page="1" ?>Some figure
     </text-block>
    </semantic-para>
   </text-minipage>
