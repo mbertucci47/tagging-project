@@ -11,7 +11,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">Γ</mi> <mo lspace="0" rspace="0.167em">,</mo> <mi>𝐴</mi> <mspace width="0.278em"/> <mrow/> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\inserttext \mathrel {}$
      </AssociatedFile>
     <?MarkedContent page="1" ?>Γ,𝐴
@@ -25,7 +25,7 @@
      <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mrow/> <mo lspace="0" rspace="0.278em">⊢</mo> <mi>𝐵</mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\mathrel {}\inserttext $
      </AssociatedFile>
     <?MarkedContent page="1" ?>⊢𝐵
@@ -39,7 +39,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">Γ</mi> <mo lspace="0" rspace="0.167em">,</mo> <mi>𝐴</mi> <mspace width="0.278em"/> <mrow/> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\inserttext \mathrel {}$
      </AssociatedFile>
     <?MarkedContent page="1" ?>Γ
@@ -53,7 +53,7 @@
      <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mrow/> <mo lspace="0" rspace="0.278em">⊢</mo> <mi>𝐵</mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\mathrel {}\inserttext $
      </AssociatedFile>
     <?MarkedContent page="1" ?>⊢𝐴→𝐵
@@ -67,7 +67,7 @@
      <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">Γ</mi> <mo lspace="0.278em" rspace="0.278em">⊢</mo> <mi>𝐴</mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\inserttext $
      </AssociatedFile>
     <?MarkedContent page="1" ?>Γ⊢𝐴
@@ -81,7 +81,7 @@
      <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">Γ</mi> <mo lspace="0.278em" rspace="0.278em">⊢</mo> <mi>𝐴</mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\inserttext $
      </AssociatedFile>
     <?MarkedContent page="1" ?>Γ⊢𝐵
@@ -103,7 +103,7 @@
        <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi> <mglyph/> </mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\tex_vcenter:D {\box_use:c {\__ebproof_box:N \l__ebproof_a_box }}$
        </AssociatedFile>
      </Formula>
@@ -118,7 +118,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">Γ</mi> <mo lspace="0" rspace="0.167em">,</mo> <mi>𝐴</mi> <mspace width="0.278em"/> <mrow/> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\inserttext \mathrel {}$
      </AssociatedFile>
     <?MarkedContent page="1" ?>Γ
@@ -132,7 +132,7 @@
      <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mrow/> <mo lspace="0" rspace="0.278em">⊢</mo> <mi>𝐵</mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\mathrel {}\inserttext $
      </AssociatedFile>
     <?MarkedContent page="1" ?>⊢𝐴
@@ -146,7 +146,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">Γ</mi> <mo lspace="0" rspace="0.167em">,</mo> <mi>𝐴</mi> <mspace width="0.278em"/> <mrow/> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\inserttext \mathrel {}$
      </AssociatedFile>
     <?MarkedContent page="1" ?>Γ
@@ -160,7 +160,7 @@
      <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mrow/> <mo lspace="0" rspace="0.278em">⊢</mo> <mi>𝐵</mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\mathrel {}\inserttext $
      </AssociatedFile>
     <?MarkedContent page="1" ?>⊢𝐴,𝐵
@@ -182,7 +182,7 @@
        <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi> <mglyph/> </mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\tex_vcenter:D {\box_use:c {\__ebproof_box:N \l__ebproof_a_box }}$
        </AssociatedFile>
      </Formula>
@@ -197,7 +197,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">Γ</mi> <mo lspace="0" rspace="0.167em">,</mo> <mi>𝐴</mi> <mspace width="0.278em"/> <mrow/> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\inserttext \mathrel {}$
      </AssociatedFile>
     <?MarkedContent page="1" ?>Γ,𝐴
@@ -211,7 +211,7 @@
      <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mrow/> <mo lspace="0" rspace="0.278em">⊢</mo> <mi>𝐵</mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\mathrel {}\inserttext $
      </AssociatedFile>
     <?MarkedContent page="1" ?>⊢𝐵
@@ -225,7 +225,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">Γ</mi> <mo lspace="0" rspace="0.167em">,</mo> <mi>𝐴</mi> <mspace width="0.278em"/> <mrow/> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\inserttext \mathrel {}$
      </AssociatedFile>
     <?MarkedContent page="1" ?>Γ
@@ -239,7 +239,7 @@
      <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mrow/> <mo lspace="0" rspace="0.278em">⊢</mo> <mi>𝐵</mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\mathrel {}\inserttext $
      </AssociatedFile>
     <?MarkedContent page="1" ?>⊢𝐴→𝐵
@@ -253,7 +253,7 @@
      <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">Γ</mi> <mo lspace="0.278em" rspace="0.278em">⊢</mo> <mi>𝐴</mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\inserttext $
      </AssociatedFile>
     <?MarkedContent page="1" ?>Γ⊢𝐴
@@ -267,7 +267,7 @@
      <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">Γ</mi> <mo lspace="0.278em" rspace="0.278em">⊢</mo> <mi>𝐴</mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\inserttext $
      </AssociatedFile>
     <?MarkedContent page="1" ?>Γ⊢𝐵
@@ -289,7 +289,7 @@
        <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi> <mglyph/> </mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\tex_vcenter:D {\box_use:c {\__ebproof_box:N \l__ebproof_a_box }}$
        </AssociatedFile>
      </Formula>
@@ -304,7 +304,7 @@
      <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">Γ</mi> <mo lspace="0.278em" rspace="0.278em">⊢</mo> <mi>𝐴</mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\inserttext $
      </AssociatedFile>
     <?MarkedContent page="1" ?>𝐴1∨⋯∨𝐴𝑛
@@ -318,7 +318,7 @@
      <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">Γ</mi> <mo lspace="0.278em" rspace="0.278em">⊢</mo> <mi>𝐴</mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\inserttext $
      </AssociatedFile>
     <?MarkedContent page="1" ?>[𝐴𝑖]
@@ -332,7 +332,7 @@
      <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">Γ</mi> <mo lspace="0.278em" rspace="0.278em">⊢</mo> <mi>𝐴</mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\inserttext $
      </AssociatedFile>
     <?MarkedContent page="1" ?>𝐵
@@ -346,7 +346,7 @@
      <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi> <mglyph/> </mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\tex_vcenter:D {\box_use:c {\__ebproof_box:N \l__ebproof_a_box }}$
      </AssociatedFile>
    </Formula>
@@ -359,7 +359,7 @@
      <AssociatedFile name="mathml-24.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo fence="true" lspace="0" rspace="0" stretchy="false" symmetric="true">(</mo> <mspace depth="14.071pt" height="19.053pt" mathbackground="currentColor" width="0.000pt"/> <mspace width="1.196pt"/> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\left ( \tex_vrule:D height\box_ht:N \l_tmpa_box depth\box_dp:N \l_tmpa_box width0pt\tex_right:D .$
      </AssociatedFile>
     <?MarkedContent page="1" ?>⎛⎜⎝
@@ -373,7 +373,7 @@
      <AssociatedFile name="mathml-25.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mrow> <mspace width="1.196pt"/> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi> <mglyph/> </mi> </math> </mtext> <mo fence="true" lspace="0" rspace="0" symmetric="true">)</mo> </mrow> <mrow> <mn>1</mn> <mo lspace="0" rspace="0">≤</mo> <mi>𝑖</mi> <mo lspace="0" rspace="0">≤</mo> <mi>𝑛</mi> </mrow> </msub> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\tex_left:D .\box_use:N \l_tmpa_box  \right )_{1\leq i\leq n}$
      </AssociatedFile>
     <?MarkedContent page="1" ?>⎞⎟⎠1≤𝑖≤𝑛
@@ -387,7 +387,7 @@
      <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">Γ</mi> <mo lspace="0.278em" rspace="0.278em">⊢</mo> <mi>𝐴</mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\inserttext $
      </AssociatedFile>
     <?MarkedContent page="1" ?>𝐵
@@ -409,7 +409,7 @@
        <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi> <mglyph/> </mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\tex_vcenter:D {\box_use:c {\__ebproof_box:N \l__ebproof_a_box }}$
        </AssociatedFile>
      </Formula>

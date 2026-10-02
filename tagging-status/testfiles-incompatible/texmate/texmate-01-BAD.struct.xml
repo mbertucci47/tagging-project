@@ -1,1 +1,312 @@
-<run-error code="1" />
+<PDF version="2.0">
+ <StructTreeRoot>
+  <Document xmlns="http://iso.org/pdf2/ssn"
+    >
+   <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Part"
+     >
+    <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+       Layout:TextAlign="Justify"
+       rolemaps-to="P"
+      >
+     <?MarkedContent page="1" ?>1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Bg5 d6 6. 0–0 h6 7. Bh4 g5 8. Bg3 h5 9. N
+     <Formula xmlns="http://iso.org/pdf2/ssn"
+        title="math"
+        af="source.tex"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:Placement="Inline"
+       >
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       $\times $
+       </AssociatedFile>
+      <?MarkedContent page="1" ?>×
+     </Formula>
+     <?MarkedContent page="1" ?>g5 h4 10. N
+     <Formula xmlns="http://iso.org/pdf2/ssn"
+        title="math"
+        af="source.tex"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:Placement="Inline"
+       >
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       $\times $
+       </AssociatedFile>
+      <?MarkedContent page="1" ?>×
+     </Formula>
+     <?MarkedContent page="1" ?>f7 h
+     <Formula xmlns="http://iso.org/pdf2/ssn"
+        title="math"
+        af="source.tex"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:Placement="Inline"
+       >
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       $\times $
+       </AssociatedFile>
+      <?MarkedContent page="1" ?>×
+     </Formula>
+     <?MarkedContent page="1" ?>g3 11. N
+     <Formula xmlns="http://iso.org/pdf2/ssn"
+        title="math"
+        af="source.tex"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:Placement="Inline"
+       >
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       $\times $
+       </AssociatedFile>
+      <?MarkedContent page="1" ?>×
+     </Formula>
+     <?MarkedContent page="1" ?>d8 Bg4 12. Qe1 Nd4 13. Nc3 Nf3+ 14. g
+     <Formula xmlns="http://iso.org/pdf2/ssn"
+        title="math"
+        af="source.tex"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:Placement="Inline"
+       >
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       $\times $
+       </AssociatedFile>
+      <?MarkedContent page="1" ?>×
+     </Formula>
+     <?MarkedContent page="1" ?>f3 B
+     <Formula xmlns="http://iso.org/pdf2/ssn"
+        title="math"
+        af="source.tex"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:Placement="Inline"
+       >
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       $\times $
+       </AssociatedFile>
+      <?MarkedContent page="1" ?>×
+     </Formula>
+     <?MarkedContent page="1" ?>f3
+    </text-block>
+   </semantic-para>
+   <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Part"
+     >
+    <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+       Layout:TextAlign="Justify"
+       rolemaps-to="P"
+      >
+    </text-block>
+   </semantic-para>
+   <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Part"
+     >
+    <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+       Layout:TextAlign="Justify"
+       rolemaps-to="P"
+      >
+     <Formula xmlns="http://iso.org/pdf2/ssn"
+        title="math"
+        af="source.tex"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:Placement="Inline"
+       >
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       $\Box $
+       </AssociatedFile>
+      <?MarkedContent page="1" ?>□
+     </Formula>
+     <?MarkedContent page="1" ?> Dubois London 1862
+     <Formula xmlns="http://iso.org/pdf2/ssn"
+        title="math"
+        af="source.tex"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:Placement="Inline"
+       >
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       $\blacksquare $
+       </AssociatedFile>
+      <?MarkedContent page="1" ?>■
+     </Formula>
+     <?MarkedContent page="1" ?> Steinitz Giucco Pianissimo – C50
+    </text-block>
+   </semantic-para>
+   <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Part"
+     >
+    <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+       Layout:TextAlign="Justify"
+       rolemaps-to="P"
+      >
+     <?MarkedContent page="1" ?>1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Bg5?![5. Nc3]5…d6 6. 0–0?! h6 7. Bh4 g5 8. Bg3 h5! 9. N
+     <Formula xmlns="http://iso.org/pdf2/ssn"
+        title="math"
+        af="source.tex"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:Placement="Inline"
+       >
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       $\times $
+       </AssociatedFile>
+      <?MarkedContent page="1" ?>×
+     </Formula>
+     <?MarkedContent page="1" ?>g5 h4! 10. N
+     <Formula xmlns="http://iso.org/pdf2/ssn"
+        title="math"
+        af="source.tex"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:Placement="Inline"
+       >
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       $\times $
+       </AssociatedFile>
+      <?MarkedContent page="1" ?>×
+     </Formula>
+     <?MarkedContent page="1" ?>f7 h
+     <Formula xmlns="http://iso.org/pdf2/ssn"
+        title="math"
+        af="source.tex"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:Placement="Inline"
+       >
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       $\times $
+       </AssociatedFile>
+      <?MarkedContent page="1" ?>×
+     </Formula>
+     <?MarkedContent page="1" ?>g3!! 11. N
+     <Formula xmlns="http://iso.org/pdf2/ssn"
+        title="math"
+        af="source.tex"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:Placement="Inline"
+       >
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       $\times $
+       </AssociatedFile>
+      <?MarkedContent page="1" ?>×
+     </Formula>
+     <?MarkedContent page="1" ?>d8[11. N
+     <Formula xmlns="http://iso.org/pdf2/ssn"
+        title="math"
+        af="source.tex"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:Placement="Inline"
+       >
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       $\times $
+       </AssociatedFile>
+      <?MarkedContent page="1" ?>×
+     </Formula>
+     <?MarkedContent page="1" ?>h8 Qe7! EQh7 12. Nf7 B
+     <Formula xmlns="http://iso.org/pdf2/ssn"
+        title="math"
+        af="source.tex"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:Placement="Inline"
+       >
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       $\times $
+       </AssociatedFile>
+      <?MarkedContent page="1" ?>×
+     </Formula>
+     <?MarkedContent page="1" ?>f2+ 13. R
+     <Formula xmlns="http://iso.org/pdf2/ssn"
+        title="math"
+        af="source.tex"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:Placement="Inline"
+       >
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       $\times $
+       </AssociatedFile>
+      <?MarkedContent page="1" ?>×
+     </Formula>
+     <?MarkedContent page="1" ?>f2 g
+     <Formula xmlns="http://iso.org/pdf2/ssn"
+        title="math"
+        af="source.tex"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:Placement="Inline"
+       >
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       $\times $
+       </AssociatedFile>
+      <?MarkedContent page="1" ?>×
+     </Formula>
+     <?MarkedContent page="1" ?>f2+ 14. K
+     <Formula xmlns="http://iso.org/pdf2/ssn"
+        title="math"
+        af="source.tex"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:Placement="Inline"
+       >
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       $\times $
+       </AssociatedFile>
+      <?MarkedContent page="1" ?>×
+     </Formula>
+     <?MarkedContent page="1" ?>f2 Ng4+ 15. Kg3 Qf6 16. Qf3 Qg7i]11…Bg4 12. Qe1 Nd4 13. Nc3F[13. h3 Ne2+ 14. Kh1 R
+     <Formula xmlns="http://iso.org/pdf2/ssn"
+        title="math"
+        af="source.tex"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:Placement="Inline"
+       >
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       $\times $
+       </AssociatedFile>
+      <?MarkedContent page="1" ?>×
+     </Formula>
+     <?MarkedContent page="1" ?>h3+ 15. g
+     <Formula xmlns="http://iso.org/pdf2/ssn"
+        title="math"
+        af="source.tex"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:Placement="Inline"
+       >
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       $\times $
+       </AssociatedFile>
+      <?MarkedContent page="1" ?>×
+     </Formula>
+     <?MarkedContent page="1" ?>h3 Bf3#]13…Nf3+! 14. g
+     <Formula xmlns="http://iso.org/pdf2/ssn"
+        title="math"
+        af="source.tex"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:Placement="Inline"
+       >
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       $\times $
+       </AssociatedFile>
+      <?MarkedContent page="1" ?>×
+     </Formula>
+     <?MarkedContent page="1" ?>f3 B
+     <Formula xmlns="http://iso.org/pdf2/ssn"
+        title="math"
+        af="source.tex"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:Placement="Inline"
+       >
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       $\times $
+       </AssociatedFile>
+      <?MarkedContent page="1" ?>×
+     </Formula>
+     <?MarkedContent page="1" ?>f3 0:1
+    </text-block>
+   </semantic-para>
+   <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Part"
+     >
+    <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+       Layout:TextAlign="Justify"
+       rolemaps-to="P"
+      >
+     <?MarkedContent page="1" ?>1. e4 e5 2. Nc3 Nc6 SteinitzrZblkansopopZpop0ZnZ0Z0ZZ0Z0o0Z00Z0ZPZ0ZZ0M0Z0Z0POPO0OPOS0AQJBMRDubois
+    </text-block>
+   </semantic-para>
+  </Document>
+ </StructTreeRoot>
+</PDF>

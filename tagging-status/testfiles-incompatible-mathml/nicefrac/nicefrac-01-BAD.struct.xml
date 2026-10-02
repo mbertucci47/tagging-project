@@ -19,7 +19,7 @@
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mtext>1</mtext> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \mbox {\fontsize \sf@size \z@ \selectfont {1}}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>1
@@ -33,7 +33,7 @@
        <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="-0.111em"/> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \mkern -2mu$
        </AssociatedFile>
      </Formula>
@@ -47,7 +47,7 @@
        <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="-0.056em"/> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \mkern -1mu$
        </AssociatedFile>
      </Formula>
@@ -60,7 +60,7 @@
        <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mtext>2</mtext> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \mbox {\fontsize \sf@size \z@ \selectfont {2}}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>2
@@ -84,7 +84,7 @@
        <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="false" scriptlevel="1"> <mn>1</mn> </mstyle> </math> </mtext> <mspace width="-0.111em"/> <mo lspace="0" rspace="0">/</mo> <mspace width="-0.056em"/> <mrow> <mstyle displaystyle="false" scriptlevel="1"/> <mn>2</mn> </mrow> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\nicefrac {1}{2}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>1/2
@@ -108,7 +108,7 @@
        <AssociatedFile name="mathml-6.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mtext>1</mtext> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \mbox {\fontsize \sf@size \z@ \selectfont \texttt {1}}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>1
@@ -122,7 +122,7 @@
        <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="-0.111em"/> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \mkern -2mu$
        </AssociatedFile>
      </Formula>
@@ -136,7 +136,7 @@
        <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="-0.056em"/> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \mkern -1mu$
        </AssociatedFile>
      </Formula>
@@ -149,7 +149,7 @@
        <AssociatedFile name="mathml-9.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mtext>2</mtext> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \mbox {\fontsize \sf@size \z@ \selectfont \texttt {2}}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>2
@@ -173,7 +173,7 @@
        <AssociatedFile name="mathml-10.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mtext>1</mtext> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \mbox {\fontsize \sf@size \z@ \selectfont \texttt {\textit {1}}}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>1
@@ -187,7 +187,7 @@
        <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="-0.111em"/> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \mkern -2mu$
        </AssociatedFile>
      </Formula>
@@ -201,7 +201,7 @@
        <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mspace width="-0.056em"/> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \mkern -1mu$
        </AssociatedFile>
      </Formula>
@@ -214,7 +214,7 @@
        <AssociatedFile name="mathml-9.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mtext>2</mtext> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \mbox {\fontsize \sf@size \z@ \selectfont \texttt {2}}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>2
@@ -238,7 +238,7 @@
        <AssociatedFile name="mathml-14.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mstyle displaystyle="false" scriptlevel="1"> <mi>𝒜</mi> </mstyle> </math> </mtext> <mspace width="-0.111em"/> <mo lspace="0" rspace="0">/</mo> <mspace width="-0.056em"/> <mrow> <mstyle displaystyle="false" scriptlevel="1"/> <mi mathvariant="normal">ℬ</mi> </mrow> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\nicefrac [\mathcal ]{A}{B}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝒜/ℬ

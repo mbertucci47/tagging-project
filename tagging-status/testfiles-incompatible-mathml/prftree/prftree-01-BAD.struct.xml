@@ -14,7 +14,7 @@
       <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
       <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi> <mglyph/> </mi> </math> </mtext> </math>
       </AssociatedFile>
-      <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}\prftree [r]{$\scriptstyle \supset \mathrm {I}$} {\prftree [r]{$\scriptstyle \supset \mathrm {I}$} {\prftree [r]{$\scriptstyle \supset \mathrm {E}$} {\prfboundedassumption {A}} {\prfboundedassumption {\neg A}} {\bot }} {\neg \neg A}} {A \supset \neg \neg A}\end {equation*}
       </AssociatedFile>
      <?MarkedContent page="1" ?>[𝐴][¬𝐴]⊃E

@@ -10,7 +10,18 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>Testbla
+     <?MarkedContent page="1" ?>Test
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Start"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?>bla
+      </text-block>
+     </semantic-para>
     </text-block>
    </semantic-para>
    <section xmlns="https://www.latex-project.org/ns/dflt"
@@ -30,12 +41,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="2" ?>indexfile , 
-      <Link xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="2" ?>1
-       <?ReferencedObject type="Annot" page="2" ?>
-      </Link>
+      <?MarkedContent page="2" ?>bla, 1
      </text-block>
     </semantic-para>
    </section>

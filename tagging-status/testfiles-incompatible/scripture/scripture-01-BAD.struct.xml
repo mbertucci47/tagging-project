@@ -145,7 +145,7 @@
                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                Layout:Placement="Block"
               >
-              <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+              <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
               \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
               </AssociatedFile>
             </Formula>
@@ -165,7 +165,7 @@
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Block"
           >
-          <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
           </AssociatedFile>
         </Formula>
@@ -283,7 +283,7 @@
                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                Layout:Placement="Block"
               >
-              <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+              <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
               \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
               </AssociatedFile>
             </Formula>
@@ -303,7 +303,7 @@
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Block"
           >
-          <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
           </AssociatedFile>
         </Formula>
@@ -384,7 +384,7 @@
                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                Layout:Placement="Block"
               >
-              <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+              <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
               \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
               </AssociatedFile>
             </Formula>
@@ -404,7 +404,7 @@
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Block"
           >
-          <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
           </AssociatedFile>
         </Formula>
@@ -480,7 +480,7 @@
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Block"
           >
-          <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
           </AssociatedFile>
         </Formula>
@@ -566,7 +566,7 @@
                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                Layout:Placement="Block"
               >
-              <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+              <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
               \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
               </AssociatedFile>
             </Formula>
@@ -586,7 +586,7 @@
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Block"
           >
-          <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
           </AssociatedFile>
         </Formula>
@@ -693,7 +693,7 @@
                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                Layout:Placement="Block"
               >
-              <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+              <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
               \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
               </AssociatedFile>
             </Formula>
@@ -713,7 +713,7 @@
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Block"
           >
-          <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
           </AssociatedFile>
         </Formula>
@@ -826,7 +826,7 @@
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Block"
           >
-          <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
           </AssociatedFile>
         </Formula>
@@ -922,7 +922,7 @@
                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                Layout:Placement="Block"
               >
-              <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+              <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
               \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
               </AssociatedFile>
             </Formula>
@@ -982,7 +982,7 @@
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Block"
           >
-          <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
           </AssociatedFile>
         </Formula>
@@ -1124,7 +1124,7 @@
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Block"
           >
-          <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
           </AssociatedFile>
         </Formula>
@@ -1225,7 +1225,7 @@
                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                Layout:Placement="Block"
               >
-              <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+              <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
               \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
               </AssociatedFile>
             </Formula>
@@ -1245,7 +1245,7 @@
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Block"
           >
-          <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
           </AssociatedFile>
         </Formula>
