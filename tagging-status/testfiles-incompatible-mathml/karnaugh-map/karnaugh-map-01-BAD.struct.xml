@@ -19,7 +19,7 @@
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝑋</mi> <mn>1</mn> </msub> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $X_1$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑋1
@@ -33,7 +33,7 @@
        <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝑋</mi> <mn>0</mn> </msub> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $X_0$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑋0
@@ -48,7 +48,7 @@
        <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝑋</mi> <mn>3</mn> </msub> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $X_3$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑋3
@@ -62,7 +62,7 @@
        <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝑋</mi> <mn>2</mn> </msub> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $X_2$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑋2
@@ -121,7 +121,7 @@
        <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑏</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $b$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑏
@@ -135,7 +135,7 @@
        <AssociatedFile name="mathml-6.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑎</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $a$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑎
@@ -150,7 +150,7 @@
        <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑑</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $d$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑑
@@ -164,7 +164,7 @@
        <AssociatedFile name="mathml-8.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑐</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $c$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑐
@@ -179,7 +179,7 @@
        <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑏</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $b$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑏
@@ -193,7 +193,7 @@
        <AssociatedFile name="mathml-6.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑎</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $a$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑎
@@ -208,7 +208,7 @@
        <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑑</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $d$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑑
@@ -222,7 +222,7 @@
        <AssociatedFile name="mathml-8.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑐</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $c$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑐
@@ -237,7 +237,7 @@
        <AssociatedFile name="mathml-13.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑓</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $f$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑓
@@ -251,7 +251,7 @@
        <AssociatedFile name="mathml-14.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑒</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $e$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑒
@@ -265,7 +265,7 @@
        <AssociatedFile name="mathml-15.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.278em">=</mo> <mn> 00 </mn> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $=00$
        </AssociatedFile>
       <?MarkedContent page="1" ?>=00
@@ -280,7 +280,7 @@
        <AssociatedFile name="mathml-13.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑓</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $f$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑓
@@ -294,7 +294,7 @@
        <AssociatedFile name="mathml-14.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑒</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $e$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑒
@@ -308,7 +308,7 @@
        <AssociatedFile name="mathml-18.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.278em">=</mo> <mn> 01 </mn> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $=01$
        </AssociatedFile>
       <?MarkedContent page="1" ?>=01
@@ -323,7 +323,7 @@
        <AssociatedFile name="mathml-13.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑓</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $f$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑓
@@ -337,7 +337,7 @@
        <AssociatedFile name="mathml-14.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑒</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $e$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑒
@@ -351,7 +351,7 @@
        <AssociatedFile name="mathml-21.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.278em">=</mo> <mn> 10 </mn> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $=10$
        </AssociatedFile>
       <?MarkedContent page="1" ?>=10
@@ -366,7 +366,7 @@
        <AssociatedFile name="mathml-13.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑓</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $f$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑓
@@ -380,7 +380,7 @@
        <AssociatedFile name="mathml-14.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑒</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $e$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑒
@@ -394,7 +394,7 @@
        <AssociatedFile name="mathml-24.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.278em">=</mo> <mn> 11 </mn> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $=11$
        </AssociatedFile>
       <?MarkedContent page="1" ?>=11
@@ -519,7 +519,7 @@
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝑋</mi> <mn>1</mn> </msub> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $X_1$
        </AssociatedFile>
       <?MarkedContent page="2" ?>𝑋1
@@ -533,7 +533,7 @@
        <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝑋</mi> <mn>0</mn> </msub> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $X_0$
        </AssociatedFile>
       <?MarkedContent page="2" ?>𝑋0
@@ -548,7 +548,7 @@
        <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝑋</mi> <mn>3</mn> </msub> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $X_3$
        </AssociatedFile>
       <?MarkedContent page="2" ?>𝑋3
@@ -562,7 +562,7 @@
        <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝑋</mi> <mn>2</mn> </msub> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $X_2$
        </AssociatedFile>
       <?MarkedContent page="2" ?>𝑋2
@@ -621,7 +621,7 @@
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝑋</mi> <mn>1</mn> </msub> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $X_1$
        </AssociatedFile>
       <?MarkedContent page="2" ?>𝑋1
@@ -635,7 +635,7 @@
        <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝑋</mi> <mn>0</mn> </msub> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $X_0$
        </AssociatedFile>
       <?MarkedContent page="2" ?>𝑋0
@@ -650,7 +650,7 @@
        <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝑋</mi> <mn>3</mn> </msub> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $X_3$
        </AssociatedFile>
       <?MarkedContent page="2" ?>𝑋3
@@ -664,7 +664,7 @@
        <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝑋</mi> <mn>2</mn> </msub> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $X_2$
        </AssociatedFile>
       <?MarkedContent page="2" ?>𝑋2

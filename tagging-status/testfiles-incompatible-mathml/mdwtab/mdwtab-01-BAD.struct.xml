@@ -27,7 +27,7 @@
       <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
       <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi> <mglyph/> </mi> </math> </mtext> </math>
       </AssociatedFile>
-      <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}\begin {smarray}{cc} A &amp; B \\ C &amp; D \end {smarray}\end {equation*}
       </AssociatedFile>
      <?MarkedContent page="1" ?>𝐴𝐵𝐶𝐷

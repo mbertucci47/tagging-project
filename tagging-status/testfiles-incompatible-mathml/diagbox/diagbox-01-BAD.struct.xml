@@ -46,7 +46,7 @@
          <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi> <mglyph/> </mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\vcenter {\hbox {\diagbox@pict }}$
          </AssociatedFile>
         <Figure xmlns="http://iso.org/pdf2/ssn"
@@ -97,7 +97,7 @@
          <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi> <mglyph/> </mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\vcenter {\hbox {\diagbox@pict }}$
          </AssociatedFile>
         <Figure xmlns="http://iso.org/pdf2/ssn"
@@ -206,7 +206,7 @@
          <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi> <mglyph/> </mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\vcenter {\hbox {\diagbox@pict }}$
          </AssociatedFile>
         <Figure xmlns="http://iso.org/pdf2/ssn"

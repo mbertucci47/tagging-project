@@ -26,7 +26,7 @@
          <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math> </mtext> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math> </mtext> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math> </mtext> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math> </mtext> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math> </mtext> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\protect \raisebox {0.0000em}[0.7620em][0.2380em]{\ensuremath {\Umathchar &quot;0 \symLogix &quot;E168}}\KntTSN \KntHXSOSU \KntTSFN \KntTRSC $
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -46,7 +46,7 @@
          <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math> </mtext> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math> </mtext> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math> </mtext> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math> </mtext> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math> </mtext> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math> </mtext> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\protect \raisebox {0.0000em}[0.7620em][0.2380em]{\ensuremath {\Umathchar &quot;0 \symLogix &quot;E212}}\KntHXSUSO \KntNN \KntRQC \KntNQ \KntRSN $
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -66,7 +66,7 @@
          <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math> </mtext> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math> </mtext> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math> </mtext> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math> </mtext> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math> </mtext> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\protect \raisebox {0.0000em}[0.7620em][0.2380em]{\ensuremath {\Umathchar &quot;0 \symLogix &quot;E168}}\KntBSN \KntHXSOSU \KntBSFN \KntRBSC $
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -107,7 +107,7 @@
          <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          ${\defineLatinScriptMacro {\sauNbrBase }{\sauLtrBase }{0}\ensuremath {p}}$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -124,7 +124,7 @@
          <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\protect \ensuremath  {\Umathchar &quot;0 \symLogix &quot;E60A}\relax $
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -141,7 +141,7 @@
          <AssociatedFile name="mathml-6.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          ${\defineLatinScriptMacro {\sauNbrBase }{\sauLtrBase }{0}\ensuremath {q}}$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -187,7 +187,7 @@
          <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          ${\defineLatinScriptMacro {\sauNbrBase }{\sauLtrBase }{0}\ensuremath {p}}$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -204,7 +204,7 @@
          <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\protect \ensuremath  {\Umathchar &quot;0 \symLogix &quot;E60A}\relax $
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -221,7 +221,7 @@
          <AssociatedFile name="mathml-6.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          ${\defineLatinScriptMacro {\sauNbrBase }{\sauLtrBase }{0}\ensuremath {q}}$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -281,7 +281,7 @@
          <AssociatedFile name="mathml-10.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> </mrow> <mo lspace="0" rspace="0"></mo> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mo lspace="0" rspace="0"></mo> <mo lspace="0" rspace="0.167em">,</mo> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mo lspace="0" rspace="0.167em">,</mo> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mo lspace="0" rspace="0"></mo> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mo lspace="0" rspace="0"></mo> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          ${\defineLatinScriptMacro {\saiNbrBase }{\saiLtrBase }{0}\ensuremath {NegationFree}}\OpnParn \symsau {p}\WkEquv \symsau {q}\ClsParn ,\symsau {p}\WkEquv \symsau {q},\symsau {e}\Seq \symsau {e}\OpnBrkt \symsau {q}\RightSlash \symsau {p}\ClsBrkt $
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -322,7 +322,7 @@
          <AssociatedFile name="mathml-11.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> </mrow> <mo lspace="0" rspace="0"></mo> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mo lspace="0" rspace="0"></mo> <mo lspace="0" rspace="0.167em">,</mo> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mo lspace="0" rspace="0"></mo> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mi mathvariant="normal"></mi> <mo lspace="0" rspace="0"></mo> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          ${\defineLatinScriptMacro {\saiNbrBase }{\saiLtrBase }{0}\ensuremath {NegationFree}}\OpnParn \symsau {p}\WkEquv \symsau {q}\ClsParn ,\symsau {p}\WkEquv \symsau {q}\Seq \symsau {e}\WkEquv \symsau {e}\OpnBrkt \symsau {q}\RightSlash \symsau {p}\ClsBrkt $
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -368,7 +368,7 @@
          <AssociatedFile name="mathml-12.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax \Umathchar &quot;0\symLogix &quot;E6A0$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -385,7 +385,7 @@
          <AssociatedFile name="mathml-13.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax f$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -402,7 +402,7 @@
          <AssociatedFile name="mathml-14.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax u$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -419,7 +419,7 @@
          <AssociatedFile name="mathml-15.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax o$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -436,7 +436,7 @@
          <AssociatedFile name="mathml-16.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax t$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -468,7 +468,7 @@
          <AssociatedFile name="mathml-13.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax f$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -485,7 +485,7 @@
          <AssociatedFile name="mathml-13.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax f$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -502,7 +502,7 @@
          <AssociatedFile name="mathml-13.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax f$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -519,7 +519,7 @@
          <AssociatedFile name="mathml-13.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax f$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -536,7 +536,7 @@
          <AssociatedFile name="mathml-13.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax f$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -568,7 +568,7 @@
          <AssociatedFile name="mathml-14.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax u$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -585,7 +585,7 @@
          <AssociatedFile name="mathml-13.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax f$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -602,7 +602,7 @@
          <AssociatedFile name="mathml-14.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax u$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -619,7 +619,7 @@
          <AssociatedFile name="mathml-13.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax f$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -636,7 +636,7 @@
          <AssociatedFile name="mathml-14.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax u$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -668,7 +668,7 @@
          <AssociatedFile name="mathml-15.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax o$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -685,7 +685,7 @@
          <AssociatedFile name="mathml-13.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax f$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -702,7 +702,7 @@
          <AssociatedFile name="mathml-13.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax f$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -719,7 +719,7 @@
          <AssociatedFile name="mathml-15.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax o$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -736,7 +736,7 @@
          <AssociatedFile name="mathml-15.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax o$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -768,7 +768,7 @@
          <AssociatedFile name="mathml-16.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax t$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -785,7 +785,7 @@
          <AssociatedFile name="mathml-13.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax f$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -802,7 +802,7 @@
          <AssociatedFile name="mathml-14.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax u$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -819,7 +819,7 @@
          <AssociatedFile name="mathml-15.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax o$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -836,7 +836,7 @@
          <AssociatedFile name="mathml-16.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"></mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax t$
          </AssociatedFile>
         <?MarkedContent page="1" ?>[TEXT]
@@ -874,7 +874,7 @@
        <AssociatedFile name="mathml-37.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0"></mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\OpnTortoiseBar $
        </AssociatedFile>
       <?MarkedContent page="1" ?>[TEXT]
@@ -898,7 +898,7 @@
        <AssociatedFile name="mathml-38.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0"></mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\ClsDblGrp $
        </AssociatedFile>
       <?MarkedContent page="1" ?>[TEXT]
@@ -922,7 +922,7 @@
        <AssociatedFile name="mathml-39.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo fence="true" lspace="0" rspace="0" stretchy="true" symmetric="true"></mo> <munderover> <mo lspace="0.167em" movablelimits="true" rspace="0.167em">∑</mo> <mi>𝑖</mi> <mi>𝑗</mi> </munderover> <msub> <mi>𝑓</mi> <mi>𝑖</mi> </msub> <mo fence="true" lspace="0" rspace="0" stretchy="true" symmetric="true"></mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\OpnCircBrktS \sum _i^j f_i\ClsCircBrktS $
        </AssociatedFile>
       <?MarkedContent page="1" ?>[TEXT]

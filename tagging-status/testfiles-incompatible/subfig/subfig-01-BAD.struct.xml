@@ -1,1 +1,290 @@
-<run-error err="assertion failed!" />
+<PDF version="2.0">
+ <StructTreeRoot>
+  <Document xmlns="http://iso.org/pdf2/ssn"
+    >
+   <section xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Sect"
+     >
+    <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+       title="List of Figures"
+       rolemaps-to="H1"
+      >
+     <?MarkedContent page="1" ?>List of Figures
+    </section-heading>
+    <TOC xmlns="http://iso.org/pdf/ssn"
+       title="lof"
+      >
+     <TOCI xmlns="http://iso.org/pdf/ssn"
+        title="Some caption"
+       >
+      <Reference xmlns="http://iso.org/pdf/ssn"
+        >
+       <Link xmlns="http://iso.org/pdf2/ssn"
+         >
+        <Lbl xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="1" ?>1
+        </Lbl>
+        <?MarkedContent page="1" ?>Some caption
+        <?ReferencedObject type="Annot" page="1" ?>
+       </Link>
+       <?MarkedContent page="1" ?>1
+      </Reference>
+     </TOCI>
+     <TOCI xmlns="http://iso.org/pdf/ssn"
+        title="Three sub-floats."
+       >
+      <Reference xmlns="http://iso.org/pdf/ssn"
+        >
+       <Link xmlns="http://iso.org/pdf2/ssn"
+         >
+        <Lbl xmlns="http://iso.org/pdf2/ssn"
+          >
+         <?MarkedContent page="1" ?>2
+        </Lbl>
+        <?MarkedContent page="1" ?>Three sub-floats.
+        <?ReferencedObject type="Annot" page="1" ?>
+       </Link>
+       <?MarkedContent page="1" ?>1
+      </Reference>
+     </TOCI>
+     <TOC xmlns="http://iso.org/pdf/ssn"
+       >
+      <TOCI xmlns="http://iso.org/pdf/ssn"
+         title="First."
+        >
+        <?References objects="1" ?>
+      </TOCI>
+      <TOCI xmlns="http://iso.org/pdf/ssn"
+         title="Second figure."
+        >
+        <?References objects="2" ?>
+      </TOCI>
+      <TOCI xmlns="http://iso.org/pdf/ssn"
+         title="Third."
+        >
+        <?References objects="1" ?>
+      </TOCI>
+     </TOC>
+    </TOC>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <Link xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>1
+       <?ReferencedObject type="Annot" page="1" ?>
+      </Link>
+     </text-block>
+    </semantic-para>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <Link xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>(c)
+       <?ReferencedObject type="Annot" page="1" ?>
+      </Link>
+     </text-block>
+    </semantic-para>
+   </section>
+   <figures xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Sect"
+     >
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>Figure 1: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?>Some caption
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?>Some figure
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+       referenced-as="1"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>Figure 2: 
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?>Three sub-floats.
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?>First subfloat
+       <?MarkedContent page="1" ?>Second subfloat
+      </text-block>
+      <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Div"
+        >
+       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Part"
+         >
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+           Layout:TextAlign="Center"
+           rolemaps-to="P"
+          >
+        </text-block>
+        <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Div"
+          >
+         <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="Part"
+           >
+          <text-block xmlns="https://www.latex-project.org/ns/dflt"
+             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+             Layout:TextAlign="Center"
+             rolemaps-to="P"
+            >
+           <?MarkedContent page="1" ?>(a) First.
+          </text-block>
+         </semantic-para>
+        </text-parbox>
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="P"
+          >
+        </text-block>
+       </semantic-para>
+      </text-parbox>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+         referenced-as="2"
+        >
+      </text-block>
+      <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Div"
+        >
+       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Part"
+         >
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+           Layout:TextAlign="Center"
+           rolemaps-to="P"
+          >
+        </text-block>
+        <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Div"
+          >
+         <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="Part"
+           >
+          <text-block xmlns="https://www.latex-project.org/ns/dflt"
+             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+             Layout:TextAlign="Center"
+             rolemaps-to="P"
+            >
+           <?MarkedContent page="1" ?>(b) Second figure.
+          </text-block>
+         </semantic-para>
+        </text-parbox>
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="P"
+          >
+        </text-block>
+       </semantic-para>
+      </text-parbox>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?>Third subfloat
+      </text-block>
+      <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Div"
+        >
+       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Part"
+         >
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+           Layout:TextAlign="Center"
+           rolemaps-to="P"
+          >
+        </text-block>
+        <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Div"
+          >
+         <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="Part"
+           >
+          <text-block xmlns="https://www.latex-project.org/ns/dflt"
+             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+             Layout:TextAlign="Center"
+             rolemaps-to="P"
+            >
+           <?MarkedContent page="1" ?>(c) Third.
+          </text-block>
+         </semantic-para>
+        </text-parbox>
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="P"
+          >
+        </text-block>
+       </semantic-para>
+      </text-parbox>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="P"
+        >
+      </text-block>
+     </semantic-para>
+    </float>
+   </figures>
+  </Document>
+ </StructTreeRoot>
+</PDF>

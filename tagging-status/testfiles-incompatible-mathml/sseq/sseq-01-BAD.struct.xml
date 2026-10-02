@@ -11,7 +11,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>−1
@@ -25,7 +25,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>1
@@ -39,7 +39,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>3
@@ -53,7 +53,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>5
@@ -67,7 +67,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>7
@@ -81,7 +81,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>20
@@ -95,7 +95,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>22
@@ -109,7 +109,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>24
@@ -123,7 +123,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>0
@@ -137,7 +137,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>2
@@ -151,7 +151,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>4
@@ -175,7 +175,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>−2
@@ -189,7 +189,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>−1
@@ -203,7 +203,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>0
@@ -217,7 +217,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>1
@@ -231,7 +231,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>2
@@ -245,7 +245,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>−2
@@ -259,7 +259,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>−1
@@ -273,7 +273,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>0
@@ -287,7 +287,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>1
@@ -301,7 +301,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>2
@@ -325,7 +325,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>0
@@ -339,7 +339,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>2
@@ -353,7 +353,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>4
@@ -367,7 +367,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>6
@@ -381,7 +381,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>0
@@ -395,7 +395,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>2
@@ -409,7 +409,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>4
@@ -423,7 +423,7 @@
      <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0.222em">−</mo> <mn>1</mn> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \sseq@answer $
      </AssociatedFile>
     <?MarkedContent page="1" ?>6
@@ -437,7 +437,7 @@
      <AssociatedFile name="mathml-30.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">♣</mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \clubsuit $
      </AssociatedFile>
    </Formula>
@@ -450,7 +450,7 @@
      <AssociatedFile name="mathml-31.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">♠</mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \spadesuit $
      </AssociatedFile>
    </Formula>
@@ -463,7 +463,7 @@
      <AssociatedFile name="mathml-32.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">(</mo> <mn>0</mn> <mo lspace="0" rspace="0.167em">,</mo> <mn>0</mn> <mo lspace="0" rspace="0" stretchy="false">)</mo> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax (0,0)$
      </AssociatedFile>
     <?MarkedContent page="1" ?>(0,0)
@@ -477,7 +477,7 @@
      <AssociatedFile name="mathml-30.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">♣</mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \clubsuit $
      </AssociatedFile>
     <?MarkedContent page="1" ?>♣
@@ -491,7 +491,7 @@
      <AssociatedFile name="mathml-34.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">(</mo> <mn>2</mn> <mo lspace="0" rspace="0.167em">,</mo> <mn>1</mn> <mo lspace="0" rspace="0" stretchy="false">)</mo> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax (2,1)$
      </AssociatedFile>
     <?MarkedContent page="1" ?>(2,1)
@@ -505,7 +505,7 @@
      <AssociatedFile name="mathml-31.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">♠</mi> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \spadesuit $
      </AssociatedFile>
     <?MarkedContent page="1" ?>♠
@@ -519,7 +519,7 @@
      <AssociatedFile name="mathml-36.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">(</mo> <mn>5</mn> <mo lspace="0" rspace="0.167em">,</mo> <mn>4</mn> <mo lspace="0" rspace="0" stretchy="false">)</mo> </math>
      </AssociatedFile>
-     <AssociatedFile name="source.tex" relationship="Supplement" media-type="application/x-tex" xmlns="">
+     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax (5,4)$
      </AssociatedFile>
     <?MarkedContent page="1" ?>(5,4)
