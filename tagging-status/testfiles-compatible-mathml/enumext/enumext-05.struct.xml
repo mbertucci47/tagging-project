@@ -1,1 +1,1854 @@
-<run-error code="1" />
+<PDF version="2.0">
+ <StructTreeRoot>
+  <Document xmlns="http://iso.org/pdf2/ssn"
+    >
+   <section xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Sect"
+     >
+    <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+       title="The enumext package in action"
+       rolemaps-to="H1"
+      >
+     <heading-number xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Lbl"
+       >
+      <?MarkedContent page="1" ?>1
+     </heading-number>
+     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>The enumext package in action
+    </section-heading>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <list xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:List="http://iso.org/pdf/ssn/List"
+        List:ListNumbering="Ordered"
+        rolemaps-to="L"
+       >
+      <item xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="LI"
+        >
+       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Lbl"
+         >
+        <?MarkedContent page="1" ?>1.
+       </itemlabel>
+       <itembody xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="LBody"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:TextAlign="Justify"
+            rolemaps-to="P"
+           >
+          <?MarkedContent page="1" ?>First type of questions
+         </text-block>
+         <list xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:List="http://iso.org/pdf/ssn/List"
+            List:ListNumbering="Ordered"
+            rolemaps-to="L"
+           >
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>A)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+             </text-block>
+             <text-minipage xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="Div"
+               >
+              <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+                 rolemaps-to="Part"
+                >
+               <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                  xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                  Layout:TextAlign="Justify"
+                  rolemaps-to="P"
+                 >
+                <?MarkedContent page="1" ?>value
+               </text-block>
+              </semantic-para>
+             </text-minipage>
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>∗B)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+             </text-block>
+             <text-minipage xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="Div"
+               >
+              <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+                 rolemaps-to="Part"
+                >
+               <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                  xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                  Layout:TextAlign="Justify"
+                  rolemaps-to="P"
+                 >
+                <Formula xmlns="http://iso.org/pdf2/ssn"
+                   title="math"
+                   af="mathml-1.xml source.tex"
+                   xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                   Layout:Placement="Inline"
+                  >
+                  <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+                  <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑥</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mn>5</mn> </math>
+                  </AssociatedFile>
+                  <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                  $x=5$
+                  </AssociatedFile>
+                 <?MarkedContent page="1" ?>𝑥=5
+                </Formula>
+                <?MarkedContent page="1" ?>
+                <?MarkedContent page="1" ?> correct
+               </text-block>
+              </semantic-para>
+             </text-minipage>
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>C)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+             </text-block>
+             <text-minipage xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="Div"
+               >
+              <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+                 rolemaps-to="Part"
+                >
+               <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                  xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                  Layout:TextAlign="Justify"
+                  rolemaps-to="P"
+                 >
+                <?MarkedContent page="1" ?>value
+               </text-block>
+              </semantic-para>
+             </text-minipage>
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>D)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+             </text-block>
+             <text-minipage xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="Div"
+               >
+              <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+                 rolemaps-to="Part"
+                >
+               <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                  xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                  Layout:TextAlign="Justify"
+                  rolemaps-to="P"
+                 >
+                <?MarkedContent page="1" ?>value
+               </text-block>
+              </semantic-para>
+             </text-minipage>
+            </semantic-para>
+            <text-block xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="P"
+              >
+            </text-block>
+           </LBody>
+          </LI>
+         </list>
+        </semantic-para>
+       </itembody>
+      </item>
+      <item xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="LI"
+        >
+       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Lbl"
+         >
+        <?MarkedContent page="1" ?>2.
+       </itemlabel>
+       <itembody xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="LBody"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:TextAlign="Justify"
+            rolemaps-to="P"
+           >
+          <?MarkedContent page="1" ?>Second type of questions
+         </text-block>
+         <list xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:List="http://iso.org/pdf/ssn/List"
+            List:ListNumbering="Ordered"
+            rolemaps-to="L"
+           >
+          <item xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="LI"
+            >
+           <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="Lbl"
+             >
+            <?MarkedContent page="1" ?>I.
+           </itemlabel>
+           <itembody xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="LBody"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                Layout:TextAlign="Justify"
+                rolemaps-to="P"
+               >
+              <Formula xmlns="http://iso.org/pdf2/ssn"
+                 title="math"
+                 af="mathml-2.xml source.tex"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:Placement="Inline"
+                >
+                <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+                <math xmlns="http://www.w3.org/1998/Math/MathML"> <mn>2</mn> <mi>𝛼</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mn>2</mn> <mi>𝛿</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mn> 90 </mn> <mo lspace="0" rspace="0">∘</mo> </msup> </math>
+                </AssociatedFile>
+                <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                $2\alpha +2\delta =90^{\circ }$
+                </AssociatedFile>
+               <?MarkedContent page="1" ?>2𝛼+2𝛿=90∘
+              </Formula>
+             </text-block>
+            </semantic-para>
+           </itembody>
+          </item>
+          <item xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="LI"
+            >
+           <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="Lbl"
+             >
+            <?MarkedContent page="1" ?>II.
+           </itemlabel>
+           <itembody xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="LBody"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                Layout:TextAlign="Justify"
+                rolemaps-to="P"
+               >
+              <Formula xmlns="http://iso.org/pdf2/ssn"
+                 title="math"
+                 af="mathml-3.xml source.tex"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:Placement="Inline"
+                >
+                <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+                <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝛼</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝛿</mi> </math>
+                </AssociatedFile>
+                <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                $\alpha =\delta $
+                </AssociatedFile>
+               <?MarkedContent page="1" ?>𝛼=𝛿
+              </Formula>
+             </text-block>
+            </semantic-para>
+           </itembody>
+          </item>
+          <item xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="LI"
+            >
+           <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="Lbl"
+             >
+            <?MarkedContent page="1" ?>III.
+           </itemlabel>
+           <itembody xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="LBody"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                Layout:TextAlign="Justify"
+                rolemaps-to="P"
+               >
+              <Formula xmlns="http://iso.org/pdf2/ssn"
+                 title="math"
+                 af="mathml-4.xml source.tex"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:Placement="Inline"
+                >
+                <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+                <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">∠</mi> <mi>𝐸</mi> <mi>𝐷</mi> <mi>𝐹</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mn> 45 </mn> <mo lspace="0" rspace="0">∘</mo> </msup> </math>
+                </AssociatedFile>
+                <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                $\angle EDF=45^{\circ }$
+                </AssociatedFile>
+               <?MarkedContent page="1" ?>∠𝐸𝐷𝐹=45∘
+              </Formula>
+             </text-block>
+            </semantic-para>
+           </itembody>
+          </item>
+         </list>
+        </semantic-para>
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <list xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:List="http://iso.org/pdf/ssn/List"
+            List:ListNumbering="Ordered"
+            rolemaps-to="L"
+           >
+          <item xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="LI"
+            >
+           <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="Lbl"
+             >
+            <?MarkedContent page="1" ?>A)
+           </itemlabel>
+           <itembody xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="LBody"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                Layout:TextAlign="Justify"
+                rolemaps-to="P"
+               >
+              <?MarkedContent page="1" ?>I only
+             </text-block>
+            </semantic-para>
+           </itembody>
+          </item>
+          <item xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="LI"
+            >
+           <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="Lbl"
+             >
+            <?MarkedContent page="1" ?>B)
+           </itemlabel>
+           <itembody xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="LBody"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                Layout:TextAlign="Justify"
+                rolemaps-to="P"
+               >
+              <?MarkedContent page="1" ?>II only
+             </text-block>
+            </semantic-para>
+           </itembody>
+          </item>
+          <item xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="LI"
+            >
+           <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="Lbl"
+             >
+            <?MarkedContent page="1" ?>C)
+           </itemlabel>
+           <itembody xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="LBody"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                Layout:TextAlign="Justify"
+                rolemaps-to="P"
+               >
+              <?MarkedContent page="1" ?>I and II only
+             </text-block>
+            </semantic-para>
+           </itembody>
+          </item>
+          <item xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="LI"
+            >
+           <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="Lbl"
+             >
+            <?MarkedContent page="1" ?>∗D)
+           </itemlabel>
+           <itembody xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="LBody"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                Layout:TextAlign="Justify"
+                rolemaps-to="P"
+               >
+              <?MarkedContent page="1" ?>I and III only
+             </text-block>
+            </semantic-para>
+           </itembody>
+          </item>
+          <item xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="LI"
+            >
+           <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="Lbl"
+             >
+            <?MarkedContent page="1" ?>E)
+           </itemlabel>
+           <itembody xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="LBody"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                Layout:TextAlign="Justify"
+                rolemaps-to="P"
+               >
+              <?MarkedContent page="1" ?>I, II, and III
+             </text-block>
+            </semantic-para>
+           </itembody>
+          </item>
+         </list>
+        </semantic-para>
+       </itembody>
+      </item>
+      <item xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="LI"
+        >
+       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Lbl"
+         >
+        <?MarkedContent page="1" ?>*3.
+       </itemlabel>
+       <itembody xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="LBody"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:TextAlign="Justify"
+            rolemaps-to="P"
+           >
+          <?MarkedContent page="1" ?>Third type of questions
+         </text-block>
+         <list xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:List="http://iso.org/pdf/ssn/List"
+            List:ListNumbering="Ordered"
+            rolemaps-to="L"
+           >
+          <item xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="LI"
+            >
+           <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="Lbl"
+             >
+            <?MarkedContent page="1" ?>(1)
+           </itemlabel>
+           <itembody xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="LBody"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                Layout:TextAlign="Justify"
+                rolemaps-to="P"
+               >
+              <Formula xmlns="http://iso.org/pdf2/ssn"
+                 title="math"
+                 af="mathml-2.xml source.tex"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:Placement="Inline"
+                >
+                <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+                <math xmlns="http://www.w3.org/1998/Math/MathML"> <mn>2</mn> <mi>𝛼</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mn>2</mn> <mi>𝛿</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mn> 90 </mn> <mo lspace="0" rspace="0">∘</mo> </msup> </math>
+                </AssociatedFile>
+                <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                $2\alpha +2\delta =90^{\circ }$
+                </AssociatedFile>
+               <?MarkedContent page="1" ?>2𝛼+2𝛿=90∘
+              </Formula>
+             </text-block>
+            </semantic-para>
+           </itembody>
+          </item>
+          <item xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="LI"
+            >
+           <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="Lbl"
+             >
+            <?MarkedContent page="1" ?>(2)
+           </itemlabel>
+           <itembody xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="LBody"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                Layout:TextAlign="Justify"
+                rolemaps-to="P"
+               >
+              <Formula xmlns="http://iso.org/pdf2/ssn"
+                 title="math"
+                 af="mathml-4.xml source.tex"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:Placement="Inline"
+                >
+                <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+                <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">∠</mi> <mi>𝐸</mi> <mi>𝐷</mi> <mi>𝐹</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mn> 45 </mn> <mo lspace="0" rspace="0">∘</mo> </msup> </math>
+                </AssociatedFile>
+                <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                $\angle EDF=45^{\circ }$
+                </AssociatedFile>
+               <?MarkedContent page="1" ?>∠𝐸𝐷𝐹=45∘
+              </Formula>
+             </text-block>
+            </semantic-para>
+           </itembody>
+          </item>
+         </list>
+        </semantic-para>
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <list xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:List="http://iso.org/pdf/ssn/List"
+            List:ListNumbering="Ordered"
+            rolemaps-to="L"
+           >
+          <item xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="LI"
+            >
+           <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="Lbl"
+             >
+            <?MarkedContent page="1" ?>A)
+           </itemlabel>
+           <itembody xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="LBody"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                Layout:TextAlign="Justify"
+                rolemaps-to="P"
+               >
+              <?MarkedContent page="1" ?>value
+             </text-block>
+            </semantic-para>
+           </itembody>
+          </item>
+          <item xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="LI"
+            >
+           <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="Lbl"
+             >
+            <?MarkedContent page="1" ?>B)
+           </itemlabel>
+           <itembody xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="LBody"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                Layout:TextAlign="Justify"
+                rolemaps-to="P"
+               >
+              <?MarkedContent page="1" ?>value
+             </text-block>
+            </semantic-para>
+           </itembody>
+          </item>
+          <item xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="LI"
+            >
+           <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="Lbl"
+             >
+            <?MarkedContent page="1" ?>∗C)
+           </itemlabel>
+           <itembody xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="LBody"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                Layout:TextAlign="Justify"
+                rolemaps-to="P"
+               >
+              <?MarkedContent page="1" ?>some note 
+              <Formula xmlns="http://iso.org/pdf2/ssn"
+                 title="math"
+                 af="mathml-7.xml source.tex"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:Placement="Inline"
+                >
+                <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+                <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑦</mi> </math>
+                </AssociatedFile>
+                <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                $y$
+                </AssociatedFile>
+               <?MarkedContent page="1" ?>𝑦
+              </Formula>
+              <?MarkedContent page="1" ?>
+              <?MarkedContent page="1" ?>value
+             </text-block>
+            </semantic-para>
+           </itembody>
+          </item>
+          <item xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="LI"
+            >
+           <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="Lbl"
+             >
+            <?MarkedContent page="1" ?>D)
+           </itemlabel>
+           <itembody xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="LBody"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                Layout:TextAlign="Justify"
+                rolemaps-to="P"
+               >
+              <?MarkedContent page="1" ?>value
+             </text-block>
+            </semantic-para>
+           </itembody>
+          </item>
+          <item xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="LI"
+            >
+           <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="Lbl"
+             >
+            <?MarkedContent page="1" ?>E)
+           </itemlabel>
+           <itembody xmlns="https://www.latex-project.org/ns/dflt"
+              rolemaps-to="LBody"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                Layout:TextAlign="Justify"
+                rolemaps-to="P"
+               >
+              <?MarkedContent page="1" ?>value
+             </text-block>
+            </semantic-para>
+           </itembody>
+          </item>
+         </list>
+        </semantic-para>
+       </itembody>
+      </item>
+      <item xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="LI"
+        >
+       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Lbl"
+         >
+        <?MarkedContent page="1" ?>4.
+       </itemlabel>
+       <itembody xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="LBody"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:TextAlign="Justify"
+            rolemaps-to="P"
+           >
+          <?MarkedContent page="1" ?>Question with image and label above:
+         </text-block>
+         <list xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:List="http://iso.org/pdf/ssn/List"
+            List:ListNumbering="Ordered"
+            rolemaps-to="L"
+           >
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>∗A)La letra A
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="Una letra mayuscula A"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 339.80942, 642.48952, 387.80736, 678.48798 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>B)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="Una letra mayuscula B"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 427.74748, 643.49574, 475.74542, 679.4942 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>C)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="Un pato de color amarillo"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 512.10516, 645.35873, 567.26388, 679.49418 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>D)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="Una letra mayuscula C"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 361.79393, 594.5359, 409.79187, 630.53436 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>E)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="La palabra Image"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 493.70105, 594.5359, 541.69899, 630.53436 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+         </list>
+        </semantic-para>
+       </itembody>
+      </item>
+      <item xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="LI"
+        >
+       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Lbl"
+         >
+        <?MarkedContent page="1" ?>5.
+       </itemlabel>
+       <itembody xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="LBody"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:TextAlign="Justify"
+            rolemaps-to="P"
+           >
+          <?MarkedContent page="1" ?>A question
+         </text-block>
+        </semantic-para>
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:TextAlign="Justify"
+            rolemaps-to="P"
+           >
+         </text-block>
+         <text-minipage xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="Div"
+           >
+          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="Part"
+            >
+           <list xmlns="https://www.latex-project.org/ns/dflt"
+              xmlns:List="http://iso.org/pdf/ssn/List"
+              List:ListNumbering="Ordered"
+              rolemaps-to="L"
+             >
+            <item xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="LI"
+              >
+             <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="Lbl"
+               >
+              <?MarkedContent page="1" ?>A)
+             </itemlabel>
+             <itembody xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="LBody"
+               >
+              <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+                 rolemaps-to="Part"
+                >
+               <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                  xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                  Layout:TextAlign="Justify"
+                  rolemaps-to="P"
+                 >
+                <?MarkedContent page="1" ?>value
+               </text-block>
+              </semantic-para>
+             </itembody>
+            </item>
+            <item xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="LI"
+              >
+             <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="Lbl"
+               >
+              <?MarkedContent page="1" ?>B)
+             </itemlabel>
+             <itembody xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="LBody"
+               >
+              <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+                 rolemaps-to="Part"
+                >
+               <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                  xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                  Layout:TextAlign="Justify"
+                  rolemaps-to="P"
+                 >
+                <?MarkedContent page="1" ?>value
+               </text-block>
+              </semantic-para>
+             </itembody>
+            </item>
+            <item xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="LI"
+              >
+             <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="Lbl"
+               >
+              <?MarkedContent page="1" ?>C)
+             </itemlabel>
+             <itembody xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="LBody"
+               >
+              <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+                 rolemaps-to="Part"
+                >
+               <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                  xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                  Layout:TextAlign="Justify"
+                  rolemaps-to="P"
+                 >
+                <?MarkedContent page="1" ?>value
+               </text-block>
+              </semantic-para>
+             </itembody>
+            </item>
+            <item xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="LI"
+              >
+             <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="Lbl"
+               >
+              <?MarkedContent page="1" ?>∗D)
+             </itemlabel>
+             <itembody xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="LBody"
+               >
+              <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+                 rolemaps-to="Part"
+                >
+               <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                  xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                  Layout:TextAlign="Justify"
+                  rolemaps-to="P"
+                 >
+                <?MarkedContent page="1" ?>other notecorrect
+               </text-block>
+              </semantic-para>
+             </itembody>
+            </item>
+            <item xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="LI"
+              >
+             <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="Lbl"
+               >
+              <?MarkedContent page="1" ?>E)
+             </itemlabel>
+             <itembody xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="LBody"
+               >
+              <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+                 rolemaps-to="Part"
+                >
+               <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                  xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                  Layout:TextAlign="Justify"
+                  rolemaps-to="P"
+                 >
+                <?MarkedContent page="1" ?>value
+               </text-block>
+              </semantic-para>
+             </itembody>
+            </item>
+           </list>
+          </semantic-para>
+         </text-minipage>
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="P"
+           >
+         </text-block>
+         <text-minipage xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="Div"
+           >
+          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="Part"
+            >
+           <text-block xmlns="https://www.latex-project.org/ns/dflt"
+              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+              Layout:TextAlign="Center"
+              rolemaps-to="P"
+             >
+            <Figure xmlns="http://iso.org/pdf2/ssn"
+               alt="Una letra mayuscula B"
+               xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+               Layout:BBox="{ 493.70105, 534.08002, 541.69899, 570.07848 }"
+              >
+             <?MarkedContent page="1" ?>
+            </Figure>
+           </text-block>
+          </semantic-para>
+         </text-minipage>
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="P"
+           >
+         </text-block>
+        </semantic-para>
+       </itembody>
+      </item>
+      <item xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="LI"
+        >
+       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Lbl"
+         >
+        <?MarkedContent page="1" ?>6.
+       </itemlabel>
+       <itembody xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="LBody"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:TextAlign="Justify"
+            rolemaps-to="P"
+           >
+          <?MarkedContent page="1" ?>Question with image on left side: 
+         </text-block>
+        </semantic-para>
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:TextAlign="Justify"
+            rolemaps-to="P"
+           >
+          <?MarkedContent page="1" ?>∗
+          <?MarkedContent page="1" ?>
+          <?MarkedContent page="1" ?>
+         </text-block>
+         <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="Div"
+           >
+          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="Part"
+            >
+           <text-block xmlns="https://www.latex-project.org/ns/dflt"
+              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+              Layout:TextAlign="Justify"
+              rolemaps-to="P"
+             >
+            <?MarkedContent page="1" ?>Mucak
+           </text-block>
+          </semantic-para>
+         </text-parbox>
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="P"
+           >
+         </text-block>
+        </semantic-para>
+       </itembody>
+      </item>
+     </list>
+    </semantic-para>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="1" ?>Some text here
+     </text-block>
+    </semantic-para>
+   </section>
+   <section xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Sect"
+     >
+    <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+       title="printkeyans"
+       rolemaps-to="H1"
+      >
+     <heading-number xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Lbl"
+       >
+      <?MarkedContent page="1" ?>2
+     </heading-number>
+     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>printkeyans
+    </section-heading>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="1" ?>Some text here
+     </text-block>
+    </semantic-para>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <list xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:List="http://iso.org/pdf/ssn/List"
+        List:ListNumbering="Ordered"
+        rolemaps-to="L"
+       >
+      <item xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="LI"
+        >
+       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Lbl"
+         >
+        <?MarkedContent page="1" ?>1.
+       </itemlabel>
+       <itembody xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="LBody"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:TextAlign="Justify"
+            rolemaps-to="P"
+           >
+          <?MarkedContent page="1" ?>B) 
+          <Formula xmlns="http://iso.org/pdf2/ssn"
+             title="math"
+             af="mathml-1.xml source.tex"
+             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+             Layout:Placement="Inline"
+            >
+            <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑥</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mn>5</mn> </math>
+            </AssociatedFile>
+            <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+            $x=5$
+            </AssociatedFile>
+           <?MarkedContent page="1" ?>𝑥=5
+          </Formula>
+          <Link xmlns="http://iso.org/pdf2/ssn"
+            >
+           <?MarkedContent page="1" ?>※
+           <?ReferencedObject type="Annot" page="1" ?>
+          </Link>
+         </text-block>
+        </semantic-para>
+       </itembody>
+      </item>
+      <item xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="LI"
+        >
+       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Lbl"
+         >
+        <?MarkedContent page="1" ?>2.
+       </itemlabel>
+       <itembody xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="LBody"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:TextAlign="Justify"
+            rolemaps-to="P"
+           >
+          <?MarkedContent page="1" ?>D)
+          <Link xmlns="http://iso.org/pdf2/ssn"
+            >
+           <?MarkedContent page="1" ?>※
+           <?ReferencedObject type="Annot" page="1" ?>
+          </Link>
+         </text-block>
+        </semantic-para>
+       </itembody>
+      </item>
+      <item xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="LI"
+        >
+       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Lbl"
+         >
+        <?MarkedContent page="1" ?>3.
+       </itemlabel>
+       <itembody xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="LBody"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:TextAlign="Justify"
+            rolemaps-to="P"
+           >
+          <?MarkedContent page="1" ?>C) some note 
+          <Formula xmlns="http://iso.org/pdf2/ssn"
+             title="math"
+             af="mathml-7.xml source.tex"
+             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+             Layout:Placement="Inline"
+            >
+            <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑦</mi> </math>
+            </AssociatedFile>
+            <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+            $y$
+            </AssociatedFile>
+           <?MarkedContent page="1" ?>𝑦
+          </Formula>
+          <Link xmlns="http://iso.org/pdf2/ssn"
+            >
+           <?MarkedContent page="1" ?>※
+           <?ReferencedObject type="Annot" page="1" ?>
+          </Link>
+         </text-block>
+        </semantic-para>
+       </itembody>
+      </item>
+      <item xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="LI"
+        >
+       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Lbl"
+         >
+        <?MarkedContent page="1" ?>4.
+       </itemlabel>
+       <itembody xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="LBody"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:TextAlign="Justify"
+            rolemaps-to="P"
+           >
+          <?MarkedContent page="1" ?>A) La letra A
+          <Link xmlns="http://iso.org/pdf2/ssn"
+            >
+           <?MarkedContent page="1" ?>※
+           <?ReferencedObject type="Annot" page="1" ?>
+          </Link>
+         </text-block>
+        </semantic-para>
+       </itembody>
+      </item>
+      <item xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="LI"
+        >
+       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Lbl"
+         >
+        <?MarkedContent page="1" ?>5.
+       </itemlabel>
+       <itembody xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="LBody"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:TextAlign="Justify"
+            rolemaps-to="P"
+           >
+          <?MarkedContent page="1" ?>D) other note
+          <Link xmlns="http://iso.org/pdf2/ssn"
+            >
+           <?MarkedContent page="1" ?>※
+           <?ReferencedObject type="Annot" page="1" ?>
+          </Link>
+         </text-block>
+        </semantic-para>
+       </itembody>
+      </item>
+      <item xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="LI"
+        >
+       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Lbl"
+         >
+        <?MarkedContent page="1" ?>*6.
+       </itemlabel>
+       <itembody xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="LBody"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:TextAlign="Justify"
+            rolemaps-to="P"
+           >
+          <?MarkedContent page="1" ?>Mucak
+          <Link xmlns="http://iso.org/pdf2/ssn"
+            >
+           <?MarkedContent page="1" ?>※
+           <?ReferencedObject type="Annot" page="1" ?>
+          </Link>
+         </text-block>
+        </semantic-para>
+       </itembody>
+      </item>
+     </list>
+    </semantic-para>
+   </section>
+   <section xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Sect"
+     >
+    <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+       title="printkeyans*"
+       rolemaps-to="H1"
+      >
+     <heading-number xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Lbl"
+       >
+      <?MarkedContent page="1" ?>3
+     </heading-number>
+     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>printkeyans*
+    </section-heading>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="1" ?>Some text here
+     </text-block>
+    </semantic-para>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <list xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:List="http://iso.org/pdf/ssn/List"
+        List:ListNumbering="Ordered"
+        rolemaps-to="L"
+       >
+      <LI xmlns="http://iso.org/pdf2/ssn"
+        >
+       <Lbl xmlns="http://iso.org/pdf2/ssn"
+         >
+        <?MarkedContent page="1" ?>1.
+       </Lbl>
+       <LBody xmlns="http://iso.org/pdf2/ssn"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="P"
+           >
+         </text-block>
+         <text-minipage xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="Div"
+           >
+          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="Part"
+            >
+           <text-block xmlns="https://www.latex-project.org/ns/dflt"
+              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+              Layout:TextAlign="Justify"
+              rolemaps-to="P"
+             >
+            <?MarkedContent page="1" ?>B) 
+            <Formula xmlns="http://iso.org/pdf2/ssn"
+               title="math"
+               af="mathml-1.xml source.tex"
+               xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+               Layout:Placement="Inline"
+              >
+              <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+              <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑥</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mn>5</mn> </math>
+              </AssociatedFile>
+              <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+              $x=5$
+              </AssociatedFile>
+             <?MarkedContent page="1" ?>𝑥=5
+            </Formula>
+            <Link xmlns="http://iso.org/pdf2/ssn"
+              >
+             <?MarkedContent page="1" ?>※
+             <?ReferencedObject type="Annot" page="1" ?>
+            </Link>
+           </text-block>
+          </semantic-para>
+         </text-minipage>
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="P"
+           >
+         </text-block>
+        </semantic-para>
+       </LBody>
+      </LI>
+      <LI xmlns="http://iso.org/pdf2/ssn"
+        >
+       <Lbl xmlns="http://iso.org/pdf2/ssn"
+         >
+        <?MarkedContent page="1" ?>2.
+       </Lbl>
+       <LBody xmlns="http://iso.org/pdf2/ssn"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="P"
+           >
+         </text-block>
+         <text-minipage xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="Div"
+           >
+          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="Part"
+            >
+           <text-block xmlns="https://www.latex-project.org/ns/dflt"
+              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+              Layout:TextAlign="Justify"
+              rolemaps-to="P"
+             >
+            <?MarkedContent page="1" ?>D)
+            <Link xmlns="http://iso.org/pdf2/ssn"
+              >
+             <?MarkedContent page="1" ?>※
+             <?ReferencedObject type="Annot" page="1" ?>
+            </Link>
+           </text-block>
+          </semantic-para>
+         </text-minipage>
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="P"
+           >
+         </text-block>
+        </semantic-para>
+       </LBody>
+      </LI>
+      <LI xmlns="http://iso.org/pdf2/ssn"
+        >
+       <Lbl xmlns="http://iso.org/pdf2/ssn"
+         >
+        <?MarkedContent page="1" ?>3.
+       </Lbl>
+       <LBody xmlns="http://iso.org/pdf2/ssn"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="P"
+           >
+         </text-block>
+         <text-minipage xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="Div"
+           >
+          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="Part"
+            >
+           <text-block xmlns="https://www.latex-project.org/ns/dflt"
+              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+              Layout:TextAlign="Justify"
+              rolemaps-to="P"
+             >
+            <?MarkedContent page="1" ?>C) some note 
+            <Formula xmlns="http://iso.org/pdf2/ssn"
+               title="math"
+               af="mathml-7.xml source.tex"
+               xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+               Layout:Placement="Inline"
+              >
+              <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+              <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑦</mi> </math>
+              </AssociatedFile>
+              <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+              $y$
+              </AssociatedFile>
+             <?MarkedContent page="1" ?>𝑦
+            </Formula>
+            <Link xmlns="http://iso.org/pdf2/ssn"
+              >
+             <?MarkedContent page="1" ?>※
+             <?ReferencedObject type="Annot" page="1" ?>
+            </Link>
+           </text-block>
+          </semantic-para>
+         </text-minipage>
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="P"
+           >
+         </text-block>
+        </semantic-para>
+       </LBody>
+      </LI>
+      <LI xmlns="http://iso.org/pdf2/ssn"
+        >
+       <Lbl xmlns="http://iso.org/pdf2/ssn"
+         >
+        <?MarkedContent page="1" ?>4.
+       </Lbl>
+       <LBody xmlns="http://iso.org/pdf2/ssn"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="P"
+           >
+         </text-block>
+         <text-minipage xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="Div"
+           >
+          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="Part"
+            >
+           <text-block xmlns="https://www.latex-project.org/ns/dflt"
+              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+              Layout:TextAlign="Justify"
+              rolemaps-to="P"
+             >
+            <?MarkedContent page="1" ?>A) La letra A
+            <Link xmlns="http://iso.org/pdf2/ssn"
+              >
+             <?MarkedContent page="1" ?>※
+             <?ReferencedObject type="Annot" page="1" ?>
+            </Link>
+           </text-block>
+          </semantic-para>
+         </text-minipage>
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="P"
+           >
+         </text-block>
+        </semantic-para>
+       </LBody>
+      </LI>
+      <LI xmlns="http://iso.org/pdf2/ssn"
+        >
+       <Lbl xmlns="http://iso.org/pdf2/ssn"
+         >
+        <?MarkedContent page="1" ?>5.
+       </Lbl>
+       <LBody xmlns="http://iso.org/pdf2/ssn"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="P"
+           >
+         </text-block>
+         <text-minipage xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="Div"
+           >
+          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="Part"
+            >
+           <text-block xmlns="https://www.latex-project.org/ns/dflt"
+              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+              Layout:TextAlign="Justify"
+              rolemaps-to="P"
+             >
+            <?MarkedContent page="1" ?>D) other note
+            <Link xmlns="http://iso.org/pdf2/ssn"
+              >
+             <?MarkedContent page="1" ?>※
+             <?ReferencedObject type="Annot" page="1" ?>
+            </Link>
+           </text-block>
+          </semantic-para>
+         </text-minipage>
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="P"
+           >
+         </text-block>
+        </semantic-para>
+       </LBody>
+      </LI>
+      <LI xmlns="http://iso.org/pdf2/ssn"
+        >
+       <Lbl xmlns="http://iso.org/pdf2/ssn"
+         >
+        <?MarkedContent page="1" ?>*6.
+       </Lbl>
+       <LBody xmlns="http://iso.org/pdf2/ssn"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="P"
+           >
+         </text-block>
+         <text-minipage xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="Div"
+           >
+          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="Part"
+            >
+           <text-block xmlns="https://www.latex-project.org/ns/dflt"
+              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+              Layout:TextAlign="Justify"
+              rolemaps-to="P"
+             >
+            <?MarkedContent page="1" ?>Mucak
+            <Link xmlns="http://iso.org/pdf2/ssn"
+              >
+             <?MarkedContent page="1" ?>※
+             <?ReferencedObject type="Annot" page="1" ?>
+            </Link>
+           </text-block>
+          </semantic-para>
+         </text-minipage>
+        </semantic-para>
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="P"
+          >
+        </text-block>
+       </LBody>
+      </LI>
+     </list>
+    </semantic-para>
+   </section>
+   <section xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Sect"
+     >
+    <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+       title="foreachkeyans"
+       rolemaps-to="H1"
+      >
+     <heading-number xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Lbl"
+       >
+      <?MarkedContent page="1" ?>4
+     </heading-number>
+     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>foreachkeyans
+    </section-heading>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="1" ?>Some text here
+     </text-block>
+    </semantic-para>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="1" ?>B) 
+      <Formula xmlns="http://iso.org/pdf2/ssn"
+         title="math"
+         af="mathml-1.xml source.tex"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:Placement="Inline"
+        >
+        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑥</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mn>5</mn> </math>
+        </AssociatedFile>
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+        $x=5$
+        </AssociatedFile>
+       <?MarkedContent page="1" ?>𝑥=5
+      </Formula>
+     </text-block>
+    </semantic-para>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="1" ?>D)
+     </text-block>
+    </semantic-para>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="1" ?>C) some note 
+      <Formula xmlns="http://iso.org/pdf2/ssn"
+         title="math"
+         af="mathml-7.xml source.tex"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:Placement="Inline"
+        >
+        <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
+        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑦</mi> </math>
+        </AssociatedFile>
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+        $y$
+        </AssociatedFile>
+       <?MarkedContent page="1" ?>𝑦
+      </Formula>
+     </text-block>
+    </semantic-para>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="1" ?>A) La letra A
+     </text-block>
+    </semantic-para>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="1" ?>D) other note
+     </text-block>
+    </semantic-para>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="1" ?>Mucak
+     </text-block>
+    </semantic-para>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="1" ?>Some text here
+     </text-block>
+    </semantic-para>
+   </section>
+  </Document>
+ </StructTreeRoot>
+</PDF>

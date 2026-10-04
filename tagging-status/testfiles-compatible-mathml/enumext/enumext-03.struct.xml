@@ -1,1 +1,859 @@
-<run-error code="1" />
+<PDF version="2.0">
+ <StructTreeRoot>
+  <Document xmlns="http://iso.org/pdf2/ssn"
+    >
+   <section xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Sect"
+     >
+    <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+       title="enumext+keyanspic"
+       rolemaps-to="H1"
+      >
+     <heading-number xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Lbl"
+       >
+      <?MarkedContent page="1" ?>1
+     </heading-number>
+     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>enumext+keyanspic
+    </section-heading>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="1" ?>Some text here
+     </text-block>
+    </semantic-para>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <list xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:List="http://iso.org/pdf/ssn/List"
+        List:ListNumbering="Ordered"
+        rolemaps-to="L"
+       >
+      <item xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="LI"
+        >
+       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Lbl"
+         >
+        <?MarkedContent page="1" ?>1.
+       </itemlabel>
+       <itembody xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="LBody"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:TextAlign="Justify"
+            rolemaps-to="P"
+           >
+          <?MarkedContent page="1" ?>Question with images.
+         </text-block>
+         <list xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:List="http://iso.org/pdf/ssn/List"
+            List:ListNumbering="Ordered"
+            rolemaps-to="L"
+           >
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>A)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="Un pato de color amarillo"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 102.5445, 630.25455, 157.70322, 664.39 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>B)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="Una letra mayuscula A"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 287.53677, 630.25455, 335.53471, 666.25301 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>C)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="Una letra mayuscula B"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 468.94867, 630.25455, 516.94661, 666.25301 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>D)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="Una letra mayuscula C"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 151.47786, 573.13524, 199.4758, 609.1337 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>E)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="La palabra Image"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 423.5957, 573.13524, 471.59364, 609.1337 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+         </list>
+        </semantic-para>
+       </itembody>
+      </item>
+      <item xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="LI"
+        >
+       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Lbl"
+         >
+        <?MarkedContent page="1" ?>2.
+       </itemlabel>
+       <itembody xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="LBody"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:TextAlign="Justify"
+            rolemaps-to="P"
+           >
+          <?MarkedContent page="1" ?>Question with images.
+         </text-block>
+         <list xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:List="http://iso.org/pdf/ssn/List"
+            List:ListNumbering="Ordered"
+            rolemaps-to="L"
+           >
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>A)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="Una letra mayuscula A"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 106.1249, 480.05084, 154.12284, 516.0493 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>B)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="Una letra mayuscula B"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 287.53677, 480.05084, 335.53471, 516.0493 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>C)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="Una letra mayuscula C"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 468.94867, 480.05084, 516.94661, 516.0493 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>D)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="La palabra Image"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 151.47786, 430.1047, 199.4758, 466.10316 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>E)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="Un pato de color amarillo"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 420.01532, 431.9677, 475.17404, 466.10315 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+         </list>
+        </semantic-para>
+       </itembody>
+      </item>
+      <item xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="LI"
+        >
+       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Lbl"
+         >
+        <?MarkedContent page="1" ?>3.
+       </itemlabel>
+       <itembody xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="LBody"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:TextAlign="Justify"
+            rolemaps-to="P"
+           >
+          <?MarkedContent page="1" ?>Question with images.
+         </text-block>
+         <list xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:List="http://iso.org/pdf/ssn/List"
+            List:ListNumbering="Ordered"
+            rolemaps-to="L"
+           >
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>A)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="Una letra mayuscula A"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 69.84251, 359.63548, 117.84045, 395.63394 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>B)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="Una letra mayuscula B"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 178.68965, 359.63548, 226.68759, 395.63394 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>C)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="Un pato de color amarillo"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 283.95639, 359.63548, 339.11511, 393.77093 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>D)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="Una letra mayuscula C"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 396.38391, 359.63548, 444.38185, 395.63394 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>E)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="La palabra Image"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 505.23105, 359.63548, 553.22899, 395.63394 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+         </list>
+        </semantic-para>
+       </itembody>
+      </item>
+      <item xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="LI"
+        >
+       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="Lbl"
+         >
+        <?MarkedContent page="1" ?>4.
+       </itemlabel>
+       <itembody xmlns="https://www.latex-project.org/ns/dflt"
+          rolemaps-to="LBody"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+            Layout:TextAlign="Justify"
+            rolemaps-to="P"
+           >
+          <?MarkedContent page="1" ?>Question with images.
+         </text-block>
+         <list xmlns="https://www.latex-project.org/ns/dflt"
+            xmlns:List="http://iso.org/pdf/ssn/List"
+            List:ListNumbering="Ordered"
+            rolemaps-to="L"
+           >
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>A)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="Un pato de color amarillo"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 66.26213, 268.4141, 121.42085, 302.54955 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>B)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="Una letra mayuscula A"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 178.68965, 266.5511, 226.68759, 302.54956 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>C)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="Una letra mayuscula B"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 287.53677, 266.5511, 335.53471, 302.54956 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>D)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="Una letra mayuscula C"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 396.38391, 266.5511, 444.38185, 302.54956 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+          <LI xmlns="http://iso.org/pdf2/ssn"
+            >
+           <Lbl xmlns="http://iso.org/pdf2/ssn"
+             >
+            <?MarkedContent page="1" ?>E)
+           </Lbl>
+           <LBody xmlns="http://iso.org/pdf2/ssn"
+             >
+            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+               rolemaps-to="Part"
+              >
+             <text-block xmlns="https://www.latex-project.org/ns/dflt"
+                rolemaps-to="P"
+               >
+              <Figure xmlns="http://iso.org/pdf2/ssn"
+                 alt="La palabra Image"
+                 xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+                 Layout:BBox="{ 505.23105, 266.5511, 553.22899, 302.54956 }"
+                >
+               <?MarkedContent page="1" ?>
+              </Figure>
+             </text-block>
+            </semantic-para>
+           </LBody>
+          </LI>
+         </list>
+        </semantic-para>
+       </itembody>
+      </item>
+     </list>
+    </semantic-para>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="1" ?>The answer to question 
+      <Link xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>2.
+       <?ReferencedObject type="Annot" page="1" ?>
+      </Link>
+      <?MarkedContent page="1" ?> is E) A duck
+     </text-block>
+    </semantic-para>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <list xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:List="http://iso.org/pdf/ssn/List"
+        List:ListNumbering="Ordered"
+        rolemaps-to="L"
+       >
+      <LI xmlns="http://iso.org/pdf2/ssn"
+        >
+       <Lbl xmlns="http://iso.org/pdf2/ssn"
+         >
+        <?MarkedContent page="1" ?>1.
+       </Lbl>
+       <LBody xmlns="http://iso.org/pdf2/ssn"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="P"
+           >
+         </text-block>
+         <text-minipage xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="Div"
+           >
+          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="Part"
+            >
+           <text-block xmlns="https://www.latex-project.org/ns/dflt"
+              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+              Layout:TextAlign="Justify"
+              rolemaps-to="P"
+             >
+            <?MarkedContent page="1" ?>C)
+            <Link xmlns="http://iso.org/pdf2/ssn"
+              >
+             <?MarkedContent page="1" ?>※
+             <?ReferencedObject type="Annot" page="1" ?>
+            </Link>
+           </text-block>
+          </semantic-para>
+         </text-minipage>
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="P"
+           >
+         </text-block>
+        </semantic-para>
+       </LBody>
+      </LI>
+      <LI xmlns="http://iso.org/pdf2/ssn"
+        >
+       <Lbl xmlns="http://iso.org/pdf2/ssn"
+         >
+        <?MarkedContent page="1" ?>2.
+       </Lbl>
+       <LBody xmlns="http://iso.org/pdf2/ssn"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="P"
+           >
+         </text-block>
+         <text-minipage xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="Div"
+           >
+          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="Part"
+            >
+           <text-block xmlns="https://www.latex-project.org/ns/dflt"
+              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+              Layout:TextAlign="Justify"
+              rolemaps-to="P"
+             >
+            <?MarkedContent page="1" ?>E) A duck
+            <Link xmlns="http://iso.org/pdf2/ssn"
+              >
+             <?MarkedContent page="1" ?>※
+             <?ReferencedObject type="Annot" page="1" ?>
+            </Link>
+           </text-block>
+          </semantic-para>
+         </text-minipage>
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="P"
+           >
+         </text-block>
+        </semantic-para>
+       </LBody>
+      </LI>
+      <LI xmlns="http://iso.org/pdf2/ssn"
+        >
+       <Lbl xmlns="http://iso.org/pdf2/ssn"
+         >
+        <?MarkedContent page="1" ?>3.
+       </Lbl>
+       <LBody xmlns="http://iso.org/pdf2/ssn"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="P"
+           >
+         </text-block>
+         <text-minipage xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="Div"
+           >
+          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="Part"
+            >
+           <text-block xmlns="https://www.latex-project.org/ns/dflt"
+              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+              Layout:TextAlign="Justify"
+              rolemaps-to="P"
+             >
+            <?MarkedContent page="1" ?>A) La letra A
+            <Link xmlns="http://iso.org/pdf2/ssn"
+              >
+             <?MarkedContent page="1" ?>※
+             <?ReferencedObject type="Annot" page="1" ?>
+            </Link>
+           </text-block>
+          </semantic-para>
+         </text-minipage>
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="P"
+           >
+         </text-block>
+        </semantic-para>
+       </LBody>
+      </LI>
+      <LI xmlns="http://iso.org/pdf2/ssn"
+        >
+       <Lbl xmlns="http://iso.org/pdf2/ssn"
+         >
+        <?MarkedContent page="1" ?>4.
+       </Lbl>
+       <LBody xmlns="http://iso.org/pdf2/ssn"
+         >
+        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="Part"
+          >
+         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="P"
+           >
+         </text-block>
+         <text-minipage xmlns="https://www.latex-project.org/ns/dflt"
+            rolemaps-to="Div"
+           >
+          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+             rolemaps-to="Part"
+            >
+           <text-block xmlns="https://www.latex-project.org/ns/dflt"
+              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+              Layout:TextAlign="Justify"
+              rolemaps-to="P"
+             >
+            <?MarkedContent page="1" ?>C)
+            <Link xmlns="http://iso.org/pdf2/ssn"
+              >
+             <?MarkedContent page="1" ?>※
+             <?ReferencedObject type="Annot" page="1" ?>
+            </Link>
+           </text-block>
+          </semantic-para>
+         </text-minipage>
+        </semantic-para>
+        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           rolemaps-to="P"
+          >
+        </text-block>
+       </LBody>
+      </LI>
+     </list>
+    </semantic-para>
+   </section>
+  </Document>
+ </StructTreeRoot>
+</PDF>
