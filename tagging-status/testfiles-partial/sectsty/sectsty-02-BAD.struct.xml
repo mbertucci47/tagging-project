@@ -1,50 +1,41 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
-     id="ID.002"
     >
    <section xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.006"
       rolemaps-to="Sect"
      >
     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.007"
        title="Some section heading"
        rolemaps-to="H1"
       >
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.008"
         rolemaps-to="Lbl"
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?>  
+     <?MarkedContent page="1" ?> 
      <?MarkedContent page="1" ?>Some section heading
     </section-heading>
     <subsection xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.009"
        rolemaps-to="Sect"
       >
      <subsection-heading xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.010"
         title="Some subsection heading"
         rolemaps-to="H2"
        >
       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
-         id="ID.011"
          rolemaps-to="Lbl"
         >
        <?MarkedContent page="1" ?>1.1
       </heading-number>
-      <?MarkedContent page="1" ?>  
+      <?MarkedContent page="1" ?> 
       <?MarkedContent page="1" ?>Some subsection heading
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.012"
         rolemaps-to="Part"
        >
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
-         id="ID.013"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:TextAlign="Justify"
          rolemaps-to="P"

@@ -1,30 +1,26 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
-     id="ID.002"
     >
-   <Sect xmlns="http://iso.org/pdf2/ssn"
-      id="ID.006"
+   <chapter xmlns="https://www.latex-project.org/ns/book"
+      rolemaps-to="Sect"
      >
-    <chapter xmlns="https://www.latex-project.org/ns/book"
-       id="ID.007"
+    <chapter-heading xmlns="https://www.latex-project.org/ns/book"
        title="First"
        rolemaps-to="H1"
       >
-     <section-number xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.008"
-        rolemaps-to="Span"
+     <heading-number xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Lbl"
        >
-      <?MarkedContent page="1" ?>1 
-     </section-number>
+      <?MarkedContent page="1" ?>1
+     </heading-number>
+     <?MarkedContent page="1" ?> 
      <?MarkedContent page="1" ?>First
-    </chapter>
+    </chapter-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.009"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.010"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -32,29 +28,26 @@
       <?MarkedContent page="1" ?>text
      </text-block>
     </semantic-para>
-   </Sect>
-   <Sect xmlns="http://iso.org/pdf2/ssn"
-      id="ID.011"
+   </chapter>
+   <chapter xmlns="https://www.latex-project.org/ns/book"
+      rolemaps-to="Sect"
      >
-    <chapter xmlns="https://www.latex-project.org/ns/book"
-       id="ID.012"
+    <chapter-heading xmlns="https://www.latex-project.org/ns/book"
        title="Second"
        rolemaps-to="H1"
       >
-     <section-number xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.013"
-        rolemaps-to="Span"
+     <heading-number xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Lbl"
        >
-      <?MarkedContent page="3" ?>2: 
-     </section-number>
+      <?MarkedContent page="3" ?>2:
+     </heading-number>
+     <?MarkedContent page="3" ?> 
      <?MarkedContent page="3" ?>Second
-    </chapter>
+    </chapter-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.014"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.015"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -62,29 +55,28 @@
       <?MarkedContent page="3" ?>text
      </text-block>
     </semantic-para>
-   </Sect>
-   <Sect xmlns="http://iso.org/pdf2/ssn"
-      id="ID.016"
+   </chapter>
+   <chapter xmlns="https://www.latex-project.org/ns/book"
+      rolemaps-to="Sect"
      >
-    <chapter xmlns="https://www.latex-project.org/ns/book"
-       id="ID.017"
+    <chapter-heading xmlns="https://www.latex-project.org/ns/book"
        title="Third"
        rolemaps-to="H1"
       >
-     <section-number xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.018"
-        rolemaps-to="Span"
+     <?MarkedContent page="5" ?>Chap
+     <?MarkedContent page="5" ?> 
+     <heading-number xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Lbl"
        >
-      <?MarkedContent page="5" ?>Chap 3: 
-     </section-number>
+      <?MarkedContent page="5" ?>3:
+     </heading-number>
+     <?MarkedContent page="5" ?> 
      <?MarkedContent page="5" ?>Third
-    </chapter>
+    </chapter-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.019"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.020"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -92,31 +84,25 @@
       <?MarkedContent page="5" ?>text
      </text-block>
     </semantic-para>
-   </Sect>
-   <Sect xmlns="http://iso.org/pdf2/ssn"
-      id="ID.021"
+   </chapter>
+   <chapter xmlns="https://www.latex-project.org/ns/book"
+      rolemaps-to="Sect"
      >
-    <chapter xmlns="https://www.latex-project.org/ns/book"
-       id="ID.022"
+    <chapter-heading xmlns="https://www.latex-project.org/ns/book"
        title="Fourth"
        rolemaps-to="H1"
       >
-     <Span xmlns="http://iso.org/pdf2/ssn"
-        id="ID.023"
-        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-        Layout:TextAlign="Start"
+     <?MarkedContent page="7" ?>Chapter
+     <?MarkedContent page="7" ?> 
+     <heading-number xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Lbl"
        >
-      <?MarkedContent page="7" ?>Chapter 4
-     </Span>
-     <Span xmlns="http://iso.org/pdf2/ssn"
-        id="ID.024"
-        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-        Layout:TextAlign="Start"
-       >
-      <?MarkedContent page="7" ?>Fourth
-     </Span>
-    </chapter>
-   </Sect>
+      <?MarkedContent page="7" ?>4
+     </heading-number>
+     <?MarkedContent page="7" ?>Fourth
+     <?MarkedContent page="7" ?>
+    </chapter-heading>
+   </chapter>
   </Document>
  </StructTreeRoot>
 </PDF>

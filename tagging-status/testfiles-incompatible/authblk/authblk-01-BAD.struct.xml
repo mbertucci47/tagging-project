@@ -1,17 +1,13 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
-     id="ID.002"
     >
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.006"
       rolemaps-to="Part"
      >
     <Title xmlns="http://iso.org/pdf2/ssn"
-       id="ID.007"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.008"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Center"
         rolemaps-to="P"
@@ -20,7 +16,6 @@
      </text-block>
     </Title>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.009"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
@@ -28,7 +23,6 @@
      <?MarkedContent page="1" ?>Person A and Person B
     </text-block>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.010"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
@@ -36,14 +30,12 @@
      <?MarkedContent page="1" ?>Uni 1
     </text-block>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.011"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
       >
     </text-block>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.012"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
@@ -51,7 +43,6 @@
      <?MarkedContent page="1" ?>Person C
     </text-block>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.013"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
@@ -59,7 +50,6 @@
      <?MarkedContent page="1" ?>Uni 2
     </text-block>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.014"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
@@ -68,11 +58,9 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.015"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.016"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"

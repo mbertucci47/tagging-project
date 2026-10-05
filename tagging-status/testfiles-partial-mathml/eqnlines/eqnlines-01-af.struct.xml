@@ -1,17 +1,13 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
-     id="ID.0002"
     >
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.0006"
       rolemaps-to="Part"
      >
     <Title xmlns="http://iso.org/pdf2/ssn"
-       id="ID.0007"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0008"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Center"
         rolemaps-to="P"
@@ -20,15 +16,13 @@
      </text-block>
     </Title>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0009"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?> Niklas Beisert
+     <?MarkedContent page="1" ?> Niklas Beisert 
     </text-block>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0010"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
@@ -37,11 +31,9 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.0011"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0012"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -50,29 +42,24 @@
     </text-block>
    </semantic-para>
    <section xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.0013"
       rolemaps-to="Sect"
      >
     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0014"
        title="eqnlines environments"
        rolemaps-to="H1"
       >
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0015"
         rolemaps-to="Lbl"
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?>  
+     <?MarkedContent page="1" ?> 
      <?MarkedContent page="1" ?>eqnlines environments
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0016"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0017"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -80,25 +67,25 @@
       <?MarkedContent page="1" ?>equation
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0018"
         title="equation"
-        af="mathml-1.xml"
+        af="mathml-1.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="gather" displaystyle="true" intent=":system-of-equations"> <mtr columnalign="center"> <mtd intent=":equation-label"> <mtext> (1) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑥</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="1" ?>𝑥=𝑦
       <?MarkedContent page="1" ?>(1)
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0019"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0020"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -106,24 +93,24 @@
       <?MarkedContent page="1" ?>symbolic equation
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0021"
         title="equations@sqr"
-        af="mathml-2.xml"
+        af="mathml-2.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="gather" displaystyle="true" intent=":system-of-equations"> <mtr columnalign="center"> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑥</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="1" ?>𝑥=𝑦
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0022"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0023"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -131,25 +118,25 @@
       <?MarkedContent page="1" ?>gather
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0024"
         title="equations"
-        af="mathml-3.xml"
+        af="mathml-3.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="gather" displaystyle="true" intent=":system-of-equations"> <mtr columnalign="center"> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑥</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> <mtr columnalign="center"> <mtd intent=":equation-label"> <mtext> (2) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑦</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi mathvariant="normal"> sin </mi> <mspace width="0.167em"/> <mi>𝑧</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="1" ?>𝑥=𝑦𝑦=sin𝑧
       <?MarkedContent page="1" ?>(2)
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0025"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0026"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -157,25 +144,25 @@
       <?MarkedContent page="1" ?>align with last numbering
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0027"
         title="equations"
-        af="mathml-4.xml"
+        af="mathml-4.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="align" columnalign="left right left" columnspacing="0 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑥</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> <mtr> <mtd intent=":equation-label"> <mtext> (3) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑦</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi mathvariant="normal"> sin </mi> <mspace width="0.167em"/> <mi>𝑧</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="1" ?>𝑥=𝑦𝑦=sin𝑧
       <?MarkedContent page="1" ?>(3)
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0028"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0029"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -183,25 +170,25 @@
       <?MarkedContent page="1" ?>gather with numbering options
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0030"
         title="equations"
-        af="mathml-5.xml"
+        af="mathml-5.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="gather" displaystyle="true" intent=":system-of-equations"> <mtr columnalign="center"> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑥</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> <mtr columnalign="center"> <mtd intent=":equation-label"> <mtext> (4) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑦</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi mathvariant="normal"> sin </mi> <mspace width="0.167em"/> <mi>𝑧</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="1" ?>𝑥=𝑦𝑦=sin𝑧
       <?MarkedContent page="1" ?>(4)
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0031"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0032"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -209,24 +196,24 @@
       <?MarkedContent page="1" ?>symbolic gather
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0033"
         title="equations@ang"
-        af="mathml-6.xml"
+        af="mathml-6.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-6.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="gather" displaystyle="true" intent=":system-of-equations"> <mtr columnalign="center"> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑥</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> <mtr columnalign="center"> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑦</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi mathvariant="normal"> sin </mi> <mspace width="0.167em"/> <mi>𝑧</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="1" ?>𝑥=𝑦𝑦=sin𝑧
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0034"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0035"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -234,24 +221,24 @@
       <?MarkedContent page="1" ?>symbolic align
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0036"
         title="equations@ang"
-        af="mathml-7.xml"
+        af="mathml-7.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="align" columnalign="left right left" columnspacing="0 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑥</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑦</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi mathvariant="normal"> sin </mi> <mspace width="0.167em"/> <mi>𝑧</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="1" ?>𝑥=𝑦𝑦=sin𝑧
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0037"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0038"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -259,14 +246,16 @@
       <?MarkedContent page="1" ?>symbolic align several columns
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0039"
         title="equations@ang"
-        af="mathml-8.xml"
+        af="mathml-8.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-8.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="align" columnalign="left right left right left" columnspacing="0 0 .8em 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (5) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑥</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> <mtd intent=":pause-medium"> <mi>𝑦</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑥</mi> </mtd> </mtr> <mtr> <mtd intent=":equation-label"> <mtext> (6) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑦</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi mathvariant="normal"> sin </mi> <mspace width="0.167em"/> <mi>𝑧</mi> </mtd> <mtd intent=":pause-medium"> <mi mathvariant="normal"> sin </mi> <mspace width="0.167em"/> <mi>𝑧</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> </mtable> </math>
+       </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝑥=𝑦𝑦=𝑥
       <?MarkedContent page="1" ?>
@@ -283,11 +272,9 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0040"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0041"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -295,19 +282,20 @@
       <?MarkedContent page="1" ?>correct placement for option * in equations
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0042"
         title="equations"
-        af="mathml-9.xml"
+        af="mathml-9.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-9.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="align" columnalign="left right left" columnspacing="0 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑥</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑦</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi mathvariant="normal"> sin </mi> <mspace width="0.167em"/> <mi>𝑧</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="1" ?>𝑥=𝑦𝑦=sin𝑧
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0043"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -315,19 +303,20 @@
       <?MarkedContent page="1" ?>misplaced option *
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0044"
         title="equations"
-        af="mathml-10.xml"
+        af="mathml-10.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-10.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="align" columnalign="left right left" columnspacing="0 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mo lspace="0" rspace="0.222em">∗</mo> <mi>𝑥</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑦</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi mathvariant="normal"> sin </mi> <mspace width="0.167em"/> <mi>𝑧</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="1" ?>∗𝑥=𝑦𝑦=sin𝑧
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0045"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -335,19 +324,20 @@
       <?MarkedContent page="1" ?>misplaced option for altequations registered via RegisterMathEnvironment
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0046"
         title="altequations"
-        af="mathml-11.xml"
+        af="mathml-11.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-11.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="align" columnalign="left right left" columnspacing="0 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑥</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑦</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi mathvariant="normal"> sin </mi> <mspace width="0.167em"/> <mi>𝑧</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="1" ?>𝑥=𝑦𝑦=sin𝑧
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0047"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -356,11 +346,9 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0048"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0049"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -368,20 +356,21 @@
       <?MarkedContent page="2" ?>correct placement for option ! in symbolic equation
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0050"
         title="equations@sqr"
-        af="mathml-12.xml"
+        af="mathml-12.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-12.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="gather" displaystyle="true" intent=":system-of-equations"> <mtr columnalign="center"> <mtd intent=":equation-label"> <mtext> (7) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑥</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="2" ?>𝑥=𝑦
       <?MarkedContent page="2" ?>(7)
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0051"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -389,24 +378,24 @@
       <?MarkedContent page="2" ?>misplaced option ! for symbolic equation
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0052"
         title="equations@sqr"
-        af="mathml-13.xml"
+        af="mathml-13.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-13.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="gather" displaystyle="true" intent=":system-of-equations"> <mtr columnalign="center"> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mo lspace="0" rspace="0">!</mo> <mi>𝑥</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="2" ?>!𝑥=𝑦
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0053"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0054"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -414,19 +403,20 @@
       <?MarkedContent page="2" ?>multi-column alignment (not correctly reproduced in mathml)
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0055"
         title="equations@sqr"
-        af="mathml-14.xml"
+        af="mathml-14.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-14.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="gather" displaystyle="true" intent=":system-of-equations"> <mtr columnalign="center"> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mtable class="equationsbox" columnalign="right left" columnspacing="19.925pt" displaystyle="true"> <mtr columnalign="center"> <mtd> <mi>𝑥</mi> <mi>𝑥</mi> <mi>𝑥</mi> <mi>𝑥</mi> <mi>𝑥</mi> <mi>𝑥</mi> <mi>𝑥</mi> <mi>𝑥</mi> </mtd> <mtd> <mi>𝑥</mi> <mi>𝑥</mi> <mi>𝑥</mi> <mi>𝑥</mi> <mi>𝑥</mi> <mi>𝑥</mi> <mi>𝑥</mi> <mi>𝑥</mi> <mi>𝑥</mi> </mtd> </mtr> <mtr columnalign="right"> <mtd> <mi>𝑙</mi> <mi>𝑒</mi> <mi>𝑓</mi> <mi>𝑡</mi> </mtd> <mtd> <mi>𝑟</mi> <mi>𝑖</mi> <mi>𝑔</mi> <mi mathvariant="normal">ℎ</mi> <mi>𝑡</mi> </mtd> </mtr> <mtr columnalign="left"> <mtd> <mi>𝑟</mi> <mi>𝑖</mi> <mi>𝑔</mi> <mi mathvariant="normal">ℎ</mi> <mi>𝑡</mi> </mtd> <mtd> <mi>𝑙</mi> <mi>𝑒</mi> <mi>𝑓</mi> <mi>𝑡</mi> </mtd> </mtr> <mtr columnalign="center"> <mtd> <mi>𝑟</mi> <mi>𝑖</mi> <mi>𝑔</mi> <mi mathvariant="normal">ℎ</mi> <mi>𝑡</mi> </mtd> <mtd> <mi>𝑐</mi> <mi>𝑒</mi> <mi>𝑛</mi> <mi>𝑡</mi> <mi>𝑒</mi> <mi>𝑟</mi> </mtd> </mtr> <mtr columnalign="center"> <mtd> <mi>𝑟</mi> <mi>𝑖</mi> <mi>𝑔</mi> <mi mathvariant="normal">ℎ</mi> <mi>𝑡</mi> </mtd> <mtd> <mi>𝑐</mi> <mi>𝑒</mi> <mi>𝑛</mi> <mi>𝑡</mi> <mi>𝑒</mi> <mi>𝑟</mi> </mtd> </mtr> </mtable> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="2" ?>𝑥𝑥𝑥𝑥𝑥𝑥𝑥𝑥𝑥𝑥𝑥𝑥𝑥𝑥𝑥𝑥𝑥𝑙𝑒𝑓𝑡𝑟𝑖𝑔ℎ𝑡𝑟𝑖𝑔ℎ𝑡𝑙𝑒𝑓𝑡𝑟𝑖𝑔ℎ𝑡𝑐𝑒𝑛𝑡𝑒𝑟𝑟𝑖𝑔ℎ𝑡𝑐𝑒𝑛𝑡𝑒𝑟
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0056"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -435,36 +425,34 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0057"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0058"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
       <?MarkedContent page="2" ?>aligned equationsbox in inline 
       <Formula xmlns="http://iso.org/pdf2/ssn"
-         id="ID.0059"
          title="math"
-         af="mathml-15.xml"
+         af="mathml-15.xml source.tex"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:Placement="Inline"
         >
         <AssociatedFile name="mathml-15.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="equationsbox" columnalign="right left" columnspacing="0" displaystyle="true"> <mtr> <mtd> <mi>𝑥</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> <mtr> <mtd> <mi>𝑦</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi mathvariant="normal"> sin </mi> <mspace width="0.167em"/> <mi>𝑧</mi> </mtd> </mtr> </mtable> </math>
         </AssociatedFile>
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+        
+        </AssociatedFile>
        <?MarkedContent page="2" ?>𝑥=𝑦𝑦=sin𝑧
       </Formula>
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0060"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0061"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -472,24 +460,24 @@
       <?MarkedContent page="2" ?>multline with shoves
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0062"
         title="equations"
-        af="mathml-16.xml"
+        af="mathml-16.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-16.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="gather" displaystyle="true" intent=":system-of-equations"> <mtr columnalign="left"> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mtext> first </mtext> </mtd> </mtr> <mtr columnalign="center"> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mtext> middle </mtext> </mtd> </mtr> <mtr columnalign="center"> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mtext> middlemiddlemiddle </mtext> </mtd> </mtr> <mtr columnalign="left"> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mtext> left </mtext> </mtd> </mtr> <mtr columnalign="center"> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mtext> center </mtext> </mtd> </mtr> <mtr columnalign="right"> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mtext> right </mtext> </mtd> </mtr> <mtr columnalign="center"> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mtext> middle </mtext> </mtd> </mtr> <mtr columnalign="right"> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mtext> last </mtext> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="2" ?>firstmiddlemiddlemiddlemiddleleftcenterrightmiddlelast
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0063"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0064"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -497,38 +485,40 @@
       <?MarkedContent page="2" ?>continued equation
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0065"
         title="equations@sqr"
-        af="mathml-2.xml"
+        af="mathml-2.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="gather" displaystyle="true" intent=":system-of-equations"> <mtr columnalign="center"> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑥</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="2" ?>𝑥=𝑦
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0066"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0067"
         title="equations@sqr"
-        af="mathml-2.xml"
+        af="mathml-2.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="gather" displaystyle="true" intent=":system-of-equations"> <mtr columnalign="center"> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑥</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="2" ?>𝑥=𝑦
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0068"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -537,11 +527,9 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0069"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0070"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -550,35 +538,33 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0071"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0072"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0073"
         title="equations@sqr"
-        af="mathml-2.xml"
+        af="mathml-2.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="gather" displaystyle="true" intent=":system-of-equations"> <mtr columnalign="center"> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑥</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="2" ?>𝑥=𝑦
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0074"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0075"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -587,11 +573,9 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0076"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0077"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -599,19 +583,20 @@
       <?MarkedContent page="2" ?>vertical spacing removed
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0078"
         title="equations@sqr"
-        af="mathml-20.xml"
+        af="mathml-20.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-20.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="gather" displaystyle="true" intent=":system-of-equations"> <mtr columnalign="center"> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑥</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="2" ?>𝑥=𝑦
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0079"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -620,11 +605,9 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0080"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0081"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -633,30 +616,29 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0082"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0083"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0084"
         title="equations@sqr"
-        af="mathml-2.xml"
+        af="mathml-2.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="gather" displaystyle="true" intent=":system-of-equations"> <mtr columnalign="center"> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑥</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="2" ?>𝑥=𝑦
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0085"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -665,41 +647,40 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0086"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0087"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
       <?MarkedContent page="2" ?>equation in a parbox 
+      <?MarkedContent page="2" ?>
+      <?MarkedContent page="2" ?>
      </text-block>
      <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0088"
         rolemaps-to="Div"
        >
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-         id="ID.0089"
          rolemaps-to="Part"
         >
        <text-block xmlns="https://www.latex-project.org/ns/dflt"
-          id="ID.0090"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextAlign="Justify"
           rolemaps-to="P"
          >
        </text-block>
        <Formula xmlns="http://iso.org/pdf2/ssn"
-          id="ID.0091"
           title="equations@sqr"
-          af="mathml-22.xml"
+          af="mathml-22.xml source.tex"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:Placement="Block"
          >
          <AssociatedFile name="mathml-22.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="gather" displaystyle="true" intent=":system-of-equations"> <mtr columnalign="center"> <mtd intent=":equation-label"> <mtext> (8) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑥</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> </mtable> </math>
+         </AssociatedFile>
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+         
          </AssociatedFile>
         <?MarkedContent page="2" ?>𝑥=𝑦
         <?MarkedContent page="2" ?>(8)
@@ -707,19 +688,14 @@
       </semantic-para>
      </text-parbox>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0092"
         rolemaps-to="P"
        >
-      <?MarkedContent page="2" ?>
-      <?MarkedContent page="2" ?>
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0093"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0094"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -727,43 +703,40 @@
       <?MarkedContent page="2" ?>alignment with intertext
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0095"
         title="equations@ang"
-        af="mathml-23.xml"
+        af="mathml-23.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-23.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="align" columnalign="left right left" columnspacing="0 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑒</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑓</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mi>𝑥</mi> <mn>2</mn> </msup> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑥</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mn>2</mn> </mtd> </mtr> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑓</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑥</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="2" ?>𝑒+𝑓=𝑥2+𝑥+2intertext𝑓=𝑥
      </Formula>
     </semantic-para>
    </section>
    <section xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.0096"
       rolemaps-to="Sect"
      >
     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0097"
        title="align.tex examples: eqnlines environments only"
        rolemaps-to="H1"
       >
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0098"
         rolemaps-to="Lbl"
        >
       <?MarkedContent page="3" ?>2
      </heading-number>
-     <?MarkedContent page="3" ?>  
+     <?MarkedContent page="3" ?> 
      <?MarkedContent page="3" ?>align.tex examples: eqnlines environments only
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0099"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0100"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -771,14 +744,16 @@
       <?MarkedContent page="3" ?>Simple align
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0101"
         title="align"
-        af="mathml-24.xml"
+        af="mathml-24.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-24.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="align" columnalign="left right left" columnspacing="0 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (9) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑎</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑏</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mi>𝑥</mi> <mn>2</mn> </msup> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑥</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mn>2</mn> </mtd> </mtr> <mtr> <mtd intent=":equation-label"> <mtext> (10) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑏</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑥</mi> </mtd> </mtr> </mtable> </math>
+       </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
        </AssociatedFile>
       <?MarkedContent page="3" ?>𝑎+𝑏=𝑥2+𝑥+2
       <?MarkedContent page="3" ?>
@@ -791,11 +766,9 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0102"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0103"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -803,24 +776,24 @@
       <?MarkedContent page="3" ?>Simple align*
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0104"
         title="align*"
-        af="mathml-25.xml"
+        af="mathml-25.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-25.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="align" columnalign="left right left" columnspacing="0 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑐</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑑</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mi>𝑥</mi> <mn>2</mn> </msup> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑥</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mn>2</mn> </mtd> </mtr> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑑</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑥</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="3" ?>𝑐+𝑑=𝑥2+𝑥+2𝑑=𝑥
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0105"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0106"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -828,25 +801,25 @@
       <?MarkedContent page="3" ?>aligned in equation
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0107"
         title="equation"
-        af="mathml-26.xml"
+        af="mathml-26.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-26.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="gather" displaystyle="true" intent=":system-of-equations"> <mtr columnalign="center"> <mtd intent=":equation-label"> <mtext> (11) </mtext> </mtd> <mtd intent=":pause-medium"> <mtable class="aligned" columnalign="right left" columnspacing="0" displaystyle="true"> <mtr> <mtd> <mi>𝑒</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑓</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mi>𝑥</mi> <mn>2</mn> </msup> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑥</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mn>2</mn> </mtd> </mtr> <mtr> <mtd> <mi>𝑓</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑥</mi> </mtd> </mtr> </mtable> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="3" ?>𝑒+𝑓=𝑥2+𝑥+2𝑓=𝑥
       <?MarkedContent page="3" ?>(11)
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0108"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0109"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -854,25 +827,25 @@
       <?MarkedContent page="3" ?>nonumber in align
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0110"
         title="align"
-        af="mathml-27.xml"
+        af="mathml-27.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-27.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="align" columnalign="left right left" columnspacing="0 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑎</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑏</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mi>𝑦</mi> <mn>2</mn> </msup> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑦</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mn>2</mn> </mtd> </mtr> <mtr> <mtd intent=":equation-label"> <mtext> (12) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑏</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="3" ?>𝑎+𝑏=𝑦2+𝑦+2𝑏=𝑦
       <?MarkedContent page="3" ?>(12)
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0111"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0112"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -880,25 +853,25 @@
       <?MarkedContent page="3" ?>tag in align*
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0113"
         title="align*"
-        af="mathml-28.xml"
+        af="mathml-28.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-28.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="align" columnalign="left right left" columnspacing="0 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑟</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑠</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mi>𝑦</mi> <mn>2</mn> </msup> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑦</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mn>2</mn> </mtd> </mtr> <mtr> <mtd intent=":equation-label"> <mtext> (†) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑡</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="3" ?>𝑟+𝑠=𝑦2+𝑦+2𝑡=𝑦
       <?MarkedContent page="3" ?>(†)
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0114"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0115"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -906,14 +879,16 @@
       <?MarkedContent page="3" ?>Two groups in align
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0116"
         title="align"
-        af="mathml-29.xml"
+        af="mathml-29.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-29.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="align" columnalign="left right left right left" columnspacing="0 0 .8em 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (13) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑎</mi> <mi>𝑎</mi> <mi>𝑎</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑏</mi> <mi>𝑏</mi> <mi>𝑏</mi> </mtd> <mtd intent=":pause-medium"> <mi>𝑐</mi> <mi>𝑐</mi> <mi>𝑐</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑑</mi> <mi>𝑑</mi> <mi>𝑑</mi> </mtd> </mtr> <mtr> <mtd intent=":equation-label"> <mtext> (14) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑎</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑏</mi> </mtd> <mtd intent=":pause-medium"> <mi>𝑐</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑑</mi> </mtd> </mtr> </mtable> </math>
+       </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
        </AssociatedFile>
       <?MarkedContent page="3" ?>𝑎𝑎𝑎=𝑏𝑏𝑏𝑐𝑐𝑐=𝑑𝑑𝑑
       <?MarkedContent page="3" ?>
@@ -930,11 +905,9 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0117"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0118"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -942,14 +915,16 @@
       <?MarkedContent page="3" ?>Two groups in flalign
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0119"
         title="flalign"
-        af="mathml-30.xml"
+        af="mathml-30.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-30.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="align" columnalign="left right left right left" columnspacing="0 0 .8em 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (15) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑎</mi> <mi>𝑎</mi> <mi>𝑎</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑏</mi> <mi>𝑏</mi> <mi>𝑏</mi> </mtd> <mtd intent=":pause-medium"> <mi>𝑐</mi> <mi>𝑐</mi> <mi>𝑐</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑑</mi> <mi>𝑑</mi> <mi>𝑑</mi> </mtd> </mtr> <mtr> <mtd intent=":equation-label"> <mtext> (16) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑎</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑏</mi> </mtd> <mtd intent=":pause-medium"> <mi>𝑐</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑑</mi> </mtd> </mtr> </mtable> </math>
+       </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
        </AssociatedFile>
       <?MarkedContent page="3" ?>𝑎𝑎𝑎=𝑏𝑏𝑏𝑐𝑐𝑐=𝑑𝑑𝑑
       <?MarkedContent page="3" ?>
@@ -967,30 +942,25 @@
     </semantic-para>
    </section>
    <section xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.0120"
       rolemaps-to="Sect"
      >
     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0121"
        title="align.tex examples: mixed eqnlines and amsmath environments"
        rolemaps-to="H1"
       >
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0122"
         rolemaps-to="Lbl"
        >
       <?MarkedContent page="4" ?>3
      </heading-number>
-     <?MarkedContent page="4" ?>  
+     <?MarkedContent page="4" ?> 
      <?MarkedContent page="4" ?>align.tex examples: mixed eqnlines and ams
      <?MarkedContent page="4" ?>math environments
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0123"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0124"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -998,20 +968,21 @@
       <?MarkedContent page="4" ?>split in equation
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0125"
         title="equation"
-        af="mathml-31.xml"
+        af="mathml-31.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-31.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="gather" displaystyle="true" intent=":system-of-equations"> <mtr columnalign="center"> <mtd intent=":equation-label"> <mtext> (17) </mtext> </mtd> <mtd intent=":pause-medium"> <mtable class="aligned" columnalign="right left" columnspacing="0" displaystyle="true"> <mtr> <mtd> <mi>𝑎</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑏</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑏</mi> </mtd> </mtr> <mtr> <mtd/> <mtd> <mspace width="9.963pt"/> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑐</mi> </mtd> </mtr> </mtable> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="4" ?>𝑎=𝑏+𝑏+𝑐
       <?MarkedContent page="4" ?>(17)
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0126"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1020,11 +991,9 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0127"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0128"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1032,18 +1001,19 @@
       <?MarkedContent page="4" ?>amsaligned in equation
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0129"
         title="equation"
-        af="mathml-32.xml"
+        af="mathml-32.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-32.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="gather" displaystyle="true" intent=":system-of-equations"> <mtr columnalign="center"> <mtd intent=":equation-label"> <mtext> (18) </mtext> </mtd> <mtd intent=":pause-medium"> <mtable class="amsaligned" columnalign="right left" columnspacing="0" displaystyle="true"> <mtr> <mtd> <mi>𝑒</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑓</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mi>𝑥</mi> <mn>2</mn> </msup> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑥</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mn>2</mn> </mtd> <mtd> <mspace width="-9.963pt"/> </mtd> </mtr> <mtr> <mtd> <mi>𝑓</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑥</mi> </mtd> <mtd> <mspace width="-9.963pt"/> </mtd> </mtr> </mtable> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="4" ?>
       <?MarkedContent page="4" ?>𝑒+𝑓=𝑥2+𝑥+2
-      <?MarkedContent page="4" ?>
       <?MarkedContent page="4" ?>𝑓=𝑥
       <?MarkedContent page="4" ?>
       <?MarkedContent page="4" ?>(18)
@@ -1051,30 +1021,25 @@
     </semantic-para>
    </section>
    <section xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.0130"
       rolemaps-to="Sect"
      >
     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0131"
        title="align.tex examples: original amsmath environments only"
        rolemaps-to="H1"
       >
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0132"
         rolemaps-to="Lbl"
        >
       <?MarkedContent page="5" ?>4
      </heading-number>
-     <?MarkedContent page="5" ?>  
+     <?MarkedContent page="5" ?> 
      <?MarkedContent page="5" ?>align.tex examples: original amsmath environ
      <?MarkedContent page="5" ?>ments only
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0133"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0134"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1082,25 +1047,25 @@
       <?MarkedContent page="5" ?>amsequation
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0135"
         title="amsequation"
-        af="mathml-33.xml"
+        af="mathml-33.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-33.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (19) </mtext> </mtd> <mtd intent=":pause-medium"> <mrow/> <mi>𝑎</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑏</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mi>𝑥</mi> <mn>2</mn> </msup> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑥</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mn>2</mn> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="5" ?>𝑎+𝑏=𝑥2+𝑥+2
       <?MarkedContent page="5" ?>(19)
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0136"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0137"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1108,14 +1073,16 @@
       <?MarkedContent page="5" ?>Simple amsalign
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0138"
         title="align"
-        af="mathml-34.xml"
+        af="mathml-34.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-34.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="amsalign" columnspacing="0 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (20) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑎</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑏</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mi>𝑥</mi> <mn>2</mn> </msup> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑥</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mn>2</mn> </mtd> </mtr> <mtr> <mtd intent=":equation-label"> <mtext> (21) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑏</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑥</mi> </mtd> </mtr> </mtable> </math>
+       </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
        </AssociatedFile>
       <?MarkedContent page="5" ?>𝑎+𝑏=𝑥2+𝑥+2
       <?MarkedContent page="5" ?>(20)
@@ -1123,7 +1090,6 @@
       <?MarkedContent page="5" ?>(21)
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0139"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1132,11 +1098,9 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0140"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0141"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1144,25 +1108,25 @@
       <?MarkedContent page="5" ?>alignment with intertext
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0142"
         title="align*"
-        af="mathml-35.xml"
+        af="mathml-35.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-35.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="amsalign" columnspacing="0 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑒</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑓</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mi>𝑥</mi> <mn>2</mn> </msup> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑥</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mn>2</mn> </mtd> </mtr> <mtr> <mtd colspan="3"> <mtext> intertext </mtext> </mtd> </mtr> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑓</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑥</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="5" ?>𝑒+𝑓=𝑥2+𝑥+2
       <?MarkedContent page="5" ?>𝑓=𝑥
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0144"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0145"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1170,25 +1134,25 @@
       <?MarkedContent page="5" ?>Simple amsalign*
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0146"
         title="align*"
-        af="mathml-36.xml"
+        af="mathml-36.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-36.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="amsalign" columnspacing="0 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑐</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑑</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mi>𝑥</mi> <mn>2</mn> </msup> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑥</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mn>2</mn> </mtd> </mtr> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑑</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑥</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="5" ?>𝑐+𝑑=𝑥2+𝑥+2
       <?MarkedContent page="5" ?>𝑑=𝑥
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0147"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0148"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1196,28 +1160,26 @@
       <?MarkedContent page="5" ?>amsaligned in amsequation
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0149"
         title="amsequation"
-        af="mathml-37.xml"
+        af="mathml-37.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-37.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (22) </mtext> </mtd> <mtd intent=":pause-medium"> <mrow/> <mtable class="amsaligned" columnalign="right left" columnspacing="0" displaystyle="true"> <mtr> <mtd> <mi>𝑒</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑓</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mi>𝑥</mi> <mn>2</mn> </msup> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑥</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mn>2</mn> </mtd> <mtd> <mspace width="-9.963pt"/> </mtd> </mtr> <mtr> <mtd> <mi>𝑓</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑥</mi> </mtd> <mtd> <mspace width="-9.963pt"/> </mtd> </mtr> </mtable> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="5" ?>𝑒+𝑓=𝑥2+𝑥+2
-      <?MarkedContent page="5" ?>
       <?MarkedContent page="5" ?>𝑓=𝑥
-      <?MarkedContent page="5" ?>
       <?MarkedContent page="5" ?>(22)
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0150"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0151"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1225,27 +1187,26 @@
       <?MarkedContent page="5" ?>split in equation
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0152"
         title="amsequation"
-        af="mathml-38.xml"
+        af="mathml-38.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-38.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mrow/> <mtable class="split" columnalign="right left" displaystyle="true"> <mtr> <mtd> <mi>𝑎</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑏</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑏</mi> </mtd> </mtr> <mtr intent=":continued-row"> <mtd/> <mtd> <mspace width="9.963pt"/> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑐</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
-      <?MarkedContent page="5" ?>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="5" ?>𝑎=𝑏+𝑏
       <?MarkedContent page="5" ?>+𝑐
       <?MarkedContent page="5" ?>(23)
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0153"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0154"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1253,16 +1214,17 @@
       <?MarkedContent page="5" ?>split in amsalign
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0155"
         title="align"
-        af="mathml-39.xml"
+        af="mathml-39.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-39.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="amsalign" columnspacing="0 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (24) </mtext> </mtd> <mtd intent=":pause-medium"> <mtext/> </mtd> <mtd> <mtable class="split" columnalign="right left" displaystyle="true"> <mtr> <mtd> <mi>𝑥</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑎</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑏</mi> </mtd> </mtr> <mtr intent=":continued-row"> <mtd/> <mtd> <mspace width="9.963pt"/> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑐</mi> </mtd> </mtr> </mtable> </mtd> </mtr> <mtr> <mtd intent=":equation-label"> <mtext> (25) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑦</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑑</mi> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
-      <?MarkedContent page="5" ?>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="5" ?>𝑥=𝑎+𝑏
       <?MarkedContent page="5" ?>+𝑐
       <?MarkedContent page="5" ?>(24)
@@ -1271,11 +1233,9 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0156"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0157"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1283,16 +1243,17 @@
       <?MarkedContent page="5" ?>split in amsgather
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0158"
         title="gather"
-        af="mathml-40.xml"
+        af="mathml-40.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-40.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="gather" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (26) </mtext> </mtd> <mtd intent=":pause-medium"> <mtable class="split" columnalign="right left" displaystyle="true"> <mtr> <mtd> <mi>𝑎</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑏</mi> <mo lspace="0.222em" rspace="0.222em">×</mo> <mi>𝑏</mi> </mtd> </mtr> <mtr intent=":continued-row"> <mtd/> <mtd> <mspace width="9.963pt"/> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑐</mi> </mtd> </mtr> </mtable> </mtd> </mtr> <mtr> <mtd intent=":equation-label"> <mtext> (27) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑥</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mn>1</mn> </mtd> </mtr> </mtable> </math>
        </AssociatedFile>
-      <?MarkedContent page="5" ?>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <?MarkedContent page="5" ?>𝑎=𝑏×𝑏
       <?MarkedContent page="5" ?>+𝑐
       <?MarkedContent page="5" ?>(26)
@@ -1301,11 +1262,9 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0159"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0160"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1313,14 +1272,16 @@
       <?MarkedContent page="5" ?>notag in amsalign
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0161"
         title="align"
-        af="mathml-41.xml"
+        af="mathml-41.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-41.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="amsalign" columnspacing="0 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑎</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑏</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mi>𝑦</mi> <mn>2</mn> </msup> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑦</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mn>2</mn> </mtd> </mtr> <mtr> <mtd intent=":equation-label"> <mtext> (28) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑏</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> </mtable> </math>
+       </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
        </AssociatedFile>
       <?MarkedContent page="5" ?>𝑎+𝑏=𝑦2+𝑦+2
       <?MarkedContent page="5" ?>𝑏=𝑦
@@ -1328,11 +1289,9 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0162"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0163"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1340,14 +1299,16 @@
       <?MarkedContent page="5" ?>tag in amsalign*
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0164"
         title="align*"
-        af="mathml-42.xml"
+        af="mathml-42.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-42.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="amsalign" columnspacing="0 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mi>𝑟</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑠</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mi>𝑦</mi> <mn>2</mn> </msup> <mo lspace="0.222em" rspace="0.222em">+</mo> <mi>𝑦</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mn>2</mn> </mtd> </mtr> <mtr> <mtd intent=":equation-label"> <mtext> (†) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑡</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑦</mi> </mtd> </mtr> </mtable> </math>
+       </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
        </AssociatedFile>
       <?MarkedContent page="5" ?>𝑟+𝑠=𝑦2+𝑦+2
       <?MarkedContent page="5" ?>𝑡=𝑦
@@ -1355,11 +1316,9 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0165"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0166"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1367,14 +1326,16 @@
       <?MarkedContent page="6" ?>Two groups in amsalign
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0167"
         title="align"
-        af="mathml-43.xml"
+        af="mathml-43.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-43.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="amsalign" columnspacing="0 0 .8em 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (29) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑎</mi> <mi>𝑎</mi> <mi>𝑎</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑏</mi> <mi>𝑏</mi> <mi>𝑏</mi> </mtd> <mtd intent=":pause-medium"> <mi>𝑐</mi> <mi>𝑐</mi> <mi>𝑐</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑑</mi> <mi>𝑑</mi> <mi>𝑑</mi> </mtd> </mtr> <mtr> <mtd intent=":equation-label"> <mtext> (30) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑎</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑏</mi> </mtd> <mtd intent=":pause-medium"> <mi>𝑐</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑑</mi> </mtd> </mtr> </mtable> </math>
+       </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
        </AssociatedFile>
       <?MarkedContent page="6" ?>𝑎𝑎𝑎=𝑏𝑏𝑏
       <?MarkedContent page="6" ?>𝑐𝑐𝑐=𝑑𝑑𝑑
@@ -1385,11 +1346,9 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0168"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0169"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1397,14 +1356,16 @@
       <?MarkedContent page="6" ?>Two groups in alignat
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0170"
         title="alignat"
-        af="mathml-44.xml"
+        af="mathml-44.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-44.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="amsalignat" columnspacing="0 0 0 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (31) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑎</mi> <mi>𝑎</mi> <mi>𝑎</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑏</mi> <mi>𝑏</mi> <mi>𝑏</mi> </mtd> <mtd intent=":pause-medium"> <mi>𝑐</mi> <mi>𝑐</mi> <mi>𝑐</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑑</mi> <mi>𝑑</mi> <mi>𝑑</mi> </mtd> </mtr> <mtr> <mtd intent=":equation-label"> <mtext> (32) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑎</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑏</mi> </mtd> <mtd intent=":pause-medium"> <mi>𝑐</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑑</mi> </mtd> </mtr> </mtable> </math>
+       </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
        </AssociatedFile>
       <?MarkedContent page="6" ?>𝑎𝑎𝑎=𝑏𝑏𝑏
       <?MarkedContent page="6" ?>𝑐𝑐𝑐=𝑑𝑑𝑑
@@ -1415,11 +1376,9 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0171"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0172"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1427,14 +1386,16 @@
       <?MarkedContent page="6" ?>Two groups in amsflalign
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0173"
         title="flalign"
-        af="mathml-45.xml"
+        af="mathml-45.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-45.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="amsflalign" columnspacing="0 0 .8em 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":equation-label"> <mtext> (33) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑎</mi> <mi>𝑎</mi> <mi>𝑎</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑏</mi> <mi>𝑏</mi> <mi>𝑏</mi> </mtd> <mtd intent=":pause-medium"> <mi>𝑐</mi> <mi>𝑐</mi> <mi>𝑐</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑑</mi> <mi>𝑑</mi> <mi>𝑑</mi> </mtd> </mtr> <mtr> <mtd intent=":equation-label"> <mtext> (34) </mtext> </mtd> <mtd intent=":pause-medium"> <mi>𝑎</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑏</mi> </mtd> <mtd intent=":pause-medium"> <mi>𝑐</mi> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝑑</mi> </mtd> </mtr> </mtable> </math>
+       </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
        </AssociatedFile>
       <?MarkedContent page="6" ?>𝑎𝑎𝑎=𝑏𝑏𝑏
       <?MarkedContent page="6" ?>𝑐𝑐𝑐=𝑑𝑑𝑑
@@ -1445,11 +1406,9 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0174"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0175"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1457,14 +1416,16 @@
       <?MarkedContent page="6" ?>amsalignat* with no intercolumn space
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.0176"
         title="alignat*"
-        af="mathml-46.xml"
+        af="mathml-46.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Block"
        >
        <AssociatedFile name="mathml-46.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <mtable class="amsalignat" columnspacing="0 0 0 0 0 0 0 0 0 0 0 0 0 0" displaystyle="true" intent=":system-of-equations"> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mn>3</mn> </mtd> <mtd> <msup> <mi>𝑥</mi> <mn>3</mn> </msup> </mtd> <mtd intent=":pause-medium"/> <mtd> <mi mathvariant="normal">+</mi> </mtd> <mtd intent=":pause-medium"> <mn>4</mn> </mtd> <mtd> <msup> <mi>𝑥</mi> <mn>2</mn> </msup> </mtd> <mtd intent=":pause-medium"/> <mtd> <mi mathvariant="normal">+</mi> </mtd> <mtd intent=":pause-medium"> <mn> 10 </mn> </mtd> <mtd> <mi>𝑥</mi> </mtd> <mtd intent=":pause-medium"/> <mtd> <mi mathvariant="normal">+</mi> </mtd> <mtd intent=":pause-medium"> <mn>5</mn> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mn>0</mn> </mtd> </mtr> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mo lspace="0" rspace="0.222em">−</mo> <mn>2</mn> </mtd> <mtd> <msup> <mi>𝑥</mi> <mn>3</mn> </msup> </mtd> <mtd intent=":pause-medium"/> <mtd> <mi mathvariant="normal">+</mi> </mtd> <mtd intent=":pause-medium"> <mn> 12 </mn> </mtd> <mtd> <msup> <mi>𝑥</mi> <mn>2</mn> </msup> </mtd> <mtd intent=":pause-medium"/> <mtd> <mi mathvariant="normal">+</mi> </mtd> <mtd intent=":pause-medium"> <mn>6</mn> </mtd> <mtd> <mi>𝑥</mi> </mtd> <mtd intent=":pause-medium"/> <mtd> <mi mathvariant="normal">+</mi> </mtd> <mtd intent=":pause-medium"> <mn> 20 </mn> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mn>0</mn> </mtd> </mtr> <mtr> <mtd intent=":no-equation-label"></mtd> <mtd intent=":pause-medium"> <mn> 10 </mn> </mtd> <mtd> <msup> <mi>𝑥</mi> <mn>3</mn> </msup> </mtd> <mtd intent=":pause-medium"/> <mtd> <mi mathvariant="normal">−</mi> </mtd> <mtd intent=":pause-medium"> <mn>5</mn> </mtd> <mtd> <msup> <mi>𝑥</mi> <mn>2</mn> </msup> </mtd> <mtd intent=":pause-medium"/> <mtd> <mi mathvariant="normal">+</mi> </mtd> <mtd intent=":pause-medium"/> <mtd> <mi>𝑥</mi> </mtd> <mtd intent=":pause-medium"/> <mtd> <mi mathvariant="normal">+</mi> </mtd> <mtd intent=":pause-medium"> <mn>5</mn> </mtd> <mtd> <mo lspace="0.278em" rspace="0.278em">=</mo> <mn>0</mn> </mtd> </mtr> </mtable> </math>
+       </AssociatedFile>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
        </AssociatedFile>
       <?MarkedContent page="6" ?>3𝑥3
       <?MarkedContent page="6" ?>+

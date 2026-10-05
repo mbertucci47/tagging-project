@@ -1,141 +1,75 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
-     id="ID.002"
     >
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.006"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.007"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>日本史 ・日本文学等、縦組史 ・資料を素材とすることから論文も縦組で書かね
-     <?MarkedContent page="1" ?>ばならない分野
-     <?MarkedContent page="1" ?>（ 
-     <?MarkedContent page="1" ?>1）にとって、従来、コンピュータでの論文執筆には様々な障碍が
-     <?MarkedContent page="1" ?>あった。特に前近代文献の場合
-     <?MarkedContent page="1" ?>（ 
-     <?MarkedContent page="1" ?>2）、独特の「割註」などは、通常のワープロソフ
-     <?MarkedContent page="1" ?>トでの再現が難しいものである
-     <?MarkedContent page="1" ?>（ 
-     <?MarkedContent page="1" ?>3）。そこで登場するのが 
+     <?MarkedContent page="1" ?>日本史・日本文学等、縦組史・資料を素材とすることから論文も縦組で書かねばならない分野（ 1 ）にとって、従来、コンピュータでの論文執筆には様々な障碍があった。特に前近代文献の場合（ 2 ）、独特の「割註」などは、通常のワープロソフトでの再現が難しいものである（ 3 ）。そこで登場するのが
      <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.008"
         actualtext="LaTeX"
         phoneme="[ˈlaːtɛx]"
         rolemaps-to="Span"
        >
-      <?MarkedContent page="1" ?>L
-      <?MarkedContent page="1" ?>AT
-      <?MarkedContent page="1" ?>EX
+      <?MarkedContent page="1" ?>LATEX
      </text-fragment>
-     <?MarkedContent page="1" ?>2εである。たとえ
-     <?MarkedContent page="1" ?>ば「割註」の場合、 kunten2e.sty という優れたスタイル ・ファイル
-     <?MarkedContent page="1" ?>（ 
-     <?MarkedContent page="1" ?>4）によってい
-     <?MarkedContent page="1" ?>とも簡単に実現できる。
+     <?MarkedContent page="1" ?>2ε である。たとえば「割註」の場合、kunten2e.styという優れたスタイル・ファイル（ 4 ）によっていとも簡単に実現できる。
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.009"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.010"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>しかし日本語 
+     <?MarkedContent page="1" ?>しかし日本語
      <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.011"
         actualtext="LaTeX"
         phoneme="[ˈlaːtɛx]"
         rolemaps-to="Span"
        >
-      <?MarkedContent page="1" ?>L
-      <?MarkedContent page="1" ?>AT
-      <?MarkedContent page="1" ?>EX
+      <?MarkedContent page="1" ?>LATEX
      </text-fragment>
-     <?MarkedContent page="1" ?>2εはその組版能力においてはワープロなど及びもつかぬ
-     <?MarkedContent page="1" ?>柔軟性を有するものの、基本的に JIS 0218 の範囲内の文字しか扱えないことが、
-     <?MarkedContent page="1" ?>数多くの漢字を必要とする古典籍の記述にとってはネックとなっていた。それを
-     <?MarkedContent page="1" ?>補うため、 JISX 0212 補助漢字を利用する方法なども開拓されてきた
-     <?MarkedContent page="1" ?>（ 
-     <?MarkedContent page="1" ?>5）ものの、
-     <?MarkedContent page="1" ?>これはあくまで「つなぎ」のものであり
-     <?MarkedContent page="1" ?>（ 
-     <?MarkedContent page="1" ?>6）、フォント環境のユニコードへの移行
-     <?MarkedContent page="1" ?>が決定的となった状況において、日本語 
+     <?MarkedContent page="1" ?>2ε はその組版能力においてはワープロなど及びもつかぬ柔軟性を有するものの、基本的にJIS 0218の範囲内の文字しか扱えないことが、数多くの漢字を必要とする古典籍の記述にとってはネックとなっていた。それを補うため、JISX 0212補助漢字を利用する方法なども開拓されてきた（ 5 ）ものの、これはあくまで「つなぎ」のものであり（ 6 ）、フォント環境のユニコードへの移行が決定的となった状況において、日本語
      <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.012"
         actualtext="LaTeX"
         phoneme="[ˈlaːtɛx]"
         rolemaps-to="Span"
        >
-      <?MarkedContent page="1" ?>L
-      <?MarkedContent page="1" ?>AT
-      <?MarkedContent page="1" ?>EX
+      <?MarkedContent page="1" ?>LATEX
      </text-fragment>
-     <?MarkedContent page="1" ?>2ε環境から膨大なグリフ数を誇る
-     <?MarkedContent page="1" ?>ユニコード ・フォントに簡単にアクセスできるようにする方法
-     <?MarkedContent page="1" ?>（ 
-     <?MarkedContent page="1" ?>7）は、強く求めら
-     <?MarkedContent page="1" ?>れるものであったといえよう。
+     <?MarkedContent page="1" ?>2ε 環境から膨大なグリフ数を誇るユニコード・フォントに簡単にアクセスできるようにする方法（ 7 ）は、強く求められるものであったといえよう。
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.013"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.014"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>そういった状況のなか、 ums.sty
-     <?MarkedContent page="1" ?>（ 
-     <?MarkedContent page="1" ?>8）およびそのクロスプロットフォーム化
-     <?MarkedContent page="1" ?>（ 
-     <?MarkedContent page="1" ?>9）を
-     <?MarkedContent page="1" ?>経て、それらの改良のうえに登場したのが utf.sty である。齋藤修三郎氏によって
-     <?MarkedContent page="1" ?>作成されたこのパッケージでは、 ums.sty を引き継いでユニコード番号でグリフ
-     <?MarkedContent page="1" ?>を呼び出せるのみならず、 AdobeJapan 1-5 の CID コードによる指定を用い、ユ
-     <?MarkedContent page="1" ?>ニコードではアクセスできぬグリフまでをもフルに利用できるようになった
-     <?MarkedContent page="1" ?>（ 
-     <?MarkedContent page="1" ?>10）。
-     <?MarkedContent page="1" ?>これにより、たとえば旧来の規格では「機種依存文字」であった丸囲み数字等が、
-     <?MarkedContent page="1" ?>といったコマンドでプラットフォームを選ばず簡単にのように表示できるように
-     <?MarkedContent page="1" ?>なった。さらに現在、この utf.sty の機能をさらに容易に利用するための様々なマ
-     <?MarkedContent page="1" ?>クロ集が作成の途上にあり
-     <?MarkedContent page="1" ?>（ 
-     <?MarkedContent page="1" ?>11）、その可能性は極めて大きく開かれているといえる
-     <?MarkedContent page="1" ?>だろう。かくいうこの文章も、注番号の表示に utf.sty およびそのマクロによる詰
-     <?MarkedContent page="1" ?>数字自動処理機能を利用することによって、従来のものにくらべ格段に美しい組
-     <?MarkedContent page="1" ?>版を実現できているものと思う。
+     <?MarkedContent page="1" ?>そういった状況のなか、ums.sty（ 8 ）およびそのクロスプロットフォーム化（ 9 ）を経て、それらの改良のうえに登場したのがutf.styである。齋藤修三郎氏によって作成されたこのパッケージでは、ums.styを引き継いでユニコード番号でグリフを呼び出せるのみならず、AdobeJapan 1-5のCIDコードによる指定を用い、ユニコードではアクセスできぬグリフまでをもフルに利用できるようになった（ 10 ）。これにより、たとえば旧来の規格では「機種依存文字」であった丸囲み数字等が、といったコマンドでプラットフォームを選ばず簡単にのように表示できるようになった。さらに現在、このutf.styの機能をさらに容易に利用するための様々なマクロ集が作成の途上にあり（ 11 ）、その可能性は極めて大きく開かれているといえるだろう。かくいうこの文章も、注番号の表示にutf.styおよびそのマクロによる詰数字自動処理機能を利用することによって、従来のものにくらべ格段に美しい組版を実現できているものと思う。
     </text-block>
    </semantic-para>
    <section xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.015"
       rolemaps-to="Sect"
      >
     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.016"
-       title=""
        rolemaps-to="H1"
       >
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.017"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.018"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -143,197 +77,140 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.019"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.020"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>（ 
-      <?MarkedContent page="1" ?>1）
-      <?MarkedContent page="1" ?>ただし「歴史学」という括りで西洋 ・東洋史と混在の学術誌の場合、日本史であっ
-      <?MarkedContent page="1" ?>ても横組が「強要」されることもある。
+      <?MarkedContent page="1" ?>（ 1 ）ただし「歴史学」という括りで西洋・東洋史と混在の学術誌の場合、日本史であっても横組が「強要」されることもある。
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.021"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.022"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>（ 
-      <?MarkedContent page="1" ?>2）
-      <?MarkedContent page="1" ?>近代文献であっても、史料における「見せ消ち」等の再現が困難であることは変わ
-      <?MarkedContent page="1" ?>らない。
+      <?MarkedContent page="1" ?>（ 2 ）近代文献であっても、史料における「見せ消ち」等の再現が困難であることは変わらない。
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.023"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.024"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>（ 
-      <?MarkedContent page="1" ?>3）
-      <?MarkedContent page="1" ?>「組文字」機能を使えば原理的には実現できないこともないが、長い「割註」の場
-      <?MarkedContent page="1" ?>合途方もない作業が要求され、現実的ではないだろう。
+      <?MarkedContent page="1" ?>（ 3 ）「組文字」機能を使えば原理的には実現できないこともないが、長い「割註」の場合途方もない作業が要求され、現実的ではないだろう。
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.025"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.026"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>（ 
-      <?MarkedContent page="1" ?>4）
-      <?MarkedContent page="1" ?>大阪大学の金水敏氏によって提供されている。
+      <?MarkedContent page="1" ?>（ 4 ）大阪大学の金水敏氏によって提供されている。
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.027"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.028"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>（ 
-      <?MarkedContent page="1" ?>5）
-      <?MarkedContent page="1" ?>一応私も、その Type1 フォントを配布している。
+      <?MarkedContent page="1" ?>（ 5 ）一応私も、そのType1フォントを配布している。
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.029"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.030"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>（ 
-      <?MarkedContent page="1" ?>6）
-      <?MarkedContent page="1" ?>たとえば、文字選定が「場当たり」的であるとして、規格そのものが低く評価され
-      <?MarkedContent page="1" ?>ることも多いようである。
+      <?MarkedContent page="1" ?>（ 6 ）たとえば、文字選定が「場当たり」的であるとして、規格そのものが低く評価されることも多いようである。
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.031"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.032"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>（ 
-      <?MarkedContent page="1" ?>7）
-      <?MarkedContent page="1" ?>将来的には、ユニコードに基礎を置いた多言語
+      <?MarkedContent page="1" ?>（ 7 ）将来的には、ユニコードに基礎を置いた多言語
       <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
-         id="ID.033"
          actualtext="TeX"
          rolemaps-to="Span"
         >
-       <?MarkedContent page="1" ?>T
-       <?MarkedContent page="1" ?>EX
+       <?MarkedContent page="1" ?>TEX
       </text-fragment>
-      <?MarkedContent page="1" ?> 環境である Omega への移行が
-      <?MarkedContent page="1" ?>考えられるものの、これまで日本語 
+      <?MarkedContent page="1" ?> 環境であるOmegaへの移行が考えられるものの、これまで日本語
       <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
-         id="ID.034"
          actualtext="LaTeX"
          phoneme="[ˈlaːtɛx]"
          rolemaps-to="Span"
         >
-       <?MarkedContent page="1" ?>L
-       <?MarkedContent page="1" ?>AT
-       <?MarkedContent page="1" ?>EX
+       <?MarkedContent page="1" ?>LATEX
       </text-fragment>
-      <?MarkedContent page="1" ?>2εで蓄積されてきた様々なツールの移植
-      <?MarkedContent page="1" ?>は容易ではないため、直ちに移行することは困難だろう。
+      <?MarkedContent page="1" ?>2ε で蓄積されてきた様々なツールの移植は容易ではないため、直ちに移行することは困難だろう。
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.035"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.036"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>（ 
-      <?MarkedContent page="1" ?>8）
-      <?MarkedContent page="1" ?>稲垣淳氏による。
+      <?MarkedContent page="1" ?>（ 8 ）稲垣淳氏による。
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.037"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.038"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>（ 
-      <?MarkedContent page="1" ?>9）
-      <?MarkedContent page="1" ?>角藤亮氏が作成されたヴァーチャル ・フォントによる恩恵が大きい。
+      <?MarkedContent page="1" ?>（ 9 ）角藤亮氏が作成されたヴァーチャル・フォントによる恩恵が大きい。
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.039"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.040"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>（ 
-      <?MarkedContent page="1" ?>10）
-      <?MarkedContent page="1" ?>MacOSX の場合、標準でバンドルされているヒラギノ ・フォントを利用すること
-      <?MarkedContent page="1" ?>で、その機能を完全に利用できる。また、他の環境にあっても、 AcrobatReader の
-      <?MarkedContent page="2" ?>フォント ・パック（小塚明朝）をインストールすることで、その殆どの機能の恩恵
-      <?MarkedContent page="2" ?>に与ることが可能だ。
+      <?MarkedContent page="1" ?>（ 10 ）MacOSXの場合、標準でバンドルされているヒラギノ・フォントを利用することで、その機能を完全に利用できる。また、他の環境にあっても、AcrobatReaderの
+      <?MarkedContent page="2" ?>フォント・パック（小塚明朝）をインストールすることで、その殆どの機能の恩恵に与ることが可能だ。
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.041"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.042"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="2" ?>（ 
-      <?MarkedContent page="2" ?>11）
-      <?MarkedContent page="2" ?>これについては、齋藤氏とともに井上浩一氏のご尽力が大きいといえよう。
+      <?MarkedContent page="2" ?>（ 11 ）これについては、齋藤氏とともに井上浩一氏のご尽力が大きいといえよう。
      </text-block>
     </semantic-para>
    </section>
