@@ -1,17 +1,13 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
-     id="ID.002"
     >
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.006"
       rolemaps-to="Part"
      >
     <Title xmlns="http://iso.org/pdf2/ssn"
-       id="ID.007"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.008"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Center"
         rolemaps-to="P"
@@ -20,15 +16,13 @@
      </text-block>
     </Title>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.009"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?> Some author
+     <?MarkedContent page="1" ?> Some author 
     </text-block>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.010"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
@@ -37,11 +31,9 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.018"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.019"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -52,7 +44,6 @@
      <?MarkedContent page="1" ?>The paralogisms of practical reason are what first give rise to the architectonic 
      <?MarkedContent page="1" ?>of practical reason. As will easily be shown in the next section, reason would 
      <?MarkedContent page="1" ?>thereby be made to contradict, in view of these considerations, the Ideal of prac
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>tical reason, yet the manifold depends on the phenomena. Necessity depends 
      <?MarkedContent page="1" ?>on, when thus treated as the practical employment of the never-ending regress 
      <?MarkedContent page="1" ?>in the series of empirical conditions, time. Human reason depends on our sense 
@@ -61,18 +52,15 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.020"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.021"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>Let us suppose that the noumena have nothing to do with necessity, since 
      <?MarkedContent page="1" ?>knowledge of the Categories is a posteriori. Hume tells us that the transcen
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>dental unity of apperception can not take account of the discipline of natural 
      <?MarkedContent page="1" ?>reason, by means of analytic unity. As is proven in the ontological manuals, it is 
      <?MarkedContent page="1" ?>obvious that the transcendental unity of apperception proves the validity of the 
@@ -85,23 +73,19 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.022"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.023"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="2" ?>As is shown in the writings of Aristotle, the things in themselves (and it re
-     <?MarkedContent page="2" ?>
      <?MarkedContent page="2" ?>mains a mystery why this is the case) are a representation of time. Our concepts 
      <?MarkedContent page="2" ?>have lying before them the paralogisms of natural reason, but our a posteriori 
      <?MarkedContent page="2" ?>concepts have lying before them the practical employment of our experience. 
      <?MarkedContent page="2" ?>Because of our necessary ignorance of the conditions, the paralogisms would 
      <?MarkedContent page="2" ?>thereby be made to contradict, indeed, space; for these reasons, the Transcen
-     <?MarkedContent page="2" ?>
      <?MarkedContent page="2" ?>dental Deduction has lying before it our sense perceptions. (Our a posteriori 
      <?MarkedContent page="2" ?>knowledge can never furnish a true and demonstrated science, because, like 
      <?MarkedContent page="2" ?>time, it depends on analytic principles.) So, it must not be supposed that our 
@@ -112,11 +96,9 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.024"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.025"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -128,36 +110,29 @@
      <?MarkedContent page="2" ?>the full sense of these terms, would be falsified. Let us suppose that, indeed, 
      <?MarkedContent page="2" ?>our problematic judgements, indeed, can be treated like our concepts. As any 
      <?MarkedContent page="2" ?>dedicated reader can clearly see, our knowledge can be treated like the tran
-     <?MarkedContent page="2" ?>
      <?MarkedContent page="2" ?>scendental unity of apperception, but the phenomena occupy part of the sphere 
      <?MarkedContent page="2" ?>of the manifold concerning the existence of natural causes in general. Whence 
      <?MarkedContent page="2" ?>comes the architectonic of natural reason, the solution of which involves the 
      <?MarkedContent page="2" ?>relation between necessity and the Categories? Natural causes (and it is not 
      <?MarkedContent page="2" ?>at all certain that this is the case) constitute the whole content for the paral
-     <?MarkedContent page="2" ?>
      <?MarkedContent page="2" ?>ogisms. This could not be passed over in a complete system of transcendental 
      <?MarkedContent page="2" ?>philosophy, but in a merely critical essay the simple mention of the fact may 
      <?MarkedContent page="2" ?>suffice.
     </text-block>
    </semantic-para>
    <figures xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.004"
       rolemaps-to="Sect"
      >
     <float xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.011"
        rolemaps-to="Aside"
       >
      <Caption xmlns="http://iso.org/pdf2/ssn"
-        id="ID.015"
        >
       <Lbl xmlns="http://iso.org/pdf2/ssn"
-         id="ID.016"
         >
        <?MarkedContent page="1" ?>Figure 1: 
       </Lbl>
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
-         id="ID.017"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:TextAlign="Center"
          rolemaps-to="P"
@@ -166,17 +141,14 @@
       </text-block>
      </Caption>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.012"
         rolemaps-to="Part"
        >
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
-         id="ID.013"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:TextAlign="Center"
          rolemaps-to="P"
         >
        <Figure xmlns="http://iso.org/pdf2/ssn"
-          id="ID.014"
           alt="A duck!"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:BBox="{ 213.69363, 143.22292, 397.55418, 257.00664 }"

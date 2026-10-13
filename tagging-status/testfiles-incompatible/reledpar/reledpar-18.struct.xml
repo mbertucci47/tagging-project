@@ -1,14 +1,11 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
-     id="ID.002"
     >
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.006"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.007"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -16,41 +13,25 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.008"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.009"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="2" ?>Tous les rois de la Grèce qui descendaient de Minos, fils de Jupiter, vinrent 
-     <?MarkedContent page="2" ?>en Crète pour y recueillir la riche succession de Crétéus. Ce prince, fils de Mi
-     <?MarkedContent page="2" ?>
-     <?MarkedContent page="2" ?>nos, avait réglé par son testament qu’il serait fait un partage égal de tout ce 
-     <?MarkedContent page="2" ?>qu’il possédait d’or, d’argent et de troupeaux, entre les enfants de ses filles ; et il 
-     <?MarkedContent page="2" ?>laissait son empire à Idoménée, fils de Deucalion, son frère et à Mérion , fils de 
-     <?MarkedContent page="2" ?>Molus, son neveu, qui devaient gouverner chacun sa part avec un pouvoir indé
-     <?MarkedContent page="2" ?>
-     <?MarkedContent page="2" ?>pendant. Entre les princes présents au partage, on distinguait Palamède, fils de 
-     <?MarkedContent page="2" ?>Clymène et de Nauplius, et Oeax, appelés Crétéides, avec Ménélas, fils d’Aerope 
-     <?MarkedContent page="2" ?>et de Plisthène, qu’Anaxibie, sa soeur, épouse de Nestor, et Agamemnon, son 
-     <?MarkedContent page="2" ?>frère aîné, avaient chargé de les représenter dans l’assemblée des héritiers. On 
-     <?MarkedContent page="2" ?>connaissait moins ces derniers comme fils de Plisthène, mort à la fleur de son âge 
-     <?MarkedContent page="2" ?>et sans avoir rien fait de mémorable, que comme petits-fils d’Atrée. Ce prince, 
-     <?MarkedContent page="2" ?>en effet, touché de compassion pour la faiblesse de leur âge, les avait recueillis 
-     <?MarkedContent page="2" ?>au-près de lui, et s’était chargé de leur donner une éducation conforme à leur 
-     <?MarkedContent page="2" ?>naissance. Ils se conduisirent tous dans cette occasion avec la grandeur et la 
-     <?MarkedContent page="2" ?>générosité qu’on devait attendre de personnes de leur rang.
+     <?MarkedContent page="2" ?>Tous les rois de la Grèce qui descendaient de Minos, fils de Jupiter, vinrent en Crète pour y recueillir la riche succession de Crétéus. Ce prince, fils de Mi
+     <?MarkedContent page="2" ?>nos, avait réglé par son testament qu’il serait fait un partage égal de tout ce qu’il possédait d’or, d’argent et de troupeaux, entre les enfants de ses filles ; et il 
+     <?MarkedContent page="2" ?>laissait son empire à Idoménée, fils de Deucalion, son frère et à Mérion , fils de Molus, son neveu, qui devaient gouverner chacun sa part avec un pouvoir indé
+     <?MarkedContent page="2" ?>pendant. Entre les princes présents au partage, on distinguait Palamède, fils de Clymène et de Nauplius, et Oeax, appelés Crétéides, avec Ménélas, fils d’Aerope et de Plisthène, qu’Anaxibie, sa soeur, épouse de Nestor, et Agamemnon, son 
+     <?MarkedContent page="2" ?>frère aîné, avaient chargé de les représenter dans l’assemblée des héritiers. On connaissait moins ces derniers comme fils de Plisthène, mort à la fleur de son âge et sans avoir rien fait de mémorable, que comme petits-fils d’Atrée. Ce prince, en effet, touché de compassion pour la faiblesse de leur âge, les avait recueillis au-près de lui, et s’était chargé de leur donner une éducation conforme à leur 
+     <?MarkedContent page="2" ?>naissance. Ils se conduisirent tous dans cette occasion avec la grandeur et la générosité qu’on devait attendre de personnes de leur rang.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.010"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.011"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -58,34 +39,23 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.012"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.013"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="2" ?>A la nouvelle de leur arrivée, tons les descendants d’Europe, dont le nom 
-     <?MarkedContent page="2" ?>était en grande vénération dans l’île, se rendirent auprès d’eux, les saluèrent 
-     <?MarkedContent page="2" ?>avec bonté et les conduisirent au temple. Là, après un sacrifice solennel où 
-     <?MarkedContent page="2" ?>furent immolées suivant l’usage, nombre de victimes on leur servit un repas 
-     <?MarkedContent page="2" ?>splendide, et on les traita avec autant d’abondance que de délicatesse. Les fêtes 
-     <?MarkedContent page="2" ?>continuèrent les jours suivants. Les rois reçurent les témoignages de l’affection 
-     <?MarkedContent page="4" ?>de leurs amis avec joie et reconnaissance ; mais ils furent encore plus frappés 
-     <?MarkedContent page="4" ?>de la magnificence du temple d’Europe. Ils ne pouvaient se laisser d’examiner, 
-     <?MarkedContent page="4" ?>dans le plus grand détail, les riches présents envoyés de Sidon à cette princesse 
-     <?MarkedContent page="4" ?>par son père Phénicie et par ses nobles compagnes, et qui faisaient l’ornement 
-     <?MarkedContent page="4" ?>de ce bel édifice.
+     <?MarkedContent page="2" ?>A la nouvelle de leur arrivée, tons les descendants d’Europe, dont le nom était en grande vénération dans l’île, se rendirent auprès d’eux, les saluèrent avec bonté et les conduisirent au temple. Là, après un sacrifice solennel où 
+     <?MarkedContent page="2" ?>furent immolées suivant l’usage, nombre de victimes on leur servit un repas splendide, et on les traita avec autant d’abondance que de délicatesse. Les fêtes continuèrent les jours suivants. Les rois reçurent les témoignages de l’affection 
+     <?MarkedContent page="4" ?>de leurs amis avec joie et reconnaissance ; mais ils furent encore plus frappés de la magnificence du temple d’Europe. Ils ne pouvaient se laisser d’examiner, 
+     <?MarkedContent page="4" ?>dans le plus grand détail, les riches présents envoyés de Sidon à cette princesse par son père Phénicie et par ses nobles compagnes, et qui faisaient l’ornement de ce bel édifice.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.014"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.015"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -93,35 +63,22 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.016"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.017"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="4" ?>Dans le même temps, Alexandre de Phrygie, fils de Priam, accompagné 
-     <?MarkedContent page="4" ?>d’Énée et de plusieurs de ses parents, se rendait coupable d’un grand atten
-     <?MarkedContent page="4" ?>
-     <?MarkedContent page="4" ?>tat à Sparte et dans le palais de Ménélas, où il avait été reçu comme hôte, et 
-     <?MarkedContent page="4" ?>traité tomme ami. Aussitôt après le départ du roi, épris d’amour pour Hélène, 
-     <?MarkedContent page="4" ?>qui surpassait en beauté toutes les femmes de la Grèce, il l’enleva, et avec elle 
-     <?MarkedContent page="4" ?>tous les trésors qu’il put emporter. Cette princesse fut accompagnée dans sa 
-     <?MarkedContent page="4" ?>fuite par Aetra et Clymène, parentes de Ménélas, attachées à son service. La 
-     <?MarkedContent page="4" ?>nouvelle du crime commis par Alexandre contre la maison de Ménélas parvint 
-     <?MarkedContent page="4" ?>bientôt en Crète ; et la renommée, qui se plaît ordinairement à grossir les objets, 
-     <?MarkedContent page="4" ?>publia que le palais du roi avait été détruit, son empire renversé, et répandit 
-     <?MarkedContent page="4" ?>d’autres bruits aussi funestes.
+     <?MarkedContent page="4" ?>Dans le même temps, Alexandre de Phrygie, fils de Priam, accompagné d’Énée et de plusieurs de ses parents, se rendait coupable d’un grand atten
+     <?MarkedContent page="4" ?>tat à Sparte et dans le palais de Ménélas, où il avait été reçu comme hôte, et traité tomme ami. Aussitôt après le départ du roi, épris d’amour pour Hélène, qui surpassait en beauté toutes les femmes de la Grèce, il l’enleva, et avec elle tous les trésors qu’il put emporter. Cette princesse fut accompagnée dans sa fuite par Aetra et Clymène, parentes de Ménélas, attachées à son service. La 
+     <?MarkedContent page="4" ?>nouvelle du crime commis par Alexandre contre la maison de Ménélas parvint bientôt en Crète ; et la renommée, qui se plaît ordinairement à grossir les objets, publia que le palais du roi avait été détruit, son empire renversé, et répandit d’autres bruits aussi funestes.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.018"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.019"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -129,37 +86,24 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.020"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.021"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="4" ?>Ménélas, à cette nouvelle, quoique vive. meut affecté de l’enlèvement de 
-     <?MarkedContent page="4" ?>son épouse, fut encore plus irrité de la connivence perfide qu’il crut apercevoir 
-     <?MarkedContent page="4" ?>entre le ravisseur et ses parentes. Palamède, voyant ce prince indigné et furieux 
-     <?MarkedContent page="4" ?>sortir du conseil sans proférer un seul mot, fait approcher de terre les vaisseaux 
-     <?MarkedContent page="4" ?>et dispose tout pour le départ. Après quelques paroles consolantes adressées 
-     <?MarkedContent page="4" ?>au roi, il embarque à la hâte tout ce qui provenait du partage, fait monter 
-     <?MarkedContent page="4" ?>Ménélas avec lui sur la flotte, et, secondés d’un vent favorable, ils arrivent en 
-     <?MarkedContent page="4" ?>peu de jours à Sparte. Déjà Agamemnon, Nestor , et tous les rois descendants de 
-     <?MarkedContent page="6" ?>Pélops, y étaient accourus. A l’arrivée de Ménélas, ils s’assemblent ; et quoique 
-     <?MarkedContent page="6" ?>l’atrocité de l’action leur inspiràt une profonde horreur et les portât â une 
-     <?MarkedContent page="6" ?>prompte vengeance, cependant, après avoir délibéré mûrement, ils résolurent 
-     <?MarkedContent page="6" ?>d’envoyer d’abord à Troie, en qualité de députés, Palamède, Ulysse et Ménélas, 
-     <?MarkedContent page="6" ?>avec ordre de se plaindre de l’injure, et de redemander Hélène ainsi que tous les 
-     <?MarkedContent page="6" ?>trésors enlevés.
+     <?MarkedContent page="4" ?>son épouse, fut encore plus irrité de la connivence perfide qu’il crut apercevoir entre le ravisseur et ses parentes. Palamède, voyant ce prince indigné et furieux sortir du conseil sans proférer un seul mot, fait approcher de terre les vaisseaux et dispose tout pour le départ. Après quelques paroles consolantes adressées au roi, il embarque à la hâte tout ce qui provenait du partage, fait monter 
+     <?MarkedContent page="4" ?>Ménélas avec lui sur la flotte, et, secondés d’un vent favorable, ils arrivent en peu de jours à Sparte. Déjà Agamemnon, Nestor , et tous les rois descendants de 
+     <?MarkedContent page="6" ?>Pélops, y étaient accourus. A l’arrivée de Ménélas, ils s’assemblent ; et quoique l’atrocité de l’action leur inspiràt une profonde horreur et les portât â une prompte vengeance, cependant, après avoir délibéré mûrement, ils résolurent 
+     <?MarkedContent page="6" ?>d’envoyer d’abord à Troie, en qualité de députés, Palamède, Ulysse et Ménélas, avec ordre de se plaindre de l’injure, et de redemander Hélène ainsi que tous les trésors enlevés.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.022"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.023"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -167,40 +111,23 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.024"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.025"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="6" ?>Les députés arrivèrent bientôt à Troie et n’y trouvèrent point Alexandre. Ce 
-     <?MarkedContent page="6" ?>prince qui, dans sa fuite précipitée, avait peu consulté les vents, s’était vu forcé 
-     <?MarkedContent page="6" ?>de relâcher en Chypre. De là, après s’être saisi de quelques vaisseaux, il avait 
-     <?MarkedContent page="6" ?>abordé sur la côte de Phénicie. Toujours tourmenté par cette même avidité qui 
-     <?MarkedContent page="6" ?>l’avait accompagné à Sparte, il égorge de nuit, par trahison, le roi des Sidoniens, 
-     <?MarkedContent page="6" ?>qui lui avait fait un accueil favorable. Tout ce que renferme le palais est le 
-     <?MarkedContent page="6" ?>prix de son crime ; toutes les richesses accumulées dans ce lieu, monuments de 
-     <?MarkedContent page="6" ?>la grandeur royale, sont par son ordre injustement enlevées et portées sur ses 
-     <?MarkedContent page="6" ?>vaisseaux. Cependant, aux cris lamentables de ceux qui avaient échappé aux 
-     <?MarkedContent page="6" ?>ravisseurs, le peuple se soulève, se porte en foule au palais, et, dans le moment 
-     <?MarkedContent page="6" ?>où Alexandre, après avoir pris tout ce qui était à sa convenance, se préparait à 
-     <?MarkedContent page="6" ?>mettre à la voile, une troupe, armée à la hâte, se présente ; le combat s’engage 
-     <?MarkedContent page="6" ?>et se poursuit avec acharnement ; nombre de combattants tombent de part et 
-     <?MarkedContent page="6" ?>d’autre ; les uns s’opiniâtrent à venger la mort de leur roi, les autres à conserver 
-     <?MarkedContent page="6" ?>leur butin. Enfin les Troyens, après avoir eu deux de leurs vaisseaux brûlés, 
-     <?MarkedContent page="6" ?>furent assez heureux pour sauver le reste, et échappèrent ainsi à la vengeance 
-     <?MarkedContent page="6" ?>des Sidoniens déjà fatigués du carnage.
+     <?MarkedContent page="6" ?>Les députés arrivèrent bientôt à Troie et n’y trouvèrent point Alexandre. Ce prince qui, dans sa fuite précipitée, avait peu consulté les vents, s’était vu forcé 
+     <?MarkedContent page="6" ?>de relâcher en Chypre. De là, après s’être saisi de quelques vaisseaux, il avait abordé sur la côte de Phénicie. Toujours tourmenté par cette même avidité qui l’avait accompagné à Sparte, il égorge de nuit, par trahison, le roi des Sidoniens, qui lui avait fait un accueil favorable. Tout ce que renferme le palais est le prix de son crime ; toutes les richesses accumulées dans ce lieu, monuments de 
+     <?MarkedContent page="6" ?>la grandeur royale, sont par son ordre injustement enlevées et portées sur ses vaisseaux. Cependant, aux cris lamentables de ceux qui avaient échappé aux ravisseurs, le peuple se soulève, se porte en foule au palais, et, dans le moment où Alexandre, après avoir pris tout ce qui était à sa convenance, se préparait à mettre à la voile, une troupe, armée à la hâte, se présente ; le combat s’engage 
+     <?MarkedContent page="6" ?>et se poursuit avec acharnement ; nombre de combattants tombent de part et d’autre ; les uns s’opiniâtrent à venger la mort de leur roi, les autres à conserver leur butin. Enfin les Troyens, après avoir eu deux de leurs vaisseaux brûlés, furent assez heureux pour sauver le reste, et échappèrent ainsi à la vengeance des Sidoniens déjà fatigués du carnage.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.026"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.027"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -208,51 +135,28 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.028"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.029"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="6" ?>Sur ces entrefaites, Palamède, un des députés qui s’étaient rendus à Troie, 
-     <?MarkedContent page="6" ?>prince à qui sa valeur dans les combats et sa sagesse dans les conseils avaient 
-     <?MarkedContent page="6" ?>mérité la plus grande confiance, se rend au palais de Priam. Là, devant le conseil 
-     <?MarkedContent page="6" ?>assemblé, il se plaint du crime d’Alexandre, représente les droits de l’hospitalité 
-     <?MarkedContent page="6" ?>indignement violés par lui, observe qu’une telle action est capable de réveiller 
-     <?MarkedContent page="6" ?>la haine entre les deux nations, rappelle le souvenir des discordes qui, pour de 
-     <?MarkedContent page="6" ?>semblables causes, divisèrent jadis les maisons d’llus et de Pélops, et d’autres 
-     <?MarkedContent page="6" ?>familles encore, discordes qui ont entraîné les peuples dans des guerres désas
-     <?MarkedContent page="6" ?>
-     <?MarkedContent page="6" ?>treuses. Il met sous les yeux de Priam les dangers et l’incertitude des combats, 
-     <?MarkedContent page="6" ?>les avantages et les douceurs de la paix, l’assure qu’un forfait aussi odieux ne 
+     <?MarkedContent page="6" ?>Sur ces entrefaites, Palamède, un des députés qui s’étaient rendus à Troie, prince à qui sa valeur dans les combats et sa sagesse dans les conseils avaient mérité la plus grande confiance, se rend au palais de Priam. Là, devant le conseil assemblé, il se plaint du crime d’Alexandre, représente les droits de l’hospitalité indignement violés par lui, observe qu’une telle action est capable de réveiller 
+     <?MarkedContent page="6" ?>la haine entre les deux nations, rappelle le souvenir des discordes qui, pour de semblables causes, divisèrent jadis les maisons d’llus et de Pélops, et d’autres familles encore, discordes qui ont entraîné les peuples dans des guerres désas
+     <?MarkedContent page="6" ?>treuses. Il met sous les yeux de Priam les dangers et l’incertitude des combats, les avantages et les douceurs de la paix, l’assure qu’un forfait aussi odieux ne 
      <?MarkedContent page="6" ?>manquera pas d’exciter l’indignation de toute la terre, de priver ses auteurs de 
-     <?MarkedContent page="8" ?>tout secours humain, et de les conduire à une perte inévitable, digne récompense 
-     <?MarkedContent page="8" ?>de leur détestable impiété. Il se préparait à continuer lorsque Priam l’interrom
-     <?MarkedContent page="8" ?>
-     <?MarkedContent page="8" ?>pant, lui dit : « Modérez-vous, je vous prie, Palamède ; il n’est pas juste d’accuser 
-     <?MarkedContent page="8" ?>un absent. Il peut bien arriver que ce grand crime dont on le charge soit suf
-     <?MarkedContent page="8" ?>
-     <?MarkedContent page="8" ?>fisamment détruit dans sa réplique lorsqu’il sera présent. » Sous ce prétexte et 
-     <?MarkedContent page="8" ?>d’autres semblables, il ordonne de suspendre l’examen de l’affaire jusqu’à l’arri
-     <?MarkedContent page="8" ?>
-     <?MarkedContent page="8" ?>vée d’Alexandre. Il voyait bien, par l’effet du discours de Palamède sur chacun 
-     <?MarkedContent page="8" ?>des conseillers, que l’on condamnait généralement, sans ces pendant oser rien 
-     <?MarkedContent page="8" ?>dire, d’action de son fils. En effet, le prince grec avait exposé ses plaintes avec 
-     <?MarkedContent page="8" ?>un art admirable ; il avait répandu dans son discours un intérêt touchant bien 
-     <?MarkedContent page="8" ?>capable de produire l’effet désiré. L’assemblée se sépara ainsi ce jour-là. Ensuite 
-     <?MarkedContent page="8" ?>Anténor, homme généreux, et surtout ami de la justice et de la vertu, conduisit 
-     <?MarkedContent page="8" ?>dans son palais les députés, qui l’y suivirent avec joie.
+     <?MarkedContent page="8" ?>tout secours humain, et de les conduire à une perte inévitable, digne récompense de leur détestable impiété. Il se préparait à continuer lorsque Priam l’interrom
+     <?MarkedContent page="8" ?>pant, lui dit : « Modérez-vous, je vous prie, Palamède ; il n’est pas juste d’accuser un absent. Il peut bien arriver que ce grand crime dont on le charge soit suf
+     <?MarkedContent page="8" ?>fisamment détruit dans sa réplique lorsqu’il sera présent. » Sous ce prétexte et d’autres semblables, il ordonne de suspendre l’examen de l’affaire jusqu’à l’arri
+     <?MarkedContent page="8" ?>vée d’Alexandre. Il voyait bien, par l’effet du discours de Palamède sur chacun des conseillers, que l’on condamnait généralement, sans ces pendant oser rien dire, d’action de son fils. En effet, le prince grec avait exposé ses plaintes avec 
+     <?MarkedContent page="8" ?>un art admirable ; il avait répandu dans son discours un intérêt touchant bien capable de produire l’effet désiré. L’assemblée se sépara ainsi ce jour-là. Ensuite Anténor, homme généreux, et surtout ami de la justice et de la vertu, conduisit dans son palais les députés, qui l’y suivirent avec joie.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.030"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.031"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -260,37 +164,23 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.032"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.033"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="8" ?>Peu de jours après, le fils de Priam et ses compagnons arrivèrent, amenant 
-     <?MarkedContent page="8" ?>avec eux la belle Hélène. Son retour mit la ville en mouvement. Les uns avaient 
-     <?MarkedContent page="8" ?>l’action d’Alexandre en horreur ; les autres s’attendrissaient sur Ménélas, qui en 
-     <?MarkedContent page="8" ?>était la victime. Tous étaient indignés, et personne ne cherchait à défendre le 
-     <?MarkedContent page="8" ?>ravisseur. Priam, inquiet, appelle ses fils auprès de lui, les consulte sur ce qu’il 
-     <?MarkedContent page="8" ?>doit faire dans une telle conjoncture : ils sont tous d’avis de ne point rendre 
-     <?MarkedContent page="8" ?>Hélène. La vue des richesses qu’on avait enlevées avec elle les éblouissait, et ils 
-     <?MarkedContent page="8" ?>n’ignoraient pas qu’il faudrait s’en dessaisir si on la rendait elle-même. Ils ne 
-     <?MarkedContent page="8" ?>voyaient pas non plus avec indifférence les belles femmes de la suite d’Hélène, 
-     <?MarkedContent page="8" ?>et se proposaient bien d’en faire leur conquête ; car ces princes, dont les moeurs 
-     <?MarkedContent page="8" ?>étaient aussi barbares que le langage, s’inquiétaient peu de ce qui était juste 
-     <?MarkedContent page="8" ?>ou injuste, et ne voyaient dans cette affaire que deux objets qui partageaient 
-     <?MarkedContent page="8" ?>également leur affection : le butin premièrement ; ensuite le moyen d’assouvir 
-     <?MarkedContent page="8" ?>leurs passions déréglées,
+     <?MarkedContent page="8" ?>avec eux la belle Hélène. Son retour mit la ville en mouvement. Les uns avaient l’action d’Alexandre en horreur ; les autres s’attendrissaient sur Ménélas, qui en était la victime. Tous étaient indignés, et personne ne cherchait à défendre le ravisseur. Priam, inquiet, appelle ses fils auprès de lui, les consulte sur ce qu’il doit faire dans une telle conjoncture : ils sont tous d’avis de ne point rendre 
+     <?MarkedContent page="8" ?>Hélène. La vue des richesses qu’on avait enlevées avec elle les éblouissait, et ils n’ignoraient pas qu’il faudrait s’en dessaisir si on la rendait elle-même. Ils ne voyaient pas non plus avec indifférence les belles femmes de la suite d’Hélène, et se proposaient bien d’en faire leur conquête ; car ces princes, dont les moeurs étaient aussi barbares que le langage, s’inquiétaient peu de ce qui était juste 
+     <?MarkedContent page="8" ?>ou injuste, et ne voyaient dans cette affaire que deux objets qui partageaient également leur affection : le butin premièrement ; ensuite le moyen d’assouvir leurs passions déréglées,
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.034"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.035"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -298,36 +188,23 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.036"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.037"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="8" ?>Priam, après cette réponse, les quitte, assemble les anciens, leur fait part de 
-     <?MarkedContent page="8" ?>la résolution de ses fils et demande leur avis. Ceux-ci ne l’avaient pas encore 
-     <?MarkedContent page="8" ?>donné, que les princes, sans garder aucune mesure, entrent tout-à-coup dans 
-     <?MarkedContent page="8" ?>la salle du conseil, en menaçant chacun des assistants de leur vengeance, s’ils 
-     <?MarkedContent page="8" ?>osent prendre le moindre arrêté contraitre à leurs intérêts. Cependant le peuple 
-     <?MarkedContent page="8" ?>ne poutait retenir son indignation, et réclamait hautement contre l’injustice ; 
-     <?MarkedContent page="8" ?>il demandait satisfaction pour les députés, et pour lui-même la réparation des 
-     <?MarkedContent page="10" ?>torts qu’il éprouvait journellement. Alexandre, toujours aveuglé par sa passion, 
-     <?MarkedContent page="10" ?>et craignant tout d’un peuple irrité, sort accompagné de ses frères, les armes à 
-     <?MarkedContent page="10" ?>la main, se jette au milieu de la multitude, et en fait un affreux carnage. Ce qui 
-     <?MarkedContent page="10" ?>reste est sauvé par l’intervention des grands qui avaient assisté au conseil, et par 
-     <?MarkedContent page="10" ?>Anténor, qui s’était mis â leur tête. Ainsi le peuple se retira méprisé, maltraité, 
+     <?MarkedContent page="8" ?>Priam, après cette réponse, les quitte, assemble les anciens, leur fait part de la résolution de ses fils et demande leur avis. Ceux-ci ne l’avaient pas encore 
+     <?MarkedContent page="8" ?>donné, que les princes, sans garder aucune mesure, entrent tout-à-coup dans la salle du conseil, en menaçant chacun des assistants de leur vengeance, s’ils osent prendre le moindre arrêté contraitre à leurs intérêts. Cependant le peuple ne poutait retenir son indignation, et réclamait hautement contre l’injustice ; il demandait satisfaction pour les députés, et pour lui-même la réparation des 
+     <?MarkedContent page="10" ?>torts qu’il éprouvait journellement. Alexandre, toujours aveuglé par sa passion, et craignant tout d’un peuple irrité, sort accompagné de ses frères, les armes à la main, se jette au milieu de la multitude, et en fait un affreux carnage. Ce qui reste est sauvé par l’intervention des grands qui avaient assisté au conseil, et par Anténor, qui s’était mis â leur tête. Ainsi le peuple se retira méprisé, maltraité, 
      <?MarkedContent page="10" ?>et sans avoir rien obtenu.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.038"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.039"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -335,41 +212,23 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.040"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.041"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="10" ?>Le lendemain, le roi, à la prière d’Hécube, se rend chez Hélène, la salue avec 
-     <?MarkedContent page="10" ?>bonté, l’exhorte à prendre courage, et lui fait plusieurs questions sur son état et 
-     <?MarkedContent page="10" ?>sur sa naissance. La princesse lui répondit que des liens de parenté l’unissaient â 
-     <?MarkedContent page="10" ?>Alexandre, qu’elle appartenait plus à Priam et à Hécube qu’aux fils de Plisthène ; 
-     <?MarkedContent page="10" ?>et reprenant son origine de plus haut, elle dit que Danaüs et Agénor étaient leurs 
-     <?MarkedContent page="10" ?>communs auteurs ; que de Pléione, fille de Danaüs et d’Atlas, naquit Électre, 
-     <?MarkedContent page="10" ?>qui, enceinte de Jupiter, avait mis au monde Dardanus, duquel sortirent Tros 
-     <?MarkedContent page="10" ?>et les autres rois de Troie ; que d’un autre côté, Taygète, fille d’Agénor, avait 
-     <?MarkedContent page="10" ?>eu de Jupiter Lacédémon, père d’Amiclas ; que celui-ci donna le jour à Argalus, 
-     <?MarkedContent page="10" ?>père d’Oebalus, qui engendra Tyndare, dont elle était la fille. Elle allégua aussi 
-     <?MarkedContent page="10" ?>les liens qui l’unissaient à Hécube par Agénor, père de Phinée et de Phénice, 
-     <?MarkedContent page="10" ?>aïeuls d’Hécube et de Léda, sa mère. Après avoir ainsi établi sa généalogie, elle 
-     <?MarkedContent page="10" ?>conjura Priam et Hécube, les larmes aux yeux, de ne la point rendre aux Grecs 
-     <?MarkedContent page="10" ?>après l’avoir prise sous leur protection. Elle ajouta que les richesses qui avaient 
-     <?MarkedContent page="10" ?>été tirées du palais de Ménélas lui appartenaient, et qu’elle n’avait rien pris 
-     <?MarkedContent page="10" ?>au-delà. On ne sait pas au juste si sa réponse lui fut inspirée par son amour 
-     <?MarkedContent page="10" ?>pour Alexandre, ou par la crainte d’être punie un jour par son mari à cause de 
-     <?MarkedContent page="10" ?>sa désertion.
+     <?MarkedContent page="10" ?>Le lendemain, le roi, à la prière d’Hécube, se rend chez Hélène, la salue avec bonté, l’exhorte à prendre courage, et lui fait plusieurs questions sur son état et sur sa naissance. La princesse lui répondit que des liens de parenté l’unissaient â Alexandre, qu’elle appartenait plus à Priam et à Hécube qu’aux fils de Plisthène ; 
+     <?MarkedContent page="10" ?>et reprenant son origine de plus haut, elle dit que Danaüs et Agénor étaient leurs communs auteurs ; que de Pléione, fille de Danaüs et d’Atlas, naquit Électre, qui, enceinte de Jupiter, avait mis au monde Dardanus, duquel sortirent Tros et les autres rois de Troie ; que d’un autre côté, Taygète, fille d’Agénor, avait eu de Jupiter Lacédémon, père d’Amiclas ; que celui-ci donna le jour à Argalus, 
+     <?MarkedContent page="10" ?>père d’Oebalus, qui engendra Tyndare, dont elle était la fille. Elle allégua aussi les liens qui l’unissaient à Hécube par Agénor, père de Phinée et de Phénice, aïeuls d’Hécube et de Léda, sa mère. Après avoir ainsi établi sa généalogie, elle conjura Priam et Hécube, les larmes aux yeux, de ne la point rendre aux Grecs après l’avoir prise sous leur protection. Elle ajouta que les richesses qui avaient 
+     <?MarkedContent page="10" ?>été tirées du palais de Ménélas lui appartenaient, et qu’elle n’avait rien pris au-delà. On ne sait pas au juste si sa réponse lui fut inspirée par son amour pour Alexandre, ou par la crainte d’être punie un jour par son mari à cause de sa désertion.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.042"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.043"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -377,39 +236,24 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.044"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.045"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="10" ?>Hécube, qui connaissait son désir, et voyait en elle une parente, la tenait 
-     <?MarkedContent page="10" ?>serrée contre son sein, et suppliait son époux de ne la point rendre. Cependant 
-     <?MarkedContent page="10" ?>Priam et les princes étaient revenus à un meilleur avis ; ils insistaient pour qu’on 
-     <?MarkedContent page="10" ?>renvoyât la députation avec une réponse favorable, et craignaient déjà de résister 
-     <?MarkedContent page="10" ?>à la volonté du peuple : le seul Deiphobe appuyait Hécube, sans doute parce qu’il 
-     <?MarkedContent page="10" ?>était épris de la même passion qu’Alexandre pour la beauté d’Hélène. Hécube, 
-     <?MarkedContent page="10" ?>de son côté, s’adressait tantôt à Priam, tantôt à ses fils, et tantôt embrassant 
-     <?MarkedContent page="10" ?>la princesse, elle jurait que rien ne pourrait l’en séparer. De cette manière, elle 
-     <?MarkedContent page="10" ?>entraîna à son avis tous les assistants, et les caresses d’une mère triomphèrent 
-     <?MarkedContent page="10" ?>enfin du bonheur public. Le jour suivant, Ménélas et ses collègues se rendirent 
+     <?MarkedContent page="10" ?>serrée contre son sein, et suppliait son époux de ne la point rendre. Cependant Priam et les princes étaient revenus à un meilleur avis ; ils insistaient pour qu’on renvoyât la députation avec une réponse favorable, et craignaient déjà de résister à la volonté du peuple : le seul Deiphobe appuyait Hécube, sans doute parce qu’il était épris de la même passion qu’Alexandre pour la beauté d’Hélène. Hécube, 
+     <?MarkedContent page="10" ?>de son côté, s’adressait tantôt à Priam, tantôt à ses fils, et tantôt embrassant la princesse, elle jurait que rien ne pourrait l’en séparer. De cette manière, elle entraîna à son avis tous les assistants, et les caresses d’une mère triomphèrent enfin du bonheur public. Le jour suivant, Ménélas et ses collègues se rendirent 
      <?MarkedContent page="12" ?>à l’assemblée, redemandant Hélène, et avec elle tentes les richesses qui avaient 
-     <?MarkedContent page="12" ?>été enlevées. Alors Priam, debout et entouré des princes ses fils, commande le 
-     <?MarkedContent page="12" ?>silence ; il prie Hélène, qui était présente, de choisir elle-même, et de déclarer 
-     <?MarkedContent page="12" ?>si elle voulait retourner à Sparte ou demeurer à Troie. La princesse, dit-on, fit 
-     <?MarkedContent page="12" ?>réponse qu’elle ne voulait ni revoir sa patrie, ni rester unie à Ménélas. Ainsi les 
-     <?MarkedContent page="12" ?>princes sortent du conseil triomphants et joyeux de posséder Hélène.
+     <?MarkedContent page="12" ?>été enlevées. Alors Priam, debout et entouré des princes ses fils, commande le silence ; il prie Hélène, qui était présente, de choisir elle-même, et de déclarer si elle voulait retourner à Sparte ou demeurer à Troie. La princesse, dit-on, fit réponse qu’elle ne voulait ni revoir sa patrie, ni rester unie à Ménélas. Ainsi les princes sortent du conseil triomphants et joyeux de posséder Hélène.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.046"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.047"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -417,40 +261,24 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.048"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.049"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="3" ?>Cuncti reges, qui Minois Jove geniti, pronepotes, Graeciae imperitabant, ad 
-     <?MarkedContent page="3" ?>dividendas inter se Cretei opes, Cretam convenere; Creteus namque ex Minoe, 
-     <?MarkedContent page="3" ?>postrema sua ordinans, quidquid auri atque argenti, pecorum etiam fuit, nepo
-     <?MarkedContent page="3" ?>
-     <?MarkedContent page="3" ?>tibus, quos filiae genuerant, ex aequo dividendum reliquerat, excepto civitatum 
-     <?MarkedContent page="3" ?>terrarumque imperio; haec quippe Idomeneus cum Merione, Deucalionis Idome
-     <?MarkedContent page="3" ?>
-     <?MarkedContent page="3" ?>neus, alter Moli, jussu ejus seorsum habuere. Convenere autem Clymenae et 
-     <?MarkedContent page="3" ?>Nauplii Palamedes, et Oeax, dicti Creteidae : item Menelaus, Aeropa et Pli
-     <?MarkedContent page="3" ?>
-     <?MarkedContent page="3" ?>sthene genitus, a quo Anaxibia soror, quae eo tempore Nestori denupta erat, et 
-     <?MarkedContent page="3" ?>Agamemnon major frater, ut vice sua in divisione uteretur, petiverant. Sed hi 
-     <?MarkedContent page="3" ?>non Plisthenis, ut erant, magis quam Atrei dicebantur; ob eam causam, quod 
-     <?MarkedContent page="3" ?>quum Plisthenes, admodum parvus ipse agens in primis annis vita functus, nihil 
-     <?MarkedContent page="3" ?>dignum ad memoriam nominis reliquisset, Atreus miseratione aetatis secum eos 
-     <?MarkedContent page="3" ?>habuerat, neque minus quam regios educaverat. In qua divisione singuli pro 
-     <?MarkedContent page="3" ?>nominis celebritate inter se quisque magnifice transegere.
+     <?MarkedContent page="3" ?>Cuncti reges, qui Minois Jove geniti, pronepotes, Graeciae imperitabant, ad dividendas inter se Cretei opes, Cretam convenere; Creteus namque ex Minoe, postrema sua ordinans, quidquid auri atque argenti, pecorum etiam fuit, nepo
+     <?MarkedContent page="3" ?>tibus, quos filiae genuerant, ex aequo dividendum reliquerat, excepto civitatum terrarumque imperio; haec quippe Idomeneus cum Merione, Deucalionis Idome
+     <?MarkedContent page="3" ?>neus, alter Moli, jussu ejus seorsum habuere. Convenere autem Clymenae et Nauplii Palamedes, et Oeax, dicti Creteidae : item Menelaus, Aeropa et Pli
+     <?MarkedContent page="3" ?>sthene genitus, a quo Anaxibia soror, quae eo tempore Nestori denupta erat, et Agamemnon major frater, ut vice sua in divisione uteretur, petiverant. Sed hi non Plisthenis, ut erant, magis quam Atrei dicebantur; ob eam causam, quod 
+     <?MarkedContent page="3" ?>quum Plisthenes, admodum parvus ipse agens in primis annis vita functus, nihil dignum ad memoriam nominis reliquisset, Atreus miseratione aetatis secum eos habuerat, neque minus quam regios educaverat. In qua divisione singuli pro nominis celebritate inter se quisque magnifice transegere.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.050"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.051"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -458,34 +286,24 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.052"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.053"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="3" ?>Ad eos re cognita omnes ex origine Europae, quae in ea insula summa religio
-     <?MarkedContent page="3" ?>
-     <?MarkedContent page="3" ?>ne colitur, confluunt benigneque salutatos in templum deducunt. Ibi multarum 
-     <?MarkedContent page="3" ?>hostiarum immolatione celebrata, exhibitisque epulis, largiter magnificeque eos 
-     <?MarkedContent page="3" ?>habuere : itemque insecutis diebus. At reges Graeciae, etsi ea quae exhibebantur 
-     <?MarkedContent page="3" ?>cum laetitia accipiebant, tamen multo magis templi ejus magnifica pulchritu
-     <?MarkedContent page="3" ?>
+     <?MarkedContent page="3" ?>ne colitur, confluunt benigneque salutatos in templum deducunt. Ibi multarum hostiarum immolatione celebrata, exhibitisque epulis, largiter magnificeque eos habuere : itemque insecutis diebus. At reges Graeciae, etsi ea quae exhibebantur cum laetitia accipiebant, tamen multo magis templi ejus magnifica pulchritu
      <?MarkedContent page="3" ?>dine, pretiosaque exstructione operum afficiebantur, inspicientes repetentesque 
      <?MarkedContent page="5" ?>memoria, singula, quae ex Sidone a Phoenice patre ejus, atque nobilibus matro
-     <?MarkedContent page="5" ?>
      <?MarkedContent page="5" ?>nis transmissa magno tum decori erant.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.054"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.055"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -493,35 +311,24 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.056"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.057"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="5" ?>Per idem tempus Alexander Phrygius, Priami filius, cum Aenea aliisque ex 
-     <?MarkedContent page="5" ?>consanguinitate comitibus, Spartae in domum Menelai hospitio receptus, in
-     <?MarkedContent page="5" ?>
+     <?MarkedContent page="5" ?>Per idem tempus Alexander Phrygius, Priami filius, cum Aenea aliisque ex consanguinitate comitibus, Spartae in domum Menelai hospitio receptus, in
      <?MarkedContent page="5" ?>dignissimum facinus perpetraverat. Is namque ubi animadvertit regem abesse, 
-     <?MarkedContent page="5" ?>quod erat Helena praeter caeteras Graeciae faeminas miranda specie, amore ejus 
-     <?MarkedContent page="5" ?>captus, ipsamque et multas opes domo ejus aufert, Aethram etiam et Clyme
-     <?MarkedContent page="5" ?>
-     <?MarkedContent page="5" ?>nam Menelai adfines, quae ob necessitudinem cum Helena agebant. Postquam 
-     <?MarkedContent page="5" ?>Cretam nuncius venit, et cuncta quae ab Alexandro adversus domum Menelai 
-     <?MarkedContent page="5" ?>commissa erant, aperuit, per omnem insulam, sicut in tali re fieri amat, fama 
-     <?MarkedContent page="5" ?>in majus divulgatur: expugnatam quippe domum regis, eversumque regnum, et 
-     <?MarkedContent page="5" ?>alia in talem modum singuli disserebant.
+     <?MarkedContent page="5" ?>quod erat Helena praeter caeteras Graeciae faeminas miranda specie, amore ejus captus, ipsamque et multas opes domo ejus aufert, Aethram etiam et Clyme
+     <?MarkedContent page="5" ?>nam Menelai adfines, quae ob necessitudinem cum Helena agebant. Postquam Cretam nuncius venit, et cuncta quae ab Alexandro adversus domum Menelai commissa erant, aperuit, per omnem insulam, sicut in tali re fieri amat, fama 
+     <?MarkedContent page="5" ?>in majus divulgatur: expugnatam quippe domum regis, eversumque regnum, et alia in talem modum singuli disserebant.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.058"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.059"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -529,38 +336,24 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.060"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.061"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="5" ?>Quibus cognitis Menelaus, etsi abstractio conjugis animum permoverat, mul
-     <?MarkedContent page="5" ?>
      <?MarkedContent page="5" ?>to amplius tamen ob injuriam adfinium, quas supra memoravimus, consternaba
-     <?MarkedContent page="5" ?>
      <?MarkedContent page="5" ?>tur. At ubi animadvertit Palamedes, regem ira atque indignatione stupefactum, 
-     <?MarkedContent page="5" ?>concilio excidisse, ipso naves parat, atque omni instrumento compositas terrae 
-     <?MarkedContent page="5" ?>applicat. Dein pro temporo regem breviter consolatus, positis etiam ex divisione, 
-     <?MarkedContent page="5" ?>quae in tali negotio tempus patiebatur, navem ascendere facit : atque ita ventis 
-     <?MarkedContent page="5" ?>ex sententia flantibus, paucis diebus Spartam pervenere. Eo jam Agamemnon 
-     <?MarkedContent page="5" ?>et Nestor, omnesque qui ex origine Pelopis in Graecia regnabant, cognitis rebus 
-     <?MarkedContent page="7" ?>confluxerant. Igitur postquam Menelaum advenisse sciunt, in unum coeunt. Et 
-     <?MarkedContent page="7" ?>quanquam atrocitas facti ad indignationem, ultumque injurias rapiebat, tamen 
-     <?MarkedContent page="7" ?>ex consilii sententia legantur prius ad Troiam Palamedes, Ulysses et Menelaus ; 
-     <?MarkedContent page="7" ?>hisque mandatur, ut conquesti iniurias, Helenam, et quae cum ea abrepta erant, 
-     <?MarkedContent page="7" ?>repeterent.
+     <?MarkedContent page="5" ?>concilio excidisse, ipso naves parat, atque omni instrumento compositas terrae applicat. Dein pro temporo regem breviter consolatus, positis etiam ex divisione, quae in tali negotio tempus patiebatur, navem ascendere facit : atque ita ventis ex sententia flantibus, paucis diebus Spartam pervenere. Eo jam Agamemnon et Nestor, omnesque qui ex origine Pelopis in Graecia regnabant, cognitis rebus 
+     <?MarkedContent page="7" ?>confluxerant. Igitur postquam Menelaum advenisse sciunt, in unum coeunt. Et quanquam atrocitas facti ad indignationem, ultumque injurias rapiebat, tamen ex consilii sententia legantur prius ad Troiam Palamedes, Ulysses et Menelaus ; hisque mandatur, ut conquesti iniurias, Helenam, et quae cum ea abrepta erant, repeterent.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.062"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.063"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -568,43 +361,26 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.064"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.065"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="7" ?>Legati paucis diebus ad Trojiam veniunt, neque tum Alexandrum in loco 
-     <?MarkedContent page="7" ?>offendere. Eum namque properatione navigii inconsulte usum venti ad Cyprum 
-     <?MarkedContent page="7" ?>appulere. Unde sumptis aliquot navibus, Phoenicem delapsus, Sidoniorum re
-     <?MarkedContent page="7" ?>
-     <?MarkedContent page="7" ?>gem, qui eum amice susceperat, noctu per insidias necat : eademque qua apud 
-     <?MarkedContent page="7" ?>Lacedaomonam, cupiditate, universam domum ejus in scelus proprium conver
-     <?MarkedContent page="7" ?>
+     <?MarkedContent page="7" ?>Legati paucis diebus ad Trojiam veniunt, neque tum Alexandrum in loco offendere. Eum namque properatione navigii inconsulte usum venti ad Cyprum appulere. Unde sumptis aliquot navibus, Phoenicem delapsus, Sidoniorum re
+     <?MarkedContent page="7" ?>gem, qui eum amice susceperat, noctu per insidias necat : eademque qua apud Lacedaomonam, cupiditate, universam domum ejus in scelus proprium conver
      <?MarkedContent page="7" ?>tit. Ita omnia quae ad ostentationem regiae magnificentiae fuere, indigne rap
-     <?MarkedContent page="7" ?>
-     <?MarkedContent page="7" ?>ta, ad naves deferri jubet. Sed ubi ex lamentatione eorum qui casum domini 
-     <?MarkedContent page="7" ?>deflentes, reliqui praedae aufugerant, tumultus ortus est, populus omnis ad re
-     <?MarkedContent page="7" ?>
-     <?MarkedContent page="7" ?>giam concurrit. Inde quod jam Alexander, abreptis quae cupiebat, ascensionem 
-     <?MarkedContent page="7" ?>properabat, pro tempore armati ad naves veniunt; ortoque inter eos acri proe
-     <?MarkedContent page="7" ?>
-     <?MarkedContent page="7" ?>lio, cadunt utrinque plurimi, quum obstinate hi regis necem defenderent, hi ne 
-     <?MarkedContent page="7" ?>amitterent partam praedam summis opibus adniterentur. Incensis dein dua
-     <?MarkedContent page="7" ?>
-     <?MarkedContent page="7" ?>bus navibus, Trojani reliquas strenue defensas liberant, atque ita fatigatis jam 
-     <?MarkedContent page="7" ?>proelio hostibus evadunt.
+     <?MarkedContent page="7" ?>ta, ad naves deferri jubet. Sed ubi ex lamentatione eorum qui casum domini deflentes, reliqui praedae aufugerant, tumultus ortus est, populus omnis ad re
+     <?MarkedContent page="7" ?>giam concurrit. Inde quod jam Alexander, abreptis quae cupiebat, ascensionem properabat, pro tempore armati ad naves veniunt; ortoque inter eos acri proe
+     <?MarkedContent page="7" ?>lio, cadunt utrinque plurimi, quum obstinate hi regis necem defenderent, hi ne amitterent partam praedam summis opibus adniterentur. Incensis dein dua
+     <?MarkedContent page="7" ?>bus navibus, Trojani reliquas strenue defensas liberant, atque ita fatigatis jam proelio hostibus evadunt.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.066"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.067"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -612,43 +388,25 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.068"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.069"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="7" ?>Interim apud Trojam, legatorum Palamedes, cujus maxime ea tempestate 
-     <?MarkedContent page="7" ?>demi bellique consilium valuit, ad Priamum adit, conductoque concilio, primum 
-     <?MarkedContent page="7" ?>de Alexandri injuria conqueritur, exponens conmunis hospitii eversionem. Dein 
-     <?MarkedContent page="7" ?>monet, quantas ea res inter duo regna simultates concitatura esset, interjaciens 
-     <?MarkedContent page="7" ?>memoriam discordiarum Ili et Pelopis, aliorumque qui ex causis similibus ad 
-     <?MarkedContent page="7" ?>internecionem usque gentium pervenissent. Ad postremum belli difficultates, 
-     <?MarkedContent page="7" ?>contraque pacis commoda adstruens, « Non se ignorare, ait, quantis mortalibus 
-     <?MarkedContent page="7" ?>tam atrox facinus indignationem incuteret ; ex quo auctores injuriae ab omnibus 
-     <?MarkedContent page="7" ?>derelictos, impietatis supplicia subituros. » Et quum plura dicere cuperet, Pria
-     <?MarkedContent page="7" ?>
-     <?MarkedContent page="7" ?>mus medium ejus interrumpens sermonem, « Parcius, quaeso, Palamedes, inquit 
-     <?MarkedContent page="7" ?>; iniquum enim videtur, insimulari eum qui absit : maxime quum fieri possit, 
-     <?MarkedContent page="9" ?>uti quae criminose objecta sunt, praesenti refutatione diluantur. » Haec atque 
-     <?MarkedContent page="9" ?>alia hujusmodi inferens, differri querelas ad adventum Alexandri jubet. Videbat 
-     <?MarkedContent page="9" ?>enim, ut singuli, qui in eo concilio aderant, Palamedis oratione moverentur; ut 
-     <?MarkedContent page="9" ?>taciti vultu tamen admissum facinus condemnarent; quum singula miro genere 
-     <?MarkedContent page="9" ?>orationis exponerentur, atque in sermone Graeci regis inesset quaedam permixta 
-     <?MarkedContent page="9" ?>miserationi vis. Atque ita eo die consilium dimittitur. Sed legatos Antenor, vir 
-     <?MarkedContent page="9" ?>hospitalis, et praeter caeteros boni hunestique sectator, domum ad se volentes 
-     <?MarkedContent page="9" ?>deducit.
+     <?MarkedContent page="7" ?>demi bellique consilium valuit, ad Priamum adit, conductoque concilio, primum de Alexandri injuria conqueritur, exponens conmunis hospitii eversionem. Dein monet, quantas ea res inter duo regna simultates concitatura esset, interjaciens memoriam discordiarum Ili et Pelopis, aliorumque qui ex causis similibus ad internecionem usque gentium pervenissent. Ad postremum belli difficultates, 
+     <?MarkedContent page="7" ?>contraque pacis commoda adstruens, « Non se ignorare, ait, quantis mortalibus tam atrox facinus indignationem incuteret ; ex quo auctores injuriae ab omnibus derelictos, impietatis supplicia subituros. » Et quum plura dicere cuperet, Pria
+     <?MarkedContent page="7" ?>mus medium ejus interrumpens sermonem, « Parcius, quaeso, Palamedes, inquit ; iniquum enim videtur, insimulari eum qui absit : maxime quum fieri possit, 
+     <?MarkedContent page="9" ?>uti quae criminose objecta sunt, praesenti refutatione diluantur. » Haec atque alia hujusmodi inferens, differri querelas ad adventum Alexandri jubet. Videbat enim, ut singuli, qui in eo concilio aderant, Palamedis oratione moverentur; ut taciti vultu tamen admissum facinus condemnarent; quum singula miro genere orationis exponerentur, atque in sermone Graeci regis inesset quaedam permixta 
+     <?MarkedContent page="9" ?>miserationi vis. Atque ita eo die consilium dimittitur. Sed legatos Antenor, vir hospitalis, et praeter caeteros boni hunestique sectator, domum ad se volentes deducit.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.070"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.071"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -656,39 +414,26 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.072"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.073"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="9" ?>Interim paucis post diebus, Alexander cum supradictis comitibus venit, He
-     <?MarkedContent page="9" ?>
      <?MarkedContent page="9" ?>lenam secum habens. Cujus adventu in tota civitate quum partim exemplum 
      <?MarkedContent page="9" ?>facinoris exsecrarentur, alii injurias in Menelaum admissas dolerent, nullo om
-     <?MarkedContent page="9" ?>
      <?MarkedContent page="9" ?>nium adprobante, postremo cunctis indignantibus, tumultus ortus est. Quei
-     <?MarkedContent page="9" ?>
-     <?MarkedContent page="9" ?>srebus anxius Priamus filios convocat, eosque quid super tali agendum negotio 
-     <?MarkedContent page="9" ?>videretur, consulit : qui una voce, minime reddendam Helenam, respondent. 
-     <?MarkedContent page="9" ?>Videbant quippe quantae opes cum ea advectae essent : quae universa, si Hele
-     <?MarkedContent page="9" ?>
-     <?MarkedContent page="9" ?>na traderetur, necessario amitterent. Praeterea permoti forma mulierum quae 
-     <?MarkedContent page="9" ?>cum Helena venerant, nuptias sibi singularum jam animo destinaverant. Quip
-     <?MarkedContent page="9" ?>
-     <?MarkedContent page="9" ?>pe qui lingua moribusque barbari, nihil pensi aut consulti patientes, praeda ac 
-     <?MarkedContent page="9" ?>libidine transversi agebantur.
+     <?MarkedContent page="9" ?>srebus anxius Priamus filios convocat, eosque quid super tali agendum negotio videretur, consulit : qui una voce, minime reddendam Helenam, respondent. Videbant quippe quantae opes cum ea advectae essent : quae universa, si Hele
+     <?MarkedContent page="9" ?>na traderetur, necessario amitterent. Praeterea permoti forma mulierum quae cum Helena venerant, nuptias sibi singularum jam animo destinaverant. Quip
+     <?MarkedContent page="9" ?>pe qui lingua moribusque barbari, nihil pensi aut consulti patientes, praeda ac libidine transversi agebantur.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.074"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.075"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -696,36 +441,25 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.076"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.077"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="9" ?>Igitur Priamus, relictis his, senes conducit, sententiam filiorum aperit. Dein 
      <?MarkedContent page="9" ?>cunctos, quid agendum sit, consulit. Sed priusquam ex more sententiae dice
-     <?MarkedContent page="9" ?>
-     <?MarkedContent page="9" ?>rentur, reguli repente concilium irrumpunt, atque inconditis moribus malum 
-     <?MarkedContent page="9" ?>singulis minitantur, si aliter quam ipsis videretur, decernerent. Interim omnis 
-     <?MarkedContent page="9" ?>populus indigne admissam injuriam, atque in hunc modum multa alia, cum ex
-     <?MarkedContent page="9" ?>
+     <?MarkedContent page="9" ?>rentur, reguli repente concilium irrumpunt, atque inconditis moribus malum singulis minitantur, si aliter quam ipsis videretur, decernerent. Interim omnis populus indigne admissam injuriam, atque in hunc modum multa alia, cum ex
      <?MarkedContent page="9" ?>secratione reclamabant. Ob quae Alexander cupidine animi praeceps, veritus 
      <?MarkedContent page="9" ?>ne quid adversum se a popularibus oriretur, stipatus armatis fratribus impe
-     <?MarkedContent page="9" ?>
-     <?MarkedContent page="11" ?>tum in multitudinem facit, multosque obtruncat : reliqui interventu procerum, 
-     <?MarkedContent page="11" ?>qui in consilio fuerant, duce liberantur Antenore. Ita infectis rebus, populus 
-     <?MarkedContent page="11" ?>contemptui habitus, non sine pernicie sua, domum discedit.
+     <?MarkedContent page="11" ?>tum in multitudinem facit, multosque obtruncat : reliqui interventu procerum, qui in consilio fuerant, duce liberantur Antenore. Ita infectis rebus, populus contemptui habitus, non sine pernicie sua, domum discedit.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.078"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.079"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -733,42 +467,24 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.080"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.081"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="11" ?>Dein secuta die rex hortatu Hecubae ad Helenam adit, eamque benigne sa
-     <?MarkedContent page="11" ?>
-     <?MarkedContent page="11" ?>lutans, animum bonum uti gereret hortatur; quae cujusque erset, requirit. Tum 
-     <?MarkedContent page="11" ?>illa Alexandri se adfinem respondit, magisque ad Priamum et Hecubam, quam 
-     <?MarkedContent page="11" ?>ad Plisthenis filios genere pertinere, repetens originem omnem majorum. Da
-     <?MarkedContent page="11" ?>
-     <?MarkedContent page="11" ?>naum enim atque Agenorem, et sui et Priami generis auctores esse. Namque 
-     <?MarkedContent page="11" ?>ex Pleiona, Danai filia et Atlante, Electram natam, quam ex Jove gravidam 
-     <?MarkedContent page="11" ?>Dardanum genuisse, ex quo Tros, et deinceps insecuti reges llii. Agenoris porro 
-     <?MarkedContent page="11" ?>Taygetam; eam ex Jove habuisse Lacedaemonem, ex quo Amiclam natum, et ex 
-     <?MarkedContent page="11" ?>eo Argalum patrem Oebali, quem Tyndari, ex quo ipsa genita videretur, patrem 
-     <?MarkedContent page="11" ?>constaret. Repetebat etiam cum Hecuba materni generis adfinitatem. Agenoris 
-     <?MarkedContent page="11" ?>quippe Phineum et Phoenicem, et inde patres Hecubae et Ledae consanguinita
-     <?MarkedContent page="11" ?>
-     <?MarkedContent page="11" ?>te originem divisisse. Postquam memoriter cuncta retexuit, ad postremum flens 
-     <?MarkedContent page="11" ?>orare, ne se, quae semel in fldem illorum recepta esse, prodendam putarent. Ea 
-     <?MarkedContent page="11" ?>secum domo Menelai apportata quae propria fuissent, nihil praeterea ablatum. 
-     <?MarkedContent page="11" ?>Sed utrum immodico amore Alexandri, an poenarum metu, quas ob desertam 
-     <?MarkedContent page="11" ?>domum a conjuge metuebat, ita sibi consulere maluerit, parum constabat.
+     <?MarkedContent page="11" ?>lutans, animum bonum uti gereret hortatur; quae cujusque erset, requirit. Tum illa Alexandri se adfinem respondit, magisque ad Priamum et Hecubam, quam ad Plisthenis filios genere pertinere, repetens originem omnem majorum. Da
+     <?MarkedContent page="11" ?>naum enim atque Agenorem, et sui et Priami generis auctores esse. Namque ex Pleiona, Danai filia et Atlante, Electram natam, quam ex Jove gravidam 
+     <?MarkedContent page="11" ?>Dardanum genuisse, ex quo Tros, et deinceps insecuti reges llii. Agenoris porro Taygetam; eam ex Jove habuisse Lacedaemonem, ex quo Amiclam natum, et ex eo Argalum patrem Oebali, quem Tyndari, ex quo ipsa genita videretur, patrem constaret. Repetebat etiam cum Hecuba materni generis adfinitatem. Agenoris quippe Phineum et Phoenicem, et inde patres Hecubae et Ledae consanguinita
+     <?MarkedContent page="11" ?>te originem divisisse. Postquam memoriter cuncta retexuit, ad postremum flens orare, ne se, quae semel in fldem illorum recepta esse, prodendam putarent. Ea secum domo Menelai apportata quae propria fuissent, nihil praeterea ablatum. Sed utrum immodico amore Alexandri, an poenarum metu, quas ob desertam domum a conjuge metuebat, ita sibi consulere maluerit, parum constabat.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.082"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.083"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -776,39 +492,24 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.084"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.085"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="11" ?>Igitur Hecuba, cognita voluntate, simul ob generis conjunctionem, complexa 
-     <?MarkedContent page="11" ?>Helenam, ne proderetur, summis opibus adnitebatur : quum jam Priamus et 
-     <?MarkedContent page="11" ?>reliqui reguli non amplius differendos legatos dicerent, neque resistendum po
-     <?MarkedContent page="11" ?>
-     <?MarkedContent page="11" ?>pularium voluntati; solo omnium Deiphobo Hecubae assenso : quem non aliter 
-     <?MarkedContent page="11" ?>atque Alexandrum, Helenae desiderium a recto consilio praepediebat. Itaque 
+     <?MarkedContent page="11" ?>Igitur Hecuba, cognita voluntate, simul ob generis conjunctionem, complexa Helenam, ne proderetur, summis opibus adnitebatur : quum jam Priamus et reliqui reguli non amplius differendos legatos dicerent, neque resistendum po
+     <?MarkedContent page="11" ?>pularium voluntati; solo omnium Deiphobo Hecubae assenso : quem non aliter atque Alexandrum, Helenae desiderium a recto consilio praepediebat. Itaque 
      <?MarkedContent page="11" ?>quum obstinate Hecuba nunc Priamum, modo filios deprecaretur, modo com
-     <?MarkedContent page="11" ?>
-     <?MarkedContent page="11" ?>plexu ejus nulla rations divelli posset, omnes qui aderant in voluntatem suam 
-     <?MarkedContent page="11" ?>transduxit. Ita ad postremum bonum publicum materna gratia corruptum est. 
-     <?MarkedContent page="11" ?>Dein postero die Menelaus cum suis in concionem venit, conjugem, et quae cum 
-     <?MarkedContent page="11" ?>ea abrepta essent, repetens. Tunc Priamus inter regulos medius adstans, facto 
-     <?MarkedContent page="13" ?>silentio, optionem Helenae, quae ob id in conspectu popularium venerat, offert, 
-     <?MarkedContent page="13" ?>si ei videretur, dornum ed suos regredi. Quam ferunt dixisse, neque se patriam 
-     <?MarkedContent page="13" ?>regredi velle, neque sibi cum Menelai matrimonio convenire. Ita reguli habentes 
-     <?MarkedContent page="13" ?>Helenam, non sine exultatione ex concione discedunt.
+     <?MarkedContent page="11" ?>plexu ejus nulla rations divelli posset, omnes qui aderant in voluntatem suam transduxit. Ita ad postremum bonum publicum materna gratia corruptum est. Dein postero die Menelaus cum suis in concionem venit, conjugem, et quae cum ea abrepta essent, repetens. Tunc Priamus inter regulos medius adstans, facto 
+     <?MarkedContent page="13" ?>silentio, optionem Helenae, quae ob id in conspectu popularium venerat, offert, si ei videretur, dornum ed suos regredi. Quam ferunt dixisse, neque se patriam regredi velle, neque sibi cum Menelai matrimonio convenire. Ita reguli habentes Helenam, non sine exultatione ex concione discedunt.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.086"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.087"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -816,7 +517,6 @@
      <?MarkedContent page="2" ?>
      <?MarkedContent page="4" ?>
      <Link xmlns="http://iso.org/pdf2/ssn"
-        id="ID.088"
        >
       <?MarkedContent page="2" ?>1
       <?ReferencedObject type="Annot" page="2" ?>
@@ -827,11 +527,9 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.089"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.090"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -839,7 +537,6 @@
      <?MarkedContent page="2" ?>
      <?MarkedContent page="16" ?>
      <Link xmlns="http://iso.org/pdf2/ssn"
-        id="ID.091"
        >
       <?MarkedContent page="2" ?>1
       <?ReferencedObject type="Annot" page="2" ?>
@@ -856,11 +553,9 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.092"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.093"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -868,7 +563,6 @@
      <?MarkedContent page="3" ?>
      <?MarkedContent page="11" ?>
      <Link xmlns="http://iso.org/pdf2/ssn"
-        id="ID.094"
        >
       <?MarkedContent page="3" ?>1
       <?ReferencedObject type="Annot" page="3" ?>

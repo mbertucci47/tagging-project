@@ -81,6 +81,7 @@
 %% 		see https://www.latex-project.org/news/latex2e-news/ltnews35.pdf
 %% If you have problems with these lines, your LaTeX format may be out of date.
 
+\ifdefined\Uchar\RequirePackage{luatagging}\fi
 \DocumentMetadata{%
 	lang=en-US,
 %	pdfstandard	= A-3u,% A-2b, A-2u, A-3b, or A-3u
@@ -668,7 +669,7 @@ zwischen dem Wärmeaustanch und dem Reibungswiderstand schließen, die eine str�
 As of the November 2025 release of \LaTeX, the \texttt{asmejour} class can produce accessible PDF files that validate under 
 the PDF/A UA-2 and A-4F standards and which meet the WTPDF 1.0 accessibility and reuse standards. For this, run \LuaLaTeX{} and choose the following settings: 
  \begin{quote}
-	\verb|\DocumentMetadata{ | \newline
+	\verb| \DocumentMetadata{ | \newline
 	\verb| pdfversion = 2.0, % default setting | \newline
 	\verb| pdfstandard = { ua-2 , a-4f },| \newline
 	\verb| tagging = on }|

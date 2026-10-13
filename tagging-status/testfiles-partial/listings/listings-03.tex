@@ -5,6 +5,7 @@ kpse.set_program('luatex')
 
 return kpse.in_name_ok(arg[1])
 \end{filecontents}
+\ifdefined\Uchar\RequirePackage{luatagging}\fi
 \DocumentMetadata{
     lang=en-US,
     tagging=on,

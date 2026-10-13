@@ -1,48 +1,40 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
-     id="ID.0002"
     >
    <section xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.0006"
       rolemaps-to="Sect"
      >
     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0007"
        title="List of Algorithms"
        rolemaps-to="H1"
       >
      <?MarkedContent page="1" ?>List of Algorithms
     </section-heading>
     <TOC xmlns="http://iso.org/pdf/ssn"
-       id="ID.0008"
        title="\@nameuse {ext@algorithm}"
       >
      <TOCI xmlns="http://iso.org/pdf/ssn"
-        id="ID.0009"
         title="Calculate $y = x^n$"
        >
        <?References objects="1" ?>
       <Reference xmlns="http://iso.org/pdf/ssn"
-         id="ID.0010"
         >
        <Lbl xmlns="http://iso.org/pdf2/ssn"
-          id="ID.0011"
          >
         <?MarkedContent page="1" ?>1
        </Lbl>
        <?MarkedContent page="1" ?>Calculate 
        <Formula xmlns="http://iso.org/pdf2/ssn"
-          id="ID.0012"
           title="math"
-          af="mathml-1.xml tag-AFfile1.tex"
+          af="mathml-1.xml source.tex"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:Placement="Inline"
          >
          <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑦</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mi>𝑥</mi> <mi>𝑛</mi> </msup> </math>
          </AssociatedFile>
-         <AssociatedFile name="tag-AFfile1.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $y = x^n$
          </AssociatedFile>
         <?MarkedContent page="1" ?>𝑦=𝑥𝑛
@@ -52,32 +44,28 @@
      </TOCI>
     </TOC>
     <float xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.0013"
        rolemaps-to="Aside"
        referenced-as="1"
       >
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0014"
         rolemaps-to="Part"
        >
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
-         id="ID.0015"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:TextAlign="Justify"
          rolemaps-to="P"
         >
        <?MarkedContent page="1" ?>Algorithm 1 Calculate 
        <Formula xmlns="http://iso.org/pdf2/ssn"
-          id="ID.0016"
           title="math"
-          af="mathml-1.xml tag-AFfile2.tex"
+          af="mathml-1.xml source.tex"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:Placement="Inline"
          >
          <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑦</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mi>𝑥</mi> <mi>𝑛</mi> </msup> </math>
          </AssociatedFile>
-         <AssociatedFile name="tag-AFfile2.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $y = x^n$
          </AssociatedFile>
         <?MarkedContent page="1" ?>𝑦=𝑥𝑛
@@ -85,50 +73,42 @@
       </text-block>
      </semantic-para>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-        id="ID.0017"
         rolemaps-to="Part"
        >
       <list xmlns="https://www.latex-project.org/ns/dflt"
-         id="ID.0018"
          xmlns:List="http://iso.org/pdf/ssn/List"
          List:ListNumbering="Unordered"
          rolemaps-to="L"
         >
        <item xmlns="https://www.latex-project.org/ns/dflt"
-          id="ID.0019"
           rolemaps-to="LI"
          >
         <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
-           id="ID.0020"
            rolemaps-to="Lbl"
           >
          <?MarkedContent page="1" ?>Require:
         </itemlabel>
         <itembody xmlns="https://www.latex-project.org/ns/dflt"
-           id="ID.0021"
            rolemaps-to="LBody"
           >
          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-            id="ID.0022"
             rolemaps-to="Part"
            >
           <text-block xmlns="https://www.latex-project.org/ns/dflt"
-             id="ID.0023"
              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
              Layout:TextAlign="Justify"
              rolemaps-to="P"
             >
            <Formula xmlns="http://iso.org/pdf2/ssn"
-              id="ID.0024"
               title="math"
-              af="mathml-3.xml tag-AFfile3.tex"
+              af="mathml-3.xml source.tex"
               xmlns:Layout="http://iso.org/pdf/ssn/Layout"
               Layout:Placement="Inline"
              >
              <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
              <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑛</mi> <mo lspace="0.278em" rspace="0.278em">≥</mo> <mn>0</mn> <mo lspace="0.222em" rspace="0.222em">∨</mo> <mi>𝑥</mi> <mo lspace="0.278em" rspace="0.278em">≠</mo> <mn>0</mn> </math>
              </AssociatedFile>
-             <AssociatedFile name="tag-AFfile3.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+             <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
              $n \geq 0 \vee x \neq 0$
              </AssociatedFile>
             <?MarkedContent page="1" ?>𝑛≥0∨𝑥≠0
@@ -138,40 +118,34 @@
         </itembody>
        </item>
        <item xmlns="https://www.latex-project.org/ns/dflt"
-          id="ID.0025"
           rolemaps-to="LI"
          >
         <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
-           id="ID.0026"
            rolemaps-to="Lbl"
           >
          <?MarkedContent page="1" ?>Ensure:
         </itemlabel>
         <itembody xmlns="https://www.latex-project.org/ns/dflt"
-           id="ID.0027"
            rolemaps-to="LBody"
           >
          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-            id="ID.0028"
             rolemaps-to="Part"
            >
           <text-block xmlns="https://www.latex-project.org/ns/dflt"
-             id="ID.0029"
              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
              Layout:TextAlign="Justify"
              rolemaps-to="P"
             >
            <Formula xmlns="http://iso.org/pdf2/ssn"
-              id="ID.0030"
               title="math"
-              af="mathml-1.xml tag-AFfile4.tex"
+              af="mathml-1.xml source.tex"
               xmlns:Layout="http://iso.org/pdf/ssn/Layout"
               Layout:Placement="Inline"
              >
              <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
              <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑦</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mi>𝑥</mi> <mi>𝑛</mi> </msup> </math>
              </AssociatedFile>
-             <AssociatedFile name="tag-AFfile4.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+             <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
              $y = x^n$
              </AssociatedFile>
             <?MarkedContent page="1" ?>𝑦=𝑥𝑛
@@ -181,39 +155,33 @@
         </itembody>
        </item>
        <item xmlns="https://www.latex-project.org/ns/dflt"
-          id="ID.0031"
           rolemaps-to="LI"
          >
         <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
-           id="ID.0032"
            rolemaps-to="Lbl"
           >
         </itemlabel>
         <itembody xmlns="https://www.latex-project.org/ns/dflt"
-           id="ID.0033"
            rolemaps-to="LBody"
           >
          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-            id="ID.0034"
             rolemaps-to="Part"
            >
           <text-block xmlns="https://www.latex-project.org/ns/dflt"
-             id="ID.0035"
              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
              Layout:TextAlign="Justify"
              rolemaps-to="P"
             >
            <Formula xmlns="http://iso.org/pdf2/ssn"
-              id="ID.0036"
               title="math"
-              af="mathml-5.xml tag-AFfile5.tex"
+              af="mathml-5.xml source.tex"
               xmlns:Layout="http://iso.org/pdf/ssn/Layout"
               Layout:Placement="Inline"
              >
              <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
              <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑦</mi> <mo lspace="0.278em" rspace="0.278em" stretchy="false">←</mo> <mn>1</mn> </math>
              </AssociatedFile>
-             <AssociatedFile name="tag-AFfile5.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+             <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
              $y \leftarrow 1$
              </AssociatedFile>
             <?MarkedContent page="1" ?>𝑦←1
@@ -223,40 +191,34 @@
         </itembody>
        </item>
        <item xmlns="https://www.latex-project.org/ns/dflt"
-          id="ID.0037"
           rolemaps-to="LI"
          >
         <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
-           id="ID.0038"
            rolemaps-to="Lbl"
           >
         </itemlabel>
         <itembody xmlns="https://www.latex-project.org/ns/dflt"
-           id="ID.0039"
            rolemaps-to="LBody"
           >
          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-            id="ID.0040"
             rolemaps-to="Part"
            >
           <text-block xmlns="https://www.latex-project.org/ns/dflt"
-             id="ID.0041"
              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
              Layout:TextAlign="Justify"
              rolemaps-to="P"
             >
            <?MarkedContent page="1" ?>if 
            <Formula xmlns="http://iso.org/pdf2/ssn"
-              id="ID.0042"
               title="math"
-              af="mathml-6.xml tag-AFfile6.tex"
+              af="mathml-6.xml source.tex"
               xmlns:Layout="http://iso.org/pdf/ssn/Layout"
               Layout:Placement="Inline"
              >
              <AssociatedFile name="mathml-6.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
              <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑛</mi> <mo lspace="0.278em" rspace="0.278em">&lt;</mo> <mn>0</mn> </math>
              </AssociatedFile>
-             <AssociatedFile name="tag-AFfile6.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+             <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
              $n &lt; 0$
              </AssociatedFile>
             <?MarkedContent page="1" ?>𝑛&lt;0
@@ -264,45 +226,38 @@
            <?MarkedContent page="1" ?> then
           </text-block>
           <list xmlns="https://www.latex-project.org/ns/dflt"
-             id="ID.0043"
              xmlns:List="http://iso.org/pdf/ssn/List"
              List:ListNumbering="Unordered"
              rolemaps-to="L"
             >
            <item xmlns="https://www.latex-project.org/ns/dflt"
-              id="ID.0044"
               rolemaps-to="LI"
              >
             <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
-               id="ID.0045"
                rolemaps-to="Lbl"
               >
             </itemlabel>
             <itembody xmlns="https://www.latex-project.org/ns/dflt"
-               id="ID.0046"
                rolemaps-to="LBody"
               >
              <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-                id="ID.0047"
                 rolemaps-to="Part"
                >
               <text-block xmlns="https://www.latex-project.org/ns/dflt"
-                 id="ID.0048"
                  xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                  Layout:TextAlign="Justify"
                  rolemaps-to="P"
                 >
                <Formula xmlns="http://iso.org/pdf2/ssn"
-                  id="ID.0049"
                   title="math"
-                  af="mathml-7.xml tag-AFfile7.tex"
+                  af="mathml-7.xml source.tex"
                   xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                   Layout:Placement="Inline"
                  >
                  <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
                  <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑋</mi> <mo lspace="0.278em" rspace="0.278em" stretchy="false">←</mo> <mn>1</mn> <mo lspace="0" rspace="0">/</mo> <mi>𝑥</mi> </math>
                  </AssociatedFile>
-                 <AssociatedFile name="tag-AFfile7.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                 <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
                  $X \leftarrow 1 / x$
                  </AssociatedFile>
                 <?MarkedContent page="1" ?>𝑋←1/𝑥
@@ -312,39 +267,33 @@
             </itembody>
            </item>
            <item xmlns="https://www.latex-project.org/ns/dflt"
-              id="ID.0050"
               rolemaps-to="LI"
              >
             <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
-               id="ID.0051"
                rolemaps-to="Lbl"
               >
             </itemlabel>
             <itembody xmlns="https://www.latex-project.org/ns/dflt"
-               id="ID.0052"
                rolemaps-to="LBody"
               >
              <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-                id="ID.0053"
                 rolemaps-to="Part"
                >
               <text-block xmlns="https://www.latex-project.org/ns/dflt"
-                 id="ID.0054"
                  xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                  Layout:TextAlign="Justify"
                  rolemaps-to="P"
                 >
                <Formula xmlns="http://iso.org/pdf2/ssn"
-                  id="ID.0055"
                   title="math"
-                  af="mathml-8.xml tag-AFfile8.tex"
+                  af="mathml-8.xml source.tex"
                   xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                   Layout:Placement="Inline"
                  >
                  <AssociatedFile name="mathml-8.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
                  <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑁</mi> <mo lspace="0.278em" rspace="0" stretchy="false">←</mo> <mo lspace="0.278em" rspace="0">−</mo> <mi>𝑛</mi> </math>
                  </AssociatedFile>
-                 <AssociatedFile name="tag-AFfile8.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                 <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
                  $N \leftarrow -n$
                  </AssociatedFile>
                 <?MarkedContent page="1" ?>𝑁←−𝑛
@@ -358,24 +307,19 @@
         </itembody>
        </item>
        <item xmlns="https://www.latex-project.org/ns/dflt"
-          id="ID.0056"
           rolemaps-to="LI"
          >
         <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
-           id="ID.0057"
            rolemaps-to="Lbl"
           >
         </itemlabel>
         <itembody xmlns="https://www.latex-project.org/ns/dflt"
-           id="ID.0058"
            rolemaps-to="LBody"
           >
          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-            id="ID.0059"
             rolemaps-to="Part"
            >
           <text-block xmlns="https://www.latex-project.org/ns/dflt"
-             id="ID.0060"
              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
              Layout:TextAlign="Justify"
              rolemaps-to="P"
@@ -383,45 +327,38 @@
            <?MarkedContent page="1" ?>else
           </text-block>
           <list xmlns="https://www.latex-project.org/ns/dflt"
-             id="ID.0061"
              xmlns:List="http://iso.org/pdf/ssn/List"
              List:ListNumbering="Unordered"
              rolemaps-to="L"
             >
            <item xmlns="https://www.latex-project.org/ns/dflt"
-              id="ID.0062"
               rolemaps-to="LI"
              >
             <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
-               id="ID.0063"
                rolemaps-to="Lbl"
               >
             </itemlabel>
             <itembody xmlns="https://www.latex-project.org/ns/dflt"
-               id="ID.0064"
                rolemaps-to="LBody"
               >
              <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-                id="ID.0065"
                 rolemaps-to="Part"
                >
               <text-block xmlns="https://www.latex-project.org/ns/dflt"
-                 id="ID.0066"
                  xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                  Layout:TextAlign="Justify"
                  rolemaps-to="P"
                 >
                <Formula xmlns="http://iso.org/pdf2/ssn"
-                  id="ID.0067"
                   title="math"
-                  af="mathml-9.xml tag-AFfile9.tex"
+                  af="mathml-9.xml source.tex"
                   xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                   Layout:Placement="Inline"
                  >
                  <AssociatedFile name="mathml-9.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
                  <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑋</mi> <mo lspace="0.278em" rspace="0.278em" stretchy="false">←</mo> <mi>𝑥</mi> </math>
                  </AssociatedFile>
-                 <AssociatedFile name="tag-AFfile9.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                 <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
                  $X \leftarrow x$
                  </AssociatedFile>
                 <?MarkedContent page="1" ?>𝑋←𝑥
@@ -431,39 +368,33 @@
             </itembody>
            </item>
            <item xmlns="https://www.latex-project.org/ns/dflt"
-              id="ID.0068"
               rolemaps-to="LI"
              >
             <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
-               id="ID.0069"
                rolemaps-to="Lbl"
               >
             </itemlabel>
             <itembody xmlns="https://www.latex-project.org/ns/dflt"
-               id="ID.0070"
                rolemaps-to="LBody"
               >
              <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-                id="ID.0071"
                 rolemaps-to="Part"
                >
               <text-block xmlns="https://www.latex-project.org/ns/dflt"
-                 id="ID.0072"
                  xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                  Layout:TextAlign="Justify"
                  rolemaps-to="P"
                 >
                <Formula xmlns="http://iso.org/pdf2/ssn"
-                  id="ID.0073"
                   title="math"
-                  af="mathml-10.xml tag-AFfile10.tex"
+                  af="mathml-10.xml source.tex"
                   xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                   Layout:Placement="Inline"
                  >
                  <AssociatedFile name="mathml-10.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
                  <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑁</mi> <mo lspace="0.278em" rspace="0.278em" stretchy="false">←</mo> <mi>𝑛</mi> </math>
                  </AssociatedFile>
-                 <AssociatedFile name="tag-AFfile10.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                 <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
                  $N \leftarrow n$
                  </AssociatedFile>
                 <?MarkedContent page="1" ?>𝑁←𝑛
@@ -477,24 +408,19 @@
         </itembody>
        </item>
        <item xmlns="https://www.latex-project.org/ns/dflt"
-          id="ID.0074"
           rolemaps-to="LI"
          >
         <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
-           id="ID.0075"
            rolemaps-to="Lbl"
           >
         </itemlabel>
         <itembody xmlns="https://www.latex-project.org/ns/dflt"
-           id="ID.0076"
            rolemaps-to="LBody"
           >
          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-            id="ID.0077"
             rolemaps-to="Part"
            >
           <text-block xmlns="https://www.latex-project.org/ns/dflt"
-             id="ID.0078"
              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
              Layout:TextAlign="Justify"
              rolemaps-to="P"
@@ -505,40 +431,34 @@
         </itembody>
        </item>
        <item xmlns="https://www.latex-project.org/ns/dflt"
-          id="ID.0079"
           rolemaps-to="LI"
          >
         <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
-           id="ID.0080"
            rolemaps-to="Lbl"
           >
         </itemlabel>
         <itembody xmlns="https://www.latex-project.org/ns/dflt"
-           id="ID.0081"
            rolemaps-to="LBody"
           >
          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-            id="ID.0082"
             rolemaps-to="Part"
            >
           <text-block xmlns="https://www.latex-project.org/ns/dflt"
-             id="ID.0083"
              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
              Layout:TextAlign="Justify"
              rolemaps-to="P"
             >
            <?MarkedContent page="1" ?>while 
            <Formula xmlns="http://iso.org/pdf2/ssn"
-              id="ID.0084"
               title="math"
-              af="mathml-11.xml tag-AFfile11.tex"
+              af="mathml-11.xml source.tex"
               xmlns:Layout="http://iso.org/pdf/ssn/Layout"
               Layout:Placement="Inline"
              >
              <AssociatedFile name="mathml-11.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
              <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑁</mi> <mo lspace="0.278em" rspace="0.278em">≠</mo> <mn>0</mn> </math>
              </AssociatedFile>
-             <AssociatedFile name="tag-AFfile11.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+             <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
              $N \neq 0$
              </AssociatedFile>
             <?MarkedContent page="1" ?>𝑁≠0
@@ -546,46 +466,39 @@
            <?MarkedContent page="1" ?> do
           </text-block>
           <list xmlns="https://www.latex-project.org/ns/dflt"
-             id="ID.0085"
              xmlns:List="http://iso.org/pdf/ssn/List"
              List:ListNumbering="Unordered"
              rolemaps-to="L"
             >
            <item xmlns="https://www.latex-project.org/ns/dflt"
-              id="ID.0086"
               rolemaps-to="LI"
              >
             <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
-               id="ID.0087"
                rolemaps-to="Lbl"
               >
             </itemlabel>
             <itembody xmlns="https://www.latex-project.org/ns/dflt"
-               id="ID.0088"
                rolemaps-to="LBody"
               >
              <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-                id="ID.0089"
                 rolemaps-to="Part"
                >
               <text-block xmlns="https://www.latex-project.org/ns/dflt"
-                 id="ID.0090"
                  xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                  Layout:TextAlign="Justify"
                  rolemaps-to="P"
                 >
                <?MarkedContent page="1" ?>if 
                <Formula xmlns="http://iso.org/pdf2/ssn"
-                  id="ID.0091"
                   title="math"
-                  af="mathml-12.xml tag-AFfile12.tex"
+                  af="mathml-12.xml source.tex"
                   xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                   Layout:Placement="Inline"
                  >
                  <AssociatedFile name="mathml-12.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
                  <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑁</mi> </math>
                  </AssociatedFile>
-                 <AssociatedFile name="tag-AFfile12.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                 <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
                  $N$
                  </AssociatedFile>
                 <?MarkedContent page="1" ?>𝑁
@@ -593,45 +506,38 @@
                <?MarkedContent page="1" ?> is even then
               </text-block>
               <list xmlns="https://www.latex-project.org/ns/dflt"
-                 id="ID.0092"
                  xmlns:List="http://iso.org/pdf/ssn/List"
                  List:ListNumbering="Unordered"
                  rolemaps-to="L"
                 >
                <item xmlns="https://www.latex-project.org/ns/dflt"
-                  id="ID.0093"
                   rolemaps-to="LI"
                  >
                 <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
-                   id="ID.0094"
                    rolemaps-to="Lbl"
                   >
                 </itemlabel>
                 <itembody xmlns="https://www.latex-project.org/ns/dflt"
-                   id="ID.0095"
                    rolemaps-to="LBody"
                   >
                  <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-                    id="ID.0096"
                     rolemaps-to="Part"
                    >
                   <text-block xmlns="https://www.latex-project.org/ns/dflt"
-                     id="ID.0097"
                      xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                      Layout:TextAlign="Justify"
                      rolemaps-to="P"
                     >
                    <Formula xmlns="http://iso.org/pdf2/ssn"
-                      id="ID.0098"
                       title="math"
-                      af="mathml-13.xml tag-AFfile13.tex"
+                      af="mathml-13.xml source.tex"
                       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                       Layout:Placement="Inline"
                      >
                      <AssociatedFile name="mathml-13.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
                      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑋</mi> <mo lspace="0.278em" rspace="0.278em" stretchy="false">←</mo> <mi>𝑋</mi> <mo lspace="0.222em" rspace="0.222em">×</mo> <mi>𝑋</mi> </math>
                      </AssociatedFile>
-                     <AssociatedFile name="tag-AFfile13.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
                      $X \leftarrow X \times X$
                      </AssociatedFile>
                     <?MarkedContent page="1" ?>𝑋←𝑋×𝑋
@@ -641,39 +547,33 @@
                 </itembody>
                </item>
                <item xmlns="https://www.latex-project.org/ns/dflt"
-                  id="ID.0099"
                   rolemaps-to="LI"
                  >
                 <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
-                   id="ID.0100"
                    rolemaps-to="Lbl"
                   >
                 </itemlabel>
                 <itembody xmlns="https://www.latex-project.org/ns/dflt"
-                   id="ID.0101"
                    rolemaps-to="LBody"
                   >
                  <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-                    id="ID.0102"
                     rolemaps-to="Part"
                    >
                   <text-block xmlns="https://www.latex-project.org/ns/dflt"
-                     id="ID.0103"
                      xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                      Layout:TextAlign="Justify"
                      rolemaps-to="P"
                     >
                    <Formula xmlns="http://iso.org/pdf2/ssn"
-                      id="ID.0104"
                       title="math"
-                      af="mathml-14.xml tag-AFfile14.tex"
+                      af="mathml-14.xml source.tex"
                       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                       Layout:Placement="Inline"
                      >
                      <AssociatedFile name="mathml-14.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
                      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑁</mi> <mo lspace="0.278em" rspace="0.278em" stretchy="false">←</mo> <mi>𝑁</mi> <mo lspace="0" rspace="0">/</mo> <mn>2</mn> </math>
                      </AssociatedFile>
-                     <AssociatedFile name="tag-AFfile14.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
                      $N \leftarrow N / 2$
                      </AssociatedFile>
                     <?MarkedContent page="1" ?>𝑁←𝑁/2
@@ -687,40 +587,34 @@
             </itembody>
            </item>
            <item xmlns="https://www.latex-project.org/ns/dflt"
-              id="ID.0105"
               rolemaps-to="LI"
              >
             <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
-               id="ID.0106"
                rolemaps-to="Lbl"
               >
             </itemlabel>
             <itembody xmlns="https://www.latex-project.org/ns/dflt"
-               id="ID.0107"
                rolemaps-to="LBody"
               >
              <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-                id="ID.0108"
                 rolemaps-to="Part"
                >
               <text-block xmlns="https://www.latex-project.org/ns/dflt"
-                 id="ID.0109"
                  xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                  Layout:TextAlign="Justify"
                  rolemaps-to="P"
                 >
                <?MarkedContent page="1" ?>else {
                <Formula xmlns="http://iso.org/pdf2/ssn"
-                  id="ID.0110"
                   title="math"
-                  af="mathml-12.xml tag-AFfile15.tex"
+                  af="mathml-12.xml source.tex"
                   xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                   Layout:Placement="Inline"
                  >
                  <AssociatedFile name="mathml-12.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
                  <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑁</mi> </math>
                  </AssociatedFile>
-                 <AssociatedFile name="tag-AFfile15.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                 <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
                  $N$
                  </AssociatedFile>
                 <?MarkedContent page="1" ?>𝑁
@@ -728,45 +622,38 @@
                <?MarkedContent page="1" ?> is odd}
               </text-block>
               <list xmlns="https://www.latex-project.org/ns/dflt"
-                 id="ID.0111"
                  xmlns:List="http://iso.org/pdf/ssn/List"
                  List:ListNumbering="Unordered"
                  rolemaps-to="L"
                 >
                <item xmlns="https://www.latex-project.org/ns/dflt"
-                  id="ID.0112"
                   rolemaps-to="LI"
                  >
                 <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
-                   id="ID.0113"
                    rolemaps-to="Lbl"
                   >
                 </itemlabel>
                 <itembody xmlns="https://www.latex-project.org/ns/dflt"
-                   id="ID.0114"
                    rolemaps-to="LBody"
                   >
                  <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-                    id="ID.0115"
                     rolemaps-to="Part"
                    >
                   <text-block xmlns="https://www.latex-project.org/ns/dflt"
-                     id="ID.0116"
                      xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                      Layout:TextAlign="Justify"
                      rolemaps-to="P"
                     >
                    <Formula xmlns="http://iso.org/pdf2/ssn"
-                      id="ID.0117"
                       title="math"
-                      af="mathml-16.xml tag-AFfile16.tex"
+                      af="mathml-16.xml source.tex"
                       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                       Layout:Placement="Inline"
                      >
                      <AssociatedFile name="mathml-16.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
                      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑦</mi> <mo lspace="0.278em" rspace="0.278em" stretchy="false">←</mo> <mi>𝑦</mi> <mo lspace="0.222em" rspace="0.222em">×</mo> <mi>𝑋</mi> </math>
                      </AssociatedFile>
-                     <AssociatedFile name="tag-AFfile16.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
                      $y \leftarrow y \times X$
                      </AssociatedFile>
                     <?MarkedContent page="1" ?>𝑦←𝑦×𝑋
@@ -776,39 +663,33 @@
                 </itembody>
                </item>
                <item xmlns="https://www.latex-project.org/ns/dflt"
-                  id="ID.0118"
                   rolemaps-to="LI"
                  >
                 <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
-                   id="ID.0119"
                    rolemaps-to="Lbl"
                   >
                 </itemlabel>
                 <itembody xmlns="https://www.latex-project.org/ns/dflt"
-                   id="ID.0120"
                    rolemaps-to="LBody"
                   >
                  <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-                    id="ID.0121"
                     rolemaps-to="Part"
                    >
                   <text-block xmlns="https://www.latex-project.org/ns/dflt"
-                     id="ID.0122"
                      xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                      Layout:TextAlign="Justify"
                      rolemaps-to="P"
                     >
                    <Formula xmlns="http://iso.org/pdf2/ssn"
-                      id="ID.0123"
                       title="math"
-                      af="mathml-17.xml tag-AFfile17.tex"
+                      af="mathml-17.xml source.tex"
                       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                       Layout:Placement="Inline"
                      >
                      <AssociatedFile name="mathml-17.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
                      <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑁</mi> <mo lspace="0.278em" rspace="0.278em" stretchy="false">←</mo> <mi>𝑁</mi> <mo lspace="0.222em" rspace="0.222em">−</mo> <mn>1</mn> </math>
                      </AssociatedFile>
-                     <AssociatedFile name="tag-AFfile17.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                     <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
                      $N \leftarrow N - 1$
                      </AssociatedFile>
                     <?MarkedContent page="1" ?>𝑁←𝑁−1
@@ -822,24 +703,19 @@
             </itembody>
            </item>
            <item xmlns="https://www.latex-project.org/ns/dflt"
-              id="ID.0124"
               rolemaps-to="LI"
              >
             <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
-               id="ID.0125"
                rolemaps-to="Lbl"
               >
             </itemlabel>
             <itembody xmlns="https://www.latex-project.org/ns/dflt"
-               id="ID.0126"
                rolemaps-to="LBody"
               >
              <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-                id="ID.0127"
                 rolemaps-to="Part"
                >
               <text-block xmlns="https://www.latex-project.org/ns/dflt"
-                 id="ID.0128"
                  xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                  Layout:TextAlign="Justify"
                  rolemaps-to="P"
@@ -854,24 +730,19 @@
         </itembody>
        </item>
        <item xmlns="https://www.latex-project.org/ns/dflt"
-          id="ID.0129"
           rolemaps-to="LI"
          >
         <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
-           id="ID.0130"
            rolemaps-to="Lbl"
           >
         </itemlabel>
         <itembody xmlns="https://www.latex-project.org/ns/dflt"
-           id="ID.0131"
            rolemaps-to="LBody"
           >
          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-            id="ID.0132"
             rolemaps-to="Part"
            >
           <text-block xmlns="https://www.latex-project.org/ns/dflt"
-             id="ID.0133"
              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
              Layout:TextAlign="Justify"
              rolemaps-to="P"

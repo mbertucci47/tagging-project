@@ -1,14 +1,11 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
-     id="ID.02"
     >
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.06"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.07"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -17,11 +14,9 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.08"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.09"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -30,7 +25,6 @@
      <?MarkedContent page="1" ?>lytic unity. As is proven in the onto
      <?MarkedContent page="1" ?>logical manuals, it is obvious that the transcendental unity of apperception proves the validity of the Antinomies; what we have alone been able to show is that, our understanding depends on the Categories. It remains a mystery why the Ideal stands in need of reason. It must not be supposed that our fac
      <?MarkedContent page="1" ?>ulties have lying before them, in the case of the Ideal, the Antinomies; so, the transcendental aesthetic is just as necessary as our experience. By means of the Ideal, our sense percep
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="2" ?>tions are by their very nature contra
      <?MarkedContent page="2" ?>dictory.
     </text-block>

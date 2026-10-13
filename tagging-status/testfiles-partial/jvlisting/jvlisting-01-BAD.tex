@@ -2,6 +2,7 @@
 def csum(iterable):
 return reduce(lambda res, x: res+[res[-1]+x], iterable, [0])[1:]
 \end{filecontents}
+\ifdefined\Uchar\RequirePackage{luatagging}\fi
 \DocumentMetadata{tagging=on}
 \documentclass{article} 
 \usepackage{jvlisting}

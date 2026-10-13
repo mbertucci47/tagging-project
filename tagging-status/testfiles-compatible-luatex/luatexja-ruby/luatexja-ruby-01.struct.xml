@@ -1,0 +1,289 @@
+<PDF version="2.0">
+ <StructTreeRoot>
+  <Document xmlns="http://iso.org/pdf2/ssn"
+    >
+   <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Part"
+     >
+    <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+       Layout:TextAlign="Justify"
+       rolemaps-to="P"
+      >
+     <Ruby xmlns="http://iso.org/pdf2/ssn"
+       >
+      <RB xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>本
+      </RB>
+      <RT xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>ほん
+      </RT>
+     </Ruby>
+    </text-block>
+   </semantic-para>
+   <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Part"
+     >
+    <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+       Layout:TextAlign="Justify"
+       rolemaps-to="P"
+      >
+     <Ruby xmlns="http://iso.org/pdf2/ssn"
+       >
+      <RB xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>鴎
+      </RB>
+      <RT xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>かもめ
+      </RT>
+     </Ruby>
+    </text-block>
+   </semantic-para>
+   <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Part"
+     >
+    <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+       Layout:TextAlign="Justify"
+       rolemaps-to="P"
+      >
+     <Ruby xmlns="http://iso.org/pdf2/ssn"
+       >
+      <RB xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>漢
+      </RB>
+      <RT xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>•
+      </RT>
+     </Ruby>
+     <Ruby xmlns="http://iso.org/pdf2/ssn"
+       >
+      <RB xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>字
+      </RB>
+      <RT xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>•
+      </RT>
+     </Ruby>
+     <Ruby xmlns="http://iso.org/pdf2/ssn"
+       >
+      <RB xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>使
+      </RB>
+      <RT xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>•
+      </RT>
+     </Ruby>
+     <Ruby xmlns="http://iso.org/pdf2/ssn"
+       >
+      <RB xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>⽤
+      </RB>
+      <RT xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>•
+      </RT>
+     </Ruby>
+     <Ruby xmlns="http://iso.org/pdf2/ssn"
+       >
+      <RB xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>の
+      </RB>
+      <RT xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>•
+      </RT>
+     </Ruby>
+     <Ruby xmlns="http://iso.org/pdf2/ssn"
+       >
+      <RB xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>⽬
+      </RB>
+      <RT xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>•
+      </RT>
+     </Ruby>
+     <Ruby xmlns="http://iso.org/pdf2/ssn"
+       >
+      <RB xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>安
+      </RB>
+      <RT xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>•
+      </RT>
+     </Ruby>
+     <Ruby xmlns="http://iso.org/pdf2/ssn"
+       >
+      <RB xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>を
+      </RB>
+      <RT xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>•
+      </RT>
+     </Ruby>
+     <Ruby xmlns="http://iso.org/pdf2/ssn"
+       >
+      <RB xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>⽰
+      </RB>
+      <RT xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>•
+      </RT>
+     </Ruby>
+     <Ruby xmlns="http://iso.org/pdf2/ssn"
+       >
+      <RB xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>す
+      </RB>
+      <RT xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>•
+      </RT>
+     </Ruby>
+    </text-block>
+   </semantic-para>
+   <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Part"
+     >
+    <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+       Layout:TextAlign="Justify"
+       rolemaps-to="P"
+      >
+     <Ruby xmlns="http://iso.org/pdf2/ssn"
+       >
+      <RB xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>現
+      </RB>
+      <RT xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>﹅
+      </RT>
+     </Ruby>
+     <Ruby xmlns="http://iso.org/pdf2/ssn"
+       >
+      <RB xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>代
+      </RB>
+      <RT xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>﹅
+      </RT>
+     </Ruby>
+     <Ruby xmlns="http://iso.org/pdf2/ssn"
+       >
+      <RB xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>の
+      </RB>
+      <RT xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>﹅
+      </RT>
+     </Ruby>
+     <Ruby xmlns="http://iso.org/pdf2/ssn"
+       >
+      <RB xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>国
+      </RB>
+      <RT xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>﹅
+      </RT>
+     </Ruby>
+     <Ruby xmlns="http://iso.org/pdf2/ssn"
+       >
+      <RB xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>語
+      </RB>
+      <RT xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>﹅
+      </RT>
+     </Ruby>
+     <Ruby xmlns="http://iso.org/pdf2/ssn"
+       >
+      <RB xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>を
+      </RB>
+      <RT xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>﹅
+      </RT>
+     </Ruby>
+     <Ruby xmlns="http://iso.org/pdf2/ssn"
+       >
+      <RB xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>書
+      </RB>
+      <RT xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>﹅
+      </RT>
+     </Ruby>
+     <Ruby xmlns="http://iso.org/pdf2/ssn"
+       >
+      <RB xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>き
+      </RB>
+      <RT xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>﹅
+      </RT>
+     </Ruby>
+     <Ruby xmlns="http://iso.org/pdf2/ssn"
+       >
+      <RB xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>表
+      </RB>
+      <RT xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>﹅
+      </RT>
+     </Ruby>
+     <Ruby xmlns="http://iso.org/pdf2/ssn"
+       >
+      <RB xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>す
+      </RB>
+      <RT xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>﹅
+      </RT>
+     </Ruby>
+    </text-block>
+   </semantic-para>
+  </Document>
+ </StructTreeRoot>
+</PDF>

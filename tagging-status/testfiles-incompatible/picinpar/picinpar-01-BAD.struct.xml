@@ -1,14 +1,11 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
-     id="ID.02"
     >
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.06"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.07"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -20,7 +17,6 @@
      <?MarkedContent page="1" ?>Ausgaben Lösungsvorschläge: Einer von DEK persönlich, der andere von Alan
      <?MarkedContent page="1" ?>Hoenig. Der letztgenannte brachte die elegantere Lösung, die keine manuellen
      <?MarkedContent page="1" ?>Korrekturen mehr notwendig machte. Sein Makro verlangte lediglich in den Pa
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>rametern Informationen über die Breite und Höhe der freizulassenden Stelle im
      <?MarkedContent page="1" ?>Paragraphen. Die Einzüge und der Satz der Fragmente des Abschnitts erfolgten
      <?MarkedContent page="1" ?>automatisch.

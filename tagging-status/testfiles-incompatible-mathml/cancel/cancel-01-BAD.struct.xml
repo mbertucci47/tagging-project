@@ -1,30 +1,26 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
-     id="ID.002"
     >
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.006"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.007"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>text [TEXT]
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.008"
         title="math"
-        af="mathml-1.xml tag-AFfile1.tex"
+        af="mathml-1.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mtext>�</mtext> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile1.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\cancel {\sum }$
        </AssociatedFile>
       <?MarkedContent page="1" ?>[TEXT]
@@ -32,27 +28,24 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.009"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.010"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>text [TEXT]
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.011"
         title="math"
-        af="mathml-2.xml tag-AFfile2.tex"
+        af="mathml-2.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mtext>�</mtext> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile2.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\bcancel {\sum }$
        </AssociatedFile>
       <?MarkedContent page="1" ?>[TEXT]
@@ -60,27 +53,24 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.012"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.013"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>text [TEXT]
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.014"
         title="math"
-        af="mathml-3.xml tag-AFfile3.tex"
+        af="mathml-3.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mtext>�</mtext> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile3.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\xcancel {\sum }$
        </AssociatedFile>
       <?MarkedContent page="1" ?>[TEXT]
@@ -88,26 +78,23 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      id="ID.015"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-       id="ID.016"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <Formula xmlns="http://iso.org/pdf2/ssn"
-        id="ID.017"
         title="math"
-        af="mathml-4.xml tag-AFfile4.tex"
+        af="mathml-4.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mtext>�</mtext> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile4.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\cancelto {A}{\sum }$
        </AssociatedFile>
       <?MarkedContent page="1" ?>[TEXT]
