@@ -58,6 +58,7 @@
          Layout:TextAlign="Justify"
          rolemaps-to="H2"
         >
+       <?MarkedContent page="1" ?>
        <heading-number xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
@@ -84,6 +85,7 @@
           Layout:TextAlign="Justify"
           rolemaps-to="H3"
          >
+        <?MarkedContent page="1" ?>
         <heading-number xmlns="https://www.latex-project.org/ns/dflt"
            rolemaps-to="Lbl"
           >
