@@ -255,7 +255,7 @@
            >
           <?MarkedContent page="1" ?>I
          </heading-number>
-         <?MarkedContent page="1" ?> 
+         <?MarkedContent page="1" ?>  
          <?MarkedContent page="1" ?>Heading on level 1 (section)
         </section-heading>
         <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -281,7 +281,7 @@
             >
            <?MarkedContent page="1" ?>A
           </heading-number>
-          <?MarkedContent page="1" ?> 
+          <?MarkedContent page="1" ?>  
           <?MarkedContent page="1" ?>Heading on level 2 (subsection)
          </subsection-heading>
          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -307,7 +307,7 @@
              >
             <?MarkedContent page="1" ?>1
            </heading-number>
-           <?MarkedContent page="1" ?> 
+           <?MarkedContent page="1" ?>  
            <?MarkedContent page="1" ?>Heading on level 3 (subsubsection)
           </subsubsection-heading>
           <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -329,12 +329,12 @@
               Layout:TextAlign="Justify"
               rolemaps-to="H4"
              >
-            <?MarkedContent page="2" ?> 
             <heading-number xmlns="https://www.latex-project.org/ns/dflt"
                rolemaps-to="Lbl"
               >
              <?MarkedContent page="2" ?>a
             </heading-number>
+            <?MarkedContent page="2" ?>  
             <?MarkedContent page="2" ?>Heading on level 4 (paragraph)
            </paragraph-heading>
            <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -364,7 +364,7 @@
            >
           <?MarkedContent page="2" ?>II
          </heading-number>
-         <?MarkedContent page="2" ?> 
+         <?MarkedContent page="2" ?>  
          <?MarkedContent page="2" ?>Lists
         </section-heading>
         <subsection xmlns="https://www.latex-project.org/ns/dflt"
@@ -379,7 +379,7 @@
             >
            <?MarkedContent page="2" ?>A
           </heading-number>
-          <?MarkedContent page="2" ?> 
+          <?MarkedContent page="2" ?>  
           <?MarkedContent page="2" ?>Example for list (itemize)
          </subsection-heading>
          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -524,7 +524,7 @@
              >
             <?MarkedContent page="2" ?>1
            </heading-number>
-           <?MarkedContent page="2" ?> 
+           <?MarkedContent page="2" ?>  
            <?MarkedContent page="2" ?>Example for list (4*itemize)
           </subsubsection-heading>
           <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -761,7 +761,7 @@
             >
            <?MarkedContent page="2" ?>B
           </heading-number>
-          <?MarkedContent page="2" ?> 
+          <?MarkedContent page="2" ?>  
           <?MarkedContent page="2" ?>Example for list (enumerate)
          </subsection-heading>
          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -906,7 +906,7 @@
              >
             <?MarkedContent page="2" ?>1
            </heading-number>
-           <?MarkedContent page="2" ?> 
+           <?MarkedContent page="2" ?>  
            <?MarkedContent page="2" ?>Example for list (4*enumerate)
           </subsubsection-heading>
           <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1143,7 +1143,7 @@
             >
            <?MarkedContent page="3" ?>C
           </heading-number>
-          <?MarkedContent page="3" ?> 
+          <?MarkedContent page="3" ?>  
           <?MarkedContent page="3" ?>Example for list (description)
          </subsection-heading>
          <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1288,7 +1288,7 @@
              >
             <?MarkedContent page="3" ?>1
            </heading-number>
-           <?MarkedContent page="3" ?> 
+           <?MarkedContent page="3" ?>  
            <?MarkedContent page="3" ?>Example for list (4*description)
           </subsubsection-heading>
           <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

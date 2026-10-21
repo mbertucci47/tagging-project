@@ -172,7 +172,7 @@
        referenced-as="2"
       >
      <?MarkedContent page="3" ?>Chapter
-     <?MarkedContent page="3" ?> 
+     <?MarkedContent page="3" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >
@@ -194,9 +194,9 @@
     <section xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Sect"
       >
-     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+     <section-heading xmlns="https://www.latex-project.org/ns/book"
         title="Heading on level1 (section)"
-        rolemaps-to="H1"
+        rolemaps-to="H2"
         referenced-as="3"
        >
       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -204,7 +204,7 @@
         >
        <?MarkedContent page="3" ?>1.1
       </heading-number>
-      <?MarkedContent page="3" ?> 
+      <?MarkedContent page="3" ?>  
       <?MarkedContent page="3" ?>Heading on level 1 (section)
      </section-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -221,9 +221,9 @@
      <subsection xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Sect"
        >
-      <subsection-heading xmlns="https://www.latex-project.org/ns/dflt"
+      <subsection-heading xmlns="https://www.latex-project.org/ns/book"
          title="Heading on level2 (subsection)"
-         rolemaps-to="H2"
+         rolemaps-to="H3"
          referenced-as="4"
         >
        <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -231,7 +231,7 @@
          >
         <?MarkedContent page="3" ?>1.1.1
        </heading-number>
-       <?MarkedContent page="3" ?> 
+       <?MarkedContent page="3" ?>  
        <?MarkedContent page="3" ?>Heading on level 2 (subsection)
       </subsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -249,9 +249,9 @@
       <subsubsection xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Sect"
         >
-       <subsubsection-heading xmlns="https://www.latex-project.org/ns/dflt"
+       <subsubsection-heading xmlns="https://www.latex-project.org/ns/book"
           title="Heading on level3 (subsubsection)"
-          rolemaps-to="H3"
+          rolemaps-to="H4"
          >
         <?MarkedContent page="4" ?>Heading on level 3 (subsubsection)
        </subsubsection-heading>
@@ -269,10 +269,10 @@
        <paragraph xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Sect"
          >
-        <paragraph-heading xmlns="https://www.latex-project.org/ns/dflt"
+        <paragraph-heading xmlns="https://www.latex-project.org/ns/book"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:TextAlign="Justify"
-           rolemaps-to="H4"
+           rolemaps-to="H5"
           >
          <?MarkedContent page="4" ?>Heading on level 4 (paragraph)
         </paragraph-heading>
@@ -297,9 +297,9 @@
     <section xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Sect"
       >
-     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+     <section-heading xmlns="https://www.latex-project.org/ns/book"
         title="Lists"
-        rolemaps-to="H1"
+        rolemaps-to="H2"
         referenced-as="5"
        >
       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -307,15 +307,15 @@
         >
        <?MarkedContent page="4" ?>1.2
       </heading-number>
-      <?MarkedContent page="4" ?> 
+      <?MarkedContent page="4" ?>  
       <?MarkedContent page="4" ?>Lists
      </section-heading>
      <subsection xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Sect"
        >
-      <subsection-heading xmlns="https://www.latex-project.org/ns/dflt"
+      <subsection-heading xmlns="https://www.latex-project.org/ns/book"
          title="Example for list(itemize)"
-         rolemaps-to="H2"
+         rolemaps-to="H3"
          referenced-as="6"
         >
        <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -323,7 +323,7 @@
          >
         <?MarkedContent page="4" ?>1.2.1
        </heading-number>
-       <?MarkedContent page="4" ?> 
+       <?MarkedContent page="4" ?>  
        <?MarkedContent page="4" ?>Example for list (itemize)
       </subsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -459,9 +459,9 @@
       <subsubsection xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Sect"
         >
-       <subsubsection-heading xmlns="https://www.latex-project.org/ns/dflt"
+       <subsubsection-heading xmlns="https://www.latex-project.org/ns/book"
           title="Example for list(4*itemize)"
-          rolemaps-to="H3"
+          rolemaps-to="H4"
          >
         <?MarkedContent page="5" ?>Example for list (4*itemize)
        </subsubsection-heading>
@@ -690,9 +690,9 @@
      <subsection xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Sect"
        >
-      <subsection-heading xmlns="https://www.latex-project.org/ns/dflt"
+      <subsection-heading xmlns="https://www.latex-project.org/ns/book"
          title="Example for list(enumerate)"
-         rolemaps-to="H2"
+         rolemaps-to="H3"
          referenced-as="7"
         >
        <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -700,7 +700,7 @@
          >
         <?MarkedContent page="5" ?>1.2.2
        </heading-number>
-       <?MarkedContent page="5" ?> 
+       <?MarkedContent page="5" ?>  
        <?MarkedContent page="5" ?>Example for list (enumerate)
       </subsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -836,9 +836,9 @@
       <subsubsection xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Sect"
         >
-       <subsubsection-heading xmlns="https://www.latex-project.org/ns/dflt"
+       <subsubsection-heading xmlns="https://www.latex-project.org/ns/book"
           title="Example for list(4*enumerate)"
-          rolemaps-to="H3"
+          rolemaps-to="H4"
          >
         <?MarkedContent page="5" ?>Example for list (4*enumerate)
        </subsubsection-heading>
@@ -1067,9 +1067,9 @@
      <subsection xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Sect"
        >
-      <subsection-heading xmlns="https://www.latex-project.org/ns/dflt"
+      <subsection-heading xmlns="https://www.latex-project.org/ns/book"
          title="Example for list(description)"
-         rolemaps-to="H2"
+         rolemaps-to="H3"
          referenced-as="8"
         >
        <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -1077,7 +1077,7 @@
          >
         <?MarkedContent page="5" ?>1.2.3
        </heading-number>
-       <?MarkedContent page="5" ?> 
+       <?MarkedContent page="5" ?>  
        <?MarkedContent page="5" ?>Example for list (description)
       </subsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1213,9 +1213,9 @@
       <subsubsection xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Sect"
         >
-       <subsubsection-heading xmlns="https://www.latex-project.org/ns/dflt"
+       <subsubsection-heading xmlns="https://www.latex-project.org/ns/book"
           title="Example for list(4*description)"
-          rolemaps-to="H3"
+          rolemaps-to="H4"
          >
         <?MarkedContent page="6" ?>Example for list (4*description)
        </subsubsection-heading>

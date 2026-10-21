@@ -29,7 +29,7 @@
       <?MarkedContent page="1" ?>1
       <?ReferencedObject type="Annot" page="1" ?>
      </Link>
-     <?MarkedContent page="1" ?> Lorem] Acritical note
+     <?MarkedContent page="1" ?> Lorem] A critical note
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -175,7 +175,7 @@
       <?MarkedContent page="1" ?>4
       <?ReferencedObject type="Annot" page="1" ?>
      </Link>
-     <?MarkedContent page="1" ?> Fusce…mi] Along critical note
+     <?MarkedContent page="1" ?> Fusce…mi] A long critical note
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

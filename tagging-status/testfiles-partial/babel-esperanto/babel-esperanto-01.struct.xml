@@ -14,7 +14,7 @@
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Alfabetoj
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -48,7 +48,7 @@
         >
        <?MarkedContent page="1" ?>1.1
       </heading-number>
-      <?MarkedContent page="1" ?> 
+      <?MarkedContent page="1" ?>  
       <?MarkedContent page="1" ?>LaTeX
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -86,7 +86,7 @@
         >
        <?MarkedContent page="1" ?>1.2
       </heading-number>
-      <?MarkedContent page="1" ?> 
+      <?MarkedContent page="1" ?>  
       <?MarkedContent page="1" ?>Babel
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -124,7 +124,7 @@
         >
        <?MarkedContent page="1" ?>1.3
       </heading-number>
-      <?MarkedContent page="1" ?> 
+      <?MarkedContent page="1" ?>  
       <?MarkedContent page="1" ?>Unicode
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -163,7 +163,7 @@
        >
       <?MarkedContent page="1" ?>2
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Dato kaj Horo
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

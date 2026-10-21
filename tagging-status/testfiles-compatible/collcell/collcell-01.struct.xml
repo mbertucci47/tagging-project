@@ -17,7 +17,7 @@
        >
       <TD xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>Aand B
+       <?MarkedContent page="1" ?>A and B
       </TD>
       <TD xmlns="http://iso.org/pdf2/ssn"
         >
@@ -28,7 +28,7 @@
        >
       <TD xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>Cand D
+       <?MarkedContent page="1" ?>C and D
       </TD>
       <TD xmlns="http://iso.org/pdf2/ssn"
         >
@@ -80,7 +80,7 @@
        >
       <TD xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>Aand B
+       <?MarkedContent page="1" ?>A and B
       </TD>
       <TD xmlns="http://iso.org/pdf2/ssn"
         >
@@ -91,7 +91,7 @@
        >
       <TD xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>Cand D
+       <?MarkedContent page="1" ?>C and D
       </TD>
       <TD xmlns="http://iso.org/pdf2/ssn"
         >

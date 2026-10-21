@@ -183,9 +183,9 @@
     <section xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Sect"
       >
-     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+     <section-heading xmlns="https://www.latex-project.org/ns/book"
         title="Introduction"
-        rolemaps-to="H1"
+        rolemaps-to="H2"
         referenced-as="1"
        >
       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -193,7 +193,7 @@
         >
        <?MarkedContent page="6" ?>0.1
       </heading-number>
-      <?MarkedContent page="6" ?> 
+      <?MarkedContent page="6" ?>  
       <?MarkedContent page="6" ?>Introduction
       <?MarkedContent page="6" ?>
       <?MarkedContent page="7" ?>
@@ -209,7 +209,7 @@
        referenced-as="2"
       >
      <?MarkedContent page="7" ?>Chapter
-     <?MarkedContent page="7" ?> 
+     <?MarkedContent page="7" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >
@@ -220,9 +220,9 @@
     <section xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Sect"
       >
-     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+     <section-heading xmlns="https://www.latex-project.org/ns/book"
         title="Topic A"
-        rolemaps-to="H1"
+        rolemaps-to="H2"
         referenced-as="3"
        >
       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -230,7 +230,7 @@
         >
        <?MarkedContent page="7" ?>1.1
       </heading-number>
-      <?MarkedContent page="7" ?> 
+      <?MarkedContent page="7" ?>  
       <?MarkedContent page="7" ?>Topic A
      </section-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -248,9 +248,9 @@
     <section xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Sect"
       >
-     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+     <section-heading xmlns="https://www.latex-project.org/ns/book"
         title="Topic A"
-        rolemaps-to="H1"
+        rolemaps-to="H2"
         referenced-as="4"
        >
       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -258,7 +258,7 @@
         >
        <?MarkedContent page="7" ?>1.2
       </heading-number>
-      <?MarkedContent page="7" ?> 
+      <?MarkedContent page="7" ?>  
       <?MarkedContent page="7" ?>Topic A
      </section-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -276,9 +276,9 @@
     <section xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Sect"
       >
-     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+     <section-heading xmlns="https://www.latex-project.org/ns/book"
         title="Topic B"
-        rolemaps-to="H1"
+        rolemaps-to="H2"
         referenced-as="5"
        >
       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -286,7 +286,7 @@
         >
        <?MarkedContent page="7" ?>1.3
       </heading-number>
-      <?MarkedContent page="7" ?> 
+      <?MarkedContent page="7" ?>  
       <?MarkedContent page="7" ?>Topic B
      </section-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

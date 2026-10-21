@@ -1031,7 +1031,7 @@
        referenced-as="5"
       >
      <?MarkedContent page="9" ?>Chapter
-     <?MarkedContent page="9" ?> 
+     <?MarkedContent page="9" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >
@@ -1084,9 +1084,9 @@
     <section xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Sect"
       >
-     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+     <section-heading xmlns="https://www.latex-project.org/ns/book"
         title="A section discussing the first issue: $J/\psi $"
-        rolemaps-to="H1"
+        rolemaps-to="H2"
         referenced-as="6"
        >
       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -1094,7 +1094,7 @@
         >
        <?MarkedContent page="9" ?>1.1
       </heading-number>
-      <?MarkedContent page="9" ?> 
+      <?MarkedContent page="9" ?>  
       <?MarkedContent page="9" ?>A section discussing the first issue: 
       <Formula xmlns="http://iso.org/pdf2/ssn"
          title="math"
@@ -1236,9 +1236,9 @@
      <subsection xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Sect"
        >
-      <subsection-heading xmlns="https://www.latex-project.org/ns/dflt"
+      <subsection-heading xmlns="https://www.latex-project.org/ns/book"
          title="Subsection eqn. (1.2)"
-         rolemaps-to="H2"
+         rolemaps-to="H3"
          referenced-as="7"
         >
        <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -1246,7 +1246,7 @@
          >
         <?MarkedContent page="10" ?>1.1.1
        </heading-number>
-       <?MarkedContent page="10" ?> 
+       <?MarkedContent page="10" ?>  
        <?MarkedContent page="10" ?>Subsection eqn. (
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
@@ -1281,9 +1281,9 @@
       <subsubsection xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Sect"
         >
-       <subsubsection-heading xmlns="https://www.latex-project.org/ns/dflt"
+       <subsubsection-heading xmlns="https://www.latex-project.org/ns/book"
           title="A subsubsection"
-          rolemaps-to="H3"
+          rolemaps-to="H4"
          >
         <?MarkedContent page="11" ?>A subsubsection
        </subsubsection-heading>
@@ -1323,9 +1323,9 @@
     <section xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Sect"
       >
-     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+     <section-heading xmlns="https://www.latex-project.org/ns/book"
         title="Description our paradigm"
-        rolemaps-to="H1"
+        rolemaps-to="H2"
         referenced-as="8"
        >
       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -1333,7 +1333,7 @@
         >
        <?MarkedContent page="11" ?>1.2
       </heading-number>
-      <?MarkedContent page="11" ?> 
+      <?MarkedContent page="11" ?>  
       <?MarkedContent page="11" ?>Description our paradigm
      </section-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1540,9 +1540,9 @@
      <subsection xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Sect"
        >
-      <subsection-heading xmlns="https://www.latex-project.org/ns/dflt"
+      <subsection-heading xmlns="https://www.latex-project.org/ns/book"
          title="Conversion to a metaheuristic"
-         rolemaps-to="H2"
+         rolemaps-to="H3"
          referenced-as="9"
         >
        <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -1550,7 +1550,7 @@
          >
         <?MarkedContent page="12" ?>1.2.1
        </heading-number>
-       <?MarkedContent page="12" ?> 
+       <?MarkedContent page="12" ?>  
        <?MarkedContent page="12" ?>Conversion to a metaheuristic
       </subsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1606,9 +1606,9 @@
     <section xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Sect"
       >
-     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+     <section-heading xmlns="https://www.latex-project.org/ns/book"
         title="Other generalizations"
-        rolemaps-to="H1"
+        rolemaps-to="H2"
         referenced-as="10"
        >
       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -1616,15 +1616,15 @@
         >
        <?MarkedContent page="12" ?>1.3
       </heading-number>
-      <?MarkedContent page="12" ?> 
+      <?MarkedContent page="12" ?>  
       <?MarkedContent page="12" ?>Other generalizations
      </section-heading>
      <subsection xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Sect"
        >
-      <subsection-heading xmlns="https://www.latex-project.org/ns/dflt"
+      <subsection-heading xmlns="https://www.latex-project.org/ns/book"
          title="The most general case"
-         rolemaps-to="H2"
+         rolemaps-to="H3"
          referenced-as="11"
         >
        <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -1632,7 +1632,7 @@
          >
         <?MarkedContent page="12" ?>1.3.1
        </heading-number>
-       <?MarkedContent page="12" ?> 
+       <?MarkedContent page="12" ?>  
        <?MarkedContent page="12" ?>The most general case
       </subsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1661,9 +1661,9 @@
     <section xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Sect"
       >
-     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+     <section-heading xmlns="https://www.latex-project.org/ns/book"
         title="Baroclinic generation of vorticity"
-        rolemaps-to="H1"
+        rolemaps-to="H2"
         referenced-as="12"
        >
       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -1671,7 +1671,7 @@
         >
        <?MarkedContent page="13" ?>1.4
       </heading-number>
-      <?MarkedContent page="13" ?> 
+      <?MarkedContent page="13" ?>  
       <?MarkedContent page="13" ?>Baroclinic generation of vorticity
      </section-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1736,9 +1736,9 @@
     <section xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Sect"
       >
-     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+     <section-heading xmlns="https://www.latex-project.org/ns/book"
         title="Nomenclature for Chapter 1"
-        rolemaps-to="H1"
+        rolemaps-to="H2"
         referenced-as="13"
        >
       <?MarkedContent page="13" ?>Nomenclature for Chapter 1
@@ -2073,7 +2073,7 @@
        referenced-as="14"
       >
      <?MarkedContent page="15" ?>Appendix
-     <?MarkedContent page="15" ?> 
+     <?MarkedContent page="15" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >
@@ -2084,9 +2084,9 @@
     <section xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Sect"
       >
-     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+     <section-heading xmlns="https://www.latex-project.org/ns/book"
         title="A multipage table of numbers"
-        rolemaps-to="H1"
+        rolemaps-to="H2"
         referenced-as="15"
        >
       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -2094,7 +2094,7 @@
         >
        <?MarkedContent page="15" ?>A.1
       </heading-number>
-      <?MarkedContent page="15" ?> 
+      <?MarkedContent page="15" ?>  
       <?MarkedContent page="15" ?>A multipage table of numbers
      </section-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

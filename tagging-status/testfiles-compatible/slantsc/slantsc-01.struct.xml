@@ -10,7 +10,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>normal␣text
+     <?MarkedContent page="1" ?>normal text
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -21,7 +21,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>now␣additionally␣in␣Small␣Capitals.
+     <?MarkedContent page="1" ?>now additionally in Small Capitals.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -32,7 +32,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>This␣is␣italic␣text,␣now␣additionally␣in␣Small␣Capitals.
+     <?MarkedContent page="1" ?>This is italic text, now additionally in Small Capitals.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -43,12 +43,12 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>This␣is␣
+     <?MarkedContent page="1" ?>This is 
      <Em xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="1" ?>the␣person␣Harald␣Harders␣who␣wrote
+      <?MarkedContent page="1" ?>the person Harald Harders who wrote
      </Em>
-     <?MarkedContent page="1" ?>␣this␣documentation.
+     <?MarkedContent page="1" ?> this documentation.
     </text-block>
    </semantic-para>
   </Document>

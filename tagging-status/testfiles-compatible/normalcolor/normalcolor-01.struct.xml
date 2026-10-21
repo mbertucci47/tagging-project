@@ -503,7 +503,7 @@
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Heading on level 1 (section)
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -531,7 +531,7 @@
         >
        <?MarkedContent page="2" ?>1.1
       </heading-number>
-      <?MarkedContent page="2" ?> 
+      <?MarkedContent page="2" ?>  
       <?MarkedContent page="2" ?>Heading on level 2 (subsection)
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -558,7 +558,7 @@
          >
         <?MarkedContent page="2" ?>1.1.1
        </heading-number>
-       <?MarkedContent page="2" ?> 
+       <?MarkedContent page="2" ?>  
        <?MarkedContent page="2" ?>Heading on level 3 (subsubsection)
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -613,7 +613,7 @@
        >
       <?MarkedContent page="3" ?>2
      </heading-number>
-     <?MarkedContent page="3" ?> 
+     <?MarkedContent page="3" ?>  
      <?MarkedContent page="3" ?>Lists
     </section-heading>
     <subsection xmlns="https://www.latex-project.org/ns/dflt"
@@ -629,7 +629,7 @@
         >
        <?MarkedContent page="3" ?>2.1
       </heading-number>
-      <?MarkedContent page="3" ?> 
+      <?MarkedContent page="3" ?>  
       <?MarkedContent page="3" ?>Example for list (itemize)
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -775,7 +775,7 @@
          >
         <?MarkedContent page="3" ?>2.1.1
        </heading-number>
-       <?MarkedContent page="3" ?> 
+       <?MarkedContent page="3" ?>  
        <?MarkedContent page="3" ?>Example for list (4*itemize)
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1013,7 +1013,7 @@
         >
        <?MarkedContent page="3" ?>2.2
       </heading-number>
-      <?MarkedContent page="3" ?> 
+      <?MarkedContent page="3" ?>  
       <?MarkedContent page="3" ?>Example for list (enumerate)
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1159,7 +1159,7 @@
          >
         <?MarkedContent page="3" ?>2.2.1
        </heading-number>
-       <?MarkedContent page="3" ?> 
+       <?MarkedContent page="3" ?>  
        <?MarkedContent page="3" ?>Example for list (4*enumerate)
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1397,7 +1397,7 @@
         >
        <?MarkedContent page="4" ?>2.3
       </heading-number>
-      <?MarkedContent page="4" ?> 
+      <?MarkedContent page="4" ?>  
       <?MarkedContent page="4" ?>Example for list (description)
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1543,7 +1543,7 @@
          >
         <?MarkedContent page="4" ?>2.3.1
        </heading-number>
-       <?MarkedContent page="4" ?> 
+       <?MarkedContent page="4" ?>  
        <?MarkedContent page="4" ?>Example for list (4*description)
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1782,7 +1782,7 @@
        >
       <?MarkedContent page="4" ?>3
      </heading-number>
-     <?MarkedContent page="4" ?> 
+     <?MarkedContent page="4" ?>  
      <?MarkedContent page="4" ?>Heading on level 1 (section)
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1809,7 +1809,7 @@
         >
        <?MarkedContent page="4" ?>3.1
       </heading-number>
-      <?MarkedContent page="4" ?> 
+      <?MarkedContent page="4" ?>  
       <?MarkedContent page="4" ?>Heading on level 2 (subsection)
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1837,7 +1837,7 @@
          >
         <?MarkedContent page="5" ?>3.1.1
        </heading-number>
-       <?MarkedContent page="5" ?> 
+       <?MarkedContent page="5" ?>  
        <?MarkedContent page="5" ?>Heading on level 3 (subsubsection)
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1892,7 +1892,7 @@
        >
       <?MarkedContent page="5" ?>4
      </heading-number>
-     <?MarkedContent page="5" ?> 
+     <?MarkedContent page="5" ?>  
      <?MarkedContent page="5" ?>Lists
     </section-heading>
     <subsection xmlns="https://www.latex-project.org/ns/dflt"
@@ -1908,7 +1908,7 @@
         >
        <?MarkedContent page="5" ?>4.1
       </heading-number>
-      <?MarkedContent page="5" ?> 
+      <?MarkedContent page="5" ?>  
       <?MarkedContent page="5" ?>Example for list (itemize)
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -2054,7 +2054,7 @@
          >
         <?MarkedContent page="6" ?>4.1.1
        </heading-number>
-       <?MarkedContent page="6" ?> 
+       <?MarkedContent page="6" ?>  
        <?MarkedContent page="6" ?>Example for list (4*itemize)
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -2292,7 +2292,7 @@
         >
        <?MarkedContent page="6" ?>4.2
       </heading-number>
-      <?MarkedContent page="6" ?> 
+      <?MarkedContent page="6" ?>  
       <?MarkedContent page="6" ?>Example for list (enumerate)
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -2438,7 +2438,7 @@
          >
         <?MarkedContent page="6" ?>4.2.1
        </heading-number>
-       <?MarkedContent page="6" ?> 
+       <?MarkedContent page="6" ?>  
        <?MarkedContent page="6" ?>Example for list (4*enumerate)
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -2676,7 +2676,7 @@
         >
        <?MarkedContent page="6" ?>4.3
       </heading-number>
-      <?MarkedContent page="6" ?> 
+      <?MarkedContent page="6" ?>  
       <?MarkedContent page="6" ?>Example for list (description)
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -2822,7 +2822,7 @@
          >
         <?MarkedContent page="7" ?>4.3.1
        </heading-number>
-       <?MarkedContent page="7" ?> 
+       <?MarkedContent page="7" ?>  
        <?MarkedContent page="7" ?>Example for list (4*description)
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -3061,7 +3061,7 @@
        >
       <?MarkedContent page="7" ?>5
      </heading-number>
-     <?MarkedContent page="7" ?> 
+     <?MarkedContent page="7" ?>  
      <?MarkedContent page="7" ?>Heading on level 1 (section)
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -3088,7 +3088,7 @@
         >
        <?MarkedContent page="7" ?>5.1
       </heading-number>
-      <?MarkedContent page="7" ?> 
+      <?MarkedContent page="7" ?>  
       <?MarkedContent page="7" ?>Heading on level 2 (subsection)
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -3115,7 +3115,7 @@
          >
         <?MarkedContent page="7" ?>5.1.1
        </heading-number>
-       <?MarkedContent page="7" ?> 
+       <?MarkedContent page="7" ?>  
        <?MarkedContent page="7" ?>Heading on level 3 (subsubsection)
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -3171,7 +3171,7 @@
        >
       <?MarkedContent page="8" ?>6
      </heading-number>
-     <?MarkedContent page="8" ?> 
+     <?MarkedContent page="8" ?>  
      <?MarkedContent page="8" ?>Lists
     </section-heading>
     <subsection xmlns="https://www.latex-project.org/ns/dflt"
@@ -3187,7 +3187,7 @@
         >
        <?MarkedContent page="8" ?>6.1
       </heading-number>
-      <?MarkedContent page="8" ?> 
+      <?MarkedContent page="8" ?>  
       <?MarkedContent page="8" ?>Example for list (itemize)
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -3333,7 +3333,7 @@
          >
         <?MarkedContent page="8" ?>6.1.1
        </heading-number>
-       <?MarkedContent page="8" ?> 
+       <?MarkedContent page="8" ?>  
        <?MarkedContent page="8" ?>Example for list (4*itemize)
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -3571,7 +3571,7 @@
         >
        <?MarkedContent page="9" ?>6.2
       </heading-number>
-      <?MarkedContent page="9" ?> 
+      <?MarkedContent page="9" ?>  
       <?MarkedContent page="9" ?>Example for list (enumerate)
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -3717,7 +3717,7 @@
          >
         <?MarkedContent page="9" ?>6.2.1
        </heading-number>
-       <?MarkedContent page="9" ?> 
+       <?MarkedContent page="9" ?>  
        <?MarkedContent page="9" ?>Example for list (4*enumerate)
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -3955,7 +3955,7 @@
         >
        <?MarkedContent page="9" ?>6.3
       </heading-number>
-      <?MarkedContent page="9" ?> 
+      <?MarkedContent page="9" ?>  
       <?MarkedContent page="9" ?>Example for list (description)
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -4101,7 +4101,7 @@
          >
         <?MarkedContent page="9" ?>6.3.1
        </heading-number>
-       <?MarkedContent page="9" ?> 
+       <?MarkedContent page="9" ?>  
        <?MarkedContent page="9" ?>Example for list (4*description)
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

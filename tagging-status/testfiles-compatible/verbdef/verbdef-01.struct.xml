@@ -99,7 +99,7 @@
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>demonstration text %^_
      <?MarkedContent page="1" ?>
     </section-heading>

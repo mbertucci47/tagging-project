@@ -21,7 +21,7 @@
        rolemaps-to="H1"
       >
      <?MarkedContent page="2" ?>Chapter
-     <?MarkedContent page="2" ?> 
+     <?MarkedContent page="2" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >
@@ -49,7 +49,7 @@
        rolemaps-to="H1"
       >
      <?MarkedContent page="3" ?>Chapter
-     <?MarkedContent page="3" ?> 
+     <?MarkedContent page="3" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >

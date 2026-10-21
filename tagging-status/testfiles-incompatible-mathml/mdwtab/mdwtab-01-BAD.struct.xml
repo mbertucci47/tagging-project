@@ -11,8 +11,8 @@
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?> A B C
-     <?MarkedContent page="1" ?> D E F
+     <?MarkedContent page="1" ?> A  B  C 
+     <?MarkedContent page="1" ?> D  E  F 
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

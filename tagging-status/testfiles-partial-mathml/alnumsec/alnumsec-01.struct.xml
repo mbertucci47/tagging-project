@@ -121,7 +121,7 @@
        >
       <?MarkedContent page="1" ?>I.
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Some section
     </section-heading>
     <subsection xmlns="https://www.latex-project.org/ns/dflt"
@@ -137,7 +137,7 @@
         >
        <?MarkedContent page="1" ?>[A]
       </heading-number>
-      <?MarkedContent page="1" ?> 
+      <?MarkedContent page="1" ?>  
       <?MarkedContent page="1" ?>Some subsection
      </subsection-heading>
      <subsubsection xmlns="https://www.latex-project.org/ns/dflt"
@@ -167,7 +167,7 @@
         </Formula>
         <?MarkedContent page="1" ?>)
        </heading-number>
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>  
        <?MarkedContent page="1" ?>Some subsubsection
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -197,7 +197,7 @@
        >
       <?MarkedContent page="1" ?>II.
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Another section
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

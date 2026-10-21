@@ -14,7 +14,7 @@
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Just marginpar (this should work out of the box)
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -26,7 +26,7 @@
         rolemaps-to="P"
        >
       <?MarkedContent page="1" ?>Right between the next letters x 
-      <?MarkedContent page="1" ?> yis a marginpar note.
+      <?MarkedContent page="1" ?> y is a marginpar note.
      </text-block>
      <Aside xmlns="http://iso.org/pdf2/ssn"
        >
@@ -56,7 +56,7 @@
        >
       <?MarkedContent page="1" ?>2
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>FixMe notes etc in draft
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -68,7 +68,7 @@
         rolemaps-to="P"
        >
       <?MarkedContent page="1" ?>Right between the next letters x 
-      <?MarkedContent page="1" ?> yis an fxnote.
+      <?MarkedContent page="1" ?> y is an fxnote.
      </text-block>
      <Aside xmlns="http://iso.org/pdf2/ssn"
        >
@@ -94,7 +94,7 @@
         rolemaps-to="P"
        >
       <?MarkedContent page="1" ?>Right between the next letters x 
-      <?MarkedContent page="1" ?> yis an fxwarning.
+      <?MarkedContent page="1" ?> y is an fxwarning.
      </text-block>
      <Aside xmlns="http://iso.org/pdf2/ssn"
        >
@@ -120,7 +120,7 @@
         rolemaps-to="P"
        >
       <?MarkedContent page="1" ?>Right between the next letters x 
-      <?MarkedContent page="1" ?> yis an fxerror.
+      <?MarkedContent page="1" ?> y is an fxerror.
      </text-block>
      <Aside xmlns="http://iso.org/pdf2/ssn"
        >
@@ -146,7 +146,7 @@
         rolemaps-to="P"
        >
       <?MarkedContent page="1" ?>Right between the next letters x 
-      <?MarkedContent page="1" ?> yis an fxfatal.
+      <?MarkedContent page="1" ?> y is an fxfatal.
      </text-block>
      <Aside xmlns="http://iso.org/pdf2/ssn"
        >
@@ -176,7 +176,7 @@
        >
       <?MarkedContent page="1" ?>3
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>FixMe notes etc in final
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

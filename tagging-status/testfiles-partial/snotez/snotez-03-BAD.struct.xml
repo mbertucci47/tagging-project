@@ -36,7 +36,7 @@
          >
         <?MarkedContent page="1" ?>1
        </text-fragment>
-       <?MarkedContent page="1" ?> Afirst.
+       <?MarkedContent page="1" ?> A first.
       </text-block>
      </semantic-para>
     </Aside>

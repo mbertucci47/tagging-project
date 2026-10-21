@@ -65,7 +65,7 @@
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Introduction
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -98,7 +98,7 @@
        >
       <?MarkedContent page="1" ?>2
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Basic packages and hyperlinks
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -194,7 +194,7 @@
        >
       <?MarkedContent page="1" ?>3
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Abbreviation macros and typing
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -482,7 +482,7 @@
        >
       <?MarkedContent page="1" ?>4
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Figures
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -532,7 +532,7 @@
        >
       <?MarkedContent page="1" ?>5
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>References
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

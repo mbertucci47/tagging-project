@@ -10,13 +10,13 @@
        rolemaps-to="Title"
       >
      <?MarkedContent page="1" ?>Part
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >
       <?MarkedContent page="1" ?>1.
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Some part
     </part-heading>
     <section xmlns="https://www.latex-project.org/ns/dflt"
@@ -31,7 +31,7 @@
         >
        <?MarkedContent page="1" ?>1.
       </heading-number>
-      <?MarkedContent page="1" ?> 
+      <?MarkedContent page="1" ?>  
       <?MarkedContent page="1" ?>Some special section
      </section-heading>
     </section>
@@ -47,7 +47,7 @@
         >
        <?MarkedContent page="1" ?>2.
       </heading-number>
-      <?MarkedContent page="1" ?> 
+      <?MarkedContent page="1" ?>  
       <?MarkedContent page="1" ?>Some section
      </section-heading>
      <subsection xmlns="https://www.latex-project.org/ns/dflt"
@@ -63,7 +63,7 @@
          >
         <?MarkedContent page="1" ?>2.1.
        </heading-number>
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>  
        <?MarkedContent page="1" ?>Some subsection.
       </subsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -89,7 +89,7 @@
           >
          <?MarkedContent page="1" ?>2.1.1.
         </heading-number>
-        <?MarkedContent page="1" ?> 
+        <?MarkedContent page="1" ?>  
         <?MarkedContent page="1" ?>Some subsubsection.
        </subsubsection-heading>
        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

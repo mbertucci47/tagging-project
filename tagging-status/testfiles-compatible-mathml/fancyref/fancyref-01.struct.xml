@@ -606,12 +606,12 @@
     <Caption xmlns="http://iso.org/pdf2/ssn"
       >
      <?MarkedContent page="3" ?>Theorem
-     <?MarkedContent page="3" ?> 
+     <?MarkedContent page="3" ?>  
      <Lbl xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="3" ?>1
      </Lbl>
-     <?MarkedContent page="3" ?> 
+     <?MarkedContent page="3" ?>  
      <?MarkedContent page="3" ?>(Murphy)
      <?MarkedContent page="3" ?>. 
     </Caption>

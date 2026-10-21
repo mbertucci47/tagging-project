@@ -14,7 +14,7 @@
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>enumext + multicols
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -206,7 +206,7 @@
        >
       <?MarkedContent page="1" ?>2
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>enumext + minipage
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -376,7 +376,7 @@
        >
       <?MarkedContent page="1" ?>3
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>enumext + minipage + multicols
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -557,7 +557,7 @@
        >
       <?MarkedContent page="1" ?>4
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>enumext* + minipage
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

@@ -187,7 +187,7 @@
        >
       <?MarkedContent page="1" ?>✉
      </text-fragment>
-     <?MarkedContent page="1" ?> ,The Kumquat Consortium, USA
+     <?MarkedContent page="1" ?> , The Kumquat Consortium, USA
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -358,7 +358,7 @@
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Introduction
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

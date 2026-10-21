@@ -21,7 +21,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>XMARKSTHESPOT
+     <?MarkedContent page="1" ?>X MARKS THE SPOT
     </text-block>
    </semantic-para>
   </Document>

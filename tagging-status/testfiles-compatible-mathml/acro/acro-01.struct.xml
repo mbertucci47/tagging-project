@@ -14,7 +14,7 @@
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Intro
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -72,7 +72,7 @@
        >
       <?MarkedContent page="1" ?>2
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Furthermore
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -129,7 +129,7 @@
         >
        <?MarkedContent page="1" ?>2.1
       </heading-number>
-      <?MarkedContent page="1" ?> 
+      <?MarkedContent page="1" ?>  
       <?MarkedContent page="1" ?>Some chemistry and physics
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -259,7 +259,7 @@
         >
        <?MarkedContent page="1" ?>2.2
       </heading-number>
-      <?MarkedContent page="1" ?> 
+      <?MarkedContent page="1" ?>  
       <?MarkedContent page="1" ?>Some testing fundamentals
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

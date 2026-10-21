@@ -14,7 +14,7 @@
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>First section
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -41,7 +41,7 @@
        >
       <?MarkedContent page="2" ?>2
      </heading-number>
-     <?MarkedContent page="2" ?> 
+     <?MarkedContent page="2" ?>  
      <?MarkedContent page="2" ?>Second section
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

@@ -216,12 +216,12 @@
     <Caption xmlns="http://iso.org/pdf2/ssn"
       >
      <?MarkedContent page="1" ?>Theorem
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <Lbl xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="1" ?>3.1
      </Lbl>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>(The additive structure of homology manifold bordism, Johnston [5])
      <?MarkedContent page="1" ?>. 
     </Caption>
@@ -360,12 +360,12 @@
     <Caption xmlns="http://iso.org/pdf2/ssn"
       >
      <?MarkedContent page="1" ?>Theorem
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <Lbl xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="1" ?>3.2
      </Lbl>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>(Johnston [5])
      <?MarkedContent page="1" ?>. 
     </Caption>

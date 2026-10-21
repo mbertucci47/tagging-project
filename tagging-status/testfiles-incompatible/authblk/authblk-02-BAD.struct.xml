@@ -2,20 +2,19 @@
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
     >
-   <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      rolemaps-to="Part"
+   <title-block xmlns="https://www.latex-project.org/ns/dflt"
+      xmlns:ARIA-1.1="http://iso.org/pdf/ssn/ARIA-1.1"
+      ARIA-1.1:role="banner"
+      rolemaps-to="Div"
      >
-    <Title xmlns="http://iso.org/pdf2/ssn"
+    <title-text xmlns="https://www.latex-project.org/ns/dflt"
+       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+       Layout:TextAlign="Center"
+       rolemaps-to="Title"
       >
-     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-        Layout:TextAlign="Center"
-        rolemaps-to="P"
-       >
-      <?MarkedContent page="1" ?>authblk tagging test - 2
-     </text-block>
-    </Title>
-    <text-block xmlns="https://www.latex-project.org/ns/dflt"
+     <?MarkedContent page="1" ?>authblk tagging test - 2
+    </title-text>
+    <title-author xmlns="https://www.latex-project.org/ns/dflt"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
@@ -28,7 +27,7 @@
        >
       <?MarkedContent page="1" ?>1
      </text-fragment>
-     <?MarkedContent page="1" ?> ,Person B
+     <?MarkedContent page="1" ?> , Person B
      <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextPosition="Sup"
@@ -36,7 +35,7 @@
        >
       <?MarkedContent page="1" ?>1
      </text-fragment>
-     <?MarkedContent page="1" ?> ,and Person C
+     <?MarkedContent page="1" ?> , and Person C
      <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextPosition="Sup"
@@ -44,8 +43,8 @@
        >
       <?MarkedContent page="1" ?>2
      </text-fragment>
-    </text-block>
-    <text-block xmlns="https://www.latex-project.org/ns/dflt"
+    </title-author>
+    <title-author xmlns="https://www.latex-project.org/ns/dflt"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
@@ -58,8 +57,8 @@
       <?MarkedContent page="1" ?>1
      </text-fragment>
      <?MarkedContent page="1" ?> Uni 1
-    </text-block>
-    <text-block xmlns="https://www.latex-project.org/ns/dflt"
+    </title-author>
+    <title-author xmlns="https://www.latex-project.org/ns/dflt"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
@@ -72,15 +71,15 @@
       <?MarkedContent page="1" ?>2
      </text-fragment>
      <?MarkedContent page="1" ?> Uni 2
-    </text-block>
-    <text-block xmlns="https://www.latex-project.org/ns/dflt"
+    </title-author>
+    <title-date xmlns="https://www.latex-project.org/ns/dflt"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>May 20, 2016
-    </text-block>
-   </semantic-para>
+    </title-date>
+   </title-block>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
       rolemaps-to="Part"
      >

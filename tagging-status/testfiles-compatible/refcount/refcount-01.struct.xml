@@ -36,7 +36,7 @@
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Some section
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

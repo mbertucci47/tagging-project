@@ -2,41 +2,33 @@
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
     >
-   <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      rolemaps-to="Part"
+   <title-block xmlns="https://www.latex-project.org/ns/dflt"
+      xmlns:ARIA-1.1="http://iso.org/pdf/ssn/ARIA-1.1"
+      ARIA-1.1:role="banner"
+      rolemaps-to="Div"
      >
-    <Title xmlns="http://iso.org/pdf2/ssn"
+    <title-text xmlns="https://www.latex-project.org/ns/dflt"
+       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+       Layout:TextAlign="Center"
+       rolemaps-to="Title"
       >
-     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-        Layout:TextAlign="Center"
-        rolemaps-to="P"
-       >
-      <?MarkedContent page="1" ?>Sample Paper for the amsmath Package
-     </text-block>
-     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-        Layout:TextAlign="Center"
-        rolemaps-to="P"
-       >
-      <?MarkedContent page="1" ?>File name: testmath.tex
-     </text-block>
-    </Title>
-    <text-block xmlns="https://www.latex-project.org/ns/dflt"
+     <?MarkedContent page="1" ?>Sample Paper for the amsmath PackageFile name: testmath.tex
+    </title-text>
+    <title-author xmlns="https://www.latex-project.org/ns/dflt"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?> American Mathematical Society 
-    </text-block>
-    <text-block xmlns="https://www.latex-project.org/ns/dflt"
+    </title-author>
+    <title-date xmlns="https://www.latex-project.org/ns/dflt"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>Version 2.0a, 2023/08/24
-    </text-block>
-   </semantic-para>
+    </title-date>
+   </title-block>
    <section xmlns="https://www.latex-project.org/ns/dflt"
       rolemaps-to="Sect"
      >
@@ -49,7 +41,7 @@
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Introduction
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -84,7 +76,7 @@
        >
       <?MarkedContent page="1" ?>2
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Enumeration of Hamiltonian paths in a graph
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -887,7 +879,7 @@
        >
       <?MarkedContent page="2" ?>3
      </heading-number>
-     <?MarkedContent page="2" ?> 
+     <?MarkedContent page="2" ?>  
      <?MarkedContent page="2" ?>Main Theorem
     </section-heading>
     <theorem-like xmlns="https://www.latex-project.org/ns/dflt"
@@ -1072,7 +1064,7 @@
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="2" ?>Lemma
-      <?MarkedContent page="2" ?> 
+      <?MarkedContent page="2" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="2" ?>3.1
@@ -1205,7 +1197,7 @@
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="2" ?>Lemma
-      <?MarkedContent page="2" ?> 
+      <?MarkedContent page="2" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="2" ?>3.2
@@ -1308,7 +1300,7 @@
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="3" ?>Theorem
-      <?MarkedContent page="3" ?> 
+      <?MarkedContent page="3" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="3" ?>3.3
@@ -1408,7 +1400,7 @@
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="3" ?>Remark
-      <?MarkedContent page="3" ?> 
+      <?MarkedContent page="3" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="3" ?>3.1
@@ -1495,7 +1487,7 @@
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="3" ?>Corollary
-      <?MarkedContent page="3" ?> 
+      <?MarkedContent page="3" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="3" ?>3.4
@@ -1904,7 +1896,7 @@
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="4" ?>Proposition
-      <?MarkedContent page="4" ?> 
+      <?MarkedContent page="4" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="4" ?>3.5
@@ -1966,7 +1958,7 @@
        >
       <?MarkedContent page="4" ?>4
      </heading-number>
-     <?MarkedContent page="4" ?> 
+     <?MarkedContent page="4" ?>  
      <?MarkedContent page="4" ?>Application
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -2211,7 +2203,7 @@
        >
       <?MarkedContent page="5" ?>5
      </heading-number>
-     <?MarkedContent page="5" ?> 
+     <?MarkedContent page="5" ?>  
      <?MarkedContent page="5" ?>Secret Key Exchanges
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -2262,7 +2254,7 @@
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="6" ?>Definition
-      <?MarkedContent page="6" ?> 
+      <?MarkedContent page="6" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="6" ?>5.1
@@ -2338,7 +2330,7 @@
          </AssociatedFile>
         <?MarkedContent page="6" ?>𝑦∈{0,1}𝑘 
        </Formula>
-       <?MarkedContent page="6" ?>arandom element of 
+       <?MarkedContent page="6" ?>a random element of 
        <Formula xmlns="http://iso.org/pdf2/ssn"
           title="math"
           af="mathml-102.xml source.tex"
@@ -2380,12 +2372,12 @@
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="6" ?>Theorem
-      <?MarkedContent page="6" ?> 
+      <?MarkedContent page="6" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="6" ?>5.1
       </Lbl>
-      <?MarkedContent page="6" ?> 
+      <?MarkedContent page="6" ?>  
       <?MarkedContent page="6" ?>([
       <Reference xmlns="http://iso.org/pdf/ssn"
         >
@@ -2435,12 +2427,12 @@
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="6" ?>Theorem
-      <?MarkedContent page="6" ?> 
+      <?MarkedContent page="6" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="6" ?>5.2
       </Lbl>
-      <?MarkedContent page="6" ?> 
+      <?MarkedContent page="6" ?>  
       <?MarkedContent page="6" ?>(non-uniform)
       <?MarkedContent page="6" ?>. 
      </Caption>
@@ -2518,7 +2510,7 @@
        >
       <?MarkedContent page="6" ?>6
      </heading-number>
-     <?MarkedContent page="6" ?> 
+     <?MarkedContent page="6" ?>  
      <?MarkedContent page="6" ?>Review
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -2538,7 +2530,7 @@
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="6" ?>Definition
-      <?MarkedContent page="6" ?> 
+      <?MarkedContent page="6" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="6" ?>6.1
@@ -2774,7 +2766,7 @@
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="6" ?>Lemma
-      <?MarkedContent page="6" ?> 
+      <?MarkedContent page="6" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="6" ?>6.1
@@ -4303,7 +4295,7 @@
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="8" ?>Lemma
-      <?MarkedContent page="8" ?> 
+      <?MarkedContent page="8" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="8" ?>6.2
@@ -4492,7 +4484,7 @@
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="9" ?>Corollary
-      <?MarkedContent page="9" ?> 
+      <?MarkedContent page="9" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="9" ?>6.3
@@ -4546,7 +4538,7 @@
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="9" ?>Definition
-      <?MarkedContent page="9" ?> 
+      <?MarkedContent page="9" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="9" ?>6.2
@@ -4606,7 +4598,7 @@
          </AssociatedFile>
         <?MarkedContent page="9" ?>𝐻
        </Formula>
-       <?MarkedContent page="9" ?> aseparator if 
+       <?MarkedContent page="9" ?> a separator if 
        <Formula xmlns="http://iso.org/pdf2/ssn"
           title="math"
           af="mathml-210.xml source.tex"
@@ -4631,7 +4623,7 @@
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="9" ?>Corollary
-      <?MarkedContent page="9" ?> 
+      <?MarkedContent page="9" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="9" ?>6.4
@@ -5018,7 +5010,7 @@
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="9" ?>Theorem
-      <?MarkedContent page="9" ?> 
+      <?MarkedContent page="9" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="9" ?>6.5
@@ -5107,7 +5099,7 @@
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="11" ?>Theorem
-      <?MarkedContent page="11" ?> 
+      <?MarkedContent page="11" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="11" ?>6.6
@@ -5829,7 +5821,7 @@
        >
       <?MarkedContent page="11" ?>7
      </heading-number>
-     <?MarkedContent page="11" ?> 
+     <?MarkedContent page="11" ?>  
      <?MarkedContent page="11" ?>One-Way Complexity
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -6184,7 +6176,7 @@
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="12" ?>Theorem
-      <?MarkedContent page="12" ?> 
+      <?MarkedContent page="12" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="12" ?>7.1
@@ -6461,7 +6453,7 @@
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="12" ?>Remark
-      <?MarkedContent page="12" ?> 
+      <?MarkedContent page="12" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="12" ?>7.1
@@ -6567,7 +6559,7 @@
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="12" ?>Remark
-      <?MarkedContent page="12" ?> 
+      <?MarkedContent page="12" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="12" ?>7.2
@@ -6689,7 +6681,7 @@
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="12" ?>Remark
-      <?MarkedContent page="12" ?> 
+      <?MarkedContent page="12" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="12" ?>7.3
@@ -8775,7 +8767,7 @@
       <Caption xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="17" ?>Theorem
-       <?MarkedContent page="17" ?> 
+       <?MarkedContent page="17" ?>  
        <Lbl xmlns="http://iso.org/pdf2/ssn"
          >
         <?MarkedContent page="17" ?>7.2
@@ -8918,7 +8910,7 @@
          Layout:TextAlign="Justify"
          rolemaps-to="P"
         >
-       <?MarkedContent page="17" ?>We may call (38) aparametric representation of 
+       <?MarkedContent page="17" ?>We may call (38) a parametric representation of 
        <Formula xmlns="http://iso.org/pdf2/ssn"
           title="math"
           af="mathml-25.xml source.tex"
@@ -9166,7 +9158,7 @@
       <Caption xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="18" ?>Theorem
-       <?MarkedContent page="18" ?> 
+       <?MarkedContent page="18" ?>  
        <Lbl xmlns="http://iso.org/pdf2/ssn"
          >
         <?MarkedContent page="18" ?>7.3
@@ -9235,7 +9227,7 @@
        >
       <?MarkedContent page="18" ?>8
      </heading-number>
-     <?MarkedContent page="18" ?> 
+     <?MarkedContent page="18" ?>  
      <?MarkedContent page="18" ?>Various font features of the amsmath package
     </section-heading>
     <subsection xmlns="https://www.latex-project.org/ns/dflt"
@@ -9250,7 +9242,7 @@
         >
        <?MarkedContent page="18" ?>8.1
       </heading-number>
-      <?MarkedContent page="18" ?> 
+      <?MarkedContent page="18" ?>  
       <?MarkedContent page="18" ?>Bold versions of special symbols
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -9323,7 +9315,7 @@
         >
        <?MarkedContent page="18" ?>8.2
       </heading-number>
-      <?MarkedContent page="18" ?> 
+      <?MarkedContent page="18" ?>  
       <?MarkedContent page="18" ?>“Poor man’s bold”
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -9490,7 +9482,7 @@
        >
       <?MarkedContent page="19" ?>9
      </heading-number>
-     <?MarkedContent page="19" ?> 
+     <?MarkedContent page="19" ?>  
      <?MarkedContent page="19" ?>Compound symbols and other features
     </section-heading>
     <subsection xmlns="https://www.latex-project.org/ns/dflt"
@@ -9505,7 +9497,7 @@
         >
        <?MarkedContent page="19" ?>9.1
       </heading-number>
-      <?MarkedContent page="19" ?> 
+      <?MarkedContent page="19" ?>  
       <?MarkedContent page="19" ?>Multiple integral signs
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -9551,7 +9543,7 @@
         >
        <?MarkedContent page="19" ?>9.2
       </heading-number>
-      <?MarkedContent page="19" ?> 
+      <?MarkedContent page="19" ?>  
       <?MarkedContent page="19" ?>Over and under arrows
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -9695,7 +9687,7 @@
         >
        <?MarkedContent page="19" ?>9.3
       </heading-number>
-      <?MarkedContent page="19" ?> 
+      <?MarkedContent page="19" ?>  
       <?MarkedContent page="19" ?>Dots
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -9842,7 +9834,7 @@
         >
        <?MarkedContent page="20" ?>9.4
       </heading-number>
-      <?MarkedContent page="20" ?> 
+      <?MarkedContent page="20" ?>  
       <?MarkedContent page="20" ?>Accents in math
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -9938,7 +9930,7 @@
         >
        <?MarkedContent page="20" ?>9.5
       </heading-number>
-      <?MarkedContent page="20" ?> 
+      <?MarkedContent page="20" ?>  
       <?MarkedContent page="20" ?>Dot accents
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -9998,7 +9990,7 @@
         >
        <?MarkedContent page="20" ?>9.6
       </heading-number>
-      <?MarkedContent page="20" ?> 
+      <?MarkedContent page="20" ?>  
       <?MarkedContent page="20" ?>Roots
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -10072,7 +10064,7 @@
         >
        <?MarkedContent page="21" ?>9.7
       </heading-number>
-      <?MarkedContent page="21" ?> 
+      <?MarkedContent page="21" ?>  
       <?MarkedContent page="21" ?>Boxed formulas
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -10124,7 +10116,7 @@
         >
        <?MarkedContent page="21" ?>9.8
       </heading-number>
-      <?MarkedContent page="21" ?> 
+      <?MarkedContent page="21" ?>  
       <?MarkedContent page="21" ?>Extensible arrows
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -10185,7 +10177,7 @@
         >
        <?MarkedContent page="21" ?>9.9
       </heading-number>
-      <?MarkedContent page="21" ?> 
+      <?MarkedContent page="21" ?>  
       <?MarkedContent page="21" ?>\overset, \underset, and \sideset
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -10324,7 +10316,7 @@
         >
        <?MarkedContent page="21" ?>9.10
       </heading-number>
-      <?MarkedContent page="21" ?> 
+      <?MarkedContent page="21" ?>  
       <?MarkedContent page="21" ?>The \text command
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -10383,7 +10375,7 @@
         >
        <?MarkedContent page="22" ?>9.11
       </heading-number>
-      <?MarkedContent page="22" ?> 
+      <?MarkedContent page="22" ?>  
       <?MarkedContent page="22" ?>Operator names
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -10660,7 +10652,7 @@
         >
        <?MarkedContent page="22" ?>9.12
       </heading-number>
-      <?MarkedContent page="22" ?> 
+      <?MarkedContent page="22" ?>  
       <?MarkedContent page="22" ?>\mod and its relatives
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -10746,7 +10738,7 @@
         >
        <?MarkedContent page="23" ?>9.13
       </heading-number>
-      <?MarkedContent page="23" ?> 
+      <?MarkedContent page="23" ?>  
       <?MarkedContent page="23" ?>Fractions and related constructions
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -11014,7 +11006,7 @@
         >
        <?MarkedContent page="24" ?>9.14
       </heading-number>
-      <?MarkedContent page="24" ?> 
+      <?MarkedContent page="24" ?>  
       <?MarkedContent page="24" ?>Continued fractions
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -11120,7 +11112,7 @@
         >
        <?MarkedContent page="24" ?>9.15
       </heading-number>
-      <?MarkedContent page="24" ?> 
+      <?MarkedContent page="24" ?>  
       <?MarkedContent page="24" ?>Smash
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -11238,7 +11230,7 @@
         >
        <?MarkedContent page="25" ?>9.16
       </heading-number>
-      <?MarkedContent page="25" ?> 
+      <?MarkedContent page="25" ?>  
       <?MarkedContent page="25" ?>The ‘cases’ environment
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -11334,7 +11326,7 @@
         >
        <?MarkedContent page="25" ?>9.17
       </heading-number>
-      <?MarkedContent page="25" ?> 
+      <?MarkedContent page="25" ?>  
       <?MarkedContent page="25" ?>Matrix
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -11699,7 +11691,7 @@
         >
        <?MarkedContent page="26" ?>9.18
       </heading-number>
-      <?MarkedContent page="26" ?> 
+      <?MarkedContent page="26" ?>  
       <?MarkedContent page="26" ?>The \substack command
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -11814,7 +11806,7 @@
         >
        <?MarkedContent page="27" ?>9.19
       </heading-number>
-      <?MarkedContent page="27" ?> 
+      <?MarkedContent page="27" ?>  
       <?MarkedContent page="27" ?>Big-g-g delimiters
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -11948,7 +11940,7 @@
        >
       <?MarkedContent page="28" ?>A
      </heading-number>
-     <?MarkedContent page="28" ?> 
+     <?MarkedContent page="28" ?>  
      <?MarkedContent page="28" ?>Examples of multiple-line equation structures
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -11974,7 +11966,7 @@
         >
        <?MarkedContent page="28" ?>A.1
       </heading-number>
-      <?MarkedContent page="28" ?> 
+      <?MarkedContent page="28" ?>  
       <?MarkedContent page="28" ?>Split
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -12771,7 +12763,7 @@
         >
        <?MarkedContent page="33" ?>A.2
       </heading-number>
-      <?MarkedContent page="33" ?> 
+      <?MarkedContent page="33" ?>  
       <?MarkedContent page="33" ?>Multline
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -12964,7 +12956,7 @@
         >
        <?MarkedContent page="34" ?>A.3
       </heading-number>
-      <?MarkedContent page="34" ?> 
+      <?MarkedContent page="34" ?>  
       <?MarkedContent page="34" ?>Gather
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -13171,7 +13163,7 @@
         >
        <?MarkedContent page="35" ?>A.4
       </heading-number>
-      <?MarkedContent page="35" ?> 
+      <?MarkedContent page="35" ?>  
       <?MarkedContent page="35" ?>Align
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -13441,7 +13433,7 @@
         >
        <?MarkedContent page="36" ?>A.5
       </heading-number>
-      <?MarkedContent page="36" ?> 
+      <?MarkedContent page="36" ?>  
       <?MarkedContent page="36" ?>Align and split within gather
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -13722,7 +13714,7 @@
         >
        <?MarkedContent page="38" ?>A.6
       </heading-number>
-      <?MarkedContent page="38" ?> 
+      <?MarkedContent page="38" ?>  
       <?MarkedContent page="38" ?>Alignat
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -13789,7 +13781,7 @@
           Layout:TextAlign="Justify"
           rolemaps-to="Sub"
          >
-        <?MarkedContent page="38" ?> &amp;\qquad U_i &amp; = u_i,
+        <?MarkedContent page="38" ?> &amp; \qquad U_i &amp; = u_i,
        </codeline>
        <codeline xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -13810,7 +13802,7 @@
           Layout:TextAlign="Justify"
           rolemaps-to="Sub"
          >
-        <?MarkedContent page="38" ?> &amp;\qquad U_j &amp; u_j + \sum_{i\ne j} q_i u_i.
+        <?MarkedContent page="38" ?> &amp; \qquad U_j &amp; u_j + \sum_{i\ne j} q_i u_i.
        </codeline>
        <codeline xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -13883,7 +13875,7 @@
           Layout:TextAlign="Justify"
           rolemaps-to="Sub"
          >
-        <?MarkedContent page="38" ?> &amp;\qquad U_i &amp; = u_i,
+        <?MarkedContent page="38" ?> &amp; \qquad U_i &amp; = u_i,
        </codeline>
        <codeline xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -13904,7 +13896,7 @@
           Layout:TextAlign="Justify"
           rolemaps-to="Sub"
          >
-        <?MarkedContent page="38" ?> &amp;\qquad U_j &amp; u_j + \sum_{i\ne j} q_i u_i.
+        <?MarkedContent page="38" ?> &amp; \qquad U_j &amp; u_j + \sum_{i\ne j} q_i u_i.
        </codeline>
        <codeline xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"

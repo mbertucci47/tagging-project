@@ -187,7 +187,7 @@
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>A friendly duck at level 1 (section)
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -251,7 +251,7 @@
         >
        <?MarkedContent page="1" ?>1.1
       </heading-number>
-      <?MarkedContent page="1" ?> 
+      <?MarkedContent page="1" ?>  
       <?MarkedContent page="1" ?>A friendly duck at level 2 (subsection)
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -317,7 +317,7 @@
          >
         <?MarkedContent page="2" ?>1.1.1
        </heading-number>
-       <?MarkedContent page="2" ?> 
+       <?MarkedContent page="2" ?>  
        <?MarkedContent page="2" ?>A friendly duck at level 3 (subsubsection)
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -443,7 +443,7 @@
        >
       <?MarkedContent page="2" ?>2
      </heading-number>
-     <?MarkedContent page="2" ?> 
+     <?MarkedContent page="2" ?>  
      <?MarkedContent page="2" ?>Lists
     </section-heading>
     <subsection xmlns="https://www.latex-project.org/ns/dflt"
@@ -459,7 +459,7 @@
         >
        <?MarkedContent page="2" ?>2.1
       </heading-number>
-      <?MarkedContent page="2" ?> 
+      <?MarkedContent page="2" ?>  
       <?MarkedContent page="2" ?>Example for ducks (itemize)
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -581,7 +581,7 @@
          >
         <?MarkedContent page="3" ?>2.1.1
        </heading-number>
-       <?MarkedContent page="3" ?> 
+       <?MarkedContent page="3" ?>  
        <?MarkedContent page="3" ?>Nested ducks
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -819,7 +819,7 @@
         >
        <?MarkedContent page="3" ?>2.2
       </heading-number>
-      <?MarkedContent page="3" ?> 
+      <?MarkedContent page="3" ?>  
       <?MarkedContent page="3" ?>Example for ducks (enumerate)
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -941,7 +941,7 @@
          >
         <?MarkedContent page="3" ?>2.2.1
        </heading-number>
-       <?MarkedContent page="3" ?> 
+       <?MarkedContent page="3" ?>  
        <?MarkedContent page="3" ?>Nested ducks
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1179,7 +1179,7 @@
         >
        <?MarkedContent page="3" ?>2.3
       </heading-number>
-      <?MarkedContent page="3" ?> 
+      <?MarkedContent page="3" ?>  
       <?MarkedContent page="3" ?>Example for ducks (description)
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1301,7 +1301,7 @@
          >
         <?MarkedContent page="4" ?>2.3.1
        </heading-number>
-       <?MarkedContent page="4" ?> 
+       <?MarkedContent page="4" ?>  
        <?MarkedContent page="4" ?>Nested ducks
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

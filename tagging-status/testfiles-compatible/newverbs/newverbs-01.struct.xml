@@ -95,7 +95,7 @@
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Difficult chars (%&amp; $^_ or %&amp; $^_)
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

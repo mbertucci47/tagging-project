@@ -24,7 +24,7 @@
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Section title
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -70,7 +70,7 @@
         >
        <?MarkedContent page="1" ?>1.1
       </heading-number>
-      <?MarkedContent page="1" ?> 
+      <?MarkedContent page="1" ?>  
       <?MarkedContent page="1" ?>Subsection title
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -107,7 +107,7 @@
         >
        <?MarkedContent page="1" ?>1.2
       </heading-number>
-      <?MarkedContent page="1" ?> 
+      <?MarkedContent page="1" ?>  
       <?MarkedContent page="1" ?>Subsection title
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -157,7 +157,7 @@
        >
       <?MarkedContent page="1" ?>2
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Section title
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

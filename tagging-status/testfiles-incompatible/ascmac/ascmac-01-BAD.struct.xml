@@ -185,7 +185,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>ASCIIASCI[TEXT]
+     <?MarkedContent page="1" ?>ASCIIASCII CORPORATION
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -196,7 +196,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>ASCIIASCI[TEXT]
+     <?MarkedContent page="1" ?>ASCIIASCII CORPORATION
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -207,7 +207,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>ASCIIASCI[TEXT]
+     <?MarkedContent page="1" ?>ASCIIASCII CORPORATION
     </text-block>
    </semantic-para>
   </text-block>

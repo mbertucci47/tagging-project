@@ -25,7 +25,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>A &amp; B\\
+     <?MarkedContent page="1" ?>A &amp; B \\
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

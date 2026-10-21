@@ -10,7 +10,7 @@
        rolemaps-to="H1"
       >
      <?MarkedContent page="1" ?>Chapter
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >
@@ -21,16 +21,16 @@
     <section xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Sect"
       >
-     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+     <section-heading xmlns="https://www.latex-project.org/ns/book"
         title="Section header"
-        rolemaps-to="H1"
+        rolemaps-to="H2"
        >
       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Lbl"
         >
        <?MarkedContent page="1" ?>1.1
       </heading-number>
-      <?MarkedContent page="1" ?> 
+      <?MarkedContent page="1" ?>  
       <?MarkedContent page="1" ?>Section header
       <?MarkedContent page="1" ?>
       <?MarkedContent page="2" ?>

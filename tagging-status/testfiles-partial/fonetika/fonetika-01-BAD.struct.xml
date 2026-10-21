@@ -10,7 +10,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>ABCDEINRSZÆØÅ
+     <?MarkedContent page="1" ?>A B C D E    I     N    R S       Z Æ Ø Å
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -21,7 +21,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>abcdefghijklmnoprstuvwyæøå
+     <?MarkedContent page="1" ?>a b c d e f g h i j k l m n o p  r s t u v w  y  æ ø å
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -32,7 +32,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>ABCDEINRSÆØÅ
+     <?MarkedContent page="1" ?>A B C D E    I     N    R S        Æ Ø Å
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -43,7 +43,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>abcdefghijklmnoprstuvwyæøå
+     <?MarkedContent page="1" ?>a b c d e f g h i j k l m n o p  r s t u v w  y  æ ø å
     </text-block>
    </semantic-para>
   </Document>

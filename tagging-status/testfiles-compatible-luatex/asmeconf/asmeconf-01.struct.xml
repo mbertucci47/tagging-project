@@ -1067,7 +1067,7 @@
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>INTRODUCTION
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1160,7 +1160,7 @@
         >
        <?MarkedContent page="1" ?>1.1
       </heading-number>
-      <?MarkedContent page="1" ?> 
+      <?MarkedContent page="1" ?>  
       <?MarkedContent page="1" ?>Essential Initial Commands
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1326,7 +1326,7 @@
        >
       <?MarkedContent page="2" ?>2
      </heading-number>
-     <?MarkedContent page="2" ?> 
+     <?MarkedContent page="2" ?>  
      <?MarkedContent page="2" ?>REFERRING TO CITATIONS, FIGURES, AND EQUATIONS
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1503,7 +1503,7 @@
        >
       <?MarkedContent page="2" ?>3
      </heading-number>
-     <?MarkedContent page="2" ?> 
+     <?MarkedContent page="2" ?>  
      <?MarkedContent page="2" ?>SECTION HEADINGS AND CAPTIONS
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1715,7 +1715,7 @@
         >
        <?MarkedContent page="2" ?>3.1
       </heading-number>
-      <?MarkedContent page="2" ?> 
+      <?MarkedContent page="2" ?>  
       <?MarkedContent page="2" ?>Subsection and Sub-subsection Headings
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1743,7 +1743,7 @@
        >
       <?MarkedContent page="2" ?>4
      </heading-number>
-     <?MarkedContent page="2" ?> 
+     <?MarkedContent page="2" ?>  
      <?MarkedContent page="2" ?>TABLES AND FIGURES
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1843,7 +1843,7 @@
        >
       <?MarkedContent page="3" ?>5
      </heading-number>
-     <?MarkedContent page="3" ?> 
+     <?MarkedContent page="3" ?>  
      <?MarkedContent page="3" ?>REFERENCE FORMATTING WITH asmeconf.bst
      <footnotemark xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
@@ -1961,7 +1961,6 @@
         Layout:TextAlign="Justify"
         rolemaps-to="H3"
        >
-      <?MarkedContent page="3" ?> 
       <?MarkedContent page="3" ?>DOI, URL, and eprint
      </subsubsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -2002,7 +2001,6 @@
         Layout:TextAlign="Justify"
         rolemaps-to="H3"
        >
-      <?MarkedContent page="3" ?> 
       <?MarkedContent page="3" ?>Online Sources
      </subsubsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -2031,7 +2029,6 @@
         Layout:TextAlign="Justify"
         rolemaps-to="H3"
        >
-      <?MarkedContent page="3" ?> 
       <?MarkedContent page="3" ?>Date Accessed
      </subsubsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -2064,7 +2061,6 @@
         Layout:TextAlign="Justify"
         rolemaps-to="H3"
        >
-      <?MarkedContent page="3" ?> 
       <?MarkedContent page="3" ?>Conference Location and Date.
      </subsubsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -2107,7 +2103,6 @@
         Layout:TextAlign="Justify"
         rolemaps-to="H3"
        >
-      <?MarkedContent page="3" ?> 
       <?MarkedContent page="3" ?>Capitalization of Titles
      </subsubsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -2136,7 +2131,7 @@
        >
       <?MarkedContent page="3" ?>6
      </heading-number>
-     <?MarkedContent page="3" ?> 
+     <?MarkedContent page="3" ?>  
      <?MarkedContent page="3" ?>MORE ON MATH: 
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
@@ -2348,7 +2343,7 @@
         >
        <?MarkedContent page="3" ?>6.1
       </heading-number>
-      <?MarkedContent page="3" ?> 
+      <?MarkedContent page="3" ?>  
       <?MarkedContent page="3" ?>The newtxmath and mathalpha Packages [
       <Reference xmlns="http://iso.org/pdf/ssn"
         >
@@ -2512,7 +2507,7 @@
        >
       <?MarkedContent page="4" ?>7
      </heading-number>
-     <?MarkedContent page="4" ?> 
+     <?MarkedContent page="4" ?>  
      <?MarkedContent page="4" ?>ADDITIONAL OPTIONS FOR asmeconf.cls
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -2538,7 +2533,7 @@
         >
        <?MarkedContent page="4" ?>7.1
       </heading-number>
-      <?MarkedContent page="4" ?> 
+      <?MarkedContent page="4" ?>  
       <?MarkedContent page="4" ?>Colored Hyperlinks
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -2565,7 +2560,7 @@
         >
        <?MarkedContent page="4" ?>7.2
       </heading-number>
-      <?MarkedContent page="4" ?> 
+      <?MarkedContent page="4" ?>  
       <?MarkedContent page="4" ?>Final Column Balancing
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -2603,7 +2598,7 @@
         >
        <?MarkedContent page="4" ?>7.3
       </heading-number>
-      <?MarkedContent page="4" ?> 
+      <?MarkedContent page="4" ?>  
       <?MarkedContent page="4" ?>Line Numbers
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -2660,7 +2655,7 @@
         >
        <?MarkedContent page="4" ?>7.4
       </heading-number>
-      <?MarkedContent page="4" ?> 
+      <?MarkedContent page="4" ?>  
       <?MarkedContent page="4" ?>Grid-Style Author Block
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -2708,7 +2703,7 @@
         >
        <?MarkedContent page="4" ?>7.5
       </heading-number>
-      <?MarkedContent page="4" ?> 
+      <?MarkedContent page="4" ?>  
       <?MarkedContent page="4" ?>Changing the Copyright Footer
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -2756,7 +2751,7 @@
         >
        <?MarkedContent page="5" ?>7.6
       </heading-number>
-      <?MarkedContent page="5" ?> 
+      <?MarkedContent page="5" ?>  
       <?MarkedContent page="5" ?>Archivability: PDF/A
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -2850,7 +2845,7 @@
         >
        <?MarkedContent page="5" ?>7.7
       </heading-number>
-      <?MarkedContent page="5" ?> 
+      <?MarkedContent page="5" ?>  
       <?MarkedContent page="5" ?>Typewriter Font Options
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -2883,7 +2878,7 @@
         >
        <?MarkedContent page="5" ?>7.8
       </heading-number>
-      <?MarkedContent page="5" ?> 
+      <?MarkedContent page="5" ?>  
       <?MarkedContent page="5" ?>Support for Other Languages
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -2917,7 +2912,7 @@
        >
       <?MarkedContent page="5" ?>8
      </heading-number>
-     <?MarkedContent page="5" ?> 
+     <?MarkedContent page="5" ?>  
      <?MarkedContent page="5" ?>CONCLUSION
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -4105,7 +4100,7 @@
        >
       <?MarkedContent page="6" ?>A
      </heading-number>
-     <?MarkedContent page="6" ?> 
+     <?MarkedContent page="6" ?>  
      <?MarkedContent page="6" ?>THE VECTOR PRODUCT 
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
@@ -4183,7 +4178,7 @@
        >
       <?MarkedContent page="6" ?>B
      </heading-number>
-     <?MarkedContent page="6" ?> 
+     <?MarkedContent page="6" ?>  
      <?MarkedContent page="6" ?>USE WITH 
      <Span xmlns="http://iso.org/pdf2/ssn"
         actualtext="LuaLaTeX"
@@ -4484,7 +4479,7 @@
        >
       <?MarkedContent page="6" ?>C
      </heading-number>
-     <?MarkedContent page="6" ?> 
+     <?MarkedContent page="6" ?>  
      <?MarkedContent page="6" ?>MULTILINGUAL SUPPORT
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -4610,7 +4605,7 @@
        >
       <?MarkedContent page="7" ?>D
      </heading-number>
-     <?MarkedContent page="7" ?> 
+     <?MarkedContent page="7" ?>  
      <?MarkedContent page="7" ?>WÄRMEAUSTAUSCH UND REIBUNGSWIDERSTAND (von E. POHLHAUSEN)
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

@@ -2,34 +2,33 @@
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
     >
-   <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-      rolemaps-to="Part"
+   <title-block xmlns="https://www.latex-project.org/ns/dflt"
+      xmlns:ARIA-1.1="http://iso.org/pdf/ssn/ARIA-1.1"
+      ARIA-1.1:role="banner"
+      rolemaps-to="Div"
      >
-    <Title xmlns="http://iso.org/pdf2/ssn"
+    <title-text xmlns="https://www.latex-project.org/ns/dflt"
+       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+       Layout:TextAlign="Center"
+       rolemaps-to="Title"
       >
-     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-        Layout:TextAlign="Center"
-        rolemaps-to="P"
-       >
-      <?MarkedContent page="1" ?>xgreek δοκιμή επισήμανσης
-     </text-block>
-    </Title>
-    <text-block xmlns="https://www.latex-project.org/ns/dflt"
+     <?MarkedContent page="1" ?>xgreek δοκιμή επισήμανσης
+    </title-text>
+    <title-author xmlns="https://www.latex-project.org/ns/dflt"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?> Κάποιος συγγραφέας 
-    </text-block>
-    <text-block xmlns="https://www.latex-project.org/ns/dflt"
+    </title-author>
+    <title-date xmlns="https://www.latex-project.org/ns/dflt"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>20 Μαΐου 2016
-    </text-block>
-   </semantic-para>
+    </title-date>
+   </title-block>
    <section xmlns="https://www.latex-project.org/ns/dflt"
       rolemaps-to="Sect"
      >
@@ -42,7 +41,7 @@
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Ορισμένες επικεφαλίδες τμημάτων
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

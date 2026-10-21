@@ -488,7 +488,7 @@
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Normal section
     </section-heading>
     <subsection xmlns="https://www.latex-project.org/ns/dflt"
@@ -504,7 +504,7 @@
         >
        <?MarkedContent page="1" ?>1.1
       </heading-number>
-      <?MarkedContent page="1" ?> 
+      <?MarkedContent page="1" ?>  
       <?MarkedContent page="1" ?>sone
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -531,7 +531,7 @@
          >
         <?MarkedContent page="1" ?>1.1.1
        </heading-number>
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>  
        <?MarkedContent page="1" ?>ssone
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -559,7 +559,7 @@
          >
         <?MarkedContent page="1" ?>1.1.2
        </heading-number>
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>  
        <?MarkedContent page="1" ?>sstwo
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -588,7 +588,7 @@
         >
        <?MarkedContent page="2" ?>1.2
       </heading-number>
-      <?MarkedContent page="2" ?> 
+      <?MarkedContent page="2" ?>  
       <?MarkedContent page="2" ?>stwo
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -639,7 +639,7 @@
        >
       <?MarkedContent page="2" ?>2
      </heading-number>
-     <?MarkedContent page="2" ?> 
+     <?MarkedContent page="2" ?>  
      <?MarkedContent page="2" ?>Reduce numbering
     </section-heading>
     <subsection xmlns="https://www.latex-project.org/ns/dflt"
@@ -655,7 +655,7 @@
         >
        <?MarkedContent page="2" ?>2.1
       </heading-number>
-      <?MarkedContent page="2" ?> 
+      <?MarkedContent page="2" ?>  
       <?MarkedContent page="2" ?>sone
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -725,7 +725,7 @@
         >
        <?MarkedContent page="2" ?>2.2
       </heading-number>
-      <?MarkedContent page="2" ?> 
+      <?MarkedContent page="2" ?>  
       <?MarkedContent page="2" ?>stwo
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -776,7 +776,7 @@
        >
       <?MarkedContent page="2" ?>3
      </heading-number>
-     <?MarkedContent page="2" ?> 
+     <?MarkedContent page="2" ?>  
      <?MarkedContent page="2" ?>Reduce numbering again
     </section-heading>
     <subsection xmlns="https://www.latex-project.org/ns/dflt"
@@ -899,7 +899,7 @@
        >
       <?MarkedContent page="3" ?>4
      </heading-number>
-     <?MarkedContent page="3" ?> 
+     <?MarkedContent page="3" ?>  
      <?MarkedContent page="3" ?>Reset numbering once
     </section-heading>
     <subsection xmlns="https://www.latex-project.org/ns/dflt"
@@ -915,7 +915,7 @@
         >
        <?MarkedContent page="3" ?>4.1
       </heading-number>
-      <?MarkedContent page="3" ?> 
+      <?MarkedContent page="3" ?>  
       <?MarkedContent page="3" ?>sone
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -985,7 +985,7 @@
         >
        <?MarkedContent page="3" ?>4.2
       </heading-number>
-      <?MarkedContent page="3" ?> 
+      <?MarkedContent page="3" ?>  
       <?MarkedContent page="3" ?>stwo
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1036,7 +1036,7 @@
        >
       <?MarkedContent page="3" ?>5
      </heading-number>
-     <?MarkedContent page="3" ?> 
+     <?MarkedContent page="3" ?>  
      <?MarkedContent page="3" ?>Reduce numbering again
     </section-heading>
     <subsection xmlns="https://www.latex-project.org/ns/dflt"
@@ -1159,7 +1159,7 @@
        >
       <?MarkedContent page="3" ?>6
      </heading-number>
-     <?MarkedContent page="3" ?> 
+     <?MarkedContent page="3" ?>  
      <?MarkedContent page="3" ?>Another normal section after resetting com
      <?MarkedContent page="3" ?>pletely
     </section-heading>
@@ -1176,7 +1176,7 @@
         >
        <?MarkedContent page="3" ?>6.1
       </heading-number>
-      <?MarkedContent page="3" ?> 
+      <?MarkedContent page="3" ?>  
       <?MarkedContent page="3" ?>sone
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1203,7 +1203,7 @@
          >
         <?MarkedContent page="4" ?>6.1.1
        </heading-number>
-       <?MarkedContent page="4" ?> 
+       <?MarkedContent page="4" ?>  
        <?MarkedContent page="4" ?>ssone
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1231,7 +1231,7 @@
          >
         <?MarkedContent page="4" ?>6.1.2
        </heading-number>
-       <?MarkedContent page="4" ?> 
+       <?MarkedContent page="4" ?>  
        <?MarkedContent page="4" ?>sstwo
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1260,7 +1260,7 @@
         >
        <?MarkedContent page="4" ?>6.2
       </heading-number>
-      <?MarkedContent page="4" ?> 
+      <?MarkedContent page="4" ?>  
       <?MarkedContent page="4" ?>stwo
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1311,7 +1311,7 @@
        >
       <?MarkedContent page="4" ?>A
      </heading-number>
-     <?MarkedContent page="4" ?> 
+     <?MarkedContent page="4" ?>  
      <?MarkedContent page="4" ?>Appendix with all numbering
     </section-heading>
     <subsection xmlns="https://www.latex-project.org/ns/dflt"
@@ -1327,7 +1327,7 @@
         >
        <?MarkedContent page="4" ?>A.1
       </heading-number>
-      <?MarkedContent page="4" ?> 
+      <?MarkedContent page="4" ?>  
       <?MarkedContent page="4" ?>sone
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1354,7 +1354,7 @@
          >
         <?MarkedContent page="4" ?>A.1.1
        </heading-number>
-       <?MarkedContent page="4" ?> 
+       <?MarkedContent page="4" ?>  
        <?MarkedContent page="4" ?>ssone
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1382,7 +1382,7 @@
          >
         <?MarkedContent page="4" ?>A.1.2
        </heading-number>
-       <?MarkedContent page="4" ?> 
+       <?MarkedContent page="4" ?>  
        <?MarkedContent page="4" ?>sstwo
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1411,7 +1411,7 @@
         >
        <?MarkedContent page="4" ?>A.2
       </heading-number>
-      <?MarkedContent page="4" ?> 
+      <?MarkedContent page="4" ?>  
       <?MarkedContent page="4" ?>stwo
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1439,7 +1439,7 @@
          >
         <?MarkedContent page="4" ?>A.2.0.1
        </heading-number>
-       <?MarkedContent page="4" ?> 
+       <?MarkedContent page="4" ?>  
        <?MarkedContent page="4" ?>foo
       </paragraph-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

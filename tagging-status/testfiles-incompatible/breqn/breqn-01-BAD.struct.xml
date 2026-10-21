@@ -14,7 +14,7 @@
       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {dmath}A=B\end {dmath}
       </AssociatedFile>
-     <?MarkedContent page="1" ?>(1)A[TEXT]
+     <?MarkedContent page="1" ?>(1)A = B
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="dmath"
         af="source.tex"
@@ -24,7 +24,7 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        \begin {dmath}C=D\end {dmath}
        </AssociatedFile>
-      <?MarkedContent page="1" ?>(2)C[TEXT]
+      <?MarkedContent page="1" ?>(2)C = D
       <?MarkedContent page="1" ?>
      </Formula>
     </Formula>

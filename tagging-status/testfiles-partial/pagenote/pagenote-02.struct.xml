@@ -10,7 +10,7 @@
        rolemaps-to="H1"
       >
      <?MarkedContent page="1" ?>Chapter
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >
@@ -63,7 +63,7 @@
        rolemaps-to="H1"
       >
      <?MarkedContent page="2" ?>Chapter
-     <?MarkedContent page="2" ?> 
+     <?MarkedContent page="2" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >
@@ -74,9 +74,9 @@
     <subsection xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Sect"
       >
-     <subsection-heading xmlns="https://www.latex-project.org/ns/dflt"
+     <subsection-heading xmlns="https://www.latex-project.org/ns/book"
         title="Chapter 1 "
-        rolemaps-to="H2"
+        rolemaps-to="H3"
        >
       <?MarkedContent page="2" ?>Chapter 1
      </subsection-heading>
@@ -112,7 +112,7 @@
        rolemaps-to="H1"
       >
      <?MarkedContent page="3" ?>Chapter
-     <?MarkedContent page="3" ?> 
+     <?MarkedContent page="3" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >
@@ -147,7 +147,7 @@
        rolemaps-to="H1"
       >
      <?MarkedContent page="4" ?>Chapter
-     <?MarkedContent page="4" ?> 
+     <?MarkedContent page="4" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >
@@ -158,9 +158,9 @@
     <subsection xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Sect"
       >
-     <subsection-heading xmlns="https://www.latex-project.org/ns/dflt"
+     <subsection-heading xmlns="https://www.latex-project.org/ns/book"
         title="Chapter 3 "
-        rolemaps-to="H2"
+        rolemaps-to="H3"
        >
       <?MarkedContent page="4" ?>Chapter 3
      </subsection-heading>

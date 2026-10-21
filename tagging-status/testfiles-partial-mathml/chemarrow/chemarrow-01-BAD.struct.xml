@@ -14,7 +14,7 @@
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>chemarrow
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -48,7 +48,7 @@
        >
       <?MarkedContent page="1" ?>2
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>rarrowfill 2.5em
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -82,7 +82,7 @@
        >
       <?MarkedContent page="1" ?>3
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>larrowfill 2.5em
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -116,7 +116,7 @@
        >
       <?MarkedContent page="1" ?>4
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>rightleftharpoonsfill 2.5em
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -150,7 +150,7 @@
        >
       <?MarkedContent page="1" ?>5
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>leftrightharpoonsfill 2.5em
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -184,7 +184,7 @@
        >
       <?MarkedContent page="1" ?>6
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>autorightleftharpoons
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -218,7 +218,7 @@
        >
       <?MarkedContent page="1" ?>7
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>autoleftrightharpoons
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -252,7 +252,7 @@
        >
       <?MarkedContent page="2" ?>8
      </heading-number>
-     <?MarkedContent page="2" ?> 
+     <?MarkedContent page="2" ?>  
      <?MarkedContent page="2" ?>autorightarrow
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -286,7 +286,7 @@
        >
       <?MarkedContent page="2" ?>9
      </heading-number>
-     <?MarkedContent page="2" ?> 
+     <?MarkedContent page="2" ?>  
      <?MarkedContent page="2" ?>autoleftarrow
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

@@ -41,7 +41,7 @@
        >
       <?MarkedContent page="1" ?>3
      </text-fragment>
-     <?MarkedContent page="1" ?> Lorem…nisis] Anote on four lines of verse, the first of which was missing in the first edition
+     <?MarkedContent page="1" ?> Lorem…nisis] A note on four lines of verse, the first of which was missing in the first edition
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

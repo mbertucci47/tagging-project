@@ -14,7 +14,7 @@
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
         actualtext="LaTeX"
         phoneme="[ˈlaːtɛx]"
@@ -35,7 +35,7 @@
          Layout:TextAlign="Justify"
          rolemaps-to="Sub"
         >
-       <?MarkedContent page="1" ?>Thisis\LaTeX{}
+       <?MarkedContent page="1" ?>This is \LaTeX{}
       </codeline>
      </verbatim>
     </semantic-para>
@@ -54,7 +54,7 @@
          >
         <?MarkedContent page="1" ?>1
        </Lbl>
-       <?MarkedContent page="1" ?>Thisis\LaTeX{}
+       <?MarkedContent page="1" ?>This is \LaTeX{}
       </codeline>
      </verbatim>
     </semantic-para>

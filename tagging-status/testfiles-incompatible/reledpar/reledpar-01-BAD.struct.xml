@@ -61,72 +61,64 @@
   <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
      rolemaps-to="Div"
     >
-   <chapter xmlns="https://www.latex-project.org/ns/book"
-      rolemaps-to="Sect"
+   <chapter-heading xmlns="https://www.latex-project.org/ns/book"
+      title="Трактат Второй"
+      rolemaps-to="H1"
      >
-    <chapter-heading xmlns="https://www.latex-project.org/ns/book"
-       title="Трактат Второй"
-       rolemaps-to="H1"
+    <?MarkedContent page="1" ?>Глава
+    <?MarkedContent page="1" ?>  
+    <heading-number xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Lbl"
       >
-     <?MarkedContent page="1" ?>Глава
-     <?MarkedContent page="1" ?> 
-     <heading-number xmlns="https://www.latex-project.org/ns/dflt"
-        rolemaps-to="Lbl"
-       >
-      <?MarkedContent page="1" ?>1
-     </heading-number>
-     <?MarkedContent page="1" ?>Трактат Второй
-    </chapter-heading>
-    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       rolemaps-to="Part"
-      >
-     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-        Layout:TextAlign="Justify"
-        rolemaps-to="P"
-       >
-     </text-block>
-    </semantic-para>
-   </chapter>
-   <text-block xmlns="https://www.latex-project.org/ns/dflt"
-      rolemaps-to="P"
+     <?MarkedContent page="1" ?>1
+    </heading-number>
+    <?MarkedContent page="1" ?>Трактат Второй
+   </chapter-heading>
+   <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Part"
      >
-   </text-block>
-   <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
-      rolemaps-to="Div"
-     >
-    <chapter xmlns="https://www.latex-project.org/ns/book"
-       rolemaps-to="Sect"
-      >
-     <chapter-heading xmlns="https://www.latex-project.org/ns/book"
-        title="המאמר השני"
-        rolemaps-to="H1"
-       >
-      <?MarkedContent page="1" ?>פרק
-      <?MarkedContent page="1" ?> 
-      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
-         rolemaps-to="Lbl"
-        >
-       <?MarkedContent page="1" ?>1
-      </heading-number>
-      <?MarkedContent page="1" ?>המאמר השני
-     </chapter-heading>
-     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-        rolemaps-to="Part"
-       >
-      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-         Layout:TextAlign="Justify"
-         rolemaps-to="P"
-        >
-      </text-block>
-     </semantic-para>
-    </chapter>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+       Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
     </text-block>
-   </text-parbox>
+   </semantic-para>
   </text-parbox>
+  <text-block xmlns="https://www.latex-project.org/ns/dflt"
+     rolemaps-to="P"
+    >
+  </text-block>
+  <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
+     rolemaps-to="Div"
+    >
+   <chapter-heading xmlns="https://www.latex-project.org/ns/book"
+      title="המאמר השני"
+      rolemaps-to="H1"
+     >
+    <?MarkedContent page="1" ?>פרק
+    <?MarkedContent page="1" ?>  
+    <heading-number xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Lbl"
+      >
+     <?MarkedContent page="1" ?>1
+    </heading-number>
+    <?MarkedContent page="1" ?>המאמר השני
+   </chapter-heading>
+   <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Part"
+     >
+    <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+       Layout:TextAlign="Justify"
+       rolemaps-to="P"
+      >
+    </text-block>
+   </semantic-para>
+  </text-parbox>
+  <text-block xmlns="https://www.latex-project.org/ns/dflt"
+     rolemaps-to="P"
+    >
+  </text-block>
  </StructTreeRoot>
 </PDF>

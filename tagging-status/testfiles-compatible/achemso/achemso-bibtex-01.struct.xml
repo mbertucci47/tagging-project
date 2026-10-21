@@ -14,7 +14,7 @@
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Introduction
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -49,7 +49,7 @@
        >
       <?MarkedContent page="1" ?>2
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>Results and discussion
     </section-heading>
     <subsection xmlns="https://www.latex-project.org/ns/dflt"
@@ -64,7 +64,7 @@
         >
        <?MarkedContent page="1" ?>2.1
       </heading-number>
-      <?MarkedContent page="1" ?> 
+      <?MarkedContent page="1" ?>  
       <?MarkedContent page="1" ?>Outline
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -91,7 +91,7 @@
         >
        <?MarkedContent page="1" ?>2.2
       </heading-number>
-      <?MarkedContent page="1" ?> 
+      <?MarkedContent page="1" ?>  
       <?MarkedContent page="1" ?>References
      </subsection-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -144,7 +144,7 @@
           rolemaps-to="Span"
          >
        </text-fragment>
-       <?MarkedContent page="1" ?> ,or as given by Ref. 
+       <?MarkedContent page="1" ?> , or as given by Ref. 
        <Reference xmlns="http://iso.org/pdf/ssn"
          >
          <?References objects="1" ?>

@@ -113,7 +113,7 @@
          >
         <?MarkedContent page="1" ?>1
        </heading-number>
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>  
        <?MarkedContent page="1" ?>Let’s cite: [
        <Reference xmlns="http://iso.org/pdf/ssn"
          >

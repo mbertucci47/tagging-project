@@ -129,7 +129,7 @@
        referenced-as="1"
       >
      <?MarkedContent page="2" ?>Chapter
-     <?MarkedContent page="2" ?> 
+     <?MarkedContent page="2" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >
@@ -140,9 +140,9 @@
     <section xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Sect"
       >
-     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+     <section-heading xmlns="https://www.latex-project.org/ns/book"
         title="Prima sectio"
-        rolemaps-to="H1"
+        rolemaps-to="H2"
         referenced-as="2"
        >
       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -150,7 +150,7 @@
         >
        <?MarkedContent page="2" ?>1.1
       </heading-number>
-      <?MarkedContent page="2" ?> 
+      <?MarkedContent page="2" ?>  
       <?MarkedContent page="2" ?>Prima sectio
      </section-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -183,9 +183,9 @@
     <section xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Sect"
       >
-     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+     <section-heading xmlns="https://www.latex-project.org/ns/book"
         title="Secunda sectio"
-        rolemaps-to="H1"
+        rolemaps-to="H2"
         referenced-as="3"
        >
       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -193,7 +193,7 @@
         >
        <?MarkedContent page="2" ?>1.2
       </heading-number>
-      <?MarkedContent page="2" ?> 
+      <?MarkedContent page="2" ?>  
       <?MarkedContent page="2" ?>Secunda sectio
      </section-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -233,7 +233,7 @@
        referenced-as="4"
       >
      <?MarkedContent page="4" ?>Chapter
-     <?MarkedContent page="4" ?> 
+     <?MarkedContent page="4" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >
@@ -244,9 +244,9 @@
     <section xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Sect"
       >
-     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+     <section-heading xmlns="https://www.latex-project.org/ns/book"
         title="Prima sectio"
-        rolemaps-to="H1"
+        rolemaps-to="H2"
         referenced-as="5"
        >
       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -254,7 +254,7 @@
         >
        <?MarkedContent page="4" ?>2.1
       </heading-number>
-      <?MarkedContent page="4" ?> 
+      <?MarkedContent page="4" ?>  
       <?MarkedContent page="4" ?>Prima sectio
      </section-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -284,9 +284,9 @@
     <section xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Sect"
       >
-     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+     <section-heading xmlns="https://www.latex-project.org/ns/book"
         title="Secunda sectio"
-        rolemaps-to="H1"
+        rolemaps-to="H2"
         referenced-as="6"
        >
       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -294,7 +294,7 @@
         >
        <?MarkedContent page="5" ?>2.2
       </heading-number>
-      <?MarkedContent page="5" ?> 
+      <?MarkedContent page="5" ?>  
       <?MarkedContent page="5" ?>Secunda sectio
      </section-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -325,9 +325,9 @@
     <section xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Sect"
       >
-     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+     <section-heading xmlns="https://www.latex-project.org/ns/book"
         title="Tertia sectio"
-        rolemaps-to="H1"
+        rolemaps-to="H2"
         referenced-as="7"
        >
       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -335,7 +335,7 @@
         >
        <?MarkedContent page="6" ?>2.3
       </heading-number>
-      <?MarkedContent page="6" ?> 
+      <?MarkedContent page="6" ?>  
       <?MarkedContent page="6" ?>Tertia sectio
      </section-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

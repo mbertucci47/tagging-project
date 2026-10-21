@@ -103,7 +103,7 @@
        referenced-as="1"
       >
      <?MarkedContent page="2" ?>Chapter
-     <?MarkedContent page="2" ?> 
+     <?MarkedContent page="2" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >
@@ -114,9 +114,9 @@
     <section xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Sect"
       >
-     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+     <section-heading xmlns="https://www.latex-project.org/ns/book"
         title="Some section"
-        rolemaps-to="H1"
+        rolemaps-to="H2"
         referenced-as="2"
        >
       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -124,15 +124,15 @@
         >
        <?MarkedContent page="2" ?>1.1
       </heading-number>
-      <?MarkedContent page="2" ?> 
+      <?MarkedContent page="2" ?>  
       <?MarkedContent page="2" ?>Some section
      </section-heading>
      <subsection xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Sect"
        >
-      <subsection-heading xmlns="https://www.latex-project.org/ns/dflt"
+      <subsection-heading xmlns="https://www.latex-project.org/ns/book"
          title="Some subsection"
-         rolemaps-to="H2"
+         rolemaps-to="H3"
          referenced-as="3"
         >
        <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -140,7 +140,7 @@
          >
         <?MarkedContent page="2" ?>1.1.1
        </heading-number>
-       <?MarkedContent page="2" ?> 
+       <?MarkedContent page="2" ?>  
        <?MarkedContent page="2" ?>Some subsection
       </subsection-heading>
      </subsection>
@@ -148,9 +148,9 @@
     <section xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Sect"
       >
-     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+     <section-heading xmlns="https://www.latex-project.org/ns/book"
         title="out2"
-        rolemaps-to="H1"
+        rolemaps-to="H2"
         referenced-as="4"
        >
       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
@@ -158,7 +158,7 @@
         >
        <?MarkedContent page="2" ?>1.2
       </heading-number>
-      <?MarkedContent page="2" ?> 
+      <?MarkedContent page="2" ?>  
       <?MarkedContent page="2" ?>Another section
      </section-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

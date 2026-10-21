@@ -527,7 +527,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="2" ?>RR␣comment
+     <?MarkedContent page="2" ?>RR comment
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -538,7 +538,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="2" ?>O␣castlingchar
+     <?MarkedContent page="2" ?>O castlingchar
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -549,7 +549,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="2" ?>O-O-O␣longcastling
+     <?MarkedContent page="2" ?>O-O-O longcastling
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -560,7 +560,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="2" ?>O-O␣shortcastling
+     <?MarkedContent page="2" ?>O-O shortcastling
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -571,7 +571,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="2" ?>N␣novelty
+     <?MarkedContent page="2" ?>N novelty
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -582,7 +582,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="2" ?>R␣various
+     <?MarkedContent page="2" ?>R various
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -603,7 +603,7 @@
          xmlns:Table="http://iso.org/pdf/ssn/Table"
          Table:ColSpan="6"
         >
-       <?MarkedContent page="2" ?>Encoding␣LSBC3
+       <?MarkedContent page="2" ?>Encoding LSBC3
       </TD>
      </TR>
      <TR xmlns="http://iso.org/pdf2/ssn"

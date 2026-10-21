@@ -24,7 +24,7 @@
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>A normal section
      <?MarkedContent page="1" ?>
     </section-heading>
