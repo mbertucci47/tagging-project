@@ -1,11 +1,14 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
+     id="ID.002"
     >
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.006"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.007"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -13,6 +16,7 @@
      <?MarkedContent page="1" ?>sizes for default brackets:
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.008"
        title="equation*"
        af="mathml-1.xml source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -28,9 +32,11 @@
     </Formula>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.009"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.010"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -38,6 +44,7 @@
      <?MarkedContent page="1" ?>styles for default brackets:
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.011"
        title="equation*"
        af="mathml-2.xml source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -53,9 +60,11 @@
     </Formula>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.012"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.013"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -63,6 +72,7 @@
      <?MarkedContent page="1" ?>nested brackets:
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.014"
        title="equation*"
        af="mathml-3.xml source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -78,9 +88,11 @@
     </Formula>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.015"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.016"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -88,6 +100,7 @@
      <?MarkedContent page="1" ?>default absolute value, norm and default evaluations:
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.017"
        title="equation*"
        af="mathml-4.xml source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -103,9 +116,11 @@
     </Formula>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.018"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.019"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -113,6 +128,7 @@
      <?MarkedContent page="1" ?>outer delimiter spacing:
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.020"
        title="align*"
        af="mathml-5.xml source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -131,9 +147,11 @@
     </Formula>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.021"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.022"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -141,6 +159,7 @@
      <?MarkedContent page="1" ?>delimiter sizes in exponents:
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.023"
        title="equation*"
        af="mathml-6.xml source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -156,9 +175,11 @@
     </Formula>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.024"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.025"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -166,6 +187,7 @@
      <?MarkedContent page="1" ?>delimiter declaration:
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.026"
        title="equation*"
        af="mathml-7.xml source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -181,9 +203,11 @@
     </Formula>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.027"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.028"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -191,6 +215,7 @@
      <?MarkedContent page="1" ?>delimiter usage:
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.029"
        title="equation*"
        af="mathml-8.xml source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -206,9 +231,11 @@
     </Formula>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.030"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.031"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -216,6 +243,7 @@
      <?MarkedContent page="1" ?>conditional set, alternative layouts:
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.032"
        title="equation*"
        af="mathml-9.xml source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -230,6 +258,7 @@
      <?MarkedContent page="1" ?>{2𝑛∣𝑛∈ℤ},{2𝑛∣𝑛∈ℤ},{2𝑛∣𝑛∈ℤ},{2𝑛∣𝑛∈ℤ},{2𝑛∣𝑛∈ℤ},{2𝑛;𝑛∈ℤ}
     </Formula>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.033"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -237,6 +266,7 @@
      <?MarkedContent page="1" ?>conditional set, alternative layouts with variable size:
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.034"
        title="equation*"
        af="mathml-10.xml source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -252,9 +282,11 @@
     </Formula>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.035"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.036"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -262,6 +294,7 @@
      <?MarkedContent page="1" ?>delimiter definition:
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.037"
        title="equation*"
        af="mathml-11.xml source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -277,9 +310,11 @@
     </Formula>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.038"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.039"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -287,6 +322,7 @@
      <?MarkedContent page="1" ?>alternative representation:
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.040"
        title="equation*"
        af="mathml-11.xml source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -302,9 +338,11 @@
     </Formula>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.041"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.042"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -312,6 +350,7 @@
      <?MarkedContent page="1" ?>display individual delimiters of a set:
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.043"
        title="equation*"
        af="mathml-13.xml source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -327,9 +366,11 @@
     </Formula>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.044"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.045"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -337,6 +378,7 @@
      <?MarkedContent page="1" ?>placing indices before a bracket (does not work in variable-size mode because the final size is not available for the enclosed expressions):
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.046"
        title="equation*"
        af="mathml-14.xml source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"

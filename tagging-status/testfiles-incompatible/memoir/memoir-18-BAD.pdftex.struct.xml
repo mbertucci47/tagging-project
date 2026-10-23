@@ -1,11 +1,14 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
+     id="ID.002"
     >
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.005"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.006"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -14,6 +17,7 @@
     </text-block>
    </semantic-para>
    <Figure xmlns="http://iso.org/pdf2/ssn"
+      id="ID.007"
       alt="picture environment"
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 0, 792, 0, 792 }"
@@ -21,6 +25,7 @@
     <?MarkedContent page="1" ?>
    </Figure>
    <Figure xmlns="http://iso.org/pdf2/ssn"
+      id="ID.008"
       alt="picture environment"
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 306.00002, 792, 306.00002, 792 }"
@@ -28,6 +33,7 @@
     <?MarkedContent page="1" ?>
    </Figure>
    <Figure xmlns="http://iso.org/pdf2/ssn"
+      id="ID.009"
       alt="picture environment"
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 612, 792, 612, 792 }"
@@ -35,6 +41,7 @@
     <?MarkedContent page="1" ?>
    </Figure>
    <Figure xmlns="http://iso.org/pdf2/ssn"
+      id="ID.010"
       alt="picture environment"
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 0, 396, 0, 396 }"
@@ -42,6 +49,7 @@
     <?MarkedContent page="1" ?>
    </Figure>
    <Figure xmlns="http://iso.org/pdf2/ssn"
+      id="ID.011"
       alt="picture environment"
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 612, 396, 612, 396 }"
@@ -49,6 +57,7 @@
     <?MarkedContent page="1" ?>
    </Figure>
    <Figure xmlns="http://iso.org/pdf2/ssn"
+      id="ID.012"
       alt="picture environment"
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 0, 0, 0, 0 }"
@@ -56,6 +65,7 @@
     <?MarkedContent page="1" ?>
    </Figure>
    <Figure xmlns="http://iso.org/pdf2/ssn"
+      id="ID.013"
       alt="picture environment"
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 306.00002, 0, 306.00002, 0 }"
@@ -63,6 +73,7 @@
     <?MarkedContent page="1" ?>
    </Figure>
    <Figure xmlns="http://iso.org/pdf2/ssn"
+      id="ID.014"
       alt="picture environment"
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 612, 0, 612, 0 }"

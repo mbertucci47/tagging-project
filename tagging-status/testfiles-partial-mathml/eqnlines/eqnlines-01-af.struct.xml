@@ -1,13 +1,16 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
+     id="ID.0002"
     >
    <title-block xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.0006"
       xmlns:ARIA-1.1="http://iso.org/pdf/ssn/ARIA-1.1"
       ARIA-1.1:role="banner"
       rolemaps-to="Div"
      >
     <title-text xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0007"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="Title"
@@ -15,6 +18,7 @@
      <?MarkedContent page="1" ?>eqnlines test
     </title-text>
     <title-author xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0008"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
@@ -22,6 +26,7 @@
      <?MarkedContent page="1" ?> Niklas Beisert
     </title-author>
     <title-date xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0009"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
@@ -30,9 +35,11 @@
     </title-date>
    </title-block>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.0010"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0011"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -41,13 +48,16 @@
     </text-block>
    </semantic-para>
    <section xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.0012"
       rolemaps-to="Sect"
      >
     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0013"
        title="eqnlines environments"
        rolemaps-to="H1"
       >
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0014"
         rolemaps-to="Lbl"
        >
       <?MarkedContent page="1" ?>1
@@ -56,9 +66,11 @@
      <?MarkedContent page="1" ?>eqnlines environments
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0015"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0016"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -66,6 +78,7 @@
       <?MarkedContent page="1" ?>equation
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0017"
         title="equation"
         af="mathml-1.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -79,9 +92,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0018"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0019"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -89,6 +104,7 @@
       <?MarkedContent page="1" ?>symbolic equation
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0020"
         title="equations@sqr"
         af="mathml-2.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -101,9 +117,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0021"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0022"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -111,6 +129,7 @@
       <?MarkedContent page="1" ?>gather
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0023"
         title="equations"
         af="mathml-3.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -124,9 +143,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0024"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0025"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -134,6 +155,7 @@
       <?MarkedContent page="1" ?>align with last numbering
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0026"
         title="equations"
         af="mathml-4.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -147,9 +169,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0027"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0028"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -157,6 +181,7 @@
       <?MarkedContent page="1" ?>gather with numbering options
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0029"
         title="equations"
         af="mathml-5.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -170,9 +195,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0030"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0031"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -180,6 +207,7 @@
       <?MarkedContent page="1" ?>symbolic gather
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0032"
         title="equations@ang"
         af="mathml-6.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -192,9 +220,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0033"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0034"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -202,6 +232,7 @@
       <?MarkedContent page="1" ?>symbolic align
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0035"
         title="equations@ang"
         af="mathml-7.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -214,9 +245,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0036"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0037"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -224,6 +257,7 @@
       <?MarkedContent page="1" ?>symbolic align several columns
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0038"
         title="equations@ang"
         af="mathml-8.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -247,9 +281,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0039"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0040"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -257,6 +293,7 @@
       <?MarkedContent page="1" ?>correct placement for option * in equations
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0041"
         title="equations"
         af="mathml-9.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -268,6 +305,7 @@
       <?MarkedContent page="1" ?>𝑥=𝑦𝑦=sin𝑧
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0042"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -275,6 +313,7 @@
       <?MarkedContent page="1" ?>misplaced option *
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0043"
         title="equations"
         af="mathml-10.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -286,6 +325,7 @@
       <?MarkedContent page="1" ?>∗𝑥=𝑦𝑦=sin𝑧
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0044"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -293,6 +333,7 @@
       <?MarkedContent page="1" ?>misplaced option for altequations registered via RegisterMathEnvironment
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0045"
         title="altequations"
         af="mathml-11.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -304,6 +345,7 @@
       <?MarkedContent page="1" ?>𝑥=𝑦𝑦=sin𝑧
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0046"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -312,9 +354,11 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0047"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0048"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -322,6 +366,7 @@
       <?MarkedContent page="2" ?>correct placement for option ! in symbolic equation
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0049"
         title="equations@sqr"
         af="mathml-12.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -334,6 +379,7 @@
       <?MarkedContent page="2" ?>(7)
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0050"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -341,6 +387,7 @@
       <?MarkedContent page="2" ?>misplaced option ! for symbolic equation
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0051"
         title="equations@sqr"
         af="mathml-13.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -353,9 +400,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0052"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0053"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -363,6 +412,7 @@
       <?MarkedContent page="2" ?>multi-column alignment (not correctly reproduced in mathml)
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0054"
         title="equations@sqr"
         af="mathml-14.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -374,6 +424,7 @@
       <?MarkedContent page="2" ?>𝑥𝑥𝑥𝑥𝑥𝑥𝑥𝑥𝑥𝑥𝑥𝑥𝑥𝑥𝑥𝑥𝑥𝑙𝑒𝑓𝑡𝑟𝑖𝑔ℎ𝑡𝑟𝑖𝑔ℎ𝑡𝑙𝑒𝑓𝑡𝑟𝑖𝑔ℎ𝑡𝑐𝑒𝑛𝑡𝑒𝑟𝑟𝑖𝑔ℎ𝑡𝑐𝑒𝑛𝑡𝑒𝑟
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0055"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -382,15 +433,18 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0056"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0057"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
       <?MarkedContent page="2" ?>aligned equationsbox in inline 
       <Formula xmlns="http://iso.org/pdf2/ssn"
+         id="ID.0058"
          title="math"
          af="mathml-15.xml"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -404,9 +458,11 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0059"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0060"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -414,6 +470,7 @@
       <?MarkedContent page="2" ?>multline with shoves
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0061"
         title="equations"
         af="mathml-16.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -426,9 +483,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0062"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0063"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -436,6 +495,7 @@
       <?MarkedContent page="2" ?>continued equation
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0064"
         title="equations@sqr"
         af="mathml-2.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -447,12 +507,14 @@
       <?MarkedContent page="2" ?>𝑥=𝑦
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0065"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0066"
         title="equations@sqr"
         af="mathml-2.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -464,6 +526,7 @@
       <?MarkedContent page="2" ?>𝑥=𝑦
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0067"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -472,9 +535,11 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0068"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0069"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -483,15 +548,18 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0070"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0071"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0072"
         title="equations@sqr"
         af="mathml-2.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -504,9 +572,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0073"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0074"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -515,9 +585,11 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0075"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0076"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -525,6 +597,7 @@
       <?MarkedContent page="2" ?>vertical spacing removed
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0077"
         title="equations@sqr"
         af="mathml-20.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -536,6 +609,7 @@
       <?MarkedContent page="2" ?>𝑥=𝑦
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0078"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -544,9 +618,11 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0079"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0080"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -555,15 +631,18 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0081"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0082"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0083"
         title="equations@sqr"
         af="mathml-2.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -575,6 +654,7 @@
       <?MarkedContent page="2" ?>𝑥=𝑦
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0084"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -583,9 +663,11 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0085"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0086"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -593,18 +675,22 @@
       <?MarkedContent page="2" ?>equation in a parbox 
      </text-block>
      <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0087"
         rolemaps-to="Div"
        >
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+         id="ID.0088"
          rolemaps-to="Part"
         >
        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+          id="ID.0089"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextAlign="Justify"
           rolemaps-to="P"
          >
        </text-block>
        <Formula xmlns="http://iso.org/pdf2/ssn"
+          id="ID.0090"
           title="equations@sqr"
           af="mathml-22.xml"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -619,6 +705,7 @@
       </semantic-para>
      </text-parbox>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0091"
         rolemaps-to="P"
        >
       <?MarkedContent page="2" ?>
@@ -626,9 +713,11 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0092"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0093"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -636,6 +725,7 @@
       <?MarkedContent page="2" ?>alignment with intertext
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0094"
         title="equations@ang"
         af="mathml-23.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -649,13 +739,16 @@
     </semantic-para>
    </section>
    <section xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.0095"
       rolemaps-to="Sect"
      >
     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0096"
        title="align.tex examples: eqnlines environments only"
        rolemaps-to="H1"
       >
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0097"
         rolemaps-to="Lbl"
        >
       <?MarkedContent page="3" ?>2
@@ -664,9 +757,11 @@
      <?MarkedContent page="3" ?>align.tex examples: eqnlines environments only
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0098"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0099"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -674,6 +769,7 @@
       <?MarkedContent page="3" ?>Simple align
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0100"
         title="align"
         af="mathml-24.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -693,9 +789,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0101"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0102"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -703,6 +801,7 @@
       <?MarkedContent page="3" ?>Simple align*
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0103"
         title="align*"
         af="mathml-25.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -715,9 +814,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0104"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0105"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -725,6 +826,7 @@
       <?MarkedContent page="3" ?>aligned in equation
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0106"
         title="equation"
         af="mathml-26.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -738,9 +840,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0107"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0108"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -748,6 +852,7 @@
       <?MarkedContent page="3" ?>nonumber in align
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0109"
         title="align"
         af="mathml-27.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -761,9 +866,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0110"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0111"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -771,6 +878,7 @@
       <?MarkedContent page="3" ?>tag in align*
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0112"
         title="align*"
         af="mathml-28.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -784,9 +892,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0113"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0114"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -794,6 +904,7 @@
       <?MarkedContent page="3" ?>Two groups in align
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0115"
         title="align"
         af="mathml-29.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -817,9 +928,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0116"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0117"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -827,6 +940,7 @@
       <?MarkedContent page="3" ?>Two groups in flalign
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0118"
         title="flalign"
         af="mathml-30.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -851,13 +965,16 @@
     </semantic-para>
    </section>
    <section xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.0119"
       rolemaps-to="Sect"
      >
     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0120"
        title="align.tex examples: mixed eqnlines and amsmath environments"
        rolemaps-to="H1"
       >
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0121"
         rolemaps-to="Lbl"
        >
       <?MarkedContent page="4" ?>3
@@ -867,9 +984,11 @@
      <?MarkedContent page="4" ?>math environments
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0122"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0123"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -877,6 +996,7 @@
       <?MarkedContent page="4" ?>split in equation
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0124"
         title="equation"
         af="mathml-31.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -889,6 +1009,7 @@
       <?MarkedContent page="4" ?>(17)
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0125"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -897,9 +1018,11 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0126"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0127"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -907,6 +1030,7 @@
       <?MarkedContent page="4" ?>amsaligned in equation
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0128"
         title="equation"
         af="mathml-32.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -925,13 +1049,16 @@
     </semantic-para>
    </section>
    <section xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.0129"
       rolemaps-to="Sect"
      >
     <section-heading xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0130"
        title="align.tex examples: original amsmath environments only"
        rolemaps-to="H1"
       >
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0131"
         rolemaps-to="Lbl"
        >
       <?MarkedContent page="5" ?>4
@@ -941,9 +1068,11 @@
      <?MarkedContent page="5" ?>ments only
     </section-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0132"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0133"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -951,6 +1080,7 @@
       <?MarkedContent page="5" ?>amsequation
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0134"
         title="amsequation"
         af="mathml-33.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -964,9 +1094,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0135"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0136"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -974,6 +1106,7 @@
       <?MarkedContent page="5" ?>Simple amsalign
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0137"
         title="align"
         af="mathml-34.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -988,6 +1121,7 @@
       <?MarkedContent page="5" ?>(21)
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0138"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -996,9 +1130,11 @@
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0139"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0140"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1006,6 +1142,7 @@
       <?MarkedContent page="5" ?>alignment with intertext
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0141"
         title="align*"
         af="mathml-35.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -1019,9 +1156,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0143"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0144"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1029,6 +1168,7 @@
       <?MarkedContent page="5" ?>Simple amsalign*
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0145"
         title="align*"
         af="mathml-36.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -1042,9 +1182,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0146"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0147"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1052,6 +1194,7 @@
       <?MarkedContent page="5" ?>amsaligned in amsequation
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0148"
         title="amsequation"
         af="mathml-37.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -1068,9 +1211,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0149"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0150"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1078,6 +1223,7 @@
       <?MarkedContent page="5" ?>split in equation
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0151"
         title="amsequation"
         af="mathml-38.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -1093,9 +1239,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0152"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0153"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1103,6 +1251,7 @@
       <?MarkedContent page="5" ?>split in amsalign
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0154"
         title="align"
         af="mathml-39.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -1120,9 +1269,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0155"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0156"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1130,6 +1281,7 @@
       <?MarkedContent page="5" ?>split in amsgather
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0157"
         title="gather"
         af="mathml-40.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -1147,9 +1299,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0158"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0159"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1157,6 +1311,7 @@
       <?MarkedContent page="5" ?>notag in amsalign
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0160"
         title="align"
         af="mathml-41.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -1171,9 +1326,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0161"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0162"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1181,6 +1338,7 @@
       <?MarkedContent page="5" ?>tag in amsalign*
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0163"
         title="align*"
         af="mathml-42.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -1195,9 +1353,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0164"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0165"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1205,6 +1365,7 @@
       <?MarkedContent page="6" ?>Two groups in amsalign
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0166"
         title="align"
         af="mathml-43.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -1222,9 +1383,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0167"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0168"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1232,6 +1395,7 @@
       <?MarkedContent page="6" ?>Two groups in alignat
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0169"
         title="alignat"
         af="mathml-44.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -1249,9 +1413,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0170"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0171"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1259,6 +1425,7 @@
       <?MarkedContent page="6" ?>Two groups in amsflalign
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0172"
         title="flalign"
         af="mathml-45.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -1276,9 +1443,11 @@
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0173"
        rolemaps-to="Part"
       >
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0174"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="P"
@@ -1286,6 +1455,7 @@
       <?MarkedContent page="6" ?>amsalignat* with no intercolumn space
      </text-block>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0175"
         title="alignat*"
         af="mathml-46.xml"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"

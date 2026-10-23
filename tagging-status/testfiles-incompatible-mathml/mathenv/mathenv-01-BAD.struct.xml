@@ -1,11 +1,14 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
+     id="ID.002"
     >
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.006"
       rolemaps-to="Part"
      >
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.007"
        title="eqnarray"
        af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -18,9 +21,11 @@
     </Formula>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.008"
       rolemaps-to="Part"
      >
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.009"
        title="eqnarray"
        af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -33,9 +38,11 @@
     </Formula>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.010"
       rolemaps-to="Part"
      >
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.011"
        title="eqnarray"
        af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -48,9 +55,11 @@
     </Formula>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.012"
       rolemaps-to="Part"
      >
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.013"
        title="eqnarray*"
        af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -63,9 +72,11 @@
     </Formula>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.014"
       rolemaps-to="Part"
      >
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.015"
        title="equation*"
        af="mathml-5.xml source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -81,9 +92,11 @@
     </Formula>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.016"
       rolemaps-to="Part"
      >
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.017"
        title="equation"
        af="mathml-6.xml source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -100,9 +113,11 @@
     </Formula>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.018"
       rolemaps-to="Part"
      >
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.019"
        title="equation*"
        af="mathml-7.xml source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -118,9 +133,11 @@
     </Formula>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.020"
       rolemaps-to="Part"
      >
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.021"
        title="equation*"
        af="mathml-8.xml source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -136,9 +153,11 @@
     </Formula>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.022"
       rolemaps-to="Part"
      >
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.023"
        title="equation*"
        af="mathml-9.xml source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"

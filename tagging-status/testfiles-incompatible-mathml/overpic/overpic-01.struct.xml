@@ -1,8 +1,10 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
+     id="ID.002"
     >
    <Figure xmlns="http://iso.org/pdf2/ssn"
+      id="ID.006"
       alt="alt text"
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 148.71233, 548.14352, 308.71195, 668.14322 }"
@@ -10,14 +12,17 @@
     <?MarkedContent page="1" ?>
    </Figure>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.007"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.008"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <Figure xmlns="http://iso.org/pdf2/ssn"
+        id="ID.009"
         alt="picture environment"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 148.71233, 548.14352, 307.45164, 667.19801 }"
@@ -28,6 +33,7 @@
     </text-block>
    </semantic-para>
    <Figure xmlns="http://iso.org/pdf2/ssn"
+      id="ID.010"
       alt="alt text"
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 148.71233, 398.80174, 308.71195, 518.80144 }"
@@ -35,14 +41,17 @@
     <?MarkedContent page="1" ?>
    </Figure>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.011"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.012"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <Figure xmlns="http://iso.org/pdf2/ssn"
+        id="ID.013"
         alt="picture environment"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 148.71233, 398.80174, 308.71109, 518.80081 }"
@@ -53,6 +62,7 @@
     </text-block>
    </semantic-para>
    <Formula xmlns="http://iso.org/pdf2/ssn"
+      id="ID.014"
       title="math"
       af="mathml-1.xml source.tex"
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -67,14 +77,17 @@
     <?MarkedContent page="1" ?>𝑛∑𝑖=1𝑥𝑖=𝐴+𝐵
    </Formula>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.015"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.016"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <Figure xmlns="http://iso.org/pdf2/ssn"
+        id="ID.017"
         alt="picture environment"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 148.71233, 344.42955, 214.57936, 369.45903 }"

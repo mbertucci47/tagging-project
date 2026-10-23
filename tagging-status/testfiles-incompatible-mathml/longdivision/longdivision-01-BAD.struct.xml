@@ -1,11 +1,14 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
+     id="ID.002"
     >
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.006"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.007"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -13,13 +16,17 @@
      <?MarkedContent page="1" ?>22
     </text-block>
     <Table xmlns="http://iso.org/pdf2/ssn"
+       id="ID.008"
       >
      <TR xmlns="http://iso.org/pdf2/ssn"
+        id="ID.009"
        >
       <TD xmlns="http://iso.org/pdf2/ssn"
+         id="ID.010"
         >
        <?MarkedContent page="1" ?>4.
        <Formula xmlns="http://iso.org/pdf2/ssn"
+          id="ID.011"
           title="math"
           af="mathml-1.xml source.tex"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -36,10 +43,13 @@
       </TD>
      </TR>
      <TR xmlns="http://iso.org/pdf2/ssn"
+        id="ID.012"
        >
       <TD xmlns="http://iso.org/pdf2/ssn"
+         id="ID.013"
         >
        <Formula xmlns="http://iso.org/pdf2/ssn"
+          id="ID.014"
           title="math"
           af="mathml-2.xml source.tex"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -54,52 +64,67 @@
         <?MarkedContent page="1" ?>)
        </Formula>
        <Table xmlns="http://iso.org/pdf2/ssn"
+          id="ID.015"
          >
         <TR xmlns="http://iso.org/pdf2/ssn"
+           id="ID.016"
           >
          <TD xmlns="http://iso.org/pdf2/ssn"
+            id="ID.017"
            >
           <?MarkedContent page="1" ?>100.00
          </TD>
         </TR>
         <TR xmlns="http://iso.org/pdf2/ssn"
+           id="ID.018"
           >
          <TD xmlns="http://iso.org/pdf2/ssn"
+            id="ID.019"
            >
           <?MarkedContent page="1" ?>88
          </TD>
         </TR>
         <TR xmlns="http://iso.org/pdf2/ssn"
+           id="ID.020"
           >
          <TD xmlns="http://iso.org/pdf2/ssn"
+            id="ID.021"
            >
           <?MarkedContent page="1" ?>12.0
          </TD>
         </TR>
         <TR xmlns="http://iso.org/pdf2/ssn"
+           id="ID.022"
           >
          <TD xmlns="http://iso.org/pdf2/ssn"
+            id="ID.023"
            >
           <?MarkedContent page="1" ?>11.0
          </TD>
         </TR>
         <TR xmlns="http://iso.org/pdf2/ssn"
+           id="ID.024"
           >
          <TD xmlns="http://iso.org/pdf2/ssn"
+            id="ID.025"
            >
           <?MarkedContent page="1" ?>1.00
          </TD>
         </TR>
         <TR xmlns="http://iso.org/pdf2/ssn"
+           id="ID.026"
           >
          <TD xmlns="http://iso.org/pdf2/ssn"
+            id="ID.027"
            >
           <?MarkedContent page="1" ?>88
          </TD>
         </TR>
         <TR xmlns="http://iso.org/pdf2/ssn"
+           id="ID.028"
           >
          <TD xmlns="http://iso.org/pdf2/ssn"
+            id="ID.029"
            >
           <?MarkedContent page="1" ?>12
          </TD>
@@ -109,14 +134,17 @@
      </TR>
     </Table>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.030"
        rolemaps-to="P"
       >
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.031"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.032"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -124,19 +152,25 @@
      <?MarkedContent page="1" ?>22
     </text-block>
     <Table xmlns="http://iso.org/pdf2/ssn"
+       id="ID.033"
       >
      <TR xmlns="http://iso.org/pdf2/ssn"
+        id="ID.034"
        >
       <TD xmlns="http://iso.org/pdf2/ssn"
+         id="ID.035"
         >
        <?MarkedContent page="1" ?>4
       </TD>
      </TR>
      <TR xmlns="http://iso.org/pdf2/ssn"
+        id="ID.036"
        >
       <TD xmlns="http://iso.org/pdf2/ssn"
+         id="ID.037"
         >
        <Formula xmlns="http://iso.org/pdf2/ssn"
+          id="ID.038"
           title="math"
           af="mathml-2.xml source.tex"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -151,24 +185,31 @@
         <?MarkedContent page="1" ?>)
        </Formula>
        <Table xmlns="http://iso.org/pdf2/ssn"
+          id="ID.039"
          >
         <TR xmlns="http://iso.org/pdf2/ssn"
+           id="ID.040"
           >
          <TD xmlns="http://iso.org/pdf2/ssn"
+            id="ID.041"
            >
           <?MarkedContent page="1" ?>100
          </TD>
         </TR>
         <TR xmlns="http://iso.org/pdf2/ssn"
+           id="ID.042"
           >
          <TD xmlns="http://iso.org/pdf2/ssn"
+            id="ID.043"
            >
           <?MarkedContent page="1" ?>88
          </TD>
         </TR>
         <TR xmlns="http://iso.org/pdf2/ssn"
+           id="ID.044"
           >
          <TD xmlns="http://iso.org/pdf2/ssn"
+            id="ID.045"
            >
           <?MarkedContent page="1" ?>12
          </TD>
@@ -178,6 +219,7 @@
      </TR>
     </Table>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.046"
        rolemaps-to="P"
       >
     </text-block>

@@ -1,11 +1,14 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
+     id="ID.002"
     >
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.006"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.007"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -15,9 +18,11 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.008"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.009"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -26,11 +31,13 @@
      <?MarkedContent page="1" ?>are endowed with reason and conscience and should act towards one another 
      <?MarkedContent page="1" ?>in a spirit of brotherhood.
      <footnotemark xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.010"
         rolemaps-to="Lbl"
         referenced-as="2"
        >
        <?References objects="1" ?>
       <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
+         id="ID.011"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:TextPosition="Sup"
          rolemaps-to="Span"
@@ -39,14 +46,17 @@
       </text-fragment>
      </footnotemark>
      <footnote xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.012"
         rolemaps-to="FENote"
         referenced-as="1"
        >
        <?References objects="2" ?>
       <footnotelabel xmlns="https://www.latex-project.org/ns/dflt"
+         id="ID.015"
          rolemaps-to="Lbl"
         >
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
+          id="ID.016"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextPosition="Sup"
           rolemaps-to="Span"
@@ -55,9 +65,11 @@
        </text-fragment>
       </footnotelabel>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+         id="ID.013"
          rolemaps-to="Part"
         >
        <text-block xmlns="https://www.latex-project.org/ns/dflt"
+          id="ID.014"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextAlign="Justify"
           rolemaps-to="P"
@@ -69,9 +81,11 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.017"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.018"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -79,6 +93,7 @@
      <?MarkedContent page="1" ?>人人有资格享有本宣言所载的一切权利和自由，
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.019"
        title="equation"
        af="mathml-1.xml source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -94,6 +109,7 @@
      <?MarkedContent page="1" ?>(1)
     </Formula>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.020"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -103,9 +119,11 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.021"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.022"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -113,6 +131,7 @@
      <?MarkedContent page="1" ?>Everyone is entitled to all the rights and freedoms set forth in this
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
+       id="ID.023"
        title="equation"
        af="mathml-1.xml source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -128,6 +147,7 @@
      <?MarkedContent page="1" ?>(2)
     </Formula>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.024"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"

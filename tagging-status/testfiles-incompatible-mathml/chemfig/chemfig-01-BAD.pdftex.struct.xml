@@ -1,11 +1,14 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
+     id="ID.002"
     >
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.005"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.006"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -15,6 +18,7 @@
      <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.007"
         title="math"
         af="mathml-1.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -32,6 +36,7 @@
      <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.008"
         title="math"
         af="mathml-2.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -49,6 +54,7 @@
      <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.009"
         title="math"
         af="mathml-3.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -68,6 +74,7 @@
      <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.010"
         title="math"
         af="mathml-4.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -85,6 +92,7 @@
      <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.011"
         title="math"
         af="mathml-5.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -102,6 +110,7 @@
      <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.012"
         title="math"
         af="mathml-6.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -119,6 +128,7 @@
      <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.013"
         title="math"
         af="mathml-7.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -146,6 +156,7 @@
      <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.014"
         title="math"
         af="mathml-8.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -163,6 +174,7 @@
      <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.015"
         title="math"
         af="mathml-9.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"

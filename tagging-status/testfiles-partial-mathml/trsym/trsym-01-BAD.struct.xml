@@ -1,16 +1,20 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
+     id="ID.002"
     >
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.006"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.007"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.008"
         title="math"
         af="mathml-1.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -26,6 +30,7 @@
       <?MarkedContent page="1" ?>??
      </Formula>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.009"
         title="math"
         af="mathml-2.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -41,6 +46,7 @@
       <?MarkedContent page="1" ?>??
      </Formula>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.010"
         title="math"
         af="mathml-3.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -56,6 +62,7 @@
       <?MarkedContent page="1" ?>??
      </Formula>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.011"
         title="math"
         af="mathml-4.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"

@@ -1,23 +1,29 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
+     id="ID.0002"
     >
    <Table xmlns="http://iso.org/pdf2/ssn"
+      id="ID.0005"
      >
     <TR xmlns="http://iso.org/pdf2/ssn"
+       id="ID.0006"
       >
      <TH xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0007"
         xmlns:Table="http://iso.org/pdf/ssn/Table"
         Table:Scope="Column"
        >
       <?MarkedContent page="1" ?>Bi
      </TH>
      <TH xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0008"
         xmlns:Table="http://iso.org/pdf/ssn/Table"
         Table:Scope="Column"
        >
       <?MarkedContent page="1" ?>
       <Formula xmlns="http://iso.org/pdf2/ssn"
+         id="ID.0009"
          title="math"
          af="mathml-1.xml source.tex"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -34,11 +40,13 @@
       <?MarkedContent page="1" ?>
      </TH>
      <TH xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0010"
         xmlns:Table="http://iso.org/pdf/ssn/Table"
         Table:Scope="Column"
        >
       <?MarkedContent page="1" ?>
       <Formula xmlns="http://iso.org/pdf2/ssn"
+         id="ID.0011"
          title="math"
          af="mathml-2.xml source.tex"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -55,11 +63,13 @@
       <?MarkedContent page="1" ?>
      </TH>
      <TH xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0012"
         xmlns:Table="http://iso.org/pdf/ssn/Table"
         Table:Scope="Column"
        >
       <?MarkedContent page="1" ?>
       <Formula xmlns="http://iso.org/pdf2/ssn"
+         id="ID.0013"
          title="math"
          af="mathml-3.xml source.tex"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -76,11 +86,13 @@
       <?MarkedContent page="1" ?>
      </TH>
      <TH xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0014"
         xmlns:Table="http://iso.org/pdf/ssn/Table"
         Table:Scope="Column"
        >
       <?MarkedContent page="1" ?>
       <Formula xmlns="http://iso.org/pdf2/ssn"
+         id="ID.0015"
          title="math"
          af="mathml-1.xml source.tex"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -97,11 +109,13 @@
       <?MarkedContent page="1" ?>
      </TH>
      <TH xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0016"
         xmlns:Table="http://iso.org/pdf/ssn/Table"
         Table:Scope="Column"
        >
       <?MarkedContent page="1" ?>
       <Formula xmlns="http://iso.org/pdf2/ssn"
+         id="ID.0017"
          title="math"
          af="mathml-2.xml source.tex"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -118,11 +132,13 @@
       <?MarkedContent page="1" ?>
      </TH>
      <TH xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0018"
         xmlns:Table="http://iso.org/pdf/ssn/Table"
         Table:Scope="Column"
        >
       <?MarkedContent page="1" ?>
       <Formula xmlns="http://iso.org/pdf2/ssn"
+         id="ID.0019"
          title="math"
          af="mathml-3.xml source.tex"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -139,11 +155,13 @@
       <?MarkedContent page="1" ?>
      </TH>
      <TH xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0020"
         xmlns:Table="http://iso.org/pdf/ssn/Table"
         Table:Scope="Column"
        >
       <?MarkedContent page="1" ?>
       <Formula xmlns="http://iso.org/pdf2/ssn"
+         id="ID.0021"
          title="math"
          af="mathml-1.xml source.tex"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -160,11 +178,13 @@
       <?MarkedContent page="1" ?>
      </TH>
      <TH xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0022"
         xmlns:Table="http://iso.org/pdf/ssn/Table"
         Table:Scope="Column"
        >
       <?MarkedContent page="1" ?>
       <Formula xmlns="http://iso.org/pdf2/ssn"
+         id="ID.0023"
          title="math"
          af="mathml-2.xml source.tex"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -181,11 +201,13 @@
       <?MarkedContent page="1" ?>
      </TH>
      <TH xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0024"
         xmlns:Table="http://iso.org/pdf/ssn/Table"
         Table:Scope="Column"
        >
       <?MarkedContent page="1" ?>
       <Formula xmlns="http://iso.org/pdf2/ssn"
+         id="ID.0025"
          title="math"
          af="mathml-3.xml source.tex"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -203,15 +225,19 @@
      </TH>
     </TR>
     <Artifact xmlns="http://iso.org/pdf2/ssn"
+       id="ID.0026"
       >
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0027"
        >
       <?MarkedContent page="1" ?>
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0028"
        >
       <?MarkedContent page="1" ?>
       <Formula xmlns="http://iso.org/pdf2/ssn"
+         id="ID.0029"
          title="math"
          af="mathml-1.xml source.tex"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -228,9 +254,11 @@
       <?MarkedContent page="1" ?>
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0030"
        >
       <?MarkedContent page="1" ?>
       <Formula xmlns="http://iso.org/pdf2/ssn"
+         id="ID.0031"
          title="math"
          af="mathml-2.xml source.tex"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -247,9 +275,11 @@
       <?MarkedContent page="1" ?>
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0032"
        >
       <?MarkedContent page="1" ?>
       <Formula xmlns="http://iso.org/pdf2/ssn"
+         id="ID.0033"
          title="math"
          af="mathml-3.xml source.tex"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -266,9 +296,11 @@
       <?MarkedContent page="1" ?>
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0034"
        >
       <?MarkedContent page="1" ?>
       <Formula xmlns="http://iso.org/pdf2/ssn"
+         id="ID.0035"
          title="math"
          af="mathml-1.xml source.tex"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -285,9 +317,11 @@
       <?MarkedContent page="1" ?>
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0036"
        >
       <?MarkedContent page="1" ?>
       <Formula xmlns="http://iso.org/pdf2/ssn"
+         id="ID.0037"
          title="math"
          af="mathml-2.xml source.tex"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -304,9 +338,11 @@
       <?MarkedContent page="1" ?>
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0038"
        >
       <?MarkedContent page="1" ?>
       <Formula xmlns="http://iso.org/pdf2/ssn"
+         id="ID.0039"
          title="math"
          af="mathml-3.xml source.tex"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -323,9 +359,11 @@
       <?MarkedContent page="1" ?>
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0040"
        >
       <?MarkedContent page="1" ?>
       <Formula xmlns="http://iso.org/pdf2/ssn"
+         id="ID.0041"
          title="math"
          af="mathml-1.xml source.tex"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -342,9 +380,11 @@
       <?MarkedContent page="1" ?>
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0042"
        >
       <?MarkedContent page="1" ?>
       <Formula xmlns="http://iso.org/pdf2/ssn"
+         id="ID.0043"
          title="math"
          af="mathml-2.xml source.tex"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -361,9 +401,11 @@
       <?MarkedContent page="1" ?>
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0044"
        >
       <?MarkedContent page="1" ?>
       <Formula xmlns="http://iso.org/pdf2/ssn"
+         id="ID.0045"
          title="math"
          af="mathml-3.xml source.tex"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -381,231 +423,290 @@
      </TD>
     </Artifact>
     <TR xmlns="http://iso.org/pdf2/ssn"
+       id="ID.0046"
       >
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0047"
        >
       <?MarkedContent page="1" ?>0.01
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0048"
        >
       <?MarkedContent page="1" ?>0.09983
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0049"
        >
       <?MarkedContent page="1" ?>1.0017
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0050"
        >
       <?MarkedContent page="1" ?>1.0000
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0051"
        >
       <?MarkedContent page="1" ?>0.14124
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0052"
        >
       <?MarkedContent page="1" ?>1.0025
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0053"
        >
       <?MarkedContent page="1" ?>1.0000
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0054"
        >
       <?MarkedContent page="1" ?>0.17303
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0055"
        >
       <?MarkedContent page="1" ?>1.0030
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0056"
        >
       <?MarkedContent page="1" ?>1.0000
      </TD>
     </TR>
     <TR xmlns="http://iso.org/pdf2/ssn"
+       id="ID.0057"
       >
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0058"
        >
       <?MarkedContent page="1" ?>0.02
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0059"
        >
       <?MarkedContent page="1" ?>0.14095
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0060"
        >
       <?MarkedContent page="1" ?>1.0033
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0061"
        >
       <?MarkedContent page="1" ?>1.0000
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0062"
        >
       <?MarkedContent page="1" ?>0.19950
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0063"
        >
       <?MarkedContent page="1" ?>1.0050
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0064"
        >
       <?MarkedContent page="1" ?>1.0000
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0065"
        >
       <?MarkedContent page="1" ?>0.24446
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0066"
        >
       <?MarkedContent page="1" ?>1.0060
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0067"
        >
       <?MarkedContent page="1" ?>1.0000
      </TD>
     </TR>
     <TR xmlns="http://iso.org/pdf2/ssn"
+       id="ID.0068"
       >
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0069"
        >
       <?MarkedContent page="1" ?>0.03
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0070"
        >
       <?MarkedContent page="1" ?>0.17234
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0071"
        >
       <?MarkedContent page="1" ?>1.0049
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0072"
        >
       <?MarkedContent page="1" ?>1.0000
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0073"
        >
       <?MarkedContent page="1" ?>0.24403
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0074"
        >
       <?MarkedContent page="1" ?>1.0075
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0075"
        >
       <?MarkedContent page="1" ?>1.0000
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0076"
        >
       <?MarkedContent page="1" ?>0.29910
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0077"
        >
       <?MarkedContent page="1" ?>1.0090
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0078"
        >
       <?MarkedContent page="1" ?>1.0000
      </TD>
     </TR>
     <TR xmlns="http://iso.org/pdf2/ssn"
+       id="ID.0079"
       >
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0080"
        >
       <?MarkedContent page="1" ?>0.04
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0081"
        >
       <?MarkedContent page="1" ?>0.19868
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0082"
        >
       <?MarkedContent page="1" ?>1.0066
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0083"
        >
       <?MarkedContent page="1" ?>1.0000
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0084"
        >
       <?MarkedContent page="1" ?>0.28143
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0085"
        >
       <?MarkedContent page="1" ?>1.0099
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0086"
        >
       <?MarkedContent page="1" ?>1.0000
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0087"
        >
       <?MarkedContent page="1" ?>0.34503
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0088"
        >
       <?MarkedContent page="1" ?>1.0120
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0089"
        >
       <?MarkedContent page="1" ?>1.0000
      </TD>
     </TR>
     <TR xmlns="http://iso.org/pdf2/ssn"
+       id="ID.0090"
       >
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0091"
        >
       <?MarkedContent page="1" ?>0.05
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0092"
        >
       <?MarkedContent page="1" ?>0.22176
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0093"
        >
       <?MarkedContent page="1" ?>1.0082
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0094"
        >
       <?MarkedContent page="1" ?>0.9999
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0095"
        >
       <?MarkedContent page="1" ?>0.31426
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0096"
        >
       <?MarkedContent page="1" ?>1.0124
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0097"
        >
       <?MarkedContent page="1" ?>0.9999
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0098"
        >
       <?MarkedContent page="1" ?>0.38537
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0099"
        >
       <?MarkedContent page="1" ?>1.0150
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
+        id="ID.0100"
        >
       <?MarkedContent page="1" ?>1.0000
      </TD>
     </TR>
    </Table>
    <tables xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.0004"
       rolemaps-to="Sect"
      >
     <float xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.0101"
        rolemaps-to="Aside"
       >
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.0102"
         rolemaps-to="Part"
        >
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         id="ID.0103"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:TextAlign="Justify"
          rolemaps-to="P"
@@ -613,21 +714,26 @@
        <?MarkedContent page="1" ?>
       </text-block>
       <Table xmlns="http://iso.org/pdf2/ssn"
+         id="ID.0104"
         >
        <TR xmlns="http://iso.org/pdf2/ssn"
+          id="ID.0105"
          >
         <TH xmlns="http://iso.org/pdf2/ssn"
+           id="ID.0106"
            xmlns:Table="http://iso.org/pdf/ssn/Table"
            Table:Scope="Column"
           >
          <?MarkedContent page="1" ?>Bi
         </TH>
         <TH xmlns="http://iso.org/pdf2/ssn"
+           id="ID.0107"
            xmlns:Table="http://iso.org/pdf/ssn/Table"
            Table:Scope="Column"
           >
          <?MarkedContent page="1" ?>
          <Formula xmlns="http://iso.org/pdf2/ssn"
+            id="ID.0108"
             title="math"
             af="mathml-1.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -644,11 +750,13 @@
          <?MarkedContent page="1" ?>
         </TH>
         <TH xmlns="http://iso.org/pdf2/ssn"
+           id="ID.0109"
            xmlns:Table="http://iso.org/pdf/ssn/Table"
            Table:Scope="Column"
           >
          <?MarkedContent page="1" ?>
          <Formula xmlns="http://iso.org/pdf2/ssn"
+            id="ID.0110"
             title="math"
             af="mathml-2.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -665,11 +773,13 @@
          <?MarkedContent page="1" ?>
         </TH>
         <TH xmlns="http://iso.org/pdf2/ssn"
+           id="ID.0111"
            xmlns:Table="http://iso.org/pdf/ssn/Table"
            Table:Scope="Column"
           >
          <?MarkedContent page="1" ?>
          <Formula xmlns="http://iso.org/pdf2/ssn"
+            id="ID.0112"
             title="math"
             af="mathml-3.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -686,11 +796,13 @@
          <?MarkedContent page="1" ?>
         </TH>
         <TH xmlns="http://iso.org/pdf2/ssn"
+           id="ID.0113"
            xmlns:Table="http://iso.org/pdf/ssn/Table"
            Table:Scope="Column"
           >
          <?MarkedContent page="1" ?>
          <Formula xmlns="http://iso.org/pdf2/ssn"
+            id="ID.0114"
             title="math"
             af="mathml-1.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -707,11 +819,13 @@
          <?MarkedContent page="1" ?>
         </TH>
         <TH xmlns="http://iso.org/pdf2/ssn"
+           id="ID.0115"
            xmlns:Table="http://iso.org/pdf/ssn/Table"
            Table:Scope="Column"
           >
          <?MarkedContent page="1" ?>
          <Formula xmlns="http://iso.org/pdf2/ssn"
+            id="ID.0116"
             title="math"
             af="mathml-2.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -728,11 +842,13 @@
          <?MarkedContent page="1" ?>
         </TH>
         <TH xmlns="http://iso.org/pdf2/ssn"
+           id="ID.0117"
            xmlns:Table="http://iso.org/pdf/ssn/Table"
            Table:Scope="Column"
           >
          <?MarkedContent page="1" ?>
          <Formula xmlns="http://iso.org/pdf2/ssn"
+            id="ID.0118"
             title="math"
             af="mathml-3.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -749,11 +865,13 @@
          <?MarkedContent page="1" ?>
         </TH>
         <TH xmlns="http://iso.org/pdf2/ssn"
+           id="ID.0119"
            xmlns:Table="http://iso.org/pdf/ssn/Table"
            Table:Scope="Column"
           >
          <?MarkedContent page="1" ?>
          <Formula xmlns="http://iso.org/pdf2/ssn"
+            id="ID.0120"
             title="math"
             af="mathml-1.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -770,11 +888,13 @@
          <?MarkedContent page="1" ?>
         </TH>
         <TH xmlns="http://iso.org/pdf2/ssn"
+           id="ID.0121"
            xmlns:Table="http://iso.org/pdf/ssn/Table"
            Table:Scope="Column"
           >
          <?MarkedContent page="1" ?>
          <Formula xmlns="http://iso.org/pdf2/ssn"
+            id="ID.0122"
             title="math"
             af="mathml-2.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -791,11 +911,13 @@
          <?MarkedContent page="1" ?>
         </TH>
         <TH xmlns="http://iso.org/pdf2/ssn"
+           id="ID.0123"
            xmlns:Table="http://iso.org/pdf/ssn/Table"
            Table:Scope="Column"
           >
          <?MarkedContent page="1" ?>
          <Formula xmlns="http://iso.org/pdf2/ssn"
+            id="ID.0124"
             title="math"
             af="mathml-3.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -813,50 +935,62 @@
         </TH>
        </TR>
        <TR xmlns="http://iso.org/pdf2/ssn"
+          id="ID.0125"
          >
         <TD xmlns="http://iso.org/pdf2/ssn"
+           id="ID.0126"
           >
          <?MarkedContent page="1" ?>0.01
         </TD>
         <TD xmlns="http://iso.org/pdf2/ssn"
+           id="ID.0127"
           >
          <?MarkedContent page="1" ?>0.09983
         </TD>
         <TD xmlns="http://iso.org/pdf2/ssn"
+           id="ID.0128"
           >
          <?MarkedContent page="1" ?>1.0017
         </TD>
         <TD xmlns="http://iso.org/pdf2/ssn"
+           id="ID.0129"
           >
          <?MarkedContent page="1" ?>1.0000
         </TD>
         <TD xmlns="http://iso.org/pdf2/ssn"
+           id="ID.0130"
           >
          <?MarkedContent page="1" ?>0.14124
         </TD>
         <TD xmlns="http://iso.org/pdf2/ssn"
+           id="ID.0131"
           >
          <?MarkedContent page="1" ?>1.0025
         </TD>
         <TD xmlns="http://iso.org/pdf2/ssn"
+           id="ID.0132"
           >
          <?MarkedContent page="1" ?>1.0000
         </TD>
         <TD xmlns="http://iso.org/pdf2/ssn"
+           id="ID.0133"
           >
          <?MarkedContent page="1" ?>0.17303
         </TD>
         <TD xmlns="http://iso.org/pdf2/ssn"
+           id="ID.0134"
           >
          <?MarkedContent page="1" ?>1.0030
         </TD>
         <TD xmlns="http://iso.org/pdf2/ssn"
+           id="ID.0135"
           >
          <?MarkedContent page="1" ?>1.0000
         </TD>
        </TR>
       </Table>
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         id="ID.0136"
          rolemaps-to="P"
         >
        <?MarkedContent page="1" ?>

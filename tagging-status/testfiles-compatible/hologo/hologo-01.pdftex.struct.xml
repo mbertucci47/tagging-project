@@ -1,17 +1,21 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
+     id="ID.002"
     >
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.005"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.006"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>
      <Span xmlns="http://iso.org/pdf2/ssn"
+        id="ID.007"
         actualtext="AmSLaTeX"
        >
       <?MarkedContent page="1" ?>AMS-LATEX
@@ -20,15 +24,18 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.008"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.009"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>
      <Span xmlns="http://iso.org/pdf2/ssn"
+        id="ID.010"
         actualtext="ConTeXt"
        >
       <?MarkedContent page="1" ?>ConTEXt
@@ -37,15 +44,18 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.011"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.012"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>
      <Span xmlns="http://iso.org/pdf2/ssn"
+        id="ID.013"
         actualtext="eTeX"
        >
       <?MarkedContent page="1" ?>ε-TEX
@@ -54,15 +64,18 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.014"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.015"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>
      <Span xmlns="http://iso.org/pdf2/ssn"
+        id="ID.016"
         actualtext="Hàn Thế Thành"
        >
       <?MarkedContent page="1" ?>Hàn Thê´Thành
@@ -71,15 +84,18 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.017"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.018"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>
      <Span xmlns="http://iso.org/pdf2/ssn"
+        id="ID.019"
         actualtext="KOMAScript"
        >
       <?MarkedContent page="1" ?>KOMA-Script
@@ -88,15 +104,18 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.020"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.021"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>
      <Span xmlns="http://iso.org/pdf2/ssn"
+        id="ID.022"
         actualtext="METAFONT"
        >
       <?MarkedContent page="1" ?>METAFONT
@@ -105,15 +124,18 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.023"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.024"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>
      <Span xmlns="http://iso.org/pdf2/ssn"
+        id="ID.025"
         actualtext="XeLaTeX"
        >
       <?MarkedContent page="1" ?>XELATEX
