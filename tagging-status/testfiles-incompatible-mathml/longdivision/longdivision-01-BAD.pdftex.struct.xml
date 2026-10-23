@@ -21,14 +21,14 @@
        <?MarkedContent page="1" ?>4.
        <Formula xmlns="http://iso.org/pdf2/ssn"
           title="math"
-          af="mathml-1.xml tag-AFfile1.tex"
+          af="mathml-1.xml source.tex"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:Placement="Inline"
          >
          <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mover> <mtext> 54 </mtext> <mo>‾</mo> </mover> </math>
          </AssociatedFile>
-         <AssociatedFile name="tag-AFfile1.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax \protect \@@overline {\longdiv_return_to_original_mode:n {54}}$
          </AssociatedFile>
         <?MarkedContent page="1" ?>54
