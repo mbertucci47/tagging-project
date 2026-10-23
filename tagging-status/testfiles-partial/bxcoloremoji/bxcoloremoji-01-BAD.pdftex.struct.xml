@@ -1,17 +1,21 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
+     id="ID.002"
     >
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.005"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.006"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>
      <Figure xmlns="http://iso.org/pdf2/ssn"
+        id="ID.007"
         alt="all-twemojis.pdf"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 148.71233, 656.0402, 158.67255, 666.00039 }"
@@ -20,6 +24,7 @@
      </Figure>
      <?MarkedContent page="1" ?>
      <Figure xmlns="http://iso.org/pdf2/ssn"
+        id="ID.008"
         alt="all-twemojis.pdf"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 158.67253, 656.0402, 168.63275, 666.00039 }"
@@ -28,6 +33,7 @@
      </Figure>
      <?MarkedContent page="1" ?>
      <Figure xmlns="http://iso.org/pdf2/ssn"
+        id="ID.009"
         alt="all-twemojis.pdf"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 168.63274, 656.0402, 178.59296, 666.00039 }"
@@ -36,6 +42,7 @@
      </Figure>
      <?MarkedContent page="1" ?>
      <Figure xmlns="http://iso.org/pdf2/ssn"
+        id="ID.010"
         alt="all-twemojis.pdf"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 178.59294, 656.0402, 188.55316, 666.00039 }"
@@ -46,21 +53,26 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.011"
       rolemaps-to="Part"
      >
     <list xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.012"
        xmlns:List="http://iso.org/pdf/ssn/List"
        List:ListNumbering="Unordered"
        rolemaps-to="L"
       >
      <item xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.013"
         rolemaps-to="LI"
        >
       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+         id="ID.014"
          rolemaps-to="Lbl"
         >
        <?MarkedContent page="1" ?>
        <Figure xmlns="http://iso.org/pdf2/ssn"
+          id="ID.015"
           alt="all-twemojis.pdf"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:BBox="{ 143.72858, 634.1224, 153.6888, 644.08259 }"
@@ -70,12 +82,15 @@
        <?MarkedContent page="1" ?>
       </itemlabel>
       <itembody xmlns="https://www.latex-project.org/ns/dflt"
+         id="ID.016"
          rolemaps-to="LBody"
         >
        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+          id="ID.017"
           rolemaps-to="Part"
          >
         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           id="ID.018"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:TextAlign="Justify"
            rolemaps-to="P"
@@ -86,13 +101,16 @@
       </itembody>
      </item>
      <item xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.019"
         rolemaps-to="LI"
        >
       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+         id="ID.020"
          rolemaps-to="Lbl"
         >
        <?MarkedContent page="1" ?>
        <Figure xmlns="http://iso.org/pdf2/ssn"
+          id="ID.021"
           alt="all-twemojis.pdf"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:BBox="{ 143.72858, 614.19711, 153.6888, 624.1573 }"
@@ -102,12 +120,15 @@
        <?MarkedContent page="1" ?>
       </itemlabel>
       <itembody xmlns="https://www.latex-project.org/ns/dflt"
+         id="ID.022"
          rolemaps-to="LBody"
         >
        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+          id="ID.023"
           rolemaps-to="Part"
          >
         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           id="ID.024"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:TextAlign="Justify"
            rolemaps-to="P"
@@ -118,13 +139,16 @@
       </itembody>
      </item>
      <item xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.025"
         rolemaps-to="LI"
        >
       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+         id="ID.026"
          rolemaps-to="Lbl"
         >
        <?MarkedContent page="1" ?>
        <Figure xmlns="http://iso.org/pdf2/ssn"
+          id="ID.027"
           alt="all-twemojis.pdf"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:BBox="{ 143.72858, 594.27184, 153.6888, 604.23203 }"
@@ -134,12 +158,15 @@
        <?MarkedContent page="1" ?>
       </itemlabel>
       <itembody xmlns="https://www.latex-project.org/ns/dflt"
+         id="ID.028"
          rolemaps-to="LBody"
         >
        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+          id="ID.029"
           rolemaps-to="Part"
          >
         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           id="ID.030"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:TextAlign="Justify"
            rolemaps-to="P"
@@ -152,21 +179,26 @@
     </list>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.031"
       rolemaps-to="Part"
      >
     <list xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.032"
        xmlns:List="http://iso.org/pdf/ssn/List"
        List:ListNumbering="Ordered"
        rolemaps-to="L"
       >
      <item xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.033"
         rolemaps-to="LI"
        >
       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+         id="ID.034"
          rolemaps-to="Lbl"
         >
        <?MarkedContent page="1" ?>
        <Figure xmlns="http://iso.org/pdf2/ssn"
+          id="ID.035"
           alt="all-twemojis.pdf"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:BBox="{ 143.72858, 572.35403, 153.6888, 582.31422 }"
@@ -176,12 +208,15 @@
        <?MarkedContent page="1" ?>
       </itemlabel>
       <itembody xmlns="https://www.latex-project.org/ns/dflt"
+         id="ID.036"
          rolemaps-to="LBody"
         >
        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+          id="ID.037"
           rolemaps-to="Part"
          >
         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           id="ID.038"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:TextAlign="Justify"
            rolemaps-to="P"
@@ -192,13 +227,16 @@
       </itembody>
      </item>
      <item xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.039"
         rolemaps-to="LI"
        >
       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+         id="ID.040"
          rolemaps-to="Lbl"
         >
        <?MarkedContent page="1" ?>
        <Figure xmlns="http://iso.org/pdf2/ssn"
+          id="ID.041"
           alt="all-twemojis.pdf"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:BBox="{ 143.72858, 552.42876, 153.6888, 562.38895 }"
@@ -208,12 +246,15 @@
        <?MarkedContent page="1" ?>
       </itemlabel>
       <itembody xmlns="https://www.latex-project.org/ns/dflt"
+         id="ID.042"
          rolemaps-to="LBody"
         >
        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+          id="ID.043"
           rolemaps-to="Part"
          >
         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           id="ID.044"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:TextAlign="Justify"
            rolemaps-to="P"
@@ -224,13 +265,16 @@
       </itembody>
      </item>
      <item xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.045"
         rolemaps-to="LI"
        >
       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
+         id="ID.046"
          rolemaps-to="Lbl"
         >
        <?MarkedContent page="1" ?>
        <Figure xmlns="http://iso.org/pdf2/ssn"
+          id="ID.047"
           alt="all-twemojis.pdf"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:BBox="{ 143.72858, 532.50346, 153.6888, 542.46365 }"
@@ -240,12 +284,15 @@
        <?MarkedContent page="1" ?>
       </itemlabel>
       <itembody xmlns="https://www.latex-project.org/ns/dflt"
+         id="ID.048"
          rolemaps-to="LBody"
         >
        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+          id="ID.049"
           rolemaps-to="Part"
          >
         <text-block xmlns="https://www.latex-project.org/ns/dflt"
+           id="ID.050"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:TextAlign="Justify"
            rolemaps-to="P"
@@ -258,15 +305,18 @@
     </list>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.051"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.052"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>
      <Figure xmlns="http://iso.org/pdf2/ssn"
+        id="ID.053"
         alt="all-twemojis.pdf"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 0, 0, 9.96022, 9.96019 }"
@@ -277,15 +327,18 @@
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.054"
       rolemaps-to="Part"
      >
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.055"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>
      <Figure xmlns="http://iso.org/pdf2/ssn"
+        id="ID.056"
         alt="all-twemojis.pdf"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 0, 0, 9.96022, 9.96019 }"

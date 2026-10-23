@@ -1,11 +1,14 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
+     id="ID.002"
     >
    <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.005"
       rolemaps-to="Part"
      >
     <text xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.006"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -14,15 +17,18 @@
     </text>
    </text-unit>
    <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.007"
       rolemaps-to="Part"
      >
     <text xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.008"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>
      <Figure xmlns="http://iso.org/pdf2/ssn"
+        id="ID.009"
         alt="asymptote-tasks-01-1_0.pdf"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 248.92906, 526.40677, 362.31878, 646.27647 }"
@@ -31,6 +37,7 @@
      </Figure>
      <?MarkedContent page="1" ?>
      <Figure xmlns="http://iso.org/pdf2/ssn"
+        id="ID.010"
         alt="picture environment"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 362.31877, 526.40677, 475.70459, 646.27473 }"
@@ -39,6 +46,7 @@
      </Figure>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.011"
         title="math"
         af="mathml-1.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -54,6 +62,7 @@
      </Formula>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.012"
         title="math"
         af="mathml-2.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -69,6 +78,7 @@
      </Formula>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.013"
         title="math"
         af="mathml-3.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -84,6 +94,7 @@
      </Formula>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.014"
         title="math"
         af="mathml-4.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -101,15 +112,18 @@
     </text>
    </text-unit>
    <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.015"
       rolemaps-to="Part"
      >
     <text xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.016"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>
      <Figure xmlns="http://iso.org/pdf2/ssn"
+        id="ID.017"
         alt="asymptote-tasks-01-2+0_0.pdf"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 135.2639, 395.97264, 479.26305, 513.95234 }"
@@ -119,6 +133,7 @@
      <?MarkedContent page="1" ?>
     </text>
     <text xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.018"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
        rolemaps-to="P"
@@ -126,12 +141,14 @@
      <?MarkedContent page="1" ?>One can also scale the figure to the full line width:
     </text>
     <text xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.019"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Center"
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>
      <Figure xmlns="http://iso.org/pdf2/ssn"
+        id="ID.020"
         alt="asymptote-tasks-01-3_0.pdf"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 133.76933, 269.55647, 477.47848, 361.65623 }"
@@ -140,6 +157,7 @@
      </Figure>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.021"
         title="math"
         af="mathml-5.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -155,6 +173,7 @@
      </Formula>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.022"
         title="math"
         af="mathml-6.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -170,6 +189,7 @@
      </Formula>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.023"
         title="math"
         af="mathml-7.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -185,6 +205,7 @@
      </Formula>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.024"
         title="math"
         af="mathml-8.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -200,6 +221,7 @@
      </Formula>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.025"
         title="math"
         af="mathml-9.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -215,6 +237,7 @@
      </Formula>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
+        id="ID.026"
         title="math"
         af="mathml-10.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
