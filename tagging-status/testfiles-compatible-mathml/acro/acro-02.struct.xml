@@ -35,14 +35,14 @@
      <?MarkedContent page="1" ?>Kraft (
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-1.xml tag-AFfile1.tex"
+        af="mathml-1.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝐹</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile1.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax F$
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝐹
@@ -193,14 +193,14 @@
         >
        <Formula xmlns="http://iso.org/pdf2/ssn"
           title="math"
-          af="mathml-2.xml tag-AFfile2.tex"
+          af="mathml-2.xml source.tex"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:Placement="Inline"
          >
          <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝐴</mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="tag-AFfile2.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax A$
          </AssociatedFile>
         <?MarkedContent page="1" ?>𝐴
@@ -210,14 +210,14 @@
         >
        <Formula xmlns="http://iso.org/pdf2/ssn"
           title="math"
-          af="mathml-3.xml tag-AFfile3.tex"
+          af="mathml-3.xml source.tex"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:Placement="Inline"
          >
          <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <msup> <mi mathvariant="normal">m</mi> <mn>2</mn> </msup> </math>
          </AssociatedFile>
-         <AssociatedFile name="tag-AFfile3.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\MathMLintent {:unit}{\mathrm {m}^{2}}$
          </AssociatedFile>
         <?MarkedContent page="1" ?>m2
@@ -237,14 +237,14 @@
         >
        <Formula xmlns="http://iso.org/pdf2/ssn"
           title="math"
-          af="mathml-4.xml tag-AFfile4.tex"
+          af="mathml-4.xml source.tex"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:Placement="Inline"
          >
          <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝐶</mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="tag-AFfile4.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax C$
          </AssociatedFile>
         <?MarkedContent page="1" ?>𝐶
@@ -254,14 +254,14 @@
         >
        <Formula xmlns="http://iso.org/pdf2/ssn"
           title="math"
-          af="mathml-5.xml tag-AFfile5.tex"
+          af="mathml-5.xml source.tex"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:Placement="Inline"
          >
          <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi intent=":unit" mathvariant="normal">F</mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="tag-AFfile5.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\MathMLintent {:unit}{\mathrm {F}}$
          </AssociatedFile>
         <?MarkedContent page="1" ?>F
@@ -281,14 +281,14 @@
         >
        <Formula xmlns="http://iso.org/pdf2/ssn"
           title="math"
-          af="mathml-1.xml tag-AFfile6.tex"
+          af="mathml-1.xml source.tex"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:Placement="Inline"
          >
          <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝐹</mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="tag-AFfile6.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax F$
          </AssociatedFile>
         <?MarkedContent page="1" ?>𝐹
@@ -298,14 +298,14 @@
         >
        <Formula xmlns="http://iso.org/pdf2/ssn"
           title="math"
-          af="mathml-7.xml tag-AFfile7.tex"
+          af="mathml-7.xml source.tex"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:Placement="Inline"
          >
          <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi intent=":unit" mathvariant="normal">N</mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="tag-AFfile7.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\MathMLintent {:unit}{\mathrm {N}}$
          </AssociatedFile>
         <?MarkedContent page="1" ?>N
@@ -326,14 +326,14 @@
         >
        <Formula xmlns="http://iso.org/pdf2/ssn"
           title="math"
-          af="mathml-8.xml tag-AFfile8.tex"
+          af="mathml-8.xml source.tex"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:Placement="Inline"
          >
          <AssociatedFile name="mathml-8.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑓</mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="tag-AFfile8.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\relax f$
          </AssociatedFile>
         <?MarkedContent page="1" ?>𝑓
@@ -343,14 +343,14 @@
         >
        <Formula xmlns="http://iso.org/pdf2/ssn"
           title="math"
-          af="mathml-9.xml tag-AFfile9.tex"
+          af="mathml-9.xml source.tex"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:Placement="Inline"
          >
          <AssociatedFile name="mathml-9.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
          <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi intent=":unit" mathvariant="normal"> Hz </mi> </math>
          </AssociatedFile>
-         <AssociatedFile name="tag-AFfile9.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\MathMLintent {:unit}{\mathrm {Hz}}$
          </AssociatedFile>
         <?MarkedContent page="1" ?>Hz

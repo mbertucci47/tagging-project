@@ -13,14 +13,14 @@
      <?MarkedContent page="1" ?>The Dynkin diagram of
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-1.xml tag-AFfile1.tex"
+        af="mathml-1.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝐵</mi> <mn>3</mn> </msub> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile1.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $B_3$
        </AssociatedFile>
       <?MarkedContent page="1" ?>B3
@@ -62,14 +62,14 @@
      <?MarkedContent page="1" ?>The Dynkin diagram of
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-1.xml tag-AFfile2.tex"
+        af="mathml-1.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝐵</mi> <mn>3</mn> </msub> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile2.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $B_3$
        </AssociatedFile>
       <?MarkedContent page="1" ?>B3
@@ -96,14 +96,14 @@
      <?MarkedContent page="1" ?>The Dynkin diagram of
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-1.xml tag-AFfile3.tex"
+        af="mathml-1.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub> <mi>𝐵</mi> <mn>3</mn> </msub> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile3.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $B_3$
        </AssociatedFile>
       <?MarkedContent page="1" ?>B3
@@ -145,14 +145,14 @@
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-4.xml tag-AFfile4.tex"
+        af="mathml-4.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msubsup> <mi>𝐵</mi> <mn>7</mn> <mn>1</mn> </msubsup> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile4.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \dynkin@series ^{\ifdynkin@is@extended {1}\else {\IfStrEq {\dynkin@twisted@series }{0}{}{\dynkin@twisted@series }}\fi }_{\ifx \dynkin@user@string \empty \relax \dynkin@indefinite@number@symbol \else \ifdynkin@Satake@diagram \dynkin@user@string \else \IfStrEq {\dynkin@user@string }{even}{ev}{\IfStrEq {\dynkin@user@string }{odd}{od}{\the \dynkin@rank }}\fi \fi \IfStrEq {\dynkin@parabolic }{0}{}{,\dynkin@parabolic } }$
        </AssociatedFile>
       <?MarkedContent page="1" ?>B17
@@ -160,14 +160,14 @@
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-4.xml tag-AFfile5.tex"
+        af="mathml-4.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msubsup> <mi>𝐵</mi> <mn>7</mn> <mn>1</mn> </msubsup> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile5.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \dynkin@series ^{\ifdynkin@is@extended {1}\else {\IfStrEq {\dynkin@twisted@series }{0}{}{\dynkin@twisted@series }}\fi }_{\ifx \dynkin@user@string \empty \relax \dynkin@indefinite@number@symbol \else \ifdynkin@Satake@diagram \dynkin@user@string \else \IfStrEq {\dynkin@user@string }{even}{ev}{\IfStrEq {\dynkin@user@string }{odd}{od}{\the \dynkin@rank }}\fi \fi \IfStrEq {\dynkin@parabolic }{0}{}{,\dynkin@parabolic } }$
        </AssociatedFile>
       <?MarkedContent page="1" ?>A2ev
@@ -175,14 +175,14 @@
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-4.xml tag-AFfile6.tex"
+        af="mathml-4.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msubsup> <mi>𝐵</mi> <mn>7</mn> <mn>1</mn> </msubsup> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile6.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \dynkin@series ^{\ifdynkin@is@extended {1}\else {\IfStrEq {\dynkin@twisted@series }{0}{}{\dynkin@twisted@series }}\fi }_{\ifx \dynkin@user@string \empty \relax \dynkin@indefinite@number@symbol \else \ifdynkin@Satake@diagram \dynkin@user@string \else \IfStrEq {\dynkin@user@string }{even}{ev}{\IfStrEq {\dynkin@user@string }{odd}{od}{\the \dynkin@rank }}\fi \fi \IfStrEq {\dynkin@parabolic }{0}{}{,\dynkin@parabolic } }$
        </AssociatedFile>
       <?MarkedContent page="1" ?>B7
@@ -190,14 +190,14 @@
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-4.xml tag-AFfile7.tex"
+        af="mathml-4.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msubsup> <mi>𝐵</mi> <mn>7</mn> <mn>1</mn> </msubsup> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile7.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \dynkin@series ^{\ifdynkin@is@extended {1}\else {\IfStrEq {\dynkin@twisted@series }{0}{}{\dynkin@twisted@series }}\fi }_{\ifx \dynkin@user@string \empty \relax \dynkin@indefinite@number@symbol \else \ifdynkin@Satake@diagram \dynkin@user@string \else \IfStrEq {\dynkin@user@string }{even}{ev}{\IfStrEq {\dynkin@user@string }{odd}{od}{\the \dynkin@rank }}\fi \fi \IfStrEq {\dynkin@parabolic }{0}{}{,\dynkin@parabolic } }$
        </AssociatedFile>
       <?MarkedContent page="1" ?>B1n
@@ -205,14 +205,14 @@
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-4.xml tag-AFfile8.tex"
+        af="mathml-4.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <msubsup> <mi>𝐵</mi> <mn>7</mn> <mn>1</mn> </msubsup> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile8.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \dynkin@series ^{\ifdynkin@is@extended {1}\else {\IfStrEq {\dynkin@twisted@series }{0}{}{\dynkin@twisted@series }}\fi }_{\ifx \dynkin@user@string \empty \relax \dynkin@indefinite@number@symbol \else \ifdynkin@Satake@diagram \dynkin@user@string \else \IfStrEq {\dynkin@user@string }{even}{ev}{\IfStrEq {\dynkin@user@string }{odd}{od}{\the \dynkin@rank }}\fi \fi \IfStrEq {\dynkin@parabolic }{0}{}{,\dynkin@parabolic } }$
        </AssociatedFile>
       <?MarkedContent page="1" ?>D34

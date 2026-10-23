@@ -13,11 +13,11 @@
      <?MarkedContent page="1" ?>1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Bg5 d6 6. 0–0 h67. Bh4 g5 8. Bg3 h5 9. N
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="tag-AFfile1.tex"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-       <AssociatedFile name="tag-AFfile1.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\times $
        </AssociatedFile>
       <?MarkedContent page="1" ?>×
@@ -25,11 +25,11 @@
      <?MarkedContent page="1" ?>g5 h4 10. N
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="tag-AFfile2.tex"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-       <AssociatedFile name="tag-AFfile2.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\times $
        </AssociatedFile>
       <?MarkedContent page="1" ?>×
@@ -37,11 +37,11 @@
      <?MarkedContent page="1" ?>f7 h
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="tag-AFfile3.tex"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-       <AssociatedFile name="tag-AFfile3.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\times $
        </AssociatedFile>
       <?MarkedContent page="1" ?>×
@@ -49,11 +49,11 @@
      <?MarkedContent page="1" ?>g3 11. N
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="tag-AFfile4.tex"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-       <AssociatedFile name="tag-AFfile4.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\times $
        </AssociatedFile>
       <?MarkedContent page="1" ?>×
@@ -61,11 +61,11 @@
      <?MarkedContent page="1" ?>d8 Bg4 12. Qe1Nd4 13. Nc3 Nf3+ 14. g
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="tag-AFfile5.tex"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-       <AssociatedFile name="tag-AFfile5.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\times $
        </AssociatedFile>
       <?MarkedContent page="1" ?>×
@@ -73,11 +73,11 @@
      <?MarkedContent page="1" ?>f3 B
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="tag-AFfile6.tex"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-       <AssociatedFile name="tag-AFfile6.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\times $
        </AssociatedFile>
       <?MarkedContent page="1" ?>×
@@ -107,11 +107,11 @@
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="tag-AFfile7.tex"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-       <AssociatedFile name="tag-AFfile7.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\Box $
        </AssociatedFile>
       <?MarkedContent page="1" ?>□
@@ -119,11 +119,11 @@
      <?MarkedContent page="1" ?>Dubois London 1862
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="tag-AFfile8.tex"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-       <AssociatedFile name="tag-AFfile8.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\blacksquare $
        </AssociatedFile>
       <?MarkedContent page="1" ?>■
@@ -142,11 +142,11 @@
      <?MarkedContent page="1" ?>1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Bg5?![5. Nc3]5...d66. 0–0?! h6 7.Bh4 g5 8.Bg3 h5! 9.N
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="tag-AFfile9.tex"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-       <AssociatedFile name="tag-AFfile9.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\times $
        </AssociatedFile>
       <?MarkedContent page="1" ?>×
@@ -154,11 +154,11 @@
      <?MarkedContent page="1" ?>g5 h4! 10.N
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="tag-AFfile10.tex"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-       <AssociatedFile name="tag-AFfile10.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\times $
        </AssociatedFile>
       <?MarkedContent page="1" ?>×
@@ -166,11 +166,11 @@
      <?MarkedContent page="1" ?>f7 h
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="tag-AFfile11.tex"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-       <AssociatedFile name="tag-AFfile11.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\times $
        </AssociatedFile>
       <?MarkedContent page="1" ?>×
@@ -178,11 +178,11 @@
      <?MarkedContent page="1" ?>g3!! 11.N
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="tag-AFfile12.tex"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-       <AssociatedFile name="tag-AFfile12.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\times $
        </AssociatedFile>
       <?MarkedContent page="1" ?>×
@@ -190,11 +190,11 @@
      <?MarkedContent page="1" ?>d8[11.N
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="tag-AFfile13.tex"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-       <AssociatedFile name="tag-AFfile13.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\times $
        </AssociatedFile>
       <?MarkedContent page="1" ?>×
@@ -202,11 +202,11 @@
      <?MarkedContent page="1" ?>h8Qe7! EQh7 12. Nf7 B
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="tag-AFfile14.tex"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-       <AssociatedFile name="tag-AFfile14.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\times $
        </AssociatedFile>
       <?MarkedContent page="1" ?>×
@@ -214,11 +214,11 @@
      <?MarkedContent page="1" ?>f2+ 13. R
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="tag-AFfile15.tex"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-       <AssociatedFile name="tag-AFfile15.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\times $
        </AssociatedFile>
       <?MarkedContent page="1" ?>×
@@ -226,11 +226,11 @@
      <?MarkedContent page="1" ?>f2 g
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="tag-AFfile16.tex"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-       <AssociatedFile name="tag-AFfile16.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\times $
        </AssociatedFile>
       <?MarkedContent page="1" ?>×
@@ -238,11 +238,11 @@
      <?MarkedContent page="1" ?>f2+ 14. K
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="tag-AFfile17.tex"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-       <AssociatedFile name="tag-AFfile17.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\times $
        </AssociatedFile>
       <?MarkedContent page="1" ?>×
@@ -250,11 +250,11 @@
      <?MarkedContent page="1" ?>f2 Ng4+ 15. Kg3 Qf6 16. Qf3Qg7i]11...Bg4 12. Qe1 Nd4 13. Nc3F[13. h3 Ne2+ 14. Kh1 R
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="tag-AFfile18.tex"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-       <AssociatedFile name="tag-AFfile18.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\times $
        </AssociatedFile>
       <?MarkedContent page="1" ?>×
@@ -262,11 +262,11 @@
      <?MarkedContent page="1" ?>h3+15. g
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="tag-AFfile19.tex"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-       <AssociatedFile name="tag-AFfile19.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\times $
        </AssociatedFile>
       <?MarkedContent page="1" ?>×
@@ -274,11 +274,11 @@
      <?MarkedContent page="1" ?>h3 Bf3#]13...Nf3+! 14. g
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="tag-AFfile20.tex"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-       <AssociatedFile name="tag-AFfile20.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\times $
        </AssociatedFile>
       <?MarkedContent page="1" ?>×
@@ -286,11 +286,11 @@
      <?MarkedContent page="1" ?>f3 B
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="tag-AFfile21.tex"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-       <AssociatedFile name="tag-AFfile21.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\times $
        </AssociatedFile>
       <?MarkedContent page="1" ?>×

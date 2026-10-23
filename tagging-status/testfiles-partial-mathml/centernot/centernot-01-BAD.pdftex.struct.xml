@@ -13,14 +13,14 @@
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-1.xml tag-AFfile1.tex"
+        af="mathml-1.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0"≯</mo> </math> </mtext> <mi mathvariant="normal">∥</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile1.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\centernot \parallel $
        </AssociatedFile>
       <?MarkedContent page="1" ?≯∥
@@ -39,14 +39,14 @@
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-2.xml tag-AFfile2.tex"
+        af="mathml-2.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0"≯</mo> </math> </mtext> <mi mathvariant="normal">⟶</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile2.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\centernot \longrightarrow $
        </AssociatedFile>
       <?MarkedContent page="1" ?≯−→
@@ -65,14 +65,14 @@
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-3.xml tag-AFfile3.tex"
+        af="mathml-3.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mtext> <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0"≯</mo> </math> </mtext> <mi mathvariant="normal">=</mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile3.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\centernot =$
        </AssociatedFile>
       <?MarkedContent page="1" ?≯=
@@ -91,14 +91,14 @@
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-4.xml tag-AFfile4.tex"
+        af="mathml-4.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0">∦</mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile4.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\not \parallel $
        </AssociatedFile>
       <?MarkedContent page="1" ?≯∥
@@ -117,14 +117,14 @@
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-5.xml tag-AFfile5.tex"
+        af="mathml-5.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <munder> <mo lspace="0" rspace="0" stretchy="false">⟶</mo> </munder> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile5.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\not \longrightarrow $
        </AssociatedFile>
       <?MarkedContent page="1" ?≯−→
@@ -143,14 +143,14 @@
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-6.xml tag-AFfile6.tex"
+        af="mathml-6.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-6.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0">≠</mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile6.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\not =$
        </AssociatedFile>
       <?MarkedContent page="1" ?≯=

@@ -24,11 +24,11 @@
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
        title="equation*"
-       af="tag-AFfile1.tex"
+       af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
-      <AssociatedFile name="tag-AFfile1.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}\lineskiplimit =-999pt \abovedisplayskip =-\baselineskip \abovedisplayshortskip =-\baselineskip \belowdisplayskip \z@skip \belowdisplayshortskip \z@skip \halign {##\cr \noalign {\ifdim \predisplaysize =\maxdimen \CurrentLineWidth \linewidth \else \ifdim \predisplaysize =-\maxdimen \CurrentLineWidth \z@ \else \ifnum \TTo@Direction &lt;\z@ \CurrentLineWidth \linewidth \advance \CurrentLineWidth \predisplaysize \else \CurrentLineWidth \predisplaysize \fi \advance \CurrentLineWidth -2em \advance \CurrentLineWidth -\displayindent \advance \CurrentLineWidth -\leftskip \fi \fi \ifdim \CurrentLineWidth &lt;\z@ \CurrentLineWidth \z@ \fi \setlength \@tempdimb {3cm}\global \TabPrevPos \CurrentLineWidth \protected@xdef \TTo@action {\vrule \@width \z@ \@depth \the \prevdepth \ifdim \CurrentLineWidth >\@tempdimb \ifTTo@overlap \else \protect \newline \protect \null \fi \fi \protect \nobreak \protect \hskip \the \@tempdimb \relax }\vskip -\prevdepth \prevdepth -99\p@ \vskip \prevdepth }}\end {equation*}
       </AssociatedFile>
     </Formula>
@@ -41,11 +41,11 @@
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
        title="equation*"
-       af="tag-AFfile2.tex"
+       af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
-      <AssociatedFile name="tag-AFfile2.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}\lineskiplimit =-999pt \abovedisplayskip =-\baselineskip \abovedisplayshortskip =-\baselineskip \belowdisplayskip \z@skip \belowdisplayshortskip \z@skip \halign {##\cr \noalign {\ifdim \predisplaysize =\maxdimen \CurrentLineWidth \linewidth \else \ifdim \predisplaysize =-\maxdimen \CurrentLineWidth \z@ \else \ifnum \TTo@Direction &lt;\z@ \CurrentLineWidth \linewidth \advance \CurrentLineWidth \predisplaysize \else \CurrentLineWidth \predisplaysize \fi \advance \CurrentLineWidth -2em \advance \CurrentLineWidth -\displayindent \advance \CurrentLineWidth -\leftskip \fi \fi \ifdim \CurrentLineWidth &lt;\z@ \CurrentLineWidth \z@ \fi \setlength \@tempdimb {4cm}\global \TabPrevPos \CurrentLineWidth \protected@xdef \TTo@action {\vrule \@width \z@ \@depth \the \prevdepth \ifdim \CurrentLineWidth >\@tempdimb \ifTTo@overlap \else \protect \newline \protect \null \fi \fi \protect \nobreak \protect \hskip \the \@tempdimb \relax }\vskip -\prevdepth \prevdepth -99\p@ \vskip \prevdepth }}\end {equation*}
       </AssociatedFile>
     </Formula>
@@ -58,11 +58,11 @@
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
        title="equation*"
-       af="tag-AFfile3.tex"
+       af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
-      <AssociatedFile name="tag-AFfile3.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}\lineskiplimit =-999pt \abovedisplayskip =-\baselineskip \abovedisplayshortskip =-\baselineskip \belowdisplayskip \z@skip \belowdisplayshortskip \z@skip \halign {##\cr \noalign {\ifdim \predisplaysize =\maxdimen \CurrentLineWidth \linewidth \else \ifdim \predisplaysize =-\maxdimen \CurrentLineWidth \z@ \else \ifnum \TTo@Direction &lt;\z@ \CurrentLineWidth \linewidth \advance \CurrentLineWidth \predisplaysize \else \CurrentLineWidth \predisplaysize \fi \advance \CurrentLineWidth -2em \advance \CurrentLineWidth -\displayindent \advance \CurrentLineWidth -\leftskip \fi \fi \ifdim \CurrentLineWidth &lt;\z@ \CurrentLineWidth \z@ \fi \setlength \@tempdimb {3cm}\global \TabPrevPos \CurrentLineWidth \protected@xdef \TTo@action {\vrule \@width \z@ \@depth \the \prevdepth \ifdim \CurrentLineWidth >\@tempdimb \ifTTo@overlap \else \protect \newline \protect \null \fi \fi \protect \nobreak \protect \hskip \the \@tempdimb \relax }\vskip -\prevdepth \prevdepth -99\p@ \vskip \prevdepth }}\end {equation*}
       </AssociatedFile>
     </Formula>
@@ -85,11 +85,11 @@
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
        title="equation*"
-       af="tag-AFfile4.tex"
+       af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
-      <AssociatedFile name="tag-AFfile4.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}\lineskiplimit =-999pt \abovedisplayskip =-\baselineskip \abovedisplayshortskip =-\baselineskip \belowdisplayskip \z@skip \belowdisplayshortskip \z@skip \halign {##\cr \noalign {\ifdim \predisplaysize =\maxdimen \CurrentLineWidth \linewidth \else \ifdim \predisplaysize =-\maxdimen \CurrentLineWidth \z@ \else \ifnum \TTo@Direction &lt;\z@ \CurrentLineWidth \linewidth \advance \CurrentLineWidth \predisplaysize \else \CurrentLineWidth \predisplaysize \fi \advance \CurrentLineWidth -2em \advance \CurrentLineWidth -\displayindent \advance \CurrentLineWidth -\leftskip \fi \fi \ifdim \CurrentLineWidth &lt;\z@ \CurrentLineWidth \z@ \fi \setlength \@tempdimb {4cm}\global \TabPrevPos \CurrentLineWidth \protected@xdef \TTo@action {\vrule \@width \z@ \@depth \the \prevdepth \ifdim \CurrentLineWidth >\@tempdimb \ifTTo@overlap \else \protect \newline \protect \null \fi \fi \protect \nobreak \protect \hskip \the \@tempdimb \relax }\vskip -\prevdepth \prevdepth -99\p@ \vskip \prevdepth }}\end {equation*}
       </AssociatedFile>
     </Formula>
@@ -102,11 +102,11 @@
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
        title="equation*"
-       af="tag-AFfile5.tex"
+       af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
-      <AssociatedFile name="tag-AFfile5.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}\lineskiplimit =-999pt \abovedisplayskip =-\baselineskip \abovedisplayshortskip =-\baselineskip \belowdisplayskip \z@skip \belowdisplayshortskip \z@skip \halign {##\cr \noalign {\ifdim \predisplaysize =\maxdimen \CurrentLineWidth \linewidth \else \ifdim \predisplaysize =-\maxdimen \CurrentLineWidth \z@ \else \ifnum \TTo@Direction &lt;\z@ \CurrentLineWidth \linewidth \advance \CurrentLineWidth \predisplaysize \else \CurrentLineWidth \predisplaysize \fi \advance \CurrentLineWidth -2em \advance \CurrentLineWidth -\displayindent \advance \CurrentLineWidth -\leftskip \fi \fi \ifdim \CurrentLineWidth &lt;\z@ \CurrentLineWidth \z@ \fi \setlength \@tempdimb {2cm}\global \TabPrevPos \CurrentLineWidth \protected@xdef \TTo@action {\vrule \@width \z@ \@depth \the \prevdepth \ifdim \CurrentLineWidth >\@tempdimb \ifTTo@overlap \else \protect \newline \protect \null \fi \fi \protect \nobreak \protect \hskip \the \@tempdimb \relax }\vskip -\prevdepth \prevdepth -99\p@ \vskip \prevdepth }}\end {equation*}
       </AssociatedFile>
     </Formula>
@@ -130,11 +130,11 @@
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
        title="equation*"
-       af="tag-AFfile6.tex"
+       af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
-      <AssociatedFile name="tag-AFfile6.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}\lineskiplimit =-999pt \abovedisplayskip =-\baselineskip \abovedisplayshortskip =-\baselineskip \belowdisplayskip \z@skip \belowdisplayshortskip \z@skip \halign {##\cr \noalign {\ifdim \predisplaysize =\maxdimen \CurrentLineWidth \linewidth \else \ifdim \predisplaysize =-\maxdimen \CurrentLineWidth \z@ \else \ifnum \TTo@Direction &lt;\z@ \CurrentLineWidth \linewidth \advance \CurrentLineWidth \predisplaysize \else \CurrentLineWidth \predisplaysize \fi \advance \CurrentLineWidth -2em \advance \CurrentLineWidth -\displayindent \advance \CurrentLineWidth -\leftskip \fi \fi \ifdim \CurrentLineWidth &lt;\z@ \CurrentLineWidth \z@ \fi \setlength \@tempdimb {\NextTabStop }\global \TabPrevPos \CurrentLineWidth \protected@xdef \TTo@action {\vrule \@width \z@ \@depth \the \prevdepth \ifdim \CurrentLineWidth >\@tempdimb \ifTTo@overlap \else \protect \newline \protect \null \fi \fi \protect \nobreak \protect \hskip \the \@tempdimb \relax }\vskip -\prevdepth \prevdepth -99\p@ \vskip \prevdepth }}\end {equation*}
       </AssociatedFile>
     </Formula>
@@ -147,11 +147,11 @@
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
        title="equation*"
-       af="tag-AFfile7.tex"
+       af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
-      <AssociatedFile name="tag-AFfile7.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}\lineskiplimit =-999pt \abovedisplayskip =-\baselineskip \abovedisplayshortskip =-\baselineskip \belowdisplayskip \z@skip \belowdisplayshortskip \z@skip \halign {##\cr \noalign {\ifdim \predisplaysize =\maxdimen \CurrentLineWidth \linewidth \else \ifdim \predisplaysize =-\maxdimen \CurrentLineWidth \z@ \else \ifnum \TTo@Direction &lt;\z@ \CurrentLineWidth \linewidth \advance \CurrentLineWidth \predisplaysize \else \CurrentLineWidth \predisplaysize \fi \advance \CurrentLineWidth -2em \advance \CurrentLineWidth -\displayindent \advance \CurrentLineWidth -\leftskip \fi \fi \ifdim \CurrentLineWidth &lt;\z@ \CurrentLineWidth \z@ \fi \setlength \@tempdimb {\NextTabStop }\global \TabPrevPos \CurrentLineWidth \protected@xdef \TTo@action {\vrule \@width \z@ \@depth \the \prevdepth \ifdim \CurrentLineWidth >\@tempdimb \ifTTo@overlap \else \protect \newline \protect \null \fi \fi \protect \nobreak \protect \hskip \the \@tempdimb \relax }\vskip -\prevdepth \prevdepth -99\p@ \vskip \prevdepth }}\end {equation*}
       </AssociatedFile>
     </Formula>
@@ -164,11 +164,11 @@
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
        title="equation*"
-       af="tag-AFfile8.tex"
+       af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
-      <AssociatedFile name="tag-AFfile8.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}\lineskiplimit =-999pt \abovedisplayskip =-\baselineskip \abovedisplayshortskip =-\baselineskip \belowdisplayskip \z@skip \belowdisplayshortskip \z@skip \halign {##\cr \noalign {\ifdim \predisplaysize =\maxdimen \CurrentLineWidth \linewidth \else \ifdim \predisplaysize =-\maxdimen \CurrentLineWidth \z@ \else \ifnum \TTo@Direction &lt;\z@ \CurrentLineWidth \linewidth \advance \CurrentLineWidth \predisplaysize \else \CurrentLineWidth \predisplaysize \fi \advance \CurrentLineWidth -2em \advance \CurrentLineWidth -\displayindent \advance \CurrentLineWidth -\leftskip \fi \fi \ifdim \CurrentLineWidth &lt;\z@ \CurrentLineWidth \z@ \fi \setlength \@tempdimb {\NextTabStop }\global \TabPrevPos \CurrentLineWidth \protected@xdef \TTo@action {\vrule \@width \z@ \@depth \the \prevdepth \ifdim \CurrentLineWidth >\@tempdimb \ifTTo@overlap \else \protect \newline \protect \null \fi \fi \protect \nobreak \protect \hskip \the \@tempdimb \relax }\vskip -\prevdepth \prevdepth -99\p@ \vskip \prevdepth }}\end {equation*}
       </AssociatedFile>
     </Formula>
@@ -181,11 +181,11 @@
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
        title="equation*"
-       af="tag-AFfile9.tex"
+       af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
-      <AssociatedFile name="tag-AFfile9.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}\lineskiplimit =-999pt \abovedisplayskip =-\baselineskip \abovedisplayshortskip =-\baselineskip \belowdisplayskip \z@skip \belowdisplayshortskip \z@skip \halign {##\cr \noalign {\ifdim \predisplaysize =\maxdimen \CurrentLineWidth \linewidth \else \ifdim \predisplaysize =-\maxdimen \CurrentLineWidth \z@ \else \ifnum \TTo@Direction &lt;\z@ \CurrentLineWidth \linewidth \advance \CurrentLineWidth \predisplaysize \else \CurrentLineWidth \predisplaysize \fi \advance \CurrentLineWidth -2em \advance \CurrentLineWidth -\displayindent \advance \CurrentLineWidth -\leftskip \fi \fi \ifdim \CurrentLineWidth &lt;\z@ \CurrentLineWidth \z@ \fi \setlength \@tempdimb {\NextTabStop }\global \TabPrevPos \CurrentLineWidth \protected@xdef \TTo@action {\vrule \@width \z@ \@depth \the \prevdepth \ifdim \CurrentLineWidth >\@tempdimb \ifTTo@overlap \else \protect \newline \protect \null \fi \fi \protect \nobreak \protect \hskip \the \@tempdimb \relax }\vskip -\prevdepth \prevdepth -99\p@ \vskip \prevdepth }}\end {equation*}
       </AssociatedFile>
     </Formula>
@@ -198,11 +198,11 @@
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
        title="equation*"
-       af="tag-AFfile10.tex"
+       af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
-      <AssociatedFile name="tag-AFfile10.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}\lineskiplimit =-999pt \abovedisplayskip =-\baselineskip \abovedisplayshortskip =-\baselineskip \belowdisplayskip \z@skip \belowdisplayshortskip \z@skip \halign {##\cr \noalign {\ifdim \predisplaysize =\maxdimen \CurrentLineWidth \linewidth \else \ifdim \predisplaysize =-\maxdimen \CurrentLineWidth \z@ \else \ifnum \TTo@Direction &lt;\z@ \CurrentLineWidth \linewidth \advance \CurrentLineWidth \predisplaysize \else \CurrentLineWidth \predisplaysize \fi \advance \CurrentLineWidth -2em \advance \CurrentLineWidth -\displayindent \advance \CurrentLineWidth -\leftskip \fi \fi \ifdim \CurrentLineWidth &lt;\z@ \CurrentLineWidth \z@ \fi \setlength \@tempdimb {\NextTabStop }\global \TabPrevPos \CurrentLineWidth \protected@xdef \TTo@action {\vrule \@width \z@ \@depth \the \prevdepth \ifdim \CurrentLineWidth >\@tempdimb \ifTTo@overlap \else \protect \newline \protect \null \fi \fi \protect \nobreak \protect \hskip \the \@tempdimb \relax }\vskip -\prevdepth \prevdepth -99\p@ \vskip \prevdepth }}\end {equation*}
       </AssociatedFile>
     </Formula>
@@ -215,11 +215,11 @@
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
        title="equation*"
-       af="tag-AFfile11.tex"
+       af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
-      <AssociatedFile name="tag-AFfile11.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}\lineskiplimit =-999pt \abovedisplayskip =-\baselineskip \abovedisplayshortskip =-\baselineskip \belowdisplayskip \z@skip \belowdisplayshortskip \z@skip \halign {##\cr \noalign {\ifdim \predisplaysize =\maxdimen \CurrentLineWidth \linewidth \else \ifdim \predisplaysize =-\maxdimen \CurrentLineWidth \z@ \else \ifnum \TTo@Direction &lt;\z@ \CurrentLineWidth \linewidth \advance \CurrentLineWidth \predisplaysize \else \CurrentLineWidth \predisplaysize \fi \advance \CurrentLineWidth -2em \advance \CurrentLineWidth -\displayindent \advance \CurrentLineWidth -\leftskip \fi \fi \ifdim \CurrentLineWidth &lt;\z@ \CurrentLineWidth \z@ \fi \setlength \@tempdimb {\NextTabStop }\global \TabPrevPos \CurrentLineWidth \protected@xdef \TTo@action {\vrule \@width \z@ \@depth \the \prevdepth \ifdim \CurrentLineWidth >\@tempdimb \ifTTo@overlap \else \protect \newline \protect \null \fi \fi \protect \nobreak \protect \hskip \the \@tempdimb \relax }\vskip -\prevdepth \prevdepth -99\p@ \vskip \prevdepth }}\end {equation*}
       </AssociatedFile>
     </Formula>
@@ -243,11 +243,11 @@
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
        title="equation*"
-       af="tag-AFfile12.tex"
+       af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
-      <AssociatedFile name="tag-AFfile12.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}\lineskiplimit =-999pt \abovedisplayskip =-\baselineskip \abovedisplayshortskip =-\baselineskip \belowdisplayskip \z@skip \belowdisplayshortskip \z@skip \halign {##\cr \noalign {\ifdim \predisplaysize =\maxdimen \CurrentLineWidth \linewidth \else \ifdim \predisplaysize =-\maxdimen \CurrentLineWidth \z@ \else \ifnum \TTo@Direction &lt;\z@ \CurrentLineWidth \linewidth \advance \CurrentLineWidth \predisplaysize \else \CurrentLineWidth \predisplaysize \fi \advance \CurrentLineWidth -2em \advance \CurrentLineWidth -\displayindent \advance \CurrentLineWidth -\leftskip \fi \fi \ifdim \CurrentLineWidth &lt;\z@ \CurrentLineWidth \z@ \fi \setlength \@tempdimb {\NextTabStop }\global \TabPrevPos \CurrentLineWidth \protected@xdef \TTo@action {\vrule \@width \z@ \@depth \the \prevdepth \ifdim \CurrentLineWidth >\@tempdimb \ifTTo@overlap \else \protect \newline \protect \null \fi \fi \protect \nobreak \protect \hskip \the \@tempdimb \relax }\vskip -\prevdepth \prevdepth -99\p@ \vskip \prevdepth }}\end {equation*}
       </AssociatedFile>
     </Formula>
@@ -260,11 +260,11 @@
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
        title="equation*"
-       af="tag-AFfile13.tex"
+       af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
-      <AssociatedFile name="tag-AFfile13.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}\lineskiplimit =-999pt \abovedisplayskip =-\baselineskip \abovedisplayshortskip =-\baselineskip \belowdisplayskip \z@skip \belowdisplayshortskip \z@skip \halign {##\cr \noalign {\ifdim \predisplaysize =\maxdimen \CurrentLineWidth \linewidth \else \ifdim \predisplaysize =-\maxdimen \CurrentLineWidth \z@ \else \ifnum \TTo@Direction &lt;\z@ \CurrentLineWidth \linewidth \advance \CurrentLineWidth \predisplaysize \else \CurrentLineWidth \predisplaysize \fi \advance \CurrentLineWidth -2em \advance \CurrentLineWidth -\displayindent \advance \CurrentLineWidth -\leftskip \fi \fi \ifdim \CurrentLineWidth &lt;\z@ \CurrentLineWidth \z@ \fi \setlength \@tempdimb {\NextTabStop }\global \TabPrevPos \CurrentLineWidth \protected@xdef \TTo@action {\vrule \@width \z@ \@depth \the \prevdepth \ifdim \CurrentLineWidth >\@tempdimb \ifTTo@overlap \else \protect \newline \protect \null \fi \fi \protect \nobreak \protect \hskip \the \@tempdimb \relax }\vskip -\prevdepth \prevdepth -99\p@ \vskip \prevdepth }}\end {equation*}
       </AssociatedFile>
     </Formula>
@@ -277,11 +277,11 @@
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
        title="equation*"
-       af="tag-AFfile14.tex"
+       af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
-      <AssociatedFile name="tag-AFfile14.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}\lineskiplimit =-999pt \abovedisplayskip =-\baselineskip \abovedisplayshortskip =-\baselineskip \belowdisplayskip \z@skip \belowdisplayshortskip \z@skip \halign {##\cr \noalign {\ifdim \predisplaysize =\maxdimen \CurrentLineWidth \linewidth \else \ifdim \predisplaysize =-\maxdimen \CurrentLineWidth \z@ \else \ifnum \TTo@Direction &lt;\z@ \CurrentLineWidth \linewidth \advance \CurrentLineWidth \predisplaysize \else \CurrentLineWidth \predisplaysize \fi \advance \CurrentLineWidth -2em \advance \CurrentLineWidth -\displayindent \advance \CurrentLineWidth -\leftskip \fi \fi \ifdim \CurrentLineWidth &lt;\z@ \CurrentLineWidth \z@ \fi \setlength \@tempdimb {\NextTabStop }\global \TabPrevPos \CurrentLineWidth \protected@xdef \TTo@action {\vrule \@width \z@ \@depth \the \prevdepth \ifdim \CurrentLineWidth >\@tempdimb \ifTTo@overlap \else \protect \newline \protect \null \fi \fi \protect \nobreak \protect \hskip \the \@tempdimb \relax }\vskip -\prevdepth \prevdepth -99\p@ \vskip \prevdepth }}\end {equation*}
       </AssociatedFile>
     </Formula>
@@ -294,11 +294,11 @@
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
        title="equation*"
-       af="tag-AFfile15.tex"
+       af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
-      <AssociatedFile name="tag-AFfile15.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}\lineskiplimit =-999pt \abovedisplayskip =-\baselineskip \abovedisplayshortskip =-\baselineskip \belowdisplayskip \z@skip \belowdisplayshortskip \z@skip \halign {##\cr \noalign {\ifdim \predisplaysize =\maxdimen \CurrentLineWidth \linewidth \else \ifdim \predisplaysize =-\maxdimen \CurrentLineWidth \z@ \else \ifnum \TTo@Direction &lt;\z@ \CurrentLineWidth \linewidth \advance \CurrentLineWidth \predisplaysize \else \CurrentLineWidth \predisplaysize \fi \advance \CurrentLineWidth -2em \advance \CurrentLineWidth -\displayindent \advance \CurrentLineWidth -\leftskip \fi \fi \ifdim \CurrentLineWidth &lt;\z@ \CurrentLineWidth \z@ \fi \setlength \@tempdimb {\NextTabStop }\global \TabPrevPos \CurrentLineWidth \protected@xdef \TTo@action {\vrule \@width \z@ \@depth \the \prevdepth \ifdim \CurrentLineWidth >\@tempdimb \ifTTo@overlap \else \protect \newline \protect \null \fi \fi \protect \nobreak \protect \hskip \the \@tempdimb \relax }\vskip -\prevdepth \prevdepth -99\p@ \vskip \prevdepth }}\end {equation*}
       </AssociatedFile>
     </Formula>
@@ -311,11 +311,11 @@
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
        title="equation*"
-       af="tag-AFfile16.tex"
+       af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
-      <AssociatedFile name="tag-AFfile16.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}\lineskiplimit =-999pt \abovedisplayskip =-\baselineskip \abovedisplayshortskip =-\baselineskip \belowdisplayskip \z@skip \belowdisplayshortskip \z@skip \halign {##\cr \noalign {\ifdim \predisplaysize =\maxdimen \CurrentLineWidth \linewidth \else \ifdim \predisplaysize =-\maxdimen \CurrentLineWidth \z@ \else \ifnum \TTo@Direction &lt;\z@ \CurrentLineWidth \linewidth \advance \CurrentLineWidth \predisplaysize \else \CurrentLineWidth \predisplaysize \fi \advance \CurrentLineWidth -2em \advance \CurrentLineWidth -\displayindent \advance \CurrentLineWidth -\leftskip \fi \fi \ifdim \CurrentLineWidth &lt;\z@ \CurrentLineWidth \z@ \fi \setlength \@tempdimb {.42\linewidth }\global \TabPrevPos \CurrentLineWidth \protected@xdef \TTo@action {\vrule \@width \z@ \@depth \the \prevdepth \ifdim \CurrentLineWidth >\@tempdimb \ifTTo@overlap \else \protect \newline \protect \null \fi \fi \protect \nobreak \protect \hskip \the \@tempdimb \relax }\vskip -\prevdepth \prevdepth -99\p@ \vskip \prevdepth }}\end {equation*}
       </AssociatedFile>
     </Formula>

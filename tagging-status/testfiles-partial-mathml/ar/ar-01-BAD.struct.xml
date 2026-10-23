@@ -23,11 +23,11 @@
       >
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="tag-AFfile1.tex"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-       <AssociatedFile name="tag-AFfile1.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\AR $
        </AssociatedFile>
       <?MarkedContent page="1" ?>A
@@ -55,11 +55,11 @@
       >
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="tag-AFfile2.tex"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-       <AssociatedFile name="tag-AFfile2.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\ARb $
        </AssociatedFile>
       <?MarkedContent page="1" ?>A

@@ -116,14 +116,14 @@
                  >
                 <Formula xmlns="http://iso.org/pdf2/ssn"
                    title="math"
-                   af="mathml-1.xml tag-AFfile1.tex"
+                   af="mathml-1.xml source.tex"
                    xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                    Layout:Placement="Inline"
                   >
                   <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
                   <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑥</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mn>5</mn> </math>
                   </AssociatedFile>
-                  <AssociatedFile name="tag-AFfile1.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                  <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
                   $x=5$
                   </AssociatedFile>
                  <?MarkedContent page="1" ?>𝑥=5
@@ -265,14 +265,14 @@
                >
               <Formula xmlns="http://iso.org/pdf2/ssn"
                  title="math"
-                 af="mathml-2.xml tag-AFfile2.tex"
+                 af="mathml-2.xml source.tex"
                  xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                  Layout:Placement="Inline"
                 >
                 <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
                 <math xmlns="http://www.w3.org/1998/Math/MathML"> <mn>2</mn> <mi>𝛼</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mn>2</mn> <mi>𝛿</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mn> 90 </mn> <mo lspace="0" rspace="0">∘</mo> </msup> </math>
                 </AssociatedFile>
-                <AssociatedFile name="tag-AFfile2.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
                 $2\alpha +2\delta =90^{\circ }$
                 </AssociatedFile>
                <?MarkedContent page="1" ?>2𝛼+2𝛿=90∘
@@ -302,14 +302,14 @@
                >
               <Formula xmlns="http://iso.org/pdf2/ssn"
                  title="math"
-                 af="mathml-3.xml tag-AFfile3.tex"
+                 af="mathml-3.xml source.tex"
                  xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                  Layout:Placement="Inline"
                 >
                 <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
                 <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝛼</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mi>𝛿</mi> </math>
                 </AssociatedFile>
-                <AssociatedFile name="tag-AFfile3.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
                 $\alpha =\delta $
                 </AssociatedFile>
                <?MarkedContent page="1" ?>𝛼=𝛿
@@ -339,14 +339,14 @@
                >
               <Formula xmlns="http://iso.org/pdf2/ssn"
                  title="math"
-                 af="mathml-4.xml tag-AFfile4.tex"
+                 af="mathml-4.xml source.tex"
                  xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                  Layout:Placement="Inline"
                 >
                 <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
                 <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">∠</mi> <mi>𝐸</mi> <mi>𝐷</mi> <mi>𝐹</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mn> 45 </mn> <mo lspace="0" rspace="0">∘</mo> </msup> </math>
                 </AssociatedFile>
-                <AssociatedFile name="tag-AFfile4.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
                 $\angle EDF=45^{\circ }$
                 </AssociatedFile>
                <?MarkedContent page="1" ?>∠𝐸𝐷𝐹=45∘
@@ -536,14 +536,14 @@
                >
               <Formula xmlns="http://iso.org/pdf2/ssn"
                  title="math"
-                 af="mathml-2.xml tag-AFfile5.tex"
+                 af="mathml-2.xml source.tex"
                  xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                  Layout:Placement="Inline"
                 >
                 <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
                 <math xmlns="http://www.w3.org/1998/Math/MathML"> <mn>2</mn> <mi>𝛼</mi> <mo lspace="0.222em" rspace="0.222em">+</mo> <mn>2</mn> <mi>𝛿</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mn> 90 </mn> <mo lspace="0" rspace="0">∘</mo> </msup> </math>
                 </AssociatedFile>
-                <AssociatedFile name="tag-AFfile5.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
                 $2\alpha +2\delta =90^{\circ }$
                 </AssociatedFile>
                <?MarkedContent page="1" ?>2𝛼+2𝛿=90∘
@@ -573,14 +573,14 @@
                >
               <Formula xmlns="http://iso.org/pdf2/ssn"
                  title="math"
-                 af="mathml-4.xml tag-AFfile6.tex"
+                 af="mathml-4.xml source.tex"
                  xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                  Layout:Placement="Inline"
                 >
                 <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
                 <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal">∠</mi> <mi>𝐸</mi> <mi>𝐷</mi> <mi>𝐹</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <msup> <mn> 45 </mn> <mo lspace="0" rspace="0">∘</mo> </msup> </math>
                 </AssociatedFile>
-                <AssociatedFile name="tag-AFfile6.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
                 $\angle EDF=45^{\circ }$
                 </AssociatedFile>
                <?MarkedContent page="1" ?>∠𝐸𝐷𝐹=45∘
@@ -669,14 +669,14 @@
               <?MarkedContent page="1" ?>some note 
               <Formula xmlns="http://iso.org/pdf2/ssn"
                  title="math"
-                 af="mathml-7.xml tag-AFfile7.tex"
+                 af="mathml-7.xml source.tex"
                  xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                  Layout:Placement="Inline"
                 >
                 <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
                 <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑦</mi> </math>
                 </AssociatedFile>
-                <AssociatedFile name="tag-AFfile7.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+                <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
                 $y$
                 </AssociatedFile>
                <?MarkedContent page="1" ?>𝑦
@@ -1217,14 +1217,14 @@
           <?MarkedContent page="1" ?>B) 
           <Formula xmlns="http://iso.org/pdf2/ssn"
              title="math"
-             af="mathml-1.xml tag-AFfile8.tex"
+             af="mathml-1.xml source.tex"
              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
              Layout:Placement="Inline"
             >
             <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
             <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑥</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mn>5</mn> </math>
             </AssociatedFile>
-            <AssociatedFile name="tag-AFfile8.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+            <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
             $x=5$
             </AssociatedFile>
            <?MarkedContent page="1" ?>𝑥=5
@@ -1289,14 +1289,14 @@
           <?MarkedContent page="1" ?>C) some note 
           <Formula xmlns="http://iso.org/pdf2/ssn"
              title="math"
-             af="mathml-7.xml tag-AFfile9.tex"
+             af="mathml-7.xml source.tex"
              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
              Layout:Placement="Inline"
             >
             <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
             <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑦</mi> </math>
             </AssociatedFile>
-            <AssociatedFile name="tag-AFfile9.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+            <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
             $y$
             </AssociatedFile>
            <?MarkedContent page="1" ?>𝑦
@@ -1463,14 +1463,14 @@
             <?MarkedContent page="1" ?>B) 
             <Formula xmlns="http://iso.org/pdf2/ssn"
                title="math"
-               af="mathml-1.xml tag-AFfile10.tex"
+               af="mathml-1.xml source.tex"
                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                Layout:Placement="Inline"
               >
               <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
               <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑥</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mn>5</mn> </math>
               </AssociatedFile>
-              <AssociatedFile name="tag-AFfile10.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+              <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
               $x=5$
               </AssociatedFile>
              <?MarkedContent page="1" ?>𝑥=5
@@ -1561,14 +1561,14 @@
             <?MarkedContent page="1" ?>C) some note 
             <Formula xmlns="http://iso.org/pdf2/ssn"
                title="math"
-               af="mathml-7.xml tag-AFfile11.tex"
+               af="mathml-7.xml source.tex"
                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                Layout:Placement="Inline"
               >
               <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
               <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑦</mi> </math>
               </AssociatedFile>
-              <AssociatedFile name="tag-AFfile11.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+              <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
               $y$
               </AssociatedFile>
              <?MarkedContent page="1" ?>𝑦
@@ -1754,14 +1754,14 @@
       <?MarkedContent page="1" ?>B) 
       <Formula xmlns="http://iso.org/pdf2/ssn"
          title="math"
-         af="mathml-1.xml tag-AFfile12.tex"
+         af="mathml-1.xml source.tex"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:Placement="Inline"
         >
         <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑥</mi> <mo lspace="0.278em" rspace="0.278em">=</mo> <mn>5</mn> </math>
         </AssociatedFile>
-        <AssociatedFile name="tag-AFfile12.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $x=5$
         </AssociatedFile>
        <?MarkedContent page="1" ?>𝑥=5
@@ -1790,14 +1790,14 @@
       <?MarkedContent page="1" ?>C) some note 
       <Formula xmlns="http://iso.org/pdf2/ssn"
          title="math"
-         af="mathml-7.xml tag-AFfile13.tex"
+         af="mathml-7.xml source.tex"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:Placement="Inline"
         >
         <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝑦</mi> </math>
         </AssociatedFile>
-        <AssociatedFile name="tag-AFfile13.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $y$
         </AssociatedFile>
        <?MarkedContent page="1" ?>𝑦

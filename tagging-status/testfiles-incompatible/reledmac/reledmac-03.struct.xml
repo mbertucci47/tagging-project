@@ -145,14 +145,14 @@
      <?MarkedContent page="1" ?>1-R 
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-1.xml tag-AFfile1.tex"
+        af="mathml-1.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">|</mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile1.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $|$
        </AssociatedFile>
       <?MarkedContent page="1" ?>|
@@ -160,14 +160,14 @@
      <?MarkedContent page="1" ?> 1-M 
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-1.xml tag-AFfile2.tex"
+        af="mathml-1.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">|</mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile2.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $|$
        </AssociatedFile>
       <?MarkedContent page="1" ?>|
@@ -175,14 +175,14 @@
      <?MarkedContent page="1" ?> 2-M 
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-1.xml tag-AFfile3.tex"
+        af="mathml-1.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">|</mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile3.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $|$
        </AssociatedFile>
       <?MarkedContent page="1" ?>|
@@ -201,14 +201,14 @@
      <?MarkedContent page="1" ?>1-L 
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-1.xml tag-AFfile4.tex"
+        af="mathml-1.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">|</mo> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile4.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $|$
        </AssociatedFile>
       <?MarkedContent page="1" ?>|

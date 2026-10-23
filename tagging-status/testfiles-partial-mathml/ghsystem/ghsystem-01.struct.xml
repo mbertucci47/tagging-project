@@ -70,14 +70,14 @@
        >
       <Formula xmlns="http://iso.org/pdf2/ssn"
          title="math"
-         af="mathml-1.xml tag-AFfile1.tex"
+         af="mathml-1.xml source.tex"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:Placement="Inline"
         >
         <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟨</mo> </math>
         </AssociatedFile>
-        <AssociatedFile name="tag-AFfile1.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $\langle $
         </AssociatedFile>
        <?MarkedContent page="1" ?>⟨
@@ -85,14 +85,14 @@
       <?MarkedContent page="1" ?>state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard
       <Formula xmlns="http://iso.org/pdf2/ssn"
          title="math"
-         af="mathml-2.xml tag-AFfile2.tex"
+         af="mathml-2.xml source.tex"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:Placement="Inline"
         >
         <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
         <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟩</mo> </math>
         </AssociatedFile>
-        <AssociatedFile name="tag-AFfile2.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $\rangle $
         </AssociatedFile>
        <?MarkedContent page="1" ?>⟩
@@ -177,14 +177,14 @@
      <?MarkedContent page="1" ?>P411: Store at temperatures not exceeding 
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-3.xml tag-AFfile3.tex"
+        af="mathml-3.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mn> 50 </mn> <mspace width="0.167em"/> <mrow intent=":unit"> <mtext>°</mtext> <mi mathvariant="normal">C</mi> </mrow> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile3.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\qty {50}{\GHScelsius }$
        </AssociatedFile>
       <?MarkedContent page="1" ?>50°C
@@ -192,14 +192,14 @@
      <?MarkedContent page="1" ?>/
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-4.xml tag-AFfile4.tex"
+        af="mathml-4.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mn> 122 </mn> <mspace width="0.167em"/> <mrow intent=":unit"> <mtext>°</mtext> <mi mathvariant="normal">F</mi> </mrow> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile4.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\qty {122}{\GHSfahrenheit }$
        </AssociatedFile>
       <?MarkedContent page="1" ?>122°F
@@ -218,14 +218,14 @@
      <?MarkedContent page="1" ?>P413: Store bulk masses greater than 
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-5.xml tag-AFfile5.tex"
+        af="mathml-5.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mn>5</mn> <mo lspace="0" rspace="0">.</mo> <mn>0</mn> <mspace width="0.167em"/> <mi intent=":unit" mathvariant="normal"> kg </mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile5.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\qty {5.0}{\GHSkilogram }$
        </AssociatedFile>
       <?MarkedContent page="1" ?>5.0kg
@@ -233,14 +233,14 @@
      <?MarkedContent page="1" ?>/
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-6.xml tag-AFfile6.tex"
+        af="mathml-6.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-6.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mn> 11 </mn> <mspace width="0.167em"/> <mi intent=":unit" mathvariant="normal"> lbs </mi> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile6.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\qty {11}{\GHSpounds }$
        </AssociatedFile>
       <?MarkedContent page="1" ?>11lbs
@@ -249,14 +249,14 @@
      <?MarkedContent page="1" ?>ceeding 
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-3.xml tag-AFfile7.tex"
+        af="mathml-3.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mn> 50 </mn> <mspace width="0.167em"/> <mrow intent=":unit"> <mtext>°</mtext> <mi mathvariant="normal">C</mi> </mrow> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile7.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\qty {50}{\GHScelsius }$
        </AssociatedFile>
       <?MarkedContent page="1" ?>50°C
@@ -264,14 +264,14 @@
      <?MarkedContent page="1" ?>/
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-4.xml tag-AFfile8.tex"
+        af="mathml-4.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mn> 122 </mn> <mspace width="0.167em"/> <mrow intent=":unit"> <mtext>°</mtext> <mi mathvariant="normal">F</mi> </mrow> </math>
        </AssociatedFile>
-       <AssociatedFile name="tag-AFfile8.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\qty {122}{\GHSfahrenheit }$
        </AssociatedFile>
       <?MarkedContent page="1" ?>122°F
@@ -1741,14 +1741,14 @@
           >
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-1.xml tag-AFfile9.tex"
+            af="mathml-1.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟨</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile9.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\langle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟨
@@ -1756,14 +1756,14 @@
          <?MarkedContent page="3" ?>state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-2.xml tag-AFfile10.tex"
+            af="mathml-2.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟩</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile10.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\rangle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟩
@@ -1803,14 +1803,14 @@
           >
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-1.xml tag-AFfile11.tex"
+            af="mathml-1.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟨</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile11.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\langle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟨
@@ -1818,14 +1818,14 @@
          <?MarkedContent page="3" ?>state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-2.xml tag-AFfile12.tex"
+            af="mathml-2.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟩</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile12.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\rangle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟩
@@ -1865,14 +1865,14 @@
           >
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-1.xml tag-AFfile13.tex"
+            af="mathml-1.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟨</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile13.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\langle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟨
@@ -1881,14 +1881,14 @@
          <?MarkedContent page="3" ?>clusively proven that no other routes of exposure cause the hazard
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-2.xml tag-AFfile14.tex"
+            af="mathml-2.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟩</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile14.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\rangle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟩
@@ -1928,14 +1928,14 @@
           >
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-1.xml tag-AFfile15.tex"
+            af="mathml-1.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟨</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile15.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\langle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟨
@@ -1943,14 +1943,14 @@
          <?MarkedContent page="3" ?>state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-2.xml tag-AFfile16.tex"
+            af="mathml-2.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟩</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile16.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\rangle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟩
@@ -1990,14 +1990,14 @@
           >
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-1.xml tag-AFfile17.tex"
+            af="mathml-1.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟨</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile17.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\langle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟨
@@ -2005,14 +2005,14 @@
          <?MarkedContent page="3" ?>state specific effect if known
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-2.xml tag-AFfile18.tex"
+            af="mathml-2.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟩</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile18.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\rangle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟩
@@ -2022,14 +2022,14 @@
           >
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-1.xml tag-AFfile19.tex"
+            af="mathml-1.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟨</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile19.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\langle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟨
@@ -2038,14 +2038,14 @@
          <?MarkedContent page="3" ?>sively proven that no other routes of exposure cause the hazard
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-2.xml tag-AFfile20.tex"
+            af="mathml-2.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟩</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile20.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\rangle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟩
@@ -2085,14 +2085,14 @@
           >
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-1.xml tag-AFfile21.tex"
+            af="mathml-1.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟨</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile21.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\langle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟨
@@ -2100,14 +2100,14 @@
          <?MarkedContent page="3" ?>state specific effect if known
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-2.xml tag-AFfile22.tex"
+            af="mathml-2.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟩</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile22.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\rangle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟩
@@ -2117,14 +2117,14 @@
           >
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-1.xml tag-AFfile23.tex"
+            af="mathml-1.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟨</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile23.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\langle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟨
@@ -2132,14 +2132,14 @@
          <?MarkedContent page="3" ?>state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-2.xml tag-AFfile24.tex"
+            af="mathml-2.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟩</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile24.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\rangle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟩
@@ -2208,14 +2208,14 @@
           >
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-1.xml tag-AFfile25.tex"
+            af="mathml-1.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟨</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile25.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\langle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟨
@@ -2223,14 +2223,14 @@
          <?MarkedContent page="3" ?>or state all organs affected, if known
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-2.xml tag-AFfile26.tex"
+            af="mathml-2.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟩</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile26.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\rangle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟩
@@ -2241,14 +2241,14 @@
           >
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-1.xml tag-AFfile27.tex"
+            af="mathml-1.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟨</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile27.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\langle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟨
@@ -2256,14 +2256,14 @@
          <?MarkedContent page="3" ?>state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-2.xml tag-AFfile28.tex"
+            af="mathml-2.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟩</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile28.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\rangle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟩
@@ -2303,14 +2303,14 @@
           >
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-1.xml tag-AFfile29.tex"
+            af="mathml-1.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟨</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile29.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\langle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟨
@@ -2319,14 +2319,14 @@
          <?MarkedContent page="3" ?>fected, if known
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-2.xml tag-AFfile30.tex"
+            af="mathml-2.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟩</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile30.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\rangle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟩
@@ -2337,14 +2337,14 @@
           >
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-1.xml tag-AFfile31.tex"
+            af="mathml-1.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟨</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile31.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\langle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟨
@@ -2353,14 +2353,14 @@
          <?MarkedContent page="3" ?>clusively proven that no other routes of exposure cause the hazard
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-2.xml tag-AFfile32.tex"
+            af="mathml-2.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟩</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile32.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\rangle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟩
@@ -2400,14 +2400,14 @@
           >
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-1.xml tag-AFfile33.tex"
+            af="mathml-1.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟨</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile33.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\langle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟨
@@ -2415,14 +2415,14 @@
          <?MarkedContent page="3" ?>or state all organs affected, if known
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-2.xml tag-AFfile34.tex"
+            af="mathml-2.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟩</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile34.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\rangle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟩
@@ -2433,14 +2433,14 @@
           >
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-1.xml tag-AFfile35.tex"
+            af="mathml-1.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟨</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile35.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\langle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟨
@@ -2448,14 +2448,14 @@
          <?MarkedContent page="3" ?>state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-2.xml tag-AFfile36.tex"
+            af="mathml-2.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟩</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile36.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\rangle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟩
@@ -2495,14 +2495,14 @@
           >
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-1.xml tag-AFfile37.tex"
+            af="mathml-1.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟨</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile37.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\langle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟨
@@ -2511,14 +2511,14 @@
          <?MarkedContent page="3" ?>fected, if known
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-2.xml tag-AFfile38.tex"
+            af="mathml-2.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟩</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile38.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\rangle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟩
@@ -2530,14 +2530,14 @@
           >
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-1.xml tag-AFfile39.tex"
+            af="mathml-1.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟨</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile39.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\langle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟨
@@ -2545,14 +2545,14 @@
          <?MarkedContent page="3" ?>state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-2.xml tag-AFfile40.tex"
+            af="mathml-2.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟩</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile40.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\rangle $
            </AssociatedFile>
           <?MarkedContent page="3" ?>⟩
@@ -3611,14 +3611,14 @@
           >
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-1.xml tag-AFfile41.tex"
+            af="mathml-1.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟨</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile41.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\langle $
            </AssociatedFile>
           <?MarkedContent page="5" ?>⟨
@@ -3626,14 +3626,14 @@
          <?MarkedContent page="5" ?>name of sensitising substance
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
-            af="mathml-2.xml tag-AFfile42.tex"
+            af="mathml-2.xml source.tex"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:Placement="Inline"
            >
            <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
            <math xmlns="http://www.w3.org/1998/Math/MathML"> <mo lspace="0" rspace="0" stretchy="false">⟩</mo> </math>
            </AssociatedFile>
-           <AssociatedFile name="tag-AFfile42.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
            $\rangle $
            </AssociatedFile>
           <?MarkedContent page="5" ?>⟩
@@ -7397,14 +7397,14 @@
         <?MarkedContent page="10" ?>Store at temperatures not exceeding 
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="math"
-           af="mathml-43.xml tag-AFfile43.tex"
+           af="mathml-43.xml source.tex"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Inline"
           >
           <AssociatedFile name="mathml-43.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
           <math intent=":unit" xmlns="http://www.w3.org/1998/Math/MathML"> <mtext>°</mtext> <mi mathvariant="normal">C</mi> </math>
           </AssociatedFile>
-          <AssociatedFile name="tag-AFfile43.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           $\MathMLintent {:unit}{\mathrm {\SIUnitSymbolDegree C}}$
           </AssociatedFile>
          <?MarkedContent page="10" ?>°C
@@ -7412,14 +7412,14 @@
         <?MarkedContent page="10" ?>/
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="math"
-           af="mathml-44.xml tag-AFfile44.tex"
+           af="mathml-44.xml source.tex"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Inline"
           >
           <AssociatedFile name="mathml-44.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
           <math intent=":unit" xmlns="http://www.w3.org/1998/Math/MathML"> <mtext>°</mtext> <mi mathvariant="normal">F</mi> </math>
           </AssociatedFile>
-          <AssociatedFile name="tag-AFfile44.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           $\MathMLintent {:unit}{\mathrm {\SIUnitSymbolDegree F}}$
           </AssociatedFile>
          <?MarkedContent page="10" ?>°F
@@ -7456,14 +7456,14 @@
         <?MarkedContent page="10" ?>Store at temperatures not exceeding 
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="math"
-           af="mathml-3.xml tag-AFfile45.tex"
+           af="mathml-3.xml source.tex"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Inline"
           >
           <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
           <math xmlns="http://www.w3.org/1998/Math/MathML"> <mn> 50 </mn> <mspace width="0.167em"/> <mrow intent=":unit"> <mtext>°</mtext> <mi mathvariant="normal">C</mi> </mrow> </math>
           </AssociatedFile>
-          <AssociatedFile name="tag-AFfile45.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           $\qty {50}{\GHScelsius }$
           </AssociatedFile>
          <?MarkedContent page="10" ?>50°C
@@ -7471,14 +7471,14 @@
         <?MarkedContent page="10" ?>/
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="math"
-           af="mathml-4.xml tag-AFfile46.tex"
+           af="mathml-4.xml source.tex"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Inline"
           >
           <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
           <math xmlns="http://www.w3.org/1998/Math/MathML"> <mn> 122 </mn> <mspace width="0.167em"/> <mrow intent=":unit"> <mtext>°</mtext> <mi mathvariant="normal">F</mi> </mrow> </math>
           </AssociatedFile>
-          <AssociatedFile name="tag-AFfile46.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           $\qty {122}{\GHSfahrenheit }$
           </AssociatedFile>
          <?MarkedContent page="10" ?>122°F
@@ -7515,14 +7515,14 @@
         <?MarkedContent page="10" ?>Store bulk masses greater than 
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="math"
-           af="mathml-47.xml tag-AFfile47.tex"
+           af="mathml-47.xml source.tex"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Inline"
           >
           <AssociatedFile name="mathml-47.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
           <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi intent=":unit" mathvariant="normal"> kg </mi> </math>
           </AssociatedFile>
-          <AssociatedFile name="tag-AFfile47.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           $\MathMLintent {:unit}{\mathrm {kg}}$
           </AssociatedFile>
          <?MarkedContent page="10" ?>kg
@@ -7530,14 +7530,14 @@
         <?MarkedContent page="10" ?>/
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="math"
-           af="mathml-48.xml tag-AFfile48.tex"
+           af="mathml-48.xml source.tex"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Inline"
           >
           <AssociatedFile name="mathml-48.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
           <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi intent=":unit" mathvariant="normal"> lbs </mi> </math>
           </AssociatedFile>
-          <AssociatedFile name="tag-AFfile48.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           $\MathMLintent {:unit}{\mathrm {lbs}}$
           </AssociatedFile>
          <?MarkedContent page="10" ?>lbs
@@ -7545,14 +7545,14 @@
         <?MarkedContent page="10" ?> at temperatures not exceeding 
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="math"
-           af="mathml-43.xml tag-AFfile49.tex"
+           af="mathml-43.xml source.tex"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Inline"
           >
           <AssociatedFile name="mathml-43.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
           <math intent=":unit" xmlns="http://www.w3.org/1998/Math/MathML"> <mtext>°</mtext> <mi mathvariant="normal">C</mi> </math>
           </AssociatedFile>
-          <AssociatedFile name="tag-AFfile49.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           $\MathMLintent {:unit}{\mathrm {\SIUnitSymbolDegree C}}$
           </AssociatedFile>
          <?MarkedContent page="10" ?>°C
@@ -7560,14 +7560,14 @@
         <?MarkedContent page="10" ?>/
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="math"
-           af="mathml-44.xml tag-AFfile50.tex"
+           af="mathml-44.xml source.tex"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Inline"
           >
           <AssociatedFile name="mathml-44.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
           <math intent=":unit" xmlns="http://www.w3.org/1998/Math/MathML"> <mtext>°</mtext> <mi mathvariant="normal">F</mi> </math>
           </AssociatedFile>
-          <AssociatedFile name="tag-AFfile50.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           $\MathMLintent {:unit}{\mathrm {\SIUnitSymbolDegree F}}$
           </AssociatedFile>
          <?MarkedContent page="10" ?>°F
@@ -7778,14 +7778,14 @@
         <?MarkedContent page="10" ?>Protect from sunlight. Do not expose to temperatures exceeding 
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="math"
-           af="mathml-3.xml tag-AFfile51.tex"
+           af="mathml-3.xml source.tex"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Inline"
           >
           <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
           <math xmlns="http://www.w3.org/1998/Math/MathML"> <mn> 50 </mn> <mspace width="0.167em"/> <mrow intent=":unit"> <mtext>°</mtext> <mi mathvariant="normal">C</mi> </mrow> </math>
           </AssociatedFile>
-          <AssociatedFile name="tag-AFfile51.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           $\qty {50}{\GHScelsius }$
           </AssociatedFile>
          <?MarkedContent page="10" ?>50°C
@@ -7793,14 +7793,14 @@
         <?MarkedContent page="10" ?>/
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="math"
-           af="mathml-4.xml tag-AFfile52.tex"
+           af="mathml-4.xml source.tex"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Inline"
           >
           <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
           <math xmlns="http://www.w3.org/1998/Math/MathML"> <mn> 122 </mn> <mspace width="0.167em"/> <mrow intent=":unit"> <mtext>°</mtext> <mi mathvariant="normal">F</mi> </mrow> </math>
           </AssociatedFile>
-          <AssociatedFile name="tag-AFfile52.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           $\qty {122}{\GHSfahrenheit }$
           </AssociatedFile>
          <?MarkedContent page="10" ?>122°F
@@ -7837,14 +7837,14 @@
         <?MarkedContent page="10" ?>Store at temperatures not exceeding 
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="math"
-           af="mathml-43.xml tag-AFfile53.tex"
+           af="mathml-43.xml source.tex"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Inline"
           >
           <AssociatedFile name="mathml-43.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
           <math intent=":unit" xmlns="http://www.w3.org/1998/Math/MathML"> <mtext>°</mtext> <mi mathvariant="normal">C</mi> </math>
           </AssociatedFile>
-          <AssociatedFile name="tag-AFfile53.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           $\MathMLintent {:unit}{\mathrm {\SIUnitSymbolDegree C}}$
           </AssociatedFile>
          <?MarkedContent page="10" ?>°C
@@ -7852,14 +7852,14 @@
         <?MarkedContent page="10" ?>/
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="math"
-           af="mathml-44.xml tag-AFfile54.tex"
+           af="mathml-44.xml source.tex"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Inline"
           >
           <AssociatedFile name="mathml-44.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
           <math intent=":unit" xmlns="http://www.w3.org/1998/Math/MathML"> <mtext>°</mtext> <mi mathvariant="normal">F</mi> </math>
           </AssociatedFile>
-          <AssociatedFile name="tag-AFfile54.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           $\MathMLintent {:unit}{\mathrm {\SIUnitSymbolDegree F}}$
           </AssociatedFile>
          <?MarkedContent page="10" ?>°F

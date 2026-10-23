@@ -141,11 +141,11 @@
             </text-block>
             <Formula xmlns="http://iso.org/pdf2/ssn"
                title="equation*"
-               af="tag-AFfile1.tex"
+               af="source.tex"
                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                Layout:Placement="Block"
               >
-              <AssociatedFile name="tag-AFfile1.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+              <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
               \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
               </AssociatedFile>
             </Formula>
@@ -161,11 +161,11 @@
         </text-block>
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="equation*"
-           af="tag-AFfile2.tex"
+           af="source.tex"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Block"
           >
-          <AssociatedFile name="tag-AFfile2.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
           </AssociatedFile>
         </Formula>
@@ -279,11 +279,11 @@
             </text-block>
             <Formula xmlns="http://iso.org/pdf2/ssn"
                title="equation*"
-               af="tag-AFfile3.tex"
+               af="source.tex"
                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                Layout:Placement="Block"
               >
-              <AssociatedFile name="tag-AFfile3.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+              <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
               \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
               </AssociatedFile>
             </Formula>
@@ -299,11 +299,11 @@
         </text-block>
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="equation*"
-           af="tag-AFfile4.tex"
+           af="source.tex"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Block"
           >
-          <AssociatedFile name="tag-AFfile4.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
           </AssociatedFile>
         </Formula>
@@ -380,11 +380,11 @@
             </text-block>
             <Formula xmlns="http://iso.org/pdf2/ssn"
                title="equation*"
-               af="tag-AFfile5.tex"
+               af="source.tex"
                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                Layout:Placement="Block"
               >
-              <AssociatedFile name="tag-AFfile5.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+              <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
               \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
               </AssociatedFile>
             </Formula>
@@ -400,11 +400,11 @@
         </text-block>
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="equation*"
-           af="tag-AFfile6.tex"
+           af="source.tex"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Block"
           >
-          <AssociatedFile name="tag-AFfile6.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
           </AssociatedFile>
         </Formula>
@@ -476,11 +476,11 @@
         </text-block>
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="equation*"
-           af="tag-AFfile7.tex"
+           af="source.tex"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Block"
           >
-          <AssociatedFile name="tag-AFfile7.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
           </AssociatedFile>
         </Formula>
@@ -562,11 +562,11 @@
             </text-block>
             <Formula xmlns="http://iso.org/pdf2/ssn"
                title="equation*"
-               af="tag-AFfile8.tex"
+               af="source.tex"
                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                Layout:Placement="Block"
               >
-              <AssociatedFile name="tag-AFfile8.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+              <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
               \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
               </AssociatedFile>
             </Formula>
@@ -582,11 +582,11 @@
         </text-block>
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="equation*"
-           af="tag-AFfile9.tex"
+           af="source.tex"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Block"
           >
-          <AssociatedFile name="tag-AFfile9.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
           </AssociatedFile>
         </Formula>
@@ -689,11 +689,11 @@
             </text-block>
             <Formula xmlns="http://iso.org/pdf2/ssn"
                title="equation*"
-               af="tag-AFfile10.tex"
+               af="source.tex"
                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                Layout:Placement="Block"
               >
-              <AssociatedFile name="tag-AFfile10.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+              <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
               \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
               </AssociatedFile>
             </Formula>
@@ -709,11 +709,11 @@
         </text-block>
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="equation*"
-           af="tag-AFfile11.tex"
+           af="source.tex"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Block"
           >
-          <AssociatedFile name="tag-AFfile11.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
           </AssociatedFile>
         </Formula>
@@ -822,11 +822,11 @@
         </text-block>
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="equation*"
-           af="tag-AFfile12.tex"
+           af="source.tex"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Block"
           >
-          <AssociatedFile name="tag-AFfile12.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
           </AssociatedFile>
         </Formula>
@@ -918,11 +918,11 @@
             </text-block>
             <Formula xmlns="http://iso.org/pdf2/ssn"
                title="equation*"
-               af="tag-AFfile13.tex"
+               af="source.tex"
                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                Layout:Placement="Block"
               >
-              <AssociatedFile name="tag-AFfile13.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+              <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
               \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
               </AssociatedFile>
             </Formula>
@@ -978,11 +978,11 @@
         </text-block>
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="equation*"
-           af="tag-AFfile14.tex"
+           af="source.tex"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Block"
           >
-          <AssociatedFile name="tag-AFfile14.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
           </AssociatedFile>
         </Formula>
@@ -1120,11 +1120,11 @@
         </text-block>
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="equation*"
-           af="tag-AFfile15.tex"
+           af="source.tex"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Block"
           >
-          <AssociatedFile name="tag-AFfile15.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
           </AssociatedFile>
         </Formula>
@@ -1221,11 +1221,11 @@
             </text-block>
             <Formula xmlns="http://iso.org/pdf2/ssn"
                title="equation*"
-               af="tag-AFfile16.tex"
+               af="source.tex"
                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                Layout:Placement="Block"
               >
-              <AssociatedFile name="tag-AFfile16.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+              <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
               \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
               </AssociatedFile>
             </Formula>
@@ -1241,11 +1241,11 @@
         </text-block>
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="equation*"
-           af="tag-AFfile17.tex"
+           af="source.tex"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:Placement="Block"
           >
-          <AssociatedFile name="tag-AFfile17.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           \begin {equation*}\hook_use:n {para/after}\dim_compare:nNnT {\predisplaysize }>{\c_zero_dim }{\dim_gset:Nn \g__scripture_final_line_dim {\predisplaysize -2em}}\cs_gset_nopar:Nx \__scripture_reset_spacing: {\dim_set:Nn \predisplaysize {\dim_use:N \predisplaysize }\int_set:Nn \prevgraf {\int_use:N \prevgraf }\int_gset:Nn \g__scripture_chap_par_prevgraf_int {\int_use:N \g__scripture_chap_par_prevgraf_int }}\end {equation*}
           </AssociatedFile>
         </Formula>
