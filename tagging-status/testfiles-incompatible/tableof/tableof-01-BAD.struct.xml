@@ -195,6 +195,8 @@
       </heading-number>
       <?MarkedContent page="6" ?>  
       <?MarkedContent page="6" ?>Introduction
+      <?MarkedContent page="6" ?>
+      <?MarkedContent page="7" ?>
      </section-heading>
     </section>
    </chapter>
@@ -206,7 +208,8 @@
        rolemaps-to="H1"
        referenced-as="2"
       >
-     <?MarkedContent page="7" ?>Chapter  
+     <?MarkedContent page="7" ?>Chapter
+     <?MarkedContent page="7" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >

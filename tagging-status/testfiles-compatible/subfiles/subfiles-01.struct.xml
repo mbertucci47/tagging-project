@@ -91,7 +91,8 @@
        rolemaps-to="H1"
        referenced-as="1"
       >
-     <?MarkedContent page="3" ?>Chapter  
+     <?MarkedContent page="3" ?>Chapter
+     <?MarkedContent page="3" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >
@@ -119,7 +120,8 @@
        rolemaps-to="H1"
        referenced-as="2"
       >
-     <?MarkedContent page="4" ?>Chapter  
+     <?MarkedContent page="4" ?>Chapter
+     <?MarkedContent page="4" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >

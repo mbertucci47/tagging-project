@@ -150,7 +150,7 @@
       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}P_{r-j} = \begin {cases} 0 &amp; if $r-j$ is odd \\ r!\,(-1)^{(r-j)/2} &amp; if $r-j$ is even \end {cases}\end {equation*}
       </AssociatedFile>
-     <?MarkedContent page="1" ?>𝑃𝑟−𝑗={0if 𝑟−𝑗 is odd 𝑟!(−1)(𝑟−𝑗)/2if 𝑟−𝑗 is even 
+     <?MarkedContent page="1" ?>𝑃𝑟−𝑗={0 if 𝑟−𝑗 is odd 𝑟!(−1)(𝑟−𝑗)/2 if 𝑟−𝑗 is even 
     </Formula>
    </semantic-para>
   </Document>

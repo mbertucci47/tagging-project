@@ -106,8 +106,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\tex_vcenter:D {\box_use:c {\__ebproof_box:N \l__ebproof_a_box }}$
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
-      <?MarkedContent page="1" ?>
      </Formula>
     </text-block>
    </semantic-para>
@@ -187,8 +185,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\tex_vcenter:D {\box_use:c {\__ebproof_box:N \l__ebproof_a_box }}$
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
-      <?MarkedContent page="1" ?>
      </Formula>
     </text-block>
    </semantic-para>
@@ -296,8 +292,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\tex_vcenter:D {\box_use:c {\__ebproof_box:N \l__ebproof_a_box }}$
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
-      <?MarkedContent page="1" ?>
      </Formula>
     </text-block>
    </semantic-para>
@@ -355,8 +349,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\tex_vcenter:D {\box_use:c {\__ebproof_box:N \l__ebproof_a_box }}$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
-    <?MarkedContent page="1" ?>
    </Formula>
    <Formula xmlns="http://iso.org/pdf2/ssn"
       title="math"
@@ -384,7 +376,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\tex_left:D .\box_use:N \l_tmpa_box  \right )_{1\leq i\leq n}$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
     <?MarkedContent page="1" ?>⎞⎟⎠1≤𝑖≤𝑛
    </Formula>
    <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -421,8 +412,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\tex_vcenter:D {\box_use:c {\__ebproof_box:N \l__ebproof_a_box }}$
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
-      <?MarkedContent page="1" ?>
      </Formula>
     </text-block>
    </semantic-para>

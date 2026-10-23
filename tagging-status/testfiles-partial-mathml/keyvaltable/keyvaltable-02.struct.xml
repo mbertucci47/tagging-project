@@ -238,7 +238,7 @@
       <?MarkedContent page="1" ?>comment
      </TH>
     </TR>
-    <Artifact xmlns="http://iso.org/pdf2/ssn"
+    <TR xmlns="http://iso.org/pdf2/ssn"
       >
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
@@ -246,7 +246,7 @@
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
      </TD>
-    </Artifact>
+    </TR>
     <TR xmlns="http://iso.org/pdf2/ssn"
       >
      <TD xmlns="http://iso.org/pdf2/ssn"
@@ -308,7 +308,7 @@
        >
      </TH>
     </TR>
-    <Artifact xmlns="http://iso.org/pdf2/ssn"
+    <TR xmlns="http://iso.org/pdf2/ssn"
       >
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
@@ -316,7 +316,7 @@
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
      </TD>
-    </Artifact>
+    </TR>
     <TR xmlns="http://iso.org/pdf2/ssn"
       >
      <TD xmlns="http://iso.org/pdf2/ssn"
@@ -391,7 +391,7 @@
       <?MarkedContent page="1" ?>colD
      </TH>
     </TR>
-    <Artifact xmlns="http://iso.org/pdf2/ssn"
+    <TR xmlns="http://iso.org/pdf2/ssn"
       >
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
@@ -405,7 +405,7 @@
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
      </TD>
-    </Artifact>
+    </TR>
     <TR xmlns="http://iso.org/pdf2/ssn"
       >
      <TD xmlns="http://iso.org/pdf2/ssn"
@@ -557,18 +557,21 @@
       <?MarkedContent page="1" ?>cent
      </TH>
     </TR>
-    <Artifact xmlns="http://iso.org/pdf2/ssn"
+    <TR xmlns="http://iso.org/pdf2/ssn"
       >
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
+      <?MarkedContent page="2" ?>penny
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
+      <?MarkedContent page="2" ?>euro
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
+      <?MarkedContent page="2" ?>cent
      </TD>
-    </Artifact>
+    </TR>
     <TR xmlns="http://iso.org/pdf2/ssn"
       >
      <TD xmlns="http://iso.org/pdf2/ssn"
@@ -736,7 +739,7 @@
       <?MarkedContent page="2" ?>colD
      </TH>
     </TR>
-    <Artifact xmlns="http://iso.org/pdf2/ssn"
+    <TR xmlns="http://iso.org/pdf2/ssn"
       >
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
@@ -746,8 +749,8 @@
         Table:ColSpan="4"
        >
      </TD>
-    </Artifact>
-    <Artifact xmlns="http://iso.org/pdf2/ssn"
+    </TR>
+    <TR xmlns="http://iso.org/pdf2/ssn"
       >
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
@@ -775,8 +778,8 @@
         </AssociatedFile>
       </Formula>
      </TD>
-    </Artifact>
-    <Artifact xmlns="http://iso.org/pdf2/ssn"
+    </TR>
+    <TR xmlns="http://iso.org/pdf2/ssn"
       >
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
@@ -793,7 +796,7 @@
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
      </TD>
-    </Artifact>
+    </TR>
     <TR xmlns="http://iso.org/pdf2/ssn"
       >
      <TD xmlns="http://iso.org/pdf2/ssn"

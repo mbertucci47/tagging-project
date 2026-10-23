@@ -19,7 +19,7 @@
        Layout:TextAlign="Center"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?> Some author
+     <?MarkedContent page="1" ?> Some author 
     </title-author>
     <title-date xmlns="https://www.latex-project.org/ns/dflt"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -103,6 +103,7 @@
        rolemaps-to="H1"
       >
      <?MarkedContent page="1" ?>Contents
+     <?MarkedContent page="1" ?>
     </section-heading>
     <TOC xmlns="http://iso.org/pdf/ssn"
        title="toc"

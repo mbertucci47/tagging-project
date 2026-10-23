@@ -44,7 +44,7 @@
        >
       <?MarkedContent page="1" ?>∗
      </text-fragment>
-     <?MarkedContent page="1" ?>asterisked note 
+     <?MarkedContent page="1" ?> asterisked note 
      <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextPosition="Sup"
@@ -52,7 +52,7 @@
        >
       <?MarkedContent page="1" ?>1
      </text-fragment>
-     <?MarkedContent page="1" ?>first par note
+     <?MarkedContent page="1" ?> first par note
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -89,7 +89,7 @@
        >
       <?MarkedContent page="1" ?>2
      </text-fragment>
-     <?MarkedContent page="1" ?>second par note
+     <?MarkedContent page="1" ?> second par note
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -126,7 +126,7 @@
        >
       <?MarkedContent page="1" ?>3
      </text-fragment>
-     <?MarkedContent page="1" ?>third par note
+     <?MarkedContent page="1" ?> third par note
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

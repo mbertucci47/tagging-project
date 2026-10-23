@@ -21,7 +21,6 @@
         >
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <Lbl xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="1" ?>1
@@ -39,7 +38,6 @@
         >
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <Lbl xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="1" ?>2
@@ -159,6 +157,7 @@
          rolemaps-to="P"
         >
        <?MarkedContent page="1" ?>First subfloat
+       <?MarkedContent page="1" ?>Second subfloat
       </text-block>
       <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Div"
@@ -197,7 +196,6 @@
          rolemaps-to="P"
          referenced-as="2"
         >
-       <?MarkedContent page="1" ?>Second subfloat
       </text-block>
       <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Div"

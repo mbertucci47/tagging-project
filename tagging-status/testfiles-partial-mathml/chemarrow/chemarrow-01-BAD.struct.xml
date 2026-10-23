@@ -134,7 +134,7 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        \begin {equation*}\aqua + \aqua \rightleftharpoonsfill {2.5em} \acid + \base \end {equation*}
        </AssociatedFile>
-      <?MarkedContent page="1" ?>H2O+H2O GGGGBFGGGG H3O++OH−
+      <?MarkedContent page="1" ?>H2O+H2OGGGGBFGGGGH3O++OH−
      </Formula>
     </semantic-para>
    </section>
@@ -168,7 +168,7 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        \begin {equation*}\aqua + \aqua \leftrightharpoonsfill {2.5em} \acid + \base \end {equation*}
        </AssociatedFile>
-      <?MarkedContent page="1" ?>H2O+H2OEGGGG  GGGGCH3O++OH−
+      <?MarkedContent page="1" ?>H2O+H2OEGGGGGGGGCH3O++OH−
      </Formula>
     </semantic-para>
    </section>
@@ -202,7 +202,7 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        \begin {equation*}\aqua + \aqua \autorightleftharpoons {$k_a$}{$k_b$} \acid + \base \end {equation*}
        </AssociatedFile>
-      <?MarkedContent page="1" ?>H2O+H2O𝑘𝑎 GGGGGGBFGGGGGG 𝑘𝑏H3O++OH−
+      <?MarkedContent page="1" ?>H2O+H2O𝑘𝑎GGGGGGBFGGGGGG𝑘𝑏H3O++OH−
      </Formula>
     </semantic-para>
    </section>
@@ -236,7 +236,7 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        \begin {equation*}\aqua + \aqua \autoleftrightharpoons {$k_a$}{$k_b$} \acid + \base \end {equation*}
        </AssociatedFile>
-      <?MarkedContent page="1" ?>H2O+H2O𝑘𝑎EGGGGGG  GGGGGGC𝑘𝑏H3O++OH−
+      <?MarkedContent page="1" ?>H2O+H2O𝑘𝑎EGGGGGGGGGGGGC𝑘𝑏H3O++OH−
      </Formula>
     </semantic-para>
    </section>

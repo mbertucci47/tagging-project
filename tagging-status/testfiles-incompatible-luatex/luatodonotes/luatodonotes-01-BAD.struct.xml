@@ -12,7 +12,6 @@
       >
      <?MarkedContent page="1" ?>text
      <?MarkedContent page="1" ?>blub
-     <?MarkedContent page="1" ?>
     </text-block>
    </semantic-para>
   </Document>

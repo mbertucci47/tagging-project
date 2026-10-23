@@ -10,13 +10,8 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>Some text
      <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="2" ?>
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -38,7 +33,6 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="3" ?>
      <Figure xmlns="http://iso.org/pdf2/ssn"
         alt="some alt text"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -47,13 +41,6 @@
       <?MarkedContent page="3" ?>s0s1s2s3abbaab
      </Figure>
      <?MarkedContent page="3" ?>
-     <?MarkedContent page="3" ?>
-     <?MarkedContent page="3" ?>
-     <?MarkedContent page="3" ?>
-     <?MarkedContent page="3" ?>
-     <?MarkedContent page="3" ?>
-     <?MarkedContent page="3" ?>
-     <?MarkedContent page="4" ?>
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

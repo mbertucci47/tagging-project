@@ -19,7 +19,6 @@
          Layout:TextAlign="Justify"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?>
       </text-block>
      </semantic-para>
     </text-block>

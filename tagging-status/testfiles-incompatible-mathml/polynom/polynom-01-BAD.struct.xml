@@ -23,7 +23,6 @@
        $\relax \hbox {\vtop {\begingroup \offinterlineskip \tabskip =\z@ \edef \pld@fakeline {\expandafter \pld@ConvertFake \pld@fakeline &amp;\relax &amp;}\halign {\strut \pld@firsttrue \hfil $##$&amp;\pld@firsttrue \hfil $##$&amp;&amp;\hfil $##$\cr \pld@fakeline \cr \noalign {\vskip -\normalbaselineskip }\pld@allines }\endgroup }}$
        </AssociatedFile>
       <?MarkedContent page="1" ?>
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>𝑋2
       <?MarkedContent page="1" ?>+2𝑋
       <?MarkedContent page="1" ?>+2
@@ -231,7 +230,6 @@
       <?MarkedContent page="1" ?>1
       <?MarkedContent page="1" ?>0
       <?MarkedContent page="1" ?>−1
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>1
       <?MarkedContent page="1" ?>1
       <?MarkedContent page="1" ?>2
@@ -259,8 +257,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \hbox {\vtop {\begingroup \offinterlineskip \tabskip =\z@ \halign {\strut \pld@firsttrue \hfil $##$&amp;${}={}$\hfil $##$\hfil &amp;${}+##$\hfil \cr \pld@allines }\endgroup }}$
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>𝑋4
       <?MarkedContent page="1" ?>−2𝑋3
       <?MarkedContent page="1" ?>+2𝑋2
@@ -275,7 +271,6 @@
       <?MarkedContent page="1" ?>6𝑋2
       <?MarkedContent page="1" ?>−4𝑋
       <?MarkedContent page="1" ?>−2)
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>𝑋3
       <?MarkedContent page="1" ?>+𝑋2
       <?MarkedContent page="1" ?>−𝑋
@@ -287,7 +282,6 @@
       <?MarkedContent page="1" ?>+518)+(
       <?MarkedContent page="1" ?>49𝑋
       <?MarkedContent page="1" ?>−49)
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>6𝑋2
       <?MarkedContent page="1" ?>−4𝑋
       <?MarkedContent page="1" ?>−2=(

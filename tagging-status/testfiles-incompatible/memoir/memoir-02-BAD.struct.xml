@@ -117,6 +117,7 @@
          referenced-as="4"
         >
        <?MarkedContent page="3" ?>Some subsection
+       <?MarkedContent page="3" ?>
       </subsection-heading>
      </subsection>
     </section>

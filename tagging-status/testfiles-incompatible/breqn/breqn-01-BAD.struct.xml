@@ -24,13 +24,9 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        \begin {dmath}C=D\end {dmath}
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>(2)C = D
+      <?MarkedContent page="1" ?>
      </Formula>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
     </Formula>
    </semantic-para>
   </Document>

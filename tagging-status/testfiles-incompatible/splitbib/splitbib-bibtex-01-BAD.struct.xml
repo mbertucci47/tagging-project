@@ -127,7 +127,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>L[eslie] A. Aamport.  The gnats and gnus document preparation system. G-Animal’s Journal, 41(7):73+, July 1986.  This is a full ARTICLE entry.
+          <?MarkedContent page="1" ?>L[eslie] A. Aamport. The gnats and gnus document preparation system. G-Animal’s Journal, 41(7):73+, July 1986. This is a full ARTICLE entry.
          </text-block>
         </semantic-para>
        </itembody>
@@ -206,7 +206,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>Donald E. Knuth.  Seminumerical Algorithms.  Addison-Wesley, 1981.
+          <?MarkedContent page="1" ?>Donald E. Knuth. Seminumerical Algorithms. Addison-Wesley, 1981.
          </text-block>
         </semantic-para>
        </itembody>

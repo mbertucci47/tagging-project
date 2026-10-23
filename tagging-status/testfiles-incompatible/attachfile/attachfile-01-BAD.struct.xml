@@ -70,7 +70,6 @@
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>This text does not link to a file
-     <?MarkedContent page="1" ?>
     </text-block>
    </semantic-para>
   </text-block>

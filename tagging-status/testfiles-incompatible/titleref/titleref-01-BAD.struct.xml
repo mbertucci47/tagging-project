@@ -108,6 +108,7 @@
        rolemaps-to="H1"
       >
      <?MarkedContent page="1" ?>An unnumbered section
+     <?MarkedContent page="1" ?>
     </section-heading>
    </section>
   </Document>

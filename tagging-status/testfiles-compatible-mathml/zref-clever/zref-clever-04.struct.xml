@@ -34,7 +34,6 @@
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝐴(1)𝑙={𝑛!,if 𝑙=10,otherwise.
       <?MarkedContent page="1" ?>(1)
-      <?MarkedContent page="1" ?>
      </Formula>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="equation*"
@@ -50,7 +49,6 @@
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝐴(1)𝑙={𝑛!,if 𝑙=10,otherwise.
       <?MarkedContent page="1" ?>(foo)
-      <?MarkedContent page="1" ?>
      </Formula>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="align"
@@ -65,14 +63,10 @@
        \begin {align}A+B&amp;=B+A\\ C&amp;=D+E\label {eq:3b}\\ E&amp;=F\end {align}
        </AssociatedFile>
       <?MarkedContent page="1" ?>𝐴+𝐵=𝐵+𝐴
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>(2a)
       <?MarkedContent page="1" ?>𝐶=𝐷+𝐸
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>(2b)
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>𝐸=𝐹
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>(2c)
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"

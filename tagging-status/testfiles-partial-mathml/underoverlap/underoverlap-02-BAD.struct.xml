@@ -7,9 +7,13 @@
      >
     <Formula xmlns="http://iso.org/pdf2/ssn"
        title="equation*"
+       af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      
+      </AssociatedFile>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mi xmlns="http://www.w3.org/1998/Math/MathML"
@@ -19,33 +23,31 @@
      </math>
      <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mi xmlns="http://www.w3.org/1998/Math/MathML"
          mathvariant="normal"
         >
-       <?MarkedContent page="1" ?>z
+       <?MarkedContent page="1" ?>⏟
       </mi>
       <mi xmlns="http://www.w3.org/1998/Math/MathML"
          mathvariant="normal"
         >
-       <?MarkedContent page="1" ?>}
+       <?MarkedContent page="1" ?>⏞
       </mi>
       <mo xmlns="http://www.w3.org/1998/Math/MathML"
          lspace="0"
          rspace="0"
          stretchy="false"
         >
-       <?MarkedContent page="1" ?>|
+       <?MarkedContent page="1" ?>⏞
       </mo>
       <mi xmlns="http://www.w3.org/1998/Math/MathML"
          mathvariant="normal"
         >
-       <?MarkedContent page="1" ?>{
+       <?MarkedContent page="1" ?>⏟
       </mi>
      </math>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -85,8 +87,6 @@
        </mpadded>
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -99,8 +99,6 @@
        </mi>
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -109,8 +107,6 @@
         >
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -156,7 +152,6 @@
        </munderover>
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -196,7 +191,6 @@
        </mpadded>
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mi xmlns="http://www.w3.org/1998/Math/MathML"
@@ -204,7 +198,6 @@
         >
       </mi>
      </math>
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
@@ -214,21 +207,19 @@
          rspace="0"
          stretchy="false"
         >
-       <?MarkedContent page="1" ?>|
+       <?MarkedContent page="1" ?>⏞
       </mo>
       <mi xmlns="http://www.w3.org/1998/Math/MathML"
          mathvariant="normal"
         >
-       <?MarkedContent page="1" ?>{z
+       <?MarkedContent page="1" ?>⏟⏟
       </mi>
       <mi xmlns="http://www.w3.org/1998/Math/MathML"
          mathvariant="normal"
         >
-       <?MarkedContent page="1" ?>}
+       <?MarkedContent page="1" ?>⏞
       </mi>
      </math>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -237,8 +228,6 @@
         >
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -251,8 +240,6 @@
        </mi>
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -298,7 +285,6 @@
        </munderover>
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
         display="block"
        >
@@ -469,9 +455,13 @@
      >
     <Formula xmlns="http://iso.org/pdf2/ssn"
        title="equation*"
+       af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      
+      </AssociatedFile>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mi xmlns="http://www.w3.org/1998/Math/MathML"
@@ -481,33 +471,31 @@
      </math>
      <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mi xmlns="http://www.w3.org/1998/Math/MathML"
          mathvariant="normal"
         >
-       <?MarkedContent page="1" ?>z
+       <?MarkedContent page="1" ?>⏟
       </mi>
       <mi xmlns="http://www.w3.org/1998/Math/MathML"
          mathvariant="normal"
         >
-       <?MarkedContent page="1" ?>}
+       <?MarkedContent page="1" ?>⏞
       </mi>
       <mo xmlns="http://www.w3.org/1998/Math/MathML"
          lspace="0"
          rspace="0"
          stretchy="false"
         >
-       <?MarkedContent page="1" ?>|
+       <?MarkedContent page="1" ?>⏞
       </mo>
       <mi xmlns="http://www.w3.org/1998/Math/MathML"
          mathvariant="normal"
         >
-       <?MarkedContent page="1" ?>{
+       <?MarkedContent page="1" ?>⏟
       </mi>
      </math>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -536,8 +524,6 @@
        </mpadded>
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -550,8 +536,6 @@
        </mi>
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -560,8 +544,6 @@
         >
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -607,7 +589,6 @@
        </munderover>
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -632,7 +613,6 @@
        </mpadded>
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mi xmlns="http://www.w3.org/1998/Math/MathML"
@@ -640,7 +620,6 @@
         >
       </mi>
      </math>
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
@@ -650,21 +629,19 @@
          rspace="0"
          stretchy="false"
         >
-       <?MarkedContent page="1" ?>|
+       <?MarkedContent page="1" ?>⏞
       </mo>
       <mi xmlns="http://www.w3.org/1998/Math/MathML"
          mathvariant="normal"
         >
-       <?MarkedContent page="1" ?>{z
+       <?MarkedContent page="1" ?>⏟⏟
       </mi>
       <mi xmlns="http://www.w3.org/1998/Math/MathML"
          mathvariant="normal"
         >
-       <?MarkedContent page="1" ?>}
+       <?MarkedContent page="1" ?>⏞
       </mi>
      </math>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -673,8 +650,6 @@
         >
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -687,8 +662,6 @@
        </mi>
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -734,7 +707,6 @@
        </munderover>
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mi xmlns="http://www.w3.org/1998/Math/MathML"
@@ -744,33 +716,31 @@
      </math>
      <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mi xmlns="http://www.w3.org/1998/Math/MathML"
          mathvariant="normal"
         >
-       <?MarkedContent page="1" ?>z
+       <?MarkedContent page="1" ?>⏟
       </mi>
       <mi xmlns="http://www.w3.org/1998/Math/MathML"
          mathvariant="normal"
         >
-       <?MarkedContent page="1" ?>}
+       <?MarkedContent page="1" ?>⏞
       </mi>
       <mo xmlns="http://www.w3.org/1998/Math/MathML"
          lspace="0"
          rspace="0"
          stretchy="false"
         >
-       <?MarkedContent page="1" ?>|
+       <?MarkedContent page="1" ?>⏞
       </mo>
       <mi xmlns="http://www.w3.org/1998/Math/MathML"
          mathvariant="normal"
         >
-       <?MarkedContent page="1" ?>{
+       <?MarkedContent page="1" ?>⏟
       </mi>
      </math>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -799,8 +769,6 @@
        </mpadded>
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -813,8 +781,6 @@
        </mi>
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -823,8 +789,6 @@
         >
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -870,7 +834,6 @@
        </munderover>
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
         display="block"
        >

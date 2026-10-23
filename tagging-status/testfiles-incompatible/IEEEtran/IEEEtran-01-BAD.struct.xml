@@ -284,13 +284,13 @@
          Layout:TextAlign="Justify"
          rolemaps-to="H3"
         >
-       <?MarkedContent page="1" ?> 
        <heading-number xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
         <?MarkedContent page="1" ?>I-A1
        </heading-number>
-       <?MarkedContent page="1" ?>  Subsubsection Heading Here
+       <?MarkedContent page="1" ?>  
+       <?MarkedContent page="1" ?>Subsubsection Heading Here
       </subsubsection-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Part"
@@ -403,6 +403,8 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
+      <?MarkedContent page="1" ?>
+      <?MarkedContent page="1" ?>Michael Shell Biography text here.
      </text-block>
      <text-minipage xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Div"
@@ -444,8 +446,6 @@
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>
-      <?MarkedContent page="1" ?>Michael Shell Biography text here.
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

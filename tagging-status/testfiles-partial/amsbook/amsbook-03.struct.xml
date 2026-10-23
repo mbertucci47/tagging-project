@@ -9,13 +9,17 @@
        title="Some part"
        rolemaps-to="Title"
       >
-     <?MarkedContent page="1" ?>Part  
+     <?MarkedContent page="1" ?>Part
+     <?MarkedContent page="1" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >
       <?MarkedContent page="1" ?>1
      </heading-number>
      <?MarkedContent page="1" ?>Some part
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="2" ?>
+     <?MarkedContent page="3" ?>
     </part-heading>
     <chapter xmlns="https://www.latex-project.org/ns/book"
        rolemaps-to="Sect"
@@ -24,7 +28,8 @@
         title="Some chapter"
         rolemaps-to="H1"
        >
-      <?MarkedContent page="3" ?>CHAPTER  
+      <?MarkedContent page="3" ?>CHAPTER
+      <?MarkedContent page="3" ?>  
       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Lbl"
         >
@@ -71,13 +76,13 @@
           Layout:TextAlign="Justify"
           rolemaps-to="H3"
          >
-        <?MarkedContent page="3" ?> 
         <heading-number xmlns="https://www.latex-project.org/ns/dflt"
            rolemaps-to="Lbl"
           >
          <?MarkedContent page="3" ?>2.1.
         </heading-number>
-        <?MarkedContent page="3" ?>  Some subsection.
+        <?MarkedContent page="3" ?>  
+        <?MarkedContent page="3" ?>Some subsection.
        </subsection-heading>
        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Part"
@@ -97,13 +102,13 @@
            Layout:TextAlign="Justify"
            rolemaps-to="H4"
           >
-         <?MarkedContent page="3" ?> 
          <heading-number xmlns="https://www.latex-project.org/ns/dflt"
             rolemaps-to="Lbl"
            >
           <?MarkedContent page="3" ?>2.1.1.
          </heading-number>
-         <?MarkedContent page="3" ?>  Some subsubsection.
+         <?MarkedContent page="3" ?>  
+         <?MarkedContent page="3" ?>Some subsubsection.
         </subsubsection-heading>
         <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
            rolemaps-to="Part"

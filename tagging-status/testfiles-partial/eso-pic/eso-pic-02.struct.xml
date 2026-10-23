@@ -52,6 +52,7 @@
        rolemaps-to="H1"
       >
      <?MarkedContent page="3" ?>Last page
+     <?MarkedContent page="3" ?>
     </section-heading>
    </section>
   </Document>

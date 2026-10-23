@@ -92,12 +92,12 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>Albert Einstein.  Zur Elektrodynamik bewegter Körper. (German) [On the electrodynamics of moving bodies].  
+          <?MarkedContent page="1" ?>Albert Einstein. Zur Elektrodynamik bewegter Körper. (German) [On the electrodynamics of moving bodies]. 
           <Em xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="1" ?>Annalen der Physik
           </Em>
-          <?MarkedContent page="1" ?>, 322(10):891–921, 1905.  doi: http://dx.doi.org/10.1002/andp.19053221004.
+          <?MarkedContent page="1" ?>, 322(10):891–921, 1905. doi: http://dx.doi.org/10.1002/andp.19053221004.
          </text-block>
         </semantic-para>
        </itembody>

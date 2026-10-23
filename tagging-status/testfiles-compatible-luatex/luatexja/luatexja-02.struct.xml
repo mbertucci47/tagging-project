@@ -36,11 +36,9 @@
       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {align}A &amp;= B\\ C &amp;= D\end {align}
       </AssociatedFile>
-     <?MarkedContent page="1" ?>𝐴
-     <?MarkedContent page="1" ?>=𝐵
+     <?MarkedContent page="1" ?>𝐴=𝐵
      <?MarkedContent page="1" ?>(2)
-     <?MarkedContent page="1" ?>𝐶
-     <?MarkedContent page="1" ?>=𝐷
+     <?MarkedContent page="1" ?>𝐶=𝐷
      <?MarkedContent page="1" ?>(3)
     </Formula>
    </semantic-para>

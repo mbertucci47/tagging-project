@@ -120,6 +120,7 @@
       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Lbl"
         >
+       <?MarkedContent page="1" ?>08/1976–05/1989
       </itemlabel>
       <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Div"
@@ -138,7 +139,6 @@
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?>08/1976–05/1989
       </text-block>
       <itembody xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="LBody"
@@ -169,6 +169,7 @@
       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Lbl"
         >
+       <?MarkedContent page="1" ?>10/1989–09/1990
       </itemlabel>
       <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Div"
@@ -187,7 +188,6 @@
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?>10/1989–09/1990
       </text-block>
       <itembody xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="LBody"
@@ -218,6 +218,7 @@
       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Lbl"
         >
+       <?MarkedContent page="1" ?>10/1990–09/1992
       </itemlabel>
       <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Div"
@@ -236,7 +237,6 @@
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?>10/1990–09/1992
       </text-block>
       <itembody xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="LBody"
@@ -342,6 +342,7 @@
       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Lbl"
         >
+       <?MarkedContent page="1" ?>08/1994–09/1994
       </itemlabel>
       <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Div"
@@ -360,7 +361,6 @@
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?>08/1994–09/1994
       </text-block>
       <itembody xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="LBody"
@@ -392,6 +392,7 @@
       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Lbl"
         >
+       <?MarkedContent page="2" ?>seit 08/1996
       </itemlabel>
       <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Div"
@@ -410,7 +411,6 @@
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="P"
         >
-       <?MarkedContent page="2" ?>seit 08/1996
       </text-block>
       <itembody xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="LBody"
@@ -500,6 +500,7 @@
       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Lbl"
         >
+       <?MarkedContent page="2" ?>Betriebssysteme
       </itemlabel>
       <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Div"
@@ -518,7 +519,6 @@
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="P"
         >
-       <?MarkedContent page="2" ?>Betriebssysteme
       </text-block>
       <itembody xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="LBody"
@@ -643,6 +643,7 @@
       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Lbl"
         >
+       <?MarkedContent page="2" ?>04/1992–10/1995
       </itemlabel>
       <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Div"
@@ -661,7 +662,6 @@
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="P"
         >
-       <?MarkedContent page="2" ?>04/1992–10/1995
       </text-block>
       <itembody xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="LBody"

@@ -22,7 +22,6 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 148.71233, 548.14352, 307.45164, 667.19801 }"
        >
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>01020304050010203040500 10 20 30 40  0 10 20 30 40LATEX
      </Figure>
     </text-block>
@@ -47,7 +46,6 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 148.71233, 398.80174, 308.71109, 518.80081 }"
        >
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>010203040506070809010001020304050607080901000 10 20 30 40 50 60 70  0 10 20 30 40 50 60 70LATEX
      </Figure>
     </text-block>
@@ -79,7 +77,6 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 148.71233, 344.42955, 214.57936, 369.45903 }"
        >
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>01020304050010203040500 10  0 10some explanation
      </Figure>
     </text-block>

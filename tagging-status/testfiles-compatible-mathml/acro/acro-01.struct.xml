@@ -28,38 +28,32 @@
       <?MarkedContent page="1" ?>In the early nineties, 
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
       <?MarkedContent page="1" ?>GSM was deployed in many European countries. 
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
       <?MarkedContent page="1" ?>GSM of
       <?MarkedContent page="1" ?>fered for the first time international roaming for mobile subscribers. The 
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
       <?MarkedContent page="1" ?>GSM’s use of Time Division Multiple Access (
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
       <?MarkedContent page="1" ?>TDMA) as its communication standard was debated at length. And every now and then there are big discussion whether Code Division Multiple Access (
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
       <?MarkedContent page="1" ?>CDMA) should have been chosen over 
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
       <?MarkedContent page="1" ?>TDMA.
@@ -103,25 +97,21 @@
       <?MarkedContent page="1" ?>If you want to know more about Global System for Mobile communication (
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
       <?MarkedContent page="1" ?>GSM), Time Division Multiple Access (
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
       <?MarkedContent page="1" ?>TDMA), Code Division Multiple Access (
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
       <?MarkedContent page="1" ?>CDMA) and other acronyms, just read a book about mobile communication. Just to mention it: There is another Used Acronym (
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
       <?MarkedContent page="1" ?>UA), just for testing purposes!
@@ -153,7 +143,6 @@
        <?MarkedContent page="1" ?>Nicotinamide Adenine Dinucleotide (
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <?ReferencedObject type="Annot" page="1" ?>
        </Link>
        <?MarkedContent page="1" ?>NAD
@@ -167,7 +156,6 @@
        <?MarkedContent page="1" ?>) is a major electron acceptor in the oxidation of fuel molecules. The reactive part of 
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <?ReferencedObject type="Annot" page="1" ?>
        </Link>
        <?MarkedContent page="1" ?>NAD
@@ -192,10 +180,8 @@
        <?MarkedContent page="1" ?>One mol consists of 
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <?ReferencedObject type="Annot" page="1" ?>
        </Link>
-       <?MarkedContent page="1" ?>
        <Formula xmlns="http://iso.org/pdf2/ssn"
           title="math"
           af="mathml-1.xml source.tex"
@@ -235,10 +221,8 @@
        <?MarkedContent page="1" ?>Liquid Oxygen/Liquid Hydrogen (
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <?ReferencedObject type="Annot" page="1" ?>
        </Link>
-       <?MarkedContent page="1" ?>
        <Em xmlns="http://iso.org/pdf2/ssn"
          >
         <?MarkedContent page="1" ?>LOX
@@ -246,10 +230,8 @@
        <?MarkedContent page="1" ?>/
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <?ReferencedObject type="Annot" page="1" ?>
        </Link>
-       <?MarkedContent page="1" ?>
        <Em xmlns="http://iso.org/pdf2/ssn"
          >
         <?MarkedContent page="1" ?>LH
@@ -291,20 +273,17 @@
        <?MarkedContent page="1" ?>When testing Integrated Circuits (
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <?ReferencedObject type="Annot" page="1" ?>
        </Link>
        <?MarkedContent page="1" ?>ICs), one typically wants to identify func
        <?MarkedContent page="1" ?>tional blocks to be tested separately. The latter are commonly indicated as Blocks Under Test (
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <?ReferencedObject type="Annot" page="1" ?>
        </Link>
        <?MarkedContent page="1" ?>BUTs). To test a 
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <?ReferencedObject type="Annot" page="1" ?>
        </Link>
        <?MarkedContent page="1" ?>BUT requires defining a testing strategy…
@@ -335,7 +314,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
         <Em xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="1" ?>LH
@@ -375,7 +353,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="2" ?>
         <Em xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="2" ?>LOX
@@ -408,7 +385,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="2" ?>
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="math"
            af="mathml-1.xml source.tex"
@@ -684,13 +660,11 @@
        <?MarkedContent page="1" ?>A float also admits references like 
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <?ReferencedObject type="Annot" page="1" ?>
        </Link>
        <?MarkedContent page="1" ?>GSM or Code Division Multiple Access (
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <?ReferencedObject type="Annot" page="1" ?>
        </Link>
        <?MarkedContent page="1" ?>CDMA).

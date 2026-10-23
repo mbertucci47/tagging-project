@@ -55,7 +55,6 @@
       </AssociatedFile>
      <?MarkedContent page="1" ?>𝐴=
      <?MarkedContent page="1" ?>first
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>last𝐵
     </Formula>
    </semantic-para>
@@ -75,7 +74,6 @@
       \begin {equation*}\begin {multlined} \Framebox [.65\columnwidth ]{First line} \\ \Framebox [.5\columnwidth ]{Second line} \\ \shoveleft {L+E+F+T} \\ \shoveright {R+I+G+H+T} \\ \shoveleft [1cm]{L+E+F+T} \\ \shoveright [\widthof {$R+I+G+H+T$}]{R+I+G+H+T} \\ \Framebox [.65\columnwidth ]{Last line} \end {multlined}\end {equation*}
       </AssociatedFile>
      <?MarkedContent page="1" ?>First line
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>Second line
      <?MarkedContent page="1" ?>𝐿+𝐸+𝐹+𝑇
      <?MarkedContent page="1" ?>𝑅+𝐼+𝐺+𝐻+𝑇
@@ -100,7 +98,6 @@
       \begin {equation*}\begin {multlined}[b][7cm] \Framebox [4cm]{first} \\ \Framebox [4cm]{last} \end {multlined} = B\end {equation*}
       </AssociatedFile>
      <?MarkedContent page="1" ?>first
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>last=𝐵
     </Formula>
    </semantic-para>
@@ -264,14 +261,9 @@
       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {alignat}{2} &amp;&amp; \framebox [1.5cm]{} &amp;= \framebox [3cm]{}\\ \ArrowBetweenLines &amp;&amp; \framebox [1.5cm]{} &amp;= \framebox [2cm]{}\end {alignat}
       </AssociatedFile>
-     <?MarkedContent page="2" ?>
      <?MarkedContent page="2" ?>=
      <?MarkedContent page="2" ?>(1)
-     <?MarkedContent page="2" ?>
-     <?MarkedContent page="2" ?>
      <?MarkedContent page="2" ?>⇕
-     <?MarkedContent page="2" ?>
-     <?MarkedContent page="2" ?>
      <?MarkedContent page="2" ?>=
      <?MarkedContent page="2" ?>(2)
     </Formula>
@@ -292,13 +284,8 @@
       \begin {alignat*}{2} \framebox [1.5cm]{} &amp;= \framebox [3cm]{} &amp;&amp;\\ \ArrowBetweenLines *[\Downarrow ] \framebox [1.5cm]{} &amp;= \framebox [2cm]{} &amp;&amp;\end {alignat*}
       </AssociatedFile>
      <?MarkedContent page="2" ?>=
-     <?MarkedContent page="2" ?>
-     <?MarkedContent page="2" ?>
-     <?MarkedContent page="2" ?>
-     <?MarkedContent page="2" ?>
      <?MarkedContent page="2" ?>⇓
      <?MarkedContent page="2" ?>=
-     <?MarkedContent page="2" ?>
     </Formula>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -319,7 +306,6 @@
      <?MarkedContent page="2" ?>𝑎=𝑏
      <?MarkedContent page="2" ?>⋮
      <?MarkedContent page="2" ?>=𝑐
-     <?MarkedContent page="2" ?>
      <?MarkedContent page="2" ?>⋮
      <?MarkedContent page="2" ?>=𝑑
     </Formula>
@@ -342,11 +328,7 @@
      <?MarkedContent page="2" ?>𝐴+𝐵
      <?MarkedContent page="2" ?>=𝐶
      <?MarkedContent page="2" ?>+𝐷
-     <?MarkedContent page="2" ?>
-     <?MarkedContent page="2" ?>
-     <?MarkedContent page="2" ?>
      <?MarkedContent page="2" ?>⋮
-     <?MarkedContent page="2" ?>
      <?MarkedContent page="2" ?>⋮
      <?MarkedContent page="2" ?>𝐶+𝐷
      <?MarkedContent page="2" ?>=𝑌
