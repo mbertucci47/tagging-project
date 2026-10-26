@@ -1,6 +1,7 @@
 <PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
+     id="ID.002"
     >
    <section xmlns="https://www.latex-project.org/ns/dflt"
       rolemaps-to="Sect"
