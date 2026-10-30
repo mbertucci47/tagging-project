@@ -10,8 +10,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>Leo aut ursus aut oryx aut ricinus aut equus aut lupus aut canis aut felix 
-     <?MarkedContent page="1" ?>aut asinus aut burricus.
+     <?MarkedContent page="1" ?>Leo aut ursus aut oryx aut ricinus aut equus aut lupus aut canis aut felix aut asinus aut burricus.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

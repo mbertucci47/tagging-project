@@ -18,7 +18,6 @@
        <?References objects="1" ?>
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextPosition="Sup"
@@ -26,7 +25,6 @@
          >
         <?MarkedContent page="1" ?>1
        </text-fragment>
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
      </footnotemark>
@@ -54,7 +52,6 @@
           Layout:TextAlign="Justify"
           rolemaps-to="P"
          >
-        <?MarkedContent page="1" ?>
         <?MarkedContent page="1" ?>normal footnote
        </text-block>
       </semantic-para>
@@ -92,7 +89,6 @@
           Layout:TextAlign="Justify"
           rolemaps-to="P"
          >
-        <?MarkedContent page="1" ?>
         <?MarkedContent page="1" ?>first note
        </text-block>
       </semantic-para>
@@ -119,7 +115,6 @@
           Layout:TextAlign="Justify"
           rolemaps-to="P"
          >
-        <?MarkedContent page="1" ?>
         <?MarkedContent page="1" ?>second note
        </text-block>
       </semantic-para>
@@ -146,14 +141,12 @@
           Layout:TextAlign="Justify"
           rolemaps-to="P"
          >
-        <?MarkedContent page="1" ?>
         <?MarkedContent page="1" ?>third note
        </text-block>
       </semantic-para>
      </footnote>
      <Link xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="1" ?>
       <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:TextPosition="Sup"
@@ -161,7 +154,6 @@
         >
        <?MarkedContent page="1" ?>2
       </text-fragment>
-      <?MarkedContent page="1" ?>
       <?ReferencedObject type="Annot" page="1" ?>
      </Link>
      <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
@@ -173,7 +165,6 @@
      </text-fragment>
      <Link xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="1" ?>
       <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:TextPosition="Sup"
@@ -181,7 +172,6 @@
         >
        <?MarkedContent page="1" ?>4
       </text-fragment>
-      <?MarkedContent page="1" ?>
       <?ReferencedObject type="Annot" page="1" ?>
      </Link>
     </text-block>
@@ -217,7 +207,6 @@
           Layout:TextAlign="Justify"
           rolemaps-to="P"
          >
-        <?MarkedContent page="1" ?>
         <?MarkedContent page="1" ?>first note
        </text-block>
       </semantic-para>
@@ -244,7 +233,6 @@
           Layout:TextAlign="Justify"
           rolemaps-to="P"
          >
-        <?MarkedContent page="1" ?>
         <?MarkedContent page="1" ?>second note
        </text-block>
       </semantic-para>
@@ -271,7 +259,6 @@
           Layout:TextAlign="Justify"
           rolemaps-to="P"
          >
-        <?MarkedContent page="1" ?>
         <?MarkedContent page="1" ?>third note
        </text-block>
       </semantic-para>

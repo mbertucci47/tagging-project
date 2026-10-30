@@ -106,7 +106,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \mkern -2mu$
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
      </Formula>
      <?MarkedContent page="1" ?>/
      <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -121,7 +120,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \mkern -1mu$
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
      </Formula>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
@@ -198,7 +196,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \mkern -2mu$
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
      </Formula>
      <?MarkedContent page="1" ?>/
      <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -213,7 +210,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \mkern -1mu$
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
      </Formula>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
@@ -289,7 +285,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \mkern -2mu$
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
      </Formula>
      <?MarkedContent page="1" ?>/
      <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -304,7 +299,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \mkern -1mu$
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
      </Formula>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
@@ -380,7 +374,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \mkern -2mu$
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
      </Formula>
      <?MarkedContent page="1" ?>/
      <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -395,7 +388,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \mkern -1mu$
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
      </Formula>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
@@ -447,7 +439,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \mkern -2mu$
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
      </Formula>
      <?MarkedContent page="1" ?>/
      <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -462,7 +453,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \mkern -1mu$
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
      </Formula>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"

@@ -18,20 +18,13 @@
       \begin {align}&amp;\mathrm {e}^z = \mathrm {e}^x \left (\cos y + \mathrm {i} \sin y \right ) \eqlabel {e1}\\ &amp;z^\alpha = \mathrm {e}^{\alpha \ln z} \eqlabel {e2}\\ \intertext {\Eqref {e1,e2} lead to the following interesting results:} &amp;\mathrm {e}^{\mathrm {i} \pi } + 1 = 0 \eqlabel {e3}\\ &amp;\mathrm {i}^\mathrm {i} = \mathrm {e}^{-\pi /2}\tag {\textasteriskcentered } \eqlabel {e4}\end {align}
       </AssociatedFile>
      <?MarkedContent page="1" ?>e𝑧=e𝑥(cos𝑦+isin𝑦)
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>(1)
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>𝑧𝛼=e𝛼ln𝑧
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>(2)
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>ei𝜋+1=0
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>(3)
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>ii=e−𝜋/2
      <?MarkedContent page="1" ?>(∗)
-     <?MarkedContent page="1" ?>
     </Formula>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

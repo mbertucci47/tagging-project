@@ -9,7 +9,8 @@
        title="Chapter header"
        rolemaps-to="H1"
       >
-     <?MarkedContent page="1" ?>Chapter  
+     <?MarkedContent page="1" ?>Chapter
+     <?MarkedContent page="1" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >
@@ -31,6 +32,8 @@
       </heading-number>
       <?MarkedContent page="1" ?>  
       <?MarkedContent page="1" ?>Section header
+      <?MarkedContent page="1" ?>
+      <?MarkedContent page="2" ?>
      </section-heading>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"

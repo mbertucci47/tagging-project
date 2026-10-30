@@ -16,7 +16,6 @@
       <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Lbl"
         >
-       <?MarkedContent page="1" ?>
       </itemlabel>
       <itembody xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="LBody"
@@ -29,7 +28,7 @@
            Layout:TextAlign="Justify"
            rolemaps-to="P"
           >
-         <?MarkedContent page="1" ?> Buckingham Norfolk
+         <?MarkedContent page="1" ?> Buckingham  Norfolk
         </text-block>
        </semantic-para>
       </itembody>

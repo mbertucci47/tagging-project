@@ -51,7 +51,8 @@
        title="Main"
        rolemaps-to="H1"
       >
-     <?MarkedContent page="5" ?>Chapter  
+     <?MarkedContent page="5" ?>Chapter
+     <?MarkedContent page="5" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >
@@ -78,7 +79,8 @@
        title="Main again"
        rolemaps-to="H1"
       >
-     <?MarkedContent page="7" ?>Chapter  
+     <?MarkedContent page="7" ?>Chapter
+     <?MarkedContent page="7" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >

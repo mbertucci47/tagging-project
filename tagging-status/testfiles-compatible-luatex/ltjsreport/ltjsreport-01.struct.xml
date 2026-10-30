@@ -22,7 +22,7 @@
         >
        <Lbl xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>第 1 章
+        <?MarkedContent page="1" ?>第1章
        </Lbl>
        <?MarkedContent page="1" ?>Chapter
        <?MarkedContent page="1" ?>2
@@ -58,7 +58,7 @@
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >
-      <?MarkedContent page="2" ?>第 1 章
+      <?MarkedContent page="2" ?>第1章
      </heading-number>
      <?MarkedContent page="2" ?>Chapter
     </chapter-heading>

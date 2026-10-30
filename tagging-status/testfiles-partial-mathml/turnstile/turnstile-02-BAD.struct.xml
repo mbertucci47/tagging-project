@@ -12,10 +12,13 @@
       >
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-      <?MarkedContent page="1" ?>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
         >
        <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -29,7 +32,6 @@
         </mi>
        </mstyle>
       </math>
-      <?MarkedContent page="1" ?>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
         >
        <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -55,8 +57,6 @@
         </mrow>
        </mstyle>
       </math>
-      <?MarkedContent page="1" ?>
-      <?MarkedContent page="1" ?>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
         >
        <mtext xmlns="http://www.w3.org/1998/Math/MathML"
@@ -111,8 +111,6 @@
         </math>
        </mtext>
       </math>
-      <?MarkedContent page="1" ?>
-      <?MarkedContent page="1" ?>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
         >
        <mi xmlns="http://www.w3.org/1998/Math/MathML"
@@ -184,7 +182,6 @@
         <?MarkedContent page="1" ?>𝑃
        </mi>
       </math>
-      <?MarkedContent page="1" ?>
      </Formula>
     </text-block>
    </semantic-para>
@@ -193,10 +190,13 @@
      >
     <Formula xmlns="http://iso.org/pdf2/ssn"
        title="equation*"
+       af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
-     <?MarkedContent page="1" ?>
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      
+      </AssociatedFile>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -210,7 +210,6 @@
        </mi>
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -221,7 +220,6 @@
          >
         <mi xmlns="http://www.w3.org/1998/Math/MathML"
           >
-         <?MarkedContent page="1" ?>𝑥
         </mi>
         <mo xmlns="http://www.w3.org/1998/Math/MathML"
            lspace="0"
@@ -256,8 +254,6 @@
        </mrow>
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mtext xmlns="http://www.w3.org/1998/Math/MathML"
@@ -342,7 +338,6 @@
        </math>
       </mtext>
      </math>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
         display="block"
        >

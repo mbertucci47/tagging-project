@@ -7,9 +7,13 @@
      >
     <Formula xmlns="http://iso.org/pdf2/ssn"
        title="equation*"
+       af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      
+      </AssociatedFile>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
         display="block"
        >
@@ -56,10 +60,13 @@
     </Formula>
     <Formula xmlns="http://iso.org/pdf2/ssn"
        title="equation*"
+       af="source.tex"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:Placement="Block"
       >
-     <?MarkedContent page="1" ?>
+      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+      
+      </AssociatedFile>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -72,7 +79,6 @@
        </mn>
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -85,7 +91,6 @@
        </mn>
       </mstyle>
      </math>
-     <?MarkedContent page="1" ?>
      <math xmlns="http://www.w3.org/1998/Math/MathML"
        >
       <mstyle xmlns="http://www.w3.org/1998/Math/MathML"

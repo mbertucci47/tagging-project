@@ -55,13 +55,16 @@
        rolemaps-to="Title"
        referenced-as="1"
       >
-     <?MarkedContent page="2" ?>Part  
+     <?MarkedContent page="2" ?>Part
+     <?MarkedContent page="2" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >
       <?MarkedContent page="2" ?>I
      </heading-number>
      <?MarkedContent page="2" ?>blub
+     <?MarkedContent page="2" ?>
+     <?MarkedContent page="3" ?>
     </part-heading>
     <chapter xmlns="https://www.latex-project.org/ns/book"
        rolemaps-to="Sect"
@@ -71,13 +74,15 @@
         rolemaps-to="H1"
         referenced-as="2"
        >
-      <?MarkedContent page="3" ?>Chapter  
+      <?MarkedContent page="3" ?>Chapter
+      <?MarkedContent page="3" ?>  
       <heading-number xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Lbl"
         >
        <?MarkedContent page="3" ?>1
       </heading-number>
       <?MarkedContent page="3" ?>ch blub
+      <?MarkedContent page="3" ?>
      </chapter-heading>
     </chapter>
    </part>

@@ -91,7 +91,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
        </itemlabel>
        <itembody xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="LBody"
@@ -104,7 +103,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>Aamport, L. A. (1986), ‘The gnats and gnus document preparation system’, G-Animal’s Journal 41(7), 73+.  This is a full ARTICLE entry.
+          <?MarkedContent page="1" ?>Aamport, L. A. (1986), ‘The gnats and gnus document preparation system’, G-Animal’s Journal 41(7), 73+. This is a full ARTICLE entry.
          </text-block>
         </semantic-para>
        </itembody>
@@ -115,7 +114,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
        </itemlabel>
        <itembody xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="LBody"
@@ -128,7 +126,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>GAJ (1986), G-Animal’s Journal 41(7).  The entire issue is devoted to gnats and gnus (this entry is a cross-referenced ARTICLE (journal)).
+          <?MarkedContent page="1" ?>GAJ (1986), G-Animal’s Journal 41(7). The entire issue is devoted to gnats and gnus (this entry is a cross-referenced ARTICLE (journal)).
          </text-block>
         </semantic-para>
        </itembody>
@@ -139,7 +137,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
        </itemlabel>
        <itembody xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="LBody"
@@ -153,7 +150,7 @@
             rolemaps-to="P"
            >
           <?MarkedContent page="1" ?>Knuth, D. E. (1973), Fundamental Algorithms, Vol. 1 of The Art of Computer Programming, second edn, Addison-Wesley, Reading, Massachusetts, sec
-          <?MarkedContent page="1" ?>tion 1.2, pp. 10–119.  This is a full INBOOK entry.
+          <?MarkedContent page="1" ?>tion 1.2, pp. 10–119. This is a full INBOOK entry.
          </text-block>
         </semantic-para>
        </itembody>
@@ -164,7 +161,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
        </itemlabel>
        <itembody xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="LBody"
@@ -177,7 +173,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>Knuth, D. E. (1981), Seminumerical Algorithms, Vol. 2 of The Art of Computer Programming, second edn, Addison-Wesley, Reading, Massachusetts.  This is a full BOOK entry.
+          <?MarkedContent page="1" ?>Knuth, D. E. (1981), Seminumerical Algorithms, Vol. 2 of The Art of Computer Programming, second edn, Addison-Wesley, Reading, Massachusetts. This is a full BOOK entry.
          </text-block>
         </semantic-para>
        </itembody>
@@ -188,7 +184,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
        </itemlabel>
        <itembody xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="LBody"
@@ -201,7 +196,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>Manmaker, L. (1986), The Definitive Computer Manual, silver edn, Chips-R-Us, Silicon Valley.  This is a full MANUAL entry.
+          <?MarkedContent page="1" ?>Manmaker, L. (1986), The Definitive Computer Manual, silver edn, Chips-R-Us, Silicon Valley. This is a full MANUAL entry.
          </text-block>
         </semantic-para>
        </itembody>
@@ -212,7 +207,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
        </itemlabel>
        <itembody xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="LBody"

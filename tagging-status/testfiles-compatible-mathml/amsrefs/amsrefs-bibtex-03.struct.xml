@@ -19,7 +19,7 @@
        Layout:TextAlign="Center"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?> MJD
+     <?MarkedContent page="1" ?> MJD 
     </title-author>
     <title-date xmlns="https://www.latex-project.org/ns/dflt"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -319,18 +319,21 @@
       >
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="1" ?>Theorem  
+      <?MarkedContent page="1" ?>Theorem
+      <?MarkedContent page="1" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="1" ?>4.1
       </Lbl>
-      <?MarkedContent page="1" ?>  (The additive structure of homology manifold bordism, Johnston [
+      <?MarkedContent page="1" ?>  
+      <?MarkedContent page="1" ?>(The additive structure of homology manifold bordism, Johnston [
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="1" ?>5
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
-      <?MarkedContent page="1" ?>]).
+      <?MarkedContent page="1" ?>])
+      <?MarkedContent page="1" ?>. 
      </Caption>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"
@@ -514,18 +517,21 @@
       >
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="1" ?>Theorem  
+      <?MarkedContent page="1" ?>Theorem
+      <?MarkedContent page="1" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="1" ?>4.2
       </Lbl>
-      <?MarkedContent page="1" ?>  (Johnston [
+      <?MarkedContent page="1" ?>  
+      <?MarkedContent page="1" ?>(Johnston [
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="1" ?>5
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
-      <?MarkedContent page="1" ?>]).
+      <?MarkedContent page="1" ?>])
+      <?MarkedContent page="1" ?>. 
      </Caption>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"

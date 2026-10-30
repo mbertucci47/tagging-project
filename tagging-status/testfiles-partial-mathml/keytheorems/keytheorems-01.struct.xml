@@ -19,7 +19,7 @@
        Layout:TextAlign="Center"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?> Original document by Michael Downes; updated by Barbara Beeton Adjusted for keytheorems by Matthew Bertucci
+     <?MarkedContent page="1" ?> Original document by Michael Downes; updated by Barbara Beeton  Adjusted for keytheorems by Matthew Bertucci 
     </title-author>
     <title-date xmlns="https://www.latex-project.org/ns/dflt"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -60,7 +60,8 @@
       >
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="1" ?>Ahlfors’ Lemma.
+      <?MarkedContent page="1" ?>Ahlfors’ Lemma
+      <?MarkedContent page="1" ?>. 
      </Caption>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"
@@ -188,7 +189,7 @@
          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\omega \leq \omega _r$
          </AssociatedFile>
-        <?MarkedContent page="1" ?>𝜔≤𝜔𝑟
+        <?MarkedContent page="1" ?>𝜔≤𝜔𝑟 
        </Formula>
        <?MarkedContent page="1" ?>on all of 
        <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -229,12 +230,15 @@
       >
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="1" ?>Lemma  
+      <?MarkedContent page="1" ?>Lemma
+      <?MarkedContent page="1" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="1" ?>1.1
       </Lbl>
-      <?MarkedContent page="1" ?>  (negatively curved families).
+      <?MarkedContent page="1" ?>  
+      <?MarkedContent page="1" ?>(negatively curved families)
+      <?MarkedContent page="1" ?>. 
      </Caption>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"
@@ -354,12 +358,13 @@
       >
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="1" ?>Theorem  
+      <?MarkedContent page="1" ?>Theorem
+      <?MarkedContent page="1" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="1" ?>1.2
       </Lbl>
-      <?MarkedContent page="1" ?>.
+      <?MarkedContent page="1" ?>. 
      </Caption>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"
@@ -490,7 +495,6 @@
         </AssociatedFile>
        <?MarkedContent page="1" ?>𝜎≥√𝑑2max+𝑑2min.
        <?MarkedContent page="1" ?>(1)
-       <?MarkedContent page="1" ?>
       </Formula>
      </semantic-para>
     </theorem-like>
@@ -499,12 +503,13 @@
       >
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="1" ?>Corollary  
+      <?MarkedContent page="1" ?>Corollary
+      <?MarkedContent page="1" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="1" ?>1.3
       </Lbl>
-      <?MarkedContent page="1" ?>.
+      <?MarkedContent page="1" ?>. 
      </Caption>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"
@@ -553,7 +558,8 @@
       >
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="1" ?>Remark.
+      <?MarkedContent page="1" ?>Remark
+      <?MarkedContent page="1" ?>. 
      </Caption>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"
@@ -576,7 +582,7 @@
          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $2$
          </AssociatedFile>
-        <?MarkedContent page="1" ?>2
+        <?MarkedContent page="1" ?>2 
        </Formula>
        <?MarkedContent page="1" ?>is uninteresting.
       </text-block>
@@ -603,12 +609,13 @@
       >
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="1" ?>Exercise  
+      <?MarkedContent page="1" ?>Exercise
+      <?MarkedContent page="1" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="1" ?>1
       </Lbl>
-      <?MarkedContent page="1" ?>:
+      <?MarkedContent page="1" ?>: 
      </Caption>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"
@@ -627,12 +634,13 @@
       >
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="1" ?>Note  
+      <?MarkedContent page="1" ?>Note
+      <?MarkedContent page="1" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="1" ?>1
       </Lbl>
-      <?MarkedContent page="1" ?>:
+      <?MarkedContent page="1" ?>: 
      </Caption>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"
@@ -651,12 +659,13 @@
       >
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="2" ?>B-Theorem  
+      <?MarkedContent page="2" ?>B-Theorem
+      <?MarkedContent page="2" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="2" ?>1
       </Lbl>
-      <?MarkedContent page="2" ?>.
+      <?MarkedContent page="2" ?>. 
      </Caption>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"
@@ -686,13 +695,15 @@
       >
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="2" ?> Theorem 3.6 in [
+      <?MarkedContent page="2" ?> 
+      <?MarkedContent page="2" ?>Theorem 3.6 in [
       <Reference xmlns="http://iso.org/pdf/ssn"
         >
         <?References objects="1" ?>
        <?MarkedContent page="2" ?>1
       </Reference>
-      <?MarkedContent page="2" ?>].
+      <?MarkedContent page="2" ?>]
+      <?MarkedContent page="2" ?>. 
      </Caption>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"
@@ -727,7 +738,8 @@
       >
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="2" ?>Proof.
+      <?MarkedContent page="2" ?>Proof
+      <?MarkedContent page="2" ?>. 
      </Caption>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"
@@ -746,7 +758,8 @@
       >
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="2" ?>Proof of Theorem 1.2.
+      <?MarkedContent page="2" ?>Proof of Theorem 1.2
+      <?MarkedContent page="2" ?>. 
      </Caption>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"
@@ -765,7 +778,8 @@
       >
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="2" ?>Proof (necessity).
+      <?MarkedContent page="2" ?>Proof (necessity)
+      <?MarkedContent page="2" ?>. 
      </Caption>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"
@@ -784,7 +798,8 @@
       >
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="2" ?>Proof (sufficiency).
+      <?MarkedContent page="2" ?>Proof (sufficiency)
+      <?MarkedContent page="2" ?>. 
      </Caption>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"
@@ -855,7 +870,8 @@
       >
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="2" ?>Ahlfors’ Lemma.
+      <?MarkedContent page="2" ?>Ahlfors’ Lemma
+      <?MarkedContent page="2" ?>. 
      </Caption>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"
@@ -983,7 +999,7 @@
          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\omega \leq \omega _r$
          </AssociatedFile>
-        <?MarkedContent page="2" ?>𝜔≤𝜔𝑟
+        <?MarkedContent page="2" ?>𝜔≤𝜔𝑟 
        </Formula>
        <?MarkedContent page="2" ?>on all of 
        <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -1028,7 +1044,11 @@
         >
        <?MarkedContent page="2" ?>4.1
       </Lbl>
-      <?MarkedContent page="2" ?>  Lemma  (negatively curved families).
+      <?MarkedContent page="2" ?>  
+      <?MarkedContent page="2" ?>Lemma
+      <?MarkedContent page="2" ?>  
+      <?MarkedContent page="2" ?>(negatively curved families)
+      <?MarkedContent page="2" ?>. 
      </Caption>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"
@@ -1152,7 +1172,9 @@
         >
        <?MarkedContent page="2" ?>4.2
       </Lbl>
-      <?MarkedContent page="2" ?>  Theorem.
+      <?MarkedContent page="2" ?>  
+      <?MarkedContent page="2" ?>Theorem
+      <?MarkedContent page="2" ?>. 
      </Caption>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"
@@ -1283,7 +1305,6 @@
         </AssociatedFile>
        <?MarkedContent page="2" ?>𝜎≥√𝑑2max+𝑑2min.
        <?MarkedContent page="2" ?>(2)
-       <?MarkedContent page="2" ?>
       </Formula>
      </semantic-para>
     </theorem-like>
@@ -1296,7 +1317,9 @@
         >
        <?MarkedContent page="2" ?>4.3
       </Lbl>
-      <?MarkedContent page="2" ?>  Corollary.
+      <?MarkedContent page="2" ?>  
+      <?MarkedContent page="2" ?>Corollary
+      <?MarkedContent page="2" ?>. 
      </Caption>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"

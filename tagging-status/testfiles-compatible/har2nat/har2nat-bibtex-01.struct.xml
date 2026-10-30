@@ -173,7 +173,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
        </itemlabel>
        <itembody xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="LBody"
@@ -186,8 +185,8 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>Albert Einstein.  Zur Elektrodynamik bewegter Körper. (German) [On the elec
-          <?MarkedContent page="1" ?>trodynamics of moving bodies].  
+          <?MarkedContent page="1" ?>Albert Einstein. Zur Elektrodynamik bewegter Körper. (German) [On the elec
+          <?MarkedContent page="1" ?>trodynamics of moving bodies]. 
           <Em xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="1" ?>Annalen der Physik
@@ -204,7 +203,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
        </itemlabel>
        <itembody xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="LBody"
@@ -217,7 +215,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>Michel Goossens, Frank Mittelbach, and Alexander Samarin.  
+          <?MarkedContent page="1" ?>Michel Goossens, Frank Mittelbach, and Alexander Samarin. 
           <Em xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="1" ?>The 
@@ -231,7 +229,7 @@
            <?MarkedContent page="1" ?> Com
            <?MarkedContent page="1" ?>panion
           </Em>
-          <?MarkedContent page="1" ?>.  Addison-Wesley, Reading, Massachusetts, 1993.
+          <?MarkedContent page="1" ?>. Addison-Wesley, Reading, Massachusetts, 1993.
          </text-block>
         </semantic-para>
        </itembody>
@@ -243,7 +241,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
        </itemlabel>
        <itembody xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="LBody"
@@ -256,7 +253,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>Donald Knuth.  Knuth: Computers and typesetting.  URL 
+          <?MarkedContent page="1" ?>Donald Knuth. Knuth: Computers and typesetting. URL 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="1" ?>http://www-cs-faculty.stanford.edu/~{}uno/abcde.html

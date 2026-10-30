@@ -187,7 +187,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>Right between the next letters x  y is an fxnote.
+      <?MarkedContent page="1" ?>Right between the next letters x y is an fxnote.
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -198,7 +198,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>Right between the next letters x  y is an fxwarning.
+      <?MarkedContent page="1" ?>Right between the next letters x y is an fxwarning.
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -209,7 +209,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>Right between the next letters x  y is an fxerror.
+      <?MarkedContent page="1" ?>Right between the next letters x y is an fxerror.
      </text-block>
     </semantic-para>
    </section>

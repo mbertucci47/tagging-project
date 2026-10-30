@@ -185,7 +185,7 @@
       <?MarkedContent page="1" ?>
      </TH>
     </TR>
-    <Artifact xmlns="http://iso.org/pdf2/ssn"
+    <TR xmlns="http://iso.org/pdf2/ssn"
       >
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
@@ -334,7 +334,7 @@
         </AssociatedFile>
       </Formula>
      </TD>
-    </Artifact>
+    </TR>
     <TR xmlns="http://iso.org/pdf2/ssn"
       >
      <TD xmlns="http://iso.org/pdf2/ssn"

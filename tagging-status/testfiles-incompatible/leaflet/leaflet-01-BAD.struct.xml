@@ -1,4 +1,127 @@
 <PDF version="2.0">
  <StructTreeRoot>
+  <Document xmlns="http://iso.org/pdf2/ssn"
+    >
+   <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+      rolemaps-to="Part"
+     >
+    <text-block xmlns="https://www.latex-project.org/ns/dflt"
+       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+       Layout:TextAlign="Justify"
+       rolemaps-to="P"
+      >
+     <?MarkedContent page="1" ?>text
+    </text-block>
+   </semantic-para>
+   <Figure xmlns="http://iso.org/pdf2/ssn"
+      alt="picture environment"
+      xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+      Layout:BBox="{ 0, 0, 0, 0 }"
+     >
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+     </text-block>
+    </semantic-para>
+   </Figure>
+   <Figure xmlns="http://iso.org/pdf2/ssn"
+      alt="picture environment"
+      xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+      Layout:BBox="{ 0, 0, 0, 0 }"
+     >
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+     </text-block>
+    </semantic-para>
+   </Figure>
+   <Figure xmlns="http://iso.org/pdf2/ssn"
+      alt="picture environment"
+      xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+      Layout:BBox="{ 0, 0, 0, 0 }"
+     >
+    <?MarkedContent page="2" ?>
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+     </text-block>
+    </semantic-para>
+   </Figure>
+   <Figure xmlns="http://iso.org/pdf2/ssn"
+      alt="picture environment"
+      xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+      Layout:BBox="{ 0, 0, 0, 0 }"
+     >
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+     </text-block>
+    </semantic-para>
+   </Figure>
+   <Figure xmlns="http://iso.org/pdf2/ssn"
+      alt="picture environment"
+      xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+      Layout:BBox="{ 0, 0, 0, 0 }"
+     >
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+     </text-block>
+    </semantic-para>
+   </Figure>
+   <Figure xmlns="http://iso.org/pdf2/ssn"
+      alt="picture environment"
+      xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+      Layout:BBox="{ 0, 0, 0, 0 }"
+     >
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Part"
+      >
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+     </text-block>
+    </semantic-para>
+   </Figure>
+   <Figure xmlns="http://iso.org/pdf2/ssn"
+      alt="picture environment"
+      xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+      Layout:BBox="{ 0, 0, 0, 0 }"
+     >
+   </Figure>
+   <Figure xmlns="http://iso.org/pdf2/ssn"
+      alt="picture environment"
+      xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+      Layout:BBox="{ 0, 0, 0, 0 }"
+     >
+   </Figure>
+  </Document>
  </StructTreeRoot>
 </PDF>

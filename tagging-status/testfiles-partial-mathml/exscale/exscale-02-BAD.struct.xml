@@ -23,10 +23,13 @@
       >
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-      <?MarkedContent page="1" ?>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
         >
        <mo xmlns="http://www.w3.org/1998/Math/MathML"
@@ -56,7 +59,6 @@
         <?MarkedContent page="1" ?>]
        </mo>
       </math>
-      <?MarkedContent page="1" ?>
      </Formula>
     </text-block>
    </semantic-para>
@@ -70,10 +72,13 @@
       >
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-      <?MarkedContent page="1" ?>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
         >
        <mo xmlns="http://www.w3.org/1998/Math/MathML"
@@ -109,7 +114,6 @@
         <?MarkedContent page="1" ?>]
        </mo>
       </math>
-      <?MarkedContent page="1" ?>
      </Formula>
     </text-block>
    </semantic-para>
@@ -123,10 +127,13 @@
       >
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
-      <?MarkedContent page="1" ?>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
         >
        <mo xmlns="http://www.w3.org/1998/Math/MathML"
@@ -162,7 +169,6 @@
         <?MarkedContent page="1" ?>]
        </mo>
       </math>
-      <?MarkedContent page="1" ?>
      </Formula>
     </text-block>
    </semantic-para>

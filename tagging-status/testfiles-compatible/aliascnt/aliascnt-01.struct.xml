@@ -7,12 +7,13 @@
      >
     <Caption xmlns="http://iso.org/pdf2/ssn"
       >
-     <?MarkedContent page="1" ?>Theorem  
+     <?MarkedContent page="1" ?>Theorem
+     <?MarkedContent page="1" ?>  
      <Lbl xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="1" ?>1
      </Lbl>
-     <?MarkedContent page="1" ?>.
+     <?MarkedContent page="1" ?>. 
     </Caption>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Part"
@@ -31,12 +32,13 @@
      >
     <Caption xmlns="http://iso.org/pdf2/ssn"
       >
-     <?MarkedContent page="1" ?>Lemma  
+     <?MarkedContent page="1" ?>Lemma
+     <?MarkedContent page="1" ?>  
      <Lbl xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="1" ?>2
      </Lbl>
-     <?MarkedContent page="1" ?>.
+     <?MarkedContent page="1" ?>. 
     </Caption>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Part"
@@ -55,12 +57,13 @@
      >
     <Caption xmlns="http://iso.org/pdf2/ssn"
       >
-     <?MarkedContent page="1" ?>Theorem  
+     <?MarkedContent page="1" ?>Theorem
+     <?MarkedContent page="1" ?>  
      <Lbl xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="1" ?>3
      </Lbl>
-     <?MarkedContent page="1" ?>.
+     <?MarkedContent page="1" ?>. 
     </Caption>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Part"
@@ -79,12 +82,13 @@
      >
     <Caption xmlns="http://iso.org/pdf2/ssn"
       >
-     <?MarkedContent page="1" ?>Lemma  
+     <?MarkedContent page="1" ?>Lemma
+     <?MarkedContent page="1" ?>  
      <Lbl xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="1" ?>4
      </Lbl>
-     <?MarkedContent page="1" ?>.
+     <?MarkedContent page="1" ?>. 
     </Caption>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Part"

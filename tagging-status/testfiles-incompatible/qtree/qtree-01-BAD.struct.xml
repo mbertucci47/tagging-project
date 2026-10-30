@@ -71,7 +71,7 @@
          Layout:TextAlign="Start"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>
        <Figure xmlns="http://iso.org/pdf2/ssn"
           alt="picture environment"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -85,7 +85,7 @@
          Layout:TextAlign="Start"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>
       </text-block>
      </semantic-para>
     </text-minipage>
@@ -179,14 +179,14 @@
          Layout:TextAlign="Start"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>
       </text-block>
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:TextAlign="Start"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>
        <Figure xmlns="http://iso.org/pdf2/ssn"
           alt="picture environment"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -234,14 +234,14 @@
          Layout:TextAlign="Start"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>
       </text-block>
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:TextAlign="Start"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>
        <Figure xmlns="http://iso.org/pdf2/ssn"
           alt="picture environment"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -274,6 +274,8 @@
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>normal text 
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>
     </text-block>
     <Table xmlns="http://iso.org/pdf2/ssn"
       >
@@ -314,14 +316,14 @@
          Layout:TextAlign="Start"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>
       </text-block>
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:TextAlign="Start"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>
        <Figure xmlns="http://iso.org/pdf2/ssn"
           alt="picture environment"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -393,14 +395,14 @@
          Layout:TextAlign="Start"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>
       </text-block>
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:TextAlign="Start"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>
        <Figure xmlns="http://iso.org/pdf2/ssn"
           alt="picture environment"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -486,14 +488,14 @@
          Layout:TextAlign="Start"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>
       </text-block>
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:TextAlign="Start"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>
        <Figure xmlns="http://iso.org/pdf2/ssn"
           alt="picture environment"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -554,14 +556,14 @@
          Layout:TextAlign="Start"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>
       </text-block>
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:TextAlign="Start"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>
        <Figure xmlns="http://iso.org/pdf2/ssn"
           alt="picture environment"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -601,7 +603,7 @@
          Layout:TextAlign="Start"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>
        <Figure xmlns="http://iso.org/pdf2/ssn"
           alt="picture environment"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -649,14 +651,14 @@
          Layout:TextAlign="Start"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>
       </text-block>
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:TextAlign="Start"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>
        <Figure xmlns="http://iso.org/pdf2/ssn"
           alt="picture environment"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -678,8 +680,6 @@
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
     </text-block>
     <Table xmlns="http://iso.org/pdf2/ssn"
       >
@@ -699,7 +699,7 @@
          Layout:TextAlign="Start"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>
        <Figure xmlns="http://iso.org/pdf2/ssn"
           alt="picture environment"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -747,14 +747,14 @@
          Layout:TextAlign="Start"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>
       </text-block>
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
          Layout:TextAlign="Start"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?> 
+       <?MarkedContent page="1" ?>
        <Figure xmlns="http://iso.org/pdf2/ssn"
           alt="picture environment"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"

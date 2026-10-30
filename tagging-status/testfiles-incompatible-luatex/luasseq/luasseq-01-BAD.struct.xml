@@ -14,7 +14,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \strut -1$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
     <?MarkedContent page="1" ?>−1
    </Formula>
    <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -29,7 +28,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \strut 1$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
     <?MarkedContent page="1" ?>1
    </Formula>
    <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -44,7 +42,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \strut 3$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
     <?MarkedContent page="1" ?>3
    </Formula>
    <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -59,7 +56,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \strut 5$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
     <?MarkedContent page="1" ?>5
    </Formula>
    <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -74,7 +70,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \strut 7$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
     <?MarkedContent page="1" ?>7
    </Formula>
    <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -89,7 +84,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \strut 20$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
     <?MarkedContent page="1" ?>20
    </Formula>
    <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -104,7 +98,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \strut 22$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
     <?MarkedContent page="1" ?>22
    </Formula>
    <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -119,7 +112,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \strut 24$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
     <?MarkedContent page="1" ?>24
    </Formula>
    <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -186,7 +178,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \strut -2$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
     <?MarkedContent page="1" ?>−2
    </Formula>
    <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -201,7 +192,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \strut -1$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
     <?MarkedContent page="1" ?>−1
    </Formula>
    <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -216,7 +206,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \strut 0$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
     <?MarkedContent page="1" ?>0
    </Formula>
    <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -231,7 +220,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \strut 1$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
     <?MarkedContent page="1" ?>1
    </Formula>
    <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -246,7 +234,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \strut 2$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
     <?MarkedContent page="1" ?>2
    </Formula>
    <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -368,7 +355,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \strut 0$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
     <?MarkedContent page="1" ?>0
    </Formula>
    <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -383,7 +369,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \strut 2$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
     <?MarkedContent page="1" ?>2
    </Formula>
    <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -398,7 +383,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \strut 4$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
     <?MarkedContent page="1" ?>4
    </Formula>
    <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -413,7 +397,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\relax \strut 6$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
     <?MarkedContent page="1" ?>6
    </Formula>
    <Formula xmlns="http://iso.org/pdf2/ssn"

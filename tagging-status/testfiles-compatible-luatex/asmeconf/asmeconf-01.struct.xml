@@ -397,7 +397,6 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>Joint first authors
      </text-block>
     </semantic-para>
@@ -424,7 +423,6 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>Corresponding author: lienhard@mit.edu, kate@thepalace.gov
      </text-block>
     </semantic-para>
@@ -440,7 +438,6 @@
         Layout:TextPosition="Sup"
         rolemaps-to="Span"
        >
-      <?MarkedContent page="1" ?>
      </text-fragment>
     </footnotelabel>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -567,7 +564,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
         <Em xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="1" ?>Roman letters
@@ -594,7 +590,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="math"
            af="mathml-5.xml source.tex"
@@ -662,7 +657,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="math"
            af="mathml-8.xml source.tex"
@@ -715,7 +709,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
         <Em xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="1" ?>Greek letters
@@ -742,7 +735,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="math"
            af="mathml-10.xml source.tex"
@@ -810,7 +802,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="math"
            af="mathml-13.xml source.tex"
@@ -878,7 +869,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
         <Em xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="1" ?>Dimensionless groups
@@ -981,7 +971,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
         <Em xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="1" ?>Superscripts and subscripts
@@ -1032,7 +1021,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="math"
            af="mathml-18.xml source.tex"
@@ -1130,7 +1118,6 @@
       <?MarkedContent page="1" ?>tained in up-to-date versions of 
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
           actualtext="TeX"
           rolemaps-to="Span"
@@ -1150,7 +1137,6 @@
          >
         <?MarkedContent page="1" ?>TEX
        </text-fragment>
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
       <?MarkedContent page="1" ?>, and similar platforms. If you get an error message about a missing package, you may download it at no cost from CTAN (
@@ -1491,7 +1477,6 @@
        </AssociatedFile>
       <?MarkedContent page="2" ?>⃗𝑞=−𝑘∇𝑇
       <?MarkedContent page="2" ?>(1)
-      <?MarkedContent page="2" ?>
      </Formula>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1564,7 +1549,6 @@
         <?References objects="1" ?>
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="2" ?>
         <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:TextPosition="Sup"
@@ -1572,7 +1556,6 @@
           >
          <?MarkedContent page="2" ?>1
         </text-fragment>
-        <?MarkedContent page="2" ?>
         <?ReferencedObject type="Annot" page="2" ?>
        </Link>
       </footnotemark>
@@ -1600,7 +1583,6 @@
            Layout:TextAlign="Justify"
            rolemaps-to="P"
           >
-         <?MarkedContent page="2" ?>
          <?MarkedContent page="2" ?>See tex-stackexchange for various approaches to footnotes in captions, if they seem necessary. For footnotes in tables, use the tablefootnote package.
         </text-block>
        </semantic-para>
@@ -1619,7 +1601,6 @@
         <?References objects="2" ?>
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="2" ?>
         <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:TextPosition="Sup"
@@ -1627,7 +1608,6 @@
           >
          <?MarkedContent page="2" ?>2
         </text-fragment>
-        <?MarkedContent page="2" ?>
         <?ReferencedObject type="Annot" page="2" ?>
        </Link>
       </footnotemark>
@@ -1655,7 +1635,6 @@
            Layout:TextAlign="Justify"
            rolemaps-to="P"
           >
-         <?MarkedContent page="2" ?>
          <?MarkedContent page="2" ?>Sequential footnotes are automatically separated by a comma.
         </text-block>
        </semantic-para>
@@ -1873,7 +1852,6 @@
        <?References objects="3" ?>
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="3" ?>
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextPosition="Sup"
@@ -1881,7 +1859,6 @@
          >
         <?MarkedContent page="3" ?>3
        </text-fragment>
-       <?MarkedContent page="3" ?>
        <?ReferencedObject type="Annot" page="3" ?>
       </Link>
      </footnotemark>
@@ -1935,7 +1912,6 @@
         <?References objects="4" ?>
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="3" ?>
         <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
            Layout:TextPosition="Sup"
@@ -1943,7 +1919,6 @@
           >
          <?MarkedContent page="3" ?>4
         </text-fragment>
-        <?MarkedContent page="3" ?>
         <?ReferencedObject type="Annot" page="3" ?>
        </Link>
       </footnotemark>
@@ -1971,7 +1946,6 @@
            Layout:TextAlign="Justify"
            rolemaps-to="P"
           >
-         <?MarkedContent page="3" ?>
          <?MarkedContent page="3" ?>asmeconf.bst is intended as a replacement for the old asmems4.bst, which does not follow ASME’s current reference formats or support DOI and URL.
         </text-block>
        </semantic-para>
@@ -2208,11 +2182,9 @@
        \begin {multline}\label {eqn:energy} \frac {\partial }{\partial t}\left [\rho \bigl (e + \lvert \vec {u}\rvert ^2\big /2\bigr )\right ] + \nabla \cdot \left [\rho \bigl (h + \lvert \vec {u}\rvert ^2\big /2 \bigr )\vec {u}\right ] \\ ={}-\nabla \cdot \vec {q} + \rho \vec {u}\cdot \vec {g}+ \frac {\partial }{\partial x_j}\bigl (d_{ji}u_i\bigr ) + \dot {Q}_v\end {multline}
        </AssociatedFile>
       <?MarkedContent page="3" ?>
-      <?MarkedContent page="3" ?>
       <?MarkedContent page="3" ?>𝜕𝜕𝑡[𝜌(𝑒+|⃗𝑢|2/2)]+∇⋅[𝜌(ℎ+|⃗𝑢|2/2)⃗𝑢]
       <?MarkedContent page="3" ?>=−∇⋅⃗𝑞+𝜌⃗𝑢⋅⃗𝑔+𝜕𝜕𝑥𝑗(𝑑𝑗𝑖𝑢𝑖)+̇𝑄𝑣
       <?MarkedContent page="3" ?>(2)
-      <?MarkedContent page="3" ?>
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -2278,7 +2250,6 @@
        </AssociatedFile>
       <?MarkedContent page="3" ?>⃗𝐹=𝑚⃗𝑎or⃗F=𝑚⃗aor𝐅=𝑚𝐚or⃗F=𝑚⃗a
       <?MarkedContent page="3" ?>(3)
-      <?MarkedContent page="3" ?>
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -2325,7 +2296,7 @@
         <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
         $\sfalpha , \sfbeta , \sfgamma , \sfdelta $
         </AssociatedFile>
-       <?MarkedContent page="3" ?>α,β,γ,δ
+       <?MarkedContent page="3" ?>α,β,γ,δ 
       </Formula>
       <?MarkedContent page="3" ?>…
       <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -3014,9 +2985,9 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="5" ?>Ning, Xiang and Lovell, Mary Rose.  “On the Sliding Fric
+          <?MarkedContent page="5" ?>Ning, Xiang and Lovell, Mary Rose. “On the Sliding Fric
           <?MarkedContent page="5" ?>tion Characteristics of Unidirectional Continuous FRP De
-          <?MarkedContent page="5" ?>posits.”  ASME Journal of Tribology Vol. 48 No. 5 (2002): pp. 2000–2008.  DOI 
+          <?MarkedContent page="5" ?>posits.” ASME Journal of Tribology Vol. 48 No. 5 (2002): pp. 2000–2008. DOI 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="5" ?>10.1115/1.4042912
@@ -3047,7 +3018,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="5" ?>Gibson, Tom A. and Tucker, Matthew A.  The Big Book of Cellular Studies.  John Wiley and Sons, New York (2008).
+          <?MarkedContent page="5" ?>Gibson, Tom A. and Tucker, Matthew A. The Big Book of Cellular Studies. John Wiley and Sons, New York (2008).
          </text-block>
         </semantic-para>
        </itembody>
@@ -3072,7 +3043,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="5" ?>Stevens, Thomas T.  “Stochastic Fields and Their Digital Simulation.”  Stochastic Methods.  Martimius Publishers, Dordrecht (1999): pp. 22–36.
+          <?MarkedContent page="5" ?>Stevens, Thomas T. “Stochastic Fields and Their Digital Simulation.” Stochastic Methods. Martimius Publishers, Dordrecht (1999): pp. 22–36.
          </text-block>
         </semantic-para>
        </itembody>
@@ -3096,15 +3067,15 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="5" ?>Wions, Thomas and Mills, Christopher D.  “Struc
-          <?MarkedContent page="5" ?>tural Dynamics in Parallel Manipulation.”  Proceed
+          <?MarkedContent page="5" ?>Wions, Thomas and Mills, Christopher D. “Struc
+          <?MarkedContent page="5" ?>tural Dynamics in Parallel Manipulation.” Proceed
           <?MarkedContent page="5" ?>ings of the ASME IDETC/CIE. DETC2005-99532: pp. 777–798. New Orleans, LA, September 10–13, 2005. DOI 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="5" ?>10.1115/1.4042912
            <?ReferencedObject type="Annot" page="5" ?>
           </Link>
-          <?MarkedContent page="5" ?>.  URL 
+          <?MarkedContent page="5" ?>. URL 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="5" ?>https://doi.org/10.1115/1.4042912
@@ -3135,14 +3106,14 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="5" ?>Smith, Robert.  “Conformal Lubricated Contact of Cylin
-          <?MarkedContent page="5" ?>drical Surfaces Involved in a Non-Steady Motion.”  Ph.D. Thesis, Rochester Institute of Technology, Rochester, NY. 2002.  DOI 
+          <?MarkedContent page="5" ?>Smith, Robert. “Conformal Lubricated Contact of Cylin
+          <?MarkedContent page="5" ?>drical Surfaces Involved in a Non-Steady Motion.” Ph.D. Thesis, Rochester Institute of Technology, Rochester, NY. 2002. DOI 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="5" ?>10.1115/1.4042912
            <?ReferencedObject type="Annot" page="5" ?>
           </Link>
-          <?MarkedContent page="5" ?>.  URL 
+          <?MarkedContent page="5" ?>. URL 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="5" ?>https://doi.org/10.1115/1.4042912
@@ -3174,14 +3145,14 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="5" ?>Watson, David.  “Evaporative Heat Transfer in the Con
-          <?MarkedContent page="5" ?>tact Line of a Mixture.”  Technical Report No. HTL-26, CFD-4.  Iowa State University, Ames, IA.  1982. DOI 
+          <?MarkedContent page="5" ?>Watson, David. “Evaporative Heat Transfer in the Con
+          <?MarkedContent page="5" ?>tact Line of a Mixture.” Technical Report No. HTL-26, CFD-4. Iowa State University, Ames, IA. 1982. DOI 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="5" ?>10.1115/1.4042912
            <?ReferencedObject type="Annot" page="5" ?>
           </Link>
-          <?MarkedContent page="5" ?>.  URL 
+          <?MarkedContent page="5" ?>. URL 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="5" ?>https://doi.org/10.1115/1.4042912
@@ -3213,7 +3184,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="5" ?>Lienhard, John H.  “Linearization of Nongray Radiation Exchange: The Internal Fractional Function Reconsidered.” ASME J. Heat Transfer Vol. 141 No. 5 (2019): 052701.  DOI 
+          <?MarkedContent page="5" ?>Lienhard, John H. “Linearization of Nongray Radiation Exchange: The Internal Fractional Function Reconsidered.” ASME J. Heat Transfer Vol. 141 No. 5 (2019): 052701. DOI 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="5" ?>10.1115/1.4042158
@@ -3252,14 +3223,14 @@
             >
            <?MarkedContent page="5" ?>LATEX
           </text-fragment>
-          <?MarkedContent page="5" ?>.”  Version 2.16d. Comprehensive 
+          <?MarkedContent page="5" ?>.” Version 2.16d. Comprehensive 
           <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
              actualtext="TeX"
              rolemaps-to="Span"
             >
            <?MarkedContent page="5" ?>TEX
           </text-fragment>
-          <?MarkedContent page="5" ?> Archive Network (2016).  Accessed October 2, 2019, URL 
+          <?MarkedContent page="5" ?> Archive Network (2016). Accessed October 2, 2019, URL 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="5" ?>https://www.ctan.org/pkg/rotating
@@ -3290,8 +3261,8 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="5" ?>Lienhard, John H.  “Heat Transfer in Flat-Plate Boundary Layers: A Correlation for Laminar, Transitional, and Turbu
-          <?MarkedContent page="5" ?>lent Flow.”  ASME J. Heat Transfer Vol. 142 No. 6 (2020): 061805.  DOI 
+          <?MarkedContent page="5" ?>Lienhard, John H. “Heat Transfer in Flat-Plate Boundary Layers: A Correlation for Laminar, Transitional, and Turbu
+          <?MarkedContent page="5" ?>lent Flow.” ASME J. Heat Transfer Vol. 142 No. 6 (2020): 061805. DOI 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="5" ?>10.1115/1.4046795
@@ -3322,14 +3293,14 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="5" ?>American Mathematical Society and LATEX3 Project. “User’s Guide for the amsmath Package.”  Version 2.1. Comprehensive 
+          <?MarkedContent page="5" ?>American Mathematical Society and LATEX3 Project. “User’s Guide for the amsmath Package.” Version 2.1. Comprehensive 
           <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
              actualtext="TeX"
              rolemaps-to="Span"
             >
            <?MarkedContent page="5" ?>TEX
           </text-fragment>
-          <?MarkedContent page="5" ?> Archive Network (2018).  Accessed July 5, 2019, URL 
+          <?MarkedContent page="5" ?> Archive Network (2018). Accessed July 5, 2019, URL 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="5" ?>https://ctan.org/tex-archive/macros/latex/required/amsmath/amsldoc.pdf
@@ -3361,7 +3332,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="5" ?>Lienhard, John H.  “Wide Equations in asmeconf.cls.” Version 1.0.  Comprehensive 
+          <?MarkedContent page="5" ?>Lienhard, John H. “Wide Equations in asmeconf.cls.” Version 1.0. Comprehensive 
           <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
              actualtext="TeX"
              rolemaps-to="Span"
@@ -3400,14 +3371,14 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="5" ?>Sharpe, Michael.  “New TX Font Package.”  Version 1.640. Comprehensive 
+          <?MarkedContent page="5" ?>Sharpe, Michael. “New TX Font Package.” Version 1.640. Comprehensive 
           <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
              actualtext="TeX"
              rolemaps-to="Span"
             >
            <?MarkedContent page="5" ?>TEX
           </text-fragment>
-          <?MarkedContent page="5" ?> Archive Network (2020).  Accessed January 4, 2021, URL 
+          <?MarkedContent page="5" ?> Archive Network (2020). Accessed January 4, 2021, URL 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="5" ?>https://ctan.org/pkg/newtx
@@ -3438,14 +3409,14 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="5" ?>Sharpe, Michael.  “The mathalfa Package.”  Version 1.10. Comprehensive 
+          <?MarkedContent page="5" ?>Sharpe, Michael. “The mathalfa Package.” Version 1.10. Comprehensive 
           <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
              actualtext="TeX"
              rolemaps-to="Span"
             >
            <?MarkedContent page="5" ?>TEX
           </text-fragment>
-          <?MarkedContent page="5" ?> Archive Network (2018).  Accessed April 27, 2019, URL 
+          <?MarkedContent page="5" ?> Archive Network (2018). Accessed April 27, 2019, URL 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="5" ?>https://ctan.org/pkg/mathalfa
@@ -3476,14 +3447,14 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="5" ?>Tolušis, Sigitas.  “The flushend Package.”  Version 3.3. Comprehensive 
+          <?MarkedContent page="5" ?>Tolušis, Sigitas. “The flushend Package.” Version 3.3. Comprehensive 
           <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
              actualtext="TeX"
              rolemaps-to="Span"
             >
            <?MarkedContent page="5" ?>TEX
           </text-fragment>
-          <?MarkedContent page="5" ?> Archive Network (2017).  Accessed October 1, 2019, URL 
+          <?MarkedContent page="5" ?> Archive Network (2017). Accessed October 1, 2019, URL 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="5" ?>https://www.ctan.org/pkg/flushend
@@ -3514,7 +3485,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="5" ?>Böttcher, Stephan I. and Lück, Uwe.  “lineno.sty: A 
+          <?MarkedContent page="5" ?>Böttcher, Stephan I. and Lück, Uwe. “lineno.sty: A 
           <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
              actualtext="LaTeX"
              phoneme="[ˈlaːtɛx]"
@@ -3522,14 +3493,14 @@
             >
            <?MarkedContent page="5" ?>LATEX
           </text-fragment>
-          <?MarkedContent page="5" ?> Package to Attach Line Numbers to Paragraphs.”  Version 4.41.  Comprehensive 
+          <?MarkedContent page="5" ?> Package to Attach Line Numbers to Paragraphs.” Version 4.41. Comprehensive 
           <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
              actualtext="TeX"
              rolemaps-to="Span"
             >
            <?MarkedContent page="5" ?>TEX
           </text-fragment>
-          <?MarkedContent page="5" ?> Archive Network (2005).  Ac
+          <?MarkedContent page="5" ?> Archive Network (2005). Ac
           <?MarkedContent page="5" ?>cessed August 17, 2019, URL 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
@@ -3562,8 +3533,8 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="5" ?>van Oostrum, Piet.  “The fancyhdr and extramarks Pack
-          <?MarkedContent page="5" ?>ages.”  Version 3.10.  Comprehensive 
+          <?MarkedContent page="5" ?>van Oostrum, Piet. “The fancyhdr and extramarks Pack
+          <?MarkedContent page="5" ?>ages.” Version 3.10. Comprehensive 
           <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
              actualtext="TeX"
              rolemaps-to="Span"
@@ -3571,7 +3542,7 @@
            <?MarkedContent page="5" ?>TEX
           </text-fragment>
           <?MarkedContent page="5" ?> Archive Net
-          <?MarkedContent page="5" ?>work (2019).  Accessed August 17, 2019, URL 
+          <?MarkedContent page="5" ?>work (2019). Accessed August 17, 2019, URL 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="5" ?>https://www.ctan.org/pkg/fancyhdr
@@ -3602,8 +3573,8 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="5" ?>Smith, Robert.  “Conformal Lubricated Contact of Cylindri
-          <?MarkedContent page="5" ?>cal Surfaces Involved in a Steady Motion.”  Master’s Thesis, Rochester Institute of Technology, Rochester, NY.  1998.
+          <?MarkedContent page="5" ?>Smith, Robert. “Conformal Lubricated Contact of Cylindri
+          <?MarkedContent page="5" ?>cal Surfaces Involved in a Steady Motion.” Master’s Thesis, Rochester Institute of Technology, Rochester, NY. 1998.
          </text-block>
         </semantic-para>
        </itembody>
@@ -3627,7 +3598,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="5" ?>Smith, Robert.  “Cylindrical Surfaces Involved in a Steady Motion.”  BS Thesis, Rochester Institute of Technology, Rochester, NY.  1996.
+          <?MarkedContent page="5" ?>Smith, Robert. “Cylindrical Surfaces Involved in a Steady Motion.” BS Thesis, Rochester Institute of Technology, Rochester, NY. 1996.
          </text-block>
         </semantic-para>
        </itembody>
@@ -3651,8 +3622,8 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="5" ?>Reynolds, William C., Kays, William M. and Kline, Stephen J.  “Heat Transfer in the Incompressible Turbulent Boundary Layer. I–Constant Wall Temperature.”  Memo
-          <?MarkedContent page="5" ?>randum 12-1-58W.  NASA, Washington, DC.  1958.  URL 
+          <?MarkedContent page="5" ?>Reynolds, William C., Kays, William M. and Kline, Stephen J. “Heat Transfer in the Incompressible Turbulent Boundary Layer. I–Constant Wall Temperature.” Memo
+          <?MarkedContent page="5" ?>randum 12-1-58W. NASA, Washington, DC. 1958. URL 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="5" ?>https://hdl.handle.net/2060/19980228020
@@ -3682,9 +3653,9 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="5" ?>Edwards, Donald K.  “Thermal Radiation Measurements.” Eckert, Ernst R. G. and Goldstein, Richard J. (eds.). Mea
-          <?MarkedContent page="5" ?>surement Techniques in Heat Transfer.  Vol. 130 of AGAR
-          <?MarkedContent page="5" ?>Dograph. Technivision Services, Slough, England (1970): Chap. 9, pp. 353–396.  Published by the Advisory Group for Aerospace Research and Development of NATO.
+          <?MarkedContent page="5" ?>Edwards, Donald K. “Thermal Radiation Measurements.” Eckert, Ernst R. G. and Goldstein, Richard J. (eds.). Mea
+          <?MarkedContent page="5" ?>surement Techniques in Heat Transfer. Vol. 130 of AGAR
+          <?MarkedContent page="5" ?>Dograph. Technivision Services, Slough, England (1970): Chap. 9, pp. 353–396. Published by the Advisory Group for Aerospace Research and Development of NATO.
          </text-block>
         </semantic-para>
        </itembody>
@@ -3708,8 +3679,8 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="6" ?>Braams, Johannes L. and Bezos, Javier.  “babel: Local
-          <?MarkedContent page="6" ?>ization and internationalization.”  Version 3.52.  Compre
+          <?MarkedContent page="6" ?>Braams, Johannes L. and Bezos, Javier. “babel: Local
+          <?MarkedContent page="6" ?>ization and internationalization.” Version 3.52. Compre
           <?MarkedContent page="6" ?>hensive 
           <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
              actualtext="TeX"
@@ -3717,7 +3688,7 @@
             >
            <?MarkedContent page="6" ?>TEX
           </text-fragment>
-          <?MarkedContent page="6" ?> Archive Network (2020).  Accessed January 3, 2021, URL 
+          <?MarkedContent page="6" ?> Archive Network (2020). Accessed January 3, 2021, URL 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="6" ?>https://ctan.org/pkg/babel
@@ -3748,13 +3719,13 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="6" ?>Lienhard, John H.  “Example of 
+          <?MarkedContent page="6" ?>Lienhard, John H. “Example of 
           <Span xmlns="http://iso.org/pdf2/ssn"
              actualtext="LuaLaTeX"
             >
            <?MarkedContent page="6" ?>LuaLATEX
           </Span>
-          <?MarkedContent page="6" ?> with asmeconf.cls for ODE integration.”  Version 1.01.  Com
+          <?MarkedContent page="6" ?> with asmeconf.cls for ODE integration.” Version 1.01. Com
           <?MarkedContent page="6" ?>prehensive 
           <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
              actualtext="TeX"
@@ -3762,7 +3733,7 @@
             >
            <?MarkedContent page="6" ?>TEX
           </text-fragment>
-          <?MarkedContent page="6" ?> Archive Network (2024).  Accessed January 23, 2024, URL 
+          <?MarkedContent page="6" ?> Archive Network (2024). Accessed January 23, 2024, URL 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="6" ?>https://www.ctan.org/pkg/asmeconf
@@ -3793,20 +3764,20 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="6" ?>Lienhard, John H.  “Language Support in asmeconf: non-latin alphabets, 
+          <?MarkedContent page="6" ?>Lienhard, John H. “Language Support in asmeconf: non-latin alphabets, 
           <Span xmlns="http://iso.org/pdf2/ssn"
              actualtext="LuaLaTeX"
             >
            <?MarkedContent page="6" ?>LuaLATEX
           </Span>
-          <?MarkedContent page="6" ?>, and fontspec.”  Version 1.0.  Comprehensive 
+          <?MarkedContent page="6" ?>, and fontspec.” Version 1.0. Comprehensive 
           <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
              actualtext="TeX"
              rolemaps-to="Span"
             >
            <?MarkedContent page="6" ?>TEX
           </text-fragment>
-          <?MarkedContent page="6" ?> Archive Network (2021).  Ac
+          <?MarkedContent page="6" ?> Archive Network (2021). Ac
           <?MarkedContent page="6" ?>cessed January 18, 2021, URL 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
@@ -3839,8 +3810,8 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="6" ?>Pohlhausen, E.  “Der Wärmeaustausch zwischen festen Kör
-          <?MarkedContent page="6" ?>pern und Flüssigkeiten mit kleiner reibung und kleiner Wärmeleitung.”  Zeitschrift für Angewandte Mathematik und Mechanik Vol. 1 No. 2 (1921): pp. 115–121.  DOI 
+          <?MarkedContent page="6" ?>Pohlhausen, E. “Der Wärmeaustausch zwischen festen Kör
+          <?MarkedContent page="6" ?>pern und Flüssigkeiten mit kleiner reibung und kleiner Wärmeleitung.” Zeitschrift für Angewandte Mathematik und Mechanik Vol. 1 No. 2 (1921): pp. 115–121. DOI 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="6" ?>10.1002/zamm.19210010205
@@ -3870,10 +3841,11 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="6" ?>Fourier, Jean Baptiste Joseph.  Théorie Analytique de la Chaleur.  Firmin Didot, Père et Fils, Paris (1822).  URL 
+          <?MarkedContent page="6" ?>Fourier, Jean Baptiste Joseph. Théorie Analytique de la Chaleur. Firmin Didot, Père et Fils, Paris (1822). URL 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
-           <?MarkedContent page="6" ?>https://books.google.com/books?           <?ReferencedObject type="Annot" page="6" ?>
+           <?MarkedContent page="6" ?>https://books.google.com/books?id=1TUVAAAAQAAJ
+           <?ReferencedObject type="Annot" page="6" ?>
           </Link>
           <?MarkedContent page="6" ?>.
          </text-block>
@@ -3899,7 +3871,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="6" ?>Johnson, Howard (ed.).  Title of Edited Book.  John Wiley and Sons, Inc., New York, NY (1980).
+          <?MarkedContent page="6" ?>Johnson, Howard (ed.). Title of Edited Book. John Wiley and Sons, Inc., New York, NY (1980).
          </text-block>
         </semantic-para>
        </itembody>
@@ -3923,14 +3895,14 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="6" ?>Yankovich, Al and Stern, Howard (eds.).  The Title of the Proceedings, Vol. 15.  Boston, MA, April 27–28.  Organi
-          <?MarkedContent page="6" ?>zation (2015).  URL 
+          <?MarkedContent page="6" ?>Yankovich, Al and Stern, Howard (eds.). The Title of the Proceedings, Vol. 15. Boston, MA, April 27–28. Organi
+          <?MarkedContent page="6" ?>zation (2015). URL 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="6" ?>http://web.mit.edu
            <?ReferencedObject type="Annot" page="6" ?>
           </Link>
-          <?MarkedContent page="6" ?>.  Optional note.
+          <?MarkedContent page="6" ?>. Optional note.
          </text-block>
         </semantic-para>
        </itembody>
@@ -3954,8 +3926,8 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="6" ?>Govindan, Prakash Narayan, Lam, Steven and St. John, Maximus G.  “Systems Including a Condensing Appara
-          <?MarkedContent page="6" ?>tus Such As a Bubble Column Condenser.”  US Patent #9700811 (2017).  URL 
+          <?MarkedContent page="6" ?>Govindan, Prakash Narayan, Lam, Steven and St. John, Maximus G. “Systems Including a Condensing Appara
+          <?MarkedContent page="6" ?>tus Such As a Bubble Column Condenser.” US Patent #9700811 (2017). URL 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="6" ?>https://patents.google.com/patent/US9700811B2
@@ -3986,7 +3958,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="6" ?>Fong, Chamberlain.  “Analytical Methods for Squaring the Disc.”  ArXiv e-prints (2015).  URL 
+          <?MarkedContent page="6" ?>Fong, Chamberlain. “Analytical Methods for Squaring the Disc.” ArXiv e-prints (2015). URL 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="6" ?>https://arxiv.org/abs/1509.06344
@@ -4017,7 +3989,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="6" ?>Galassi, Mark, Davies, Jim, Theiler, James, Gough, Brian, Jungman, Gerard, Alken, Patrick, Booth, Michael, Rossi, Fabrice and Ulerich, Rhys.  GNU Scientific Library, Release 2.4.  Free Software Foundation, Boston, MA (2017).  URL 
+          <?MarkedContent page="6" ?>Galassi, Mark, Davies, Jim, Theiler, James, Gough, Brian, Jungman, Gerard, Alken, Patrick, Booth, Michael, Rossi, Fabrice and Ulerich, Rhys. GNU Scientific Library, Release 2.4. Free Software Foundation, Boston, MA (2017). URL 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="6" ?>https://www.gnu.org/software/gsl/
@@ -4047,8 +4019,8 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="6" ?>van der Walt, Stéfan and Smith, Nathaniel.  “mpl col
-          <?MarkedContent page="6" ?>ormaps.”  GitHub, San Francisco, CA (2015).  Accessed August 26, 2018, URL 
+          <?MarkedContent page="6" ?>van der Walt, Stéfan and Smith, Nathaniel. “mpl col
+          <?MarkedContent page="6" ?>ormaps.” GitHub, San Francisco, CA (2015). Accessed August 26, 2018, URL 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="6" ?>http://bids.github.io/colormap/
@@ -4078,7 +4050,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="6" ?>Churchill, Winston S.  The Gathering Storm, 1st ed. Houghton Mifflin Co., Boston (1948): Chap. 5, pp. 66–89. “The Locust Years”.
+          <?MarkedContent page="6" ?>Churchill, Winston S. The Gathering Storm, 1st ed. Houghton Mifflin Co., Boston (1948): Chap. 5, pp. 66–89. “The Locust Years”.
          </text-block>
         </semantic-para>
        </itembody>
@@ -4102,7 +4074,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="6" ?>Kirk, James Tiberius.  Decline and Fall of the Romulan Empire, 7th ed.  Vol. 23 of Humankind’s Greatest Writings. Vulcan Free Press, T’Paal (2288).  URL 
+          <?MarkedContent page="6" ?>Kirk, James Tiberius. Decline and Fall of the Romulan Empire, 7th ed. Vol. 23 of Humankind’s Greatest Writings. Vulcan Free Press, T’Paal (2288). URL 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="6" ?>http://web.mit.edu
@@ -4154,7 +4126,6 @@
         rolemaps-to="P"
        >
       <?MarkedContent page="6" ?>This brief illustration of an appendix shows the numbering of the appendix and equations. Equations are numbered consec
-      <?MarkedContent page="6" ?>
       <?MarkedContent page="6" ?>utively, following those in the paper. Consider 
       <Formula xmlns="http://iso.org/pdf2/ssn"
          title="math"
@@ -4185,16 +4156,12 @@
        \begin {align}\frac {d\Gamma }{dt} &amp;{}= \frac {d}{dt} \int _{\mathcal {C}} \mathbf {u} \cdot d\mathbf {r}\\ &amp;{}= \int _{\mathcal {C}} \frac {D\mathbf {u}}{Dt} \cdot d\mathbf {r} + \underbrace {\int _{\mathcal {C}} \mathbf {u}\cdot d\biggl ( \frac {d\mathbf {r}}{dt}\biggr )}_{=\, 0} \\[-2pt] &amp;{}= \iint _{\mathcal {S}} \nabla \times \frac {D\mathbf {u}}{Dt} \cdot d\mathbf {A}\\ &amp;{}= \iint _{\mathcal {S}} \nabla p \times \nabla \left ( \frac {1}{\rho }\right ) \cdot d\mathbf {A}\end {align}
        </AssociatedFile>
       <?MarkedContent page="6" ?>𝑑Γ𝑑𝑡=𝑑𝑑𝑡∫𝒞𝐮⋅𝑑𝐫
-      <?MarkedContent page="6" ?>
       <?MarkedContent page="6" ?>(4)
       <?MarkedContent page="6" ?>=∫𝒞𝐷𝐮𝐷𝑡⋅𝑑𝐫+∫𝒞𝐮⋅𝑑(𝑑𝐫𝑑𝑡)⏟⏟⏟⏟⏟⏟⏟=0
-      <?MarkedContent page="6" ?>
       <?MarkedContent page="6" ?>(5)
       <?MarkedContent page="6" ?>=∬𝒮∇×𝐷𝐮𝐷𝑡⋅𝑑𝐀
-      <?MarkedContent page="6" ?>
       <?MarkedContent page="6" ?>(6)
       <?MarkedContent page="6" ?>=∬𝒮∇𝑝×∇(1𝜌)⋅𝑑𝐀
-      <?MarkedContent page="6" ?>
       <?MarkedContent page="6" ?>(7)
      </Formula>
     </semantic-para>
@@ -4251,7 +4218,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="6" ?>
        </itemlabel>
        <itembody xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="LBody"
@@ -4294,7 +4260,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="6" ?>
        </itemlabel>
        <itembody xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="LBody"
@@ -4328,7 +4293,6 @@
             <?References objects="31" ?>
            <Link xmlns="http://iso.org/pdf2/ssn"
              >
-            <?MarkedContent page="6" ?>
             <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
                xmlns:Layout="http://iso.org/pdf/ssn/Layout"
                Layout:TextPosition="Sup"
@@ -4336,7 +4300,6 @@
               >
              <?MarkedContent page="6" ?>5
             </text-fragment>
-            <?MarkedContent page="6" ?>
             <?ReferencedObject type="Annot" page="6" ?>
            </Link>
           </footnotemark>
@@ -4364,7 +4327,6 @@
                Layout:TextAlign="Justify"
                rolemaps-to="P"
               >
-             <?MarkedContent page="6" ?>
              <?MarkedContent page="6" ?>For English, you must have these fonts installed:
             </text-block>
            </semantic-para>
@@ -4376,6 +4338,7 @@
                Layout:TextAlign="Justify"
                rolemaps-to="P"
               >
+             <?MarkedContent page="6" ?>
             </text-block>
             <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
                rolemaps-to="Div"
@@ -4435,7 +4398,6 @@
             <text-block xmlns="https://www.latex-project.org/ns/dflt"
                rolemaps-to="P"
               >
-             <?MarkedContent page="6" ?>
             </text-block>
            </semantic-para>
           </footnote>
@@ -4820,6 +4782,7 @@
          Layout:TextAlign="Justify"
          rolemaps-to="P"
         >
+       <?MarkedContent page="4" ?>
       </text-block>
       <text-minipage xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Div"
@@ -4845,7 +4808,6 @@
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="P"
         >
-       <?MarkedContent page="4" ?> 
       </text-block>
       <text-minipage xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Div"

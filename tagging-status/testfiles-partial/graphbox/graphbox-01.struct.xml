@@ -177,7 +177,7 @@
          Layout:TextAlign="Justify"
          rolemaps-to="P"
         >
-       <?MarkedContent page="2" ?> 
+       <?MarkedContent page="2" ?>
       </text-block>
      </semantic-para>
     </text-parbox>

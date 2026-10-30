@@ -246,7 +246,6 @@
       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
       \begin {equation*}\begin {split} \spalignretokenize {f_0 =1; f_1 =1; f_{n+2} =f_n+f_{n+1}} \end {split}\end {equation*}
       </AssociatedFile>
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>𝑓0=1
      <?MarkedContent page="1" ?>𝑓1=1
      <?MarkedContent page="1" ?>𝑓𝑛+2=𝑓𝑛+𝑓𝑛+1

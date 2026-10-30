@@ -22,7 +22,6 @@
         >
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <Lbl xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="1" ?>1
@@ -332,7 +331,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
        </itemlabel>
        <itembody xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="LBody"
@@ -345,7 +343,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>Appleby, H., &amp; Hacker, J.  (1980).  
+          <?MarkedContent page="1" ?>Appleby, H., &amp; Hacker, J. (1980). 
           <Em xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="1" ?>On the importance of the civil service
@@ -362,7 +360,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
        </itemlabel>
        <itembody xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="LBody"
@@ -375,7 +372,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>Goossens, M., Mittelbach, F., &amp; Samarin, A.  (1993).  
+          <?MarkedContent page="1" ?>Goossens, M., Mittelbach, F., &amp; Samarin, A. (1993). 
           <Em xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="1" ?>The latex companion
@@ -392,7 +389,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
        </itemlabel>
        <itembody xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="LBody"
@@ -405,12 +401,12 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>Knuth, D.  (n.d.).  
+          <?MarkedContent page="1" ?>Knuth, D. (n.d.). 
           <Em xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="1" ?>Knuth: Computers and typesetting.
           </Em>
-          <?MarkedContent page="1" ?>  Retrieved from 
+          <?MarkedContent page="1" ?> Retrieved from 
           <Link xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="1" ?>http://www-cs-faculty.stanford.edu/~{}uno/abcde.html

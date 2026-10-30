@@ -84,7 +84,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\>$
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
      </Formula>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
@@ -112,7 +111,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\>$
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
      </Formula>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
@@ -140,7 +138,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\;$
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
      </Formula>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
@@ -168,7 +165,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\;$
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
      </Formula>
      <?MarkedContent page="1" ?>0.020408163265306122448979591836734693877551
      <Formula xmlns="http://iso.org/pdf2/ssn"
@@ -197,8 +193,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\box 0$
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
-      <?MarkedContent page="1" ?>
      </Formula>
     </text-block>
    </semantic-para>

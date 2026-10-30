@@ -44,7 +44,6 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
         af="source.tex"
@@ -56,8 +55,6 @@
        </AssociatedFile>
       <?MarkedContent page="1" ?>•
      </Formula>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
@@ -71,8 +68,6 @@
       <?MarkedContent page="1" ?>x1
      </Formula>
      <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
         af="source.tex"
@@ -84,8 +79,6 @@
        </AssociatedFile>
       <?MarkedContent page="1" ?>•
      </Formula>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
@@ -99,8 +92,6 @@
       <?MarkedContent page="1" ?>x2
      </Formula>
      <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
         af="source.tex"
@@ -112,8 +103,6 @@
        </AssociatedFile>
       <?MarkedContent page="1" ?>•
      </Formula>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
@@ -127,8 +116,6 @@
       <?MarkedContent page="1" ?>x3
      </Formula>
      <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
         af="source.tex"
@@ -140,8 +127,6 @@
        </AssociatedFile>
       <?MarkedContent page="1" ?>•
      </Formula>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
@@ -155,8 +140,6 @@
       <?MarkedContent page="1" ?>x4
      </Formula>
      <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
         af="source.tex"
@@ -168,8 +151,6 @@
        </AssociatedFile>
       <?MarkedContent page="1" ?>•
      </Formula>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
@@ -183,8 +164,6 @@
       <?MarkedContent page="1" ?>x5
      </Formula>
      <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
         af="source.tex"
@@ -196,8 +175,6 @@
        </AssociatedFile>
       <?MarkedContent page="1" ?>•
      </Formula>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
@@ -211,8 +188,6 @@
       <?MarkedContent page="1" ?>x6
      </Formula>
      <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
         af="source.tex"
@@ -225,8 +200,6 @@
       <?MarkedContent page="1" ?>•
      </Formula>
      <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
         af="source.tex"
@@ -238,7 +211,6 @@
        </AssociatedFile>
       <?MarkedContent page="1" ?>x7
      </Formula>
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>Mesh
      <?MarkedContent page="1" ?>

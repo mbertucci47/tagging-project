@@ -10,7 +10,8 @@
        Layout:TextAlign="Justify"
        rolemaps-to="H4"
       >
-     <?MarkedContent page="1" ?>• Lorem ipsum.
+     <?MarkedContent page="1" ?>• 
+     <?MarkedContent page="1" ?>Lorem ipsum.
     </paragraph-heading>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Part"

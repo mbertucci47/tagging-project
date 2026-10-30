@@ -10,7 +10,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>0.356899,  5 iterations.
+     <?MarkedContent page="1" ?>0.356899, 5 iterations.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -59,7 +59,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>0.356898,  1+20 steps.
+     <?MarkedContent page="1" ?>0.356898, 1+20 steps.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

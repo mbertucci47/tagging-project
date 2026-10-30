@@ -88,7 +88,7 @@
            Layout:TextAlign="Justify"
            rolemaps-to="P"
           >
-         <?MarkedContent page="1" ?>A charnel-house! A charnel-house!(Waiting for Godot, 41)
+         <?MarkedContent page="1" ?>A charnel-house! A charnel-house! (Waiting for Godot, 41)
         </text-block>
        </semantic-para>
        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

@@ -203,6 +203,7 @@
        </heading-number>
        <?MarkedContent page="1" ?>  
        <?MarkedContent page="1" ?>Another section
+       <?MarkedContent page="1" ?>
       </section-heading>
      </section>
     </TOC>

@@ -52,7 +52,7 @@
        </text-block>
       </semantic-para>
      </footnote>
-     <?MarkedContent page="1" ?>version of the paper.
+     <?MarkedContent page="1" ?> version of the paper.
      <footnotemark xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
         referenced-as="4"

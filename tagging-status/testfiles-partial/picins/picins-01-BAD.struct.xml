@@ -42,7 +42,6 @@
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 133.76837, 619.37733, 197.52927, 667.19801 }"
      >
-    <?MarkedContent page="1" ?>
    </Figure>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
       rolemaps-to="Part"
@@ -103,7 +102,6 @@
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 133.76837, 304.2881, 218.4508, 375.02284 }"
      >
-    <?MarkedContent page="1" ?>
    </Figure>
    <Figure xmlns="http://iso.org/pdf2/ssn"
       alt="picture environment"
@@ -162,7 +160,6 @@
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 133.76837, 576.48817, 197.52927, 624.30884 }"
      >
-    <?MarkedContent page="2" ?>
    </Figure>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
       rolemaps-to="Part"
@@ -214,7 +211,6 @@
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 133.76837, 284.313, 197.52927, 332.13367 }"
      >
-    <?MarkedContent page="2" ?>
    </Figure>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
       rolemaps-to="Part"
@@ -266,7 +262,6 @@
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 133.76837, 388.59535, 197.52927, 436.41603 }"
      >
-    <?MarkedContent page="3" ?>
    </Figure>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
       rolemaps-to="Part"
@@ -409,7 +404,6 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 133.76837, 618.38107, 197.52927, 666.20175 }"
        >
-      <?MarkedContent page="4" ?>
      </Figure>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"
@@ -449,7 +443,6 @@
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:BBox="{ 201.0848, 618.38107, 264.84569, 666.20175 }"
          >
-        <?MarkedContent page="4" ?>
        </Figure>
       </text-block>
       <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
@@ -481,7 +474,6 @@
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:BBox="{ 268.40121, 618.38107, 332.16211, 666.20175 }"
          >
-        <?MarkedContent page="4" ?>
        </Figure>
       </text-block>
       <text-parbox xmlns="https://www.latex-project.org/ns/dflt"

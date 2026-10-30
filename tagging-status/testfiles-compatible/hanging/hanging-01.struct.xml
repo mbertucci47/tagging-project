@@ -106,7 +106,7 @@
          Layout:TextAlign="Justify"
          rolemaps-to="P"
         >
-       <?MarkedContent page="3" ?>‘abc def ghi abc def ghi abc def ghi abc def ghi’abc
+       <?MarkedContent page="3" ?>‘abc def ghi abc def ghi abc def ghi abc def ghi’ abc
       </text-block>
      </semantic-para>
     </text-minipage>

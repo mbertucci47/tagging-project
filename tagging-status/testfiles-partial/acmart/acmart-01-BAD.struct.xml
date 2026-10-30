@@ -2,17 +2,6 @@
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
     >
-   <footnotelabel xmlns="https://www.latex-project.org/ns/dflt"
-      rolemaps-to="Lbl"
-     >
-    <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
-       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-       Layout:TextPosition="Sup"
-       rolemaps-to="Span"
-      >
-     <?MarkedContent page="1" ?>∗
-    </text-fragment>
-   </footnotelabel>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
       rolemaps-to="Part"
      >
@@ -80,7 +69,6 @@
        >
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextPosition="Sup"
@@ -88,7 +76,6 @@
          >
         <?MarkedContent page="1" ?>∗
        </text-fragment>
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
      </footnotemark>
@@ -105,7 +92,6 @@
        >
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextPosition="Sup"
@@ -113,7 +99,6 @@
          >
         <?MarkedContent page="1" ?>∗
        </text-fragment>
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
      </footnotemark>
@@ -202,7 +187,7 @@
        >
       <?MarkedContent page="1" ?>✉
      </text-fragment>
-     <?MarkedContent page="1" ?>, The Kumquat Consortium, USA
+     <?MarkedContent page="1" ?> , The Kumquat Consortium, USA
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -223,7 +208,6 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>Both authors contributed equally to this research.
     </text-block>
    </semantic-para>
