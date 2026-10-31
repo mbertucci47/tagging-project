@@ -48,7 +48,7 @@
         <?MarkedContent page="1" ?>
         <Lbl xmlns="http://iso.org/pdf2/ssn"
           >
-         <?MarkedContent page="1" ?>0
+         <?MarkedContent page="1" ?>1
         </Lbl>
         <?MarkedContent page="1" ?>Fancy chapter
         <?ReferencedObject type="Annot" page="1" ?>
@@ -69,7 +69,7 @@
          <?MarkedContent page="1" ?>
          <Lbl xmlns="http://iso.org/pdf2/ssn"
            >
-          <?MarkedContent page="1" ?>0.1
+          <?MarkedContent page="1" ?>1.1
          </Lbl>
          <?MarkedContent page="1" ?>Normal section
          <?ReferencedObject type="Annot" page="1" ?>
