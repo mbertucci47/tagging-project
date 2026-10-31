@@ -22,7 +22,6 @@
         >
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <Lbl xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="1" ?>1
@@ -43,7 +42,6 @@
          >
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
-         <?MarkedContent page="1" ?>
          <Lbl xmlns="http://iso.org/pdf2/ssn"
            >
           <?MarkedContent page="1" ?>1.1
@@ -64,7 +62,6 @@
           >
          <Link xmlns="http://iso.org/pdf2/ssn"
            >
-          <?MarkedContent page="1" ?>
           <Lbl xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="1" ?>1.1.1
@@ -84,7 +81,6 @@
          >
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
-         <?MarkedContent page="1" ?>
          <Lbl xmlns="http://iso.org/pdf2/ssn"
            >
           <?MarkedContent page="1" ?>1.2
@@ -106,7 +102,8 @@
        rolemaps-to="H1"
        referenced-as="1"
       >
-     <?MarkedContent page="2" ?>Chapter  
+     <?MarkedContent page="2" ?>Chapter
+     <?MarkedContent page="2" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >

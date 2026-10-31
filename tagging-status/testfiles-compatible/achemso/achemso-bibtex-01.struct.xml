@@ -144,7 +144,7 @@
           rolemaps-to="Span"
          >
        </text-fragment>
-       <?MarkedContent page="1" ?>, or as given by Ref.
+       <?MarkedContent page="1" ?> , or as given by Ref. 
        <Reference xmlns="http://iso.org/pdf/ssn"
          >
          <?References objects="1" ?>
@@ -526,7 +526,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="2" ?>Ref.
+          <?MarkedContent page="2" ?>Ref. 
           <Reference xmlns="http://iso.org/pdf/ssn"
             >
             <?References objects="4" ?>

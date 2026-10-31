@@ -9,7 +9,7 @@
        title="Contents"
        rolemaps-to="H1"
       >
-     <?MarkedContent page="1" ?>Contents
+     <?MarkedContent page="1" ?>ContentsSome section • Another section (Some subsection, 1) • Yet another section (Another subsection, 1).
     </section-heading>
     <TOC xmlns="http://iso.org/pdf/ssn"
        title="toc"

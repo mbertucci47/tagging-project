@@ -22,7 +22,6 @@
         >
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <Lbl xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="1" ?>1
@@ -41,7 +40,6 @@
         >
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <Lbl xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="1" ?>1
@@ -60,7 +58,6 @@
         >
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <Lbl xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="1" ?>1
@@ -337,7 +334,6 @@
          >
         <?MarkedContent page="3" ?>
        </Figure>
-       <?MarkedContent page="3" ?>
       </text-block>
      </semantic-para>
     </float>

@@ -22,8 +22,6 @@
      <?MarkedContent page="1" ?> Emmy Noether
      <Link xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="1" ?>
-      <?MarkedContent page="1" ?>
       <?ReferencedObject type="Annot" page="1" ?>
      </Link>
     </title-author>
@@ -43,8 +41,6 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -57,7 +53,6 @@
       >
      <Link xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>https://orcid.org/0000-0001-7559-9597
       <?ReferencedObject type="Annot" page="1" ?>
      </Link>
@@ -73,7 +68,6 @@
       >
      <Link xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>0000-0001-7559-9597
       <?ReferencedObject type="Annot" page="1" ?>
      </Link>
@@ -90,7 +84,6 @@
      <Link xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="1" ?>Leo C. Stein
-      <?MarkedContent page="1" ?>
       <?ReferencedObject type="Annot" page="1" ?>
      </Link>
     </text-block>

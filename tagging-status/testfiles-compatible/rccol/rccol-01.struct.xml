@@ -32,45 +32,45 @@
        >
       <TD xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>2345,765
+       <?MarkedContent page="1" ?>2345,765 
       </TD>
       <TD xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>1,6
+       <?MarkedContent page="1" ?>1,6 
       </TD>
       <TD xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>21,00
-      </TD>
-     </TR>
-     <TR xmlns="http://iso.org/pdf2/ssn"
-       >
-      <TD xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="1" ?> 45,130
-      </TD>
-      <TD xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="1" ?>0,2
-      </TD>
-      <TD xmlns="http://iso.org/pdf2/ssn"
-        >
-       <?MarkedContent page="1" ?> 1,65
+       <?MarkedContent page="1" ?>21,00 
       </TD>
      </TR>
      <TR xmlns="http://iso.org/pdf2/ssn"
        >
       <TD xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?> 543,990
+       <?MarkedContent page="1" ?>45,130 
       </TD>
       <TD xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>2,0
+       <?MarkedContent page="1" ?>0,2 
       </TD>
       <TD xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?> 9,90
+       <?MarkedContent page="1" ?>1,65 
+      </TD>
+     </TR>
+     <TR xmlns="http://iso.org/pdf2/ssn"
+       >
+      <TD xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>543,990 
+      </TD>
+      <TD xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>2,0 
+      </TD>
+      <TD xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>9,90 
       </TD>
      </TR>
     </Table>

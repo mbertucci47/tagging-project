@@ -35,7 +35,6 @@
        </AssociatedFile>
       <?MarkedContent page="1" ?>̇𝑄=𝑘⋅𝐴⋅Δ𝑇
       <?MarkedContent page="1" ?>(1)
-      <?MarkedContent page="1" ?>
      </Formula>
     </semantic-para>
    </section>
@@ -47,6 +46,8 @@
        rolemaps-to="H1"
       >
      <?MarkedContent page="1" ?>Nomenclature
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>
     </section-heading>
     <Table xmlns="http://iso.org/pdf2/ssn"
       >

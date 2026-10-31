@@ -31,10 +31,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>A
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
     </text-block>
    </semantic-para>
   </Document>

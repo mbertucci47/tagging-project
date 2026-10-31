@@ -94,9 +94,7 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\pmb {\sum _i a_i}$
        </AssociatedFile>
-      <?MarkedContent page="1" ?>∑︁iai
-      <?MarkedContent page="1" ?>
-      <?MarkedContent page="1" ?>
+      <?MarkedContent page="1" ?>∑︁iai∑︁iai∑︁iai
      </Formula>
     </text-block>
    </semantic-para>

@@ -18,11 +18,8 @@
       \begin {align}A &amp;= B \label {foo} \\ C &amp;= D\end {align}
       </AssociatedFile>
      <?MarkedContent page="1" ?>𝐴=𝐵
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>(1)
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>𝐶=𝐷
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>(2)
     </Formula>
    </semantic-para>

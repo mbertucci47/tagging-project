@@ -13,14 +13,16 @@
      <?MarkedContent page="1" ?>ü Ü ç Ç rr RR 
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-1.xml"
+        af="mathml-1.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-1.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi>𝜏</mi> </math>
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
         >
        <mi xmlns="http://www.w3.org/1998/Math/MathML"
@@ -28,7 +30,6 @@
         <?MarkedContent page="1" ?>𝜏
        </mi>
       </math>
-      <?MarkedContent page="1" ?>
      </Formula>
      <?MarkedContent page="1" ?>/ í
     </text-block>
@@ -43,14 +44,16 @@
       >
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
-        af="mathml-2.xml"
+        af="mathml-2.xml source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
        <AssociatedFile name="mathml-2.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
        <math xmlns="http://www.w3.org/1998/Math/MathML"> <mover> <mi>𝚤</mi> <mo>´</mo> </mover> </math>
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
         >
        <mover xmlns="http://www.w3.org/1998/Math/MathML"
@@ -61,11 +64,10 @@
         </mi>
         <mo xmlns="http://www.w3.org/1998/Math/MathML"
           >
-         <?MarkedContent page="1" ?>´
+         <?MarkedContent page="1" ?>́
         </mo>
        </mover>
       </math>
-      <?MarkedContent page="1" ?>
      </Formula>
     </text-block>
    </semantic-para>
@@ -589,14 +591,16 @@
           <?MarkedContent page="2" ?>Seno: 
           <Formula xmlns="http://iso.org/pdf2/ssn"
              title="math"
-             af="mathml-3.xml"
+             af="mathml-3.xml source.tex"
              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
              Layout:Placement="Inline"
             >
             <AssociatedFile name="mathml-3.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
             <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"> sen </mi> <mo lspace="0" rspace="0" stretchy="false">(</mo> <mi>𝑥</mi> <mo lspace="0" rspace="0" stretchy="false">)</mo> </math>
             </AssociatedFile>
-           <?MarkedContent page="2" ?>
+            <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+            
+            </AssociatedFile>
            <math xmlns="http://www.w3.org/1998/Math/MathML"
              >
             <mi xmlns="http://www.w3.org/1998/Math/MathML"
@@ -623,7 +627,6 @@
              <?MarkedContent page="2" ?>)
             </mo>
            </math>
-           <?MarkedContent page="2" ?>
           </Formula>
           <?MarkedContent page="2" ?> (en lugar del inglés 
           <Em xmlns="http://iso.org/pdf2/ssn"
@@ -657,14 +660,16 @@
           <?MarkedContent page="2" ?>Tangente: 
           <Formula xmlns="http://iso.org/pdf2/ssn"
              title="math"
-             af="mathml-4.xml"
+             af="mathml-4.xml source.tex"
              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
              Layout:Placement="Inline"
             >
             <AssociatedFile name="mathml-4.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
             <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"> tan </mi> <mo lspace="0" rspace="0" stretchy="false">(</mo> <mi>𝑥</mi> <mo lspace="0" rspace="0" stretchy="false">)</mo> </math>
             </AssociatedFile>
-           <?MarkedContent page="2" ?>
+            <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+            
+            </AssociatedFile>
            <math xmlns="http://www.w3.org/1998/Math/MathML"
              >
             <mi xmlns="http://www.w3.org/1998/Math/MathML"
@@ -691,19 +696,20 @@
              <?MarkedContent page="2" ?>)
             </mo>
            </math>
-           <?MarkedContent page="2" ?>
           </Formula>
           <?MarkedContent page="2" ?> o también usando 
           <Formula xmlns="http://iso.org/pdf2/ssn"
              title="math"
-             af="mathml-5.xml"
+             af="mathml-5.xml source.tex"
              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
              Layout:Placement="Inline"
             >
             <AssociatedFile name="mathml-5.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
             <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"> tg </mi> <mo lspace="0" rspace="0" stretchy="false">(</mo> <mi>𝑥</mi> <mo lspace="0" rspace="0" stretchy="false">)</mo> </math>
             </AssociatedFile>
-           <?MarkedContent page="2" ?>
+            <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+            
+            </AssociatedFile>
            <math xmlns="http://www.w3.org/1998/Math/MathML"
              >
             <mi xmlns="http://www.w3.org/1998/Math/MathML"
@@ -730,7 +736,6 @@
              <?MarkedContent page="2" ?>)
             </mo>
            </math>
-           <?MarkedContent page="2" ?>
           </Formula>
           <?MarkedContent page="2" ?>.
          </text-block>
@@ -759,14 +764,16 @@
           <?MarkedContent page="2" ?>Arcotangente: 
           <Formula xmlns="http://iso.org/pdf2/ssn"
              title="math"
-             af="mathml-6.xml"
+             af="mathml-6.xml source.tex"
              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
              Layout:Placement="Inline"
             >
             <AssociatedFile name="mathml-6.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
             <math xmlns="http://www.w3.org/1998/Math/MathML"> <mrow> <mi mathvariant="normal"> arc </mi> <mspace width="0.167em"/> <mi mathvariant="normal"> tg </mi> </mrow> <mo lspace="0" rspace="0" stretchy="false">(</mo> <mi>𝑥</mi> <mo lspace="0" rspace="0" stretchy="false">)</mo> </math>
             </AssociatedFile>
-           <?MarkedContent page="2" ?>
+            <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+            
+            </AssociatedFile>
            <math xmlns="http://www.w3.org/1998/Math/MathML"
              >
             <mrow xmlns="http://www.w3.org/1998/Math/MathML"
@@ -805,7 +812,6 @@
              <?MarkedContent page="2" ?>)
             </mo>
            </math>
-           <?MarkedContent page="2" ?>
           </Formula>
           <?MarkedContent page="2" ?>.
          </text-block>
@@ -834,14 +840,16 @@
           <?MarkedContent page="2" ?>Logaritmo neperiano: 
           <Formula xmlns="http://iso.org/pdf2/ssn"
              title="math"
-             af="mathml-7.xml"
+             af="mathml-7.xml source.tex"
              xmlns:Layout="http://iso.org/pdf/ssn/Layout"
              Layout:Placement="Inline"
             >
             <AssociatedFile name="mathml-7.xml" relationship="Supplement" media-type="application/mathml+xml" xmlns="">
             <math xmlns="http://www.w3.org/1998/Math/MathML"> <mi mathvariant="normal"> ln </mi> <mo lspace="0" rspace="0" stretchy="false">(</mo> <mi>𝑥</mi> <mo lspace="0" rspace="0" stretchy="false">)</mo> </math>
             </AssociatedFile>
-           <?MarkedContent page="2" ?>
+            <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+            
+            </AssociatedFile>
            <math xmlns="http://www.w3.org/1998/Math/MathML"
              >
             <mi xmlns="http://www.w3.org/1998/Math/MathML"
@@ -868,7 +876,6 @@
              <?MarkedContent page="2" ?>)
             </mo>
            </math>
-           <?MarkedContent page="2" ?>
           </Formula>
           <?MarkedContent page="2" ?>.
          </text-block>

@@ -53,7 +53,7 @@
          >
        </text-fragment>
       </Link>
-      <?MarkedContent page="1" ?> linea prima  linea prima
+      <?MarkedContent page="1" ?> linea prima linea prima
       <?MarkedContent page="1" ?> linea secunda 
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
@@ -64,10 +64,9 @@
          >
        </text-fragment>
       </Link>
-      <?MarkedContent page="1" ?> linea secunda
+      <?MarkedContent page="1" ?>linea secunda
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextPosition="Sup"
@@ -75,12 +74,10 @@
          >
         <?MarkedContent page="1" ?>1
        </text-fragment>
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
-      <?MarkedContent page="1" ?>
-      <?MarkedContent page="1" ?> linea tertia  linea tertia
-      <?MarkedContent page="1" ?> linea quarta  linea quarta
+      <?MarkedContent page="1" ?> linea tertia linea tertia
+      <?MarkedContent page="1" ?> linea quarta linea quarta
       <?MarkedContent page="1" ?> linea quinta 
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
@@ -91,10 +88,9 @@
          >
        </text-fragment>
       </Link>
-      <?MarkedContent page="1" ?> linea quinta
+      <?MarkedContent page="1" ?>linea quinta
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextPosition="Sup"
@@ -102,11 +98,9 @@
          >
         <?MarkedContent page="1" ?>1
        </text-fragment>
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
-      <?MarkedContent page="1" ?>
-      <?MarkedContent page="1" ?> linea sexta  linea sexta 
+      <?MarkedContent page="1" ?> linea sexta linea sexta 
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -143,7 +137,6 @@
       <?MarkedContent page="1" ?>
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextPosition="Sup"
@@ -151,7 +144,6 @@
          >
         <?MarkedContent page="1" ?>1
        </text-fragment>
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
       <?MarkedContent page="1" ?>familiar footnote A.
@@ -205,7 +197,6 @@
       <?MarkedContent page="1" ?>
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextPosition="Sup"
@@ -213,7 +204,6 @@
          >
         <?MarkedContent page="1" ?>1
        </text-fragment>
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
       <?MarkedContent page="1" ?>familiar footnote B.
@@ -271,8 +261,8 @@
          >
        </text-fragment>
       </Link>
-      <?MarkedContent page="1" ?> linea prima  linea prima
-      <?MarkedContent page="1" ?>linea secunda 
+      <?MarkedContent page="1" ?> linea prima linea prima
+      <?MarkedContent page="1" ?> linea secunda 
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
@@ -285,7 +275,6 @@
       <?MarkedContent page="1" ?>linea secunda
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextPosition="Sup"
@@ -293,12 +282,10 @@
          >
         <?MarkedContent page="1" ?>2
        </text-fragment>
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
-      <?MarkedContent page="1" ?>
-      <?MarkedContent page="1" ?> linea tertia  linea tertia
-      <?MarkedContent page="1" ?> linea quarta  linea quarta
+      <?MarkedContent page="1" ?> linea tertia linea tertia
+      <?MarkedContent page="1" ?> linea quarta linea quarta
       <?MarkedContent page="1" ?> linea quinta 
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
@@ -309,10 +296,9 @@
          >
        </text-fragment>
       </Link>
-      <?MarkedContent page="1" ?> linea quinta
+      <?MarkedContent page="1" ?>linea quinta
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextPosition="Sup"
@@ -320,11 +306,9 @@
          >
         <?MarkedContent page="1" ?>2
        </text-fragment>
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
-      <?MarkedContent page="1" ?>
-      <?MarkedContent page="1" ?> linea sexta  linea sexta 
+      <?MarkedContent page="1" ?> linea sexta linea sexta 
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -350,7 +334,6 @@
       <?MarkedContent page="1" ?>
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextPosition="Sup"
@@ -358,7 +341,6 @@
          >
         <?MarkedContent page="1" ?>2
        </text-fragment>
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
       <?MarkedContent page="1" ?>familiar footnote A.
@@ -412,7 +394,6 @@
       <?MarkedContent page="1" ?>
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextPosition="Sup"
@@ -420,7 +401,6 @@
          >
         <?MarkedContent page="1" ?>2
        </text-fragment>
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
       <?MarkedContent page="1" ?>familiar footnote B.
@@ -478,7 +458,7 @@
          >
        </text-fragment>
       </Link>
-      <?MarkedContent page="1" ?> linea prima  linea prima
+      <?MarkedContent page="1" ?> linea prima linea prima
       <?MarkedContent page="1" ?> linea secunda 
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
@@ -489,10 +469,9 @@
          >
        </text-fragment>
       </Link>
-      <?MarkedContent page="1" ?> linea secunda
+      <?MarkedContent page="1" ?>linea secunda
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextPosition="Sup"
@@ -500,12 +479,10 @@
          >
         <?MarkedContent page="1" ?>3
        </text-fragment>
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
-      <?MarkedContent page="1" ?>
-      <?MarkedContent page="1" ?> linea tertia  linea tertia
-      <?MarkedContent page="1" ?> linea quarta  linea quarta
+      <?MarkedContent page="1" ?> linea tertia linea tertia
+      <?MarkedContent page="1" ?> linea quarta linea quarta
       <?MarkedContent page="1" ?> linea quinta 
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
@@ -516,10 +493,9 @@
          >
        </text-fragment>
       </Link>
-      <?MarkedContent page="1" ?> linea quinta
+      <?MarkedContent page="1" ?>linea quinta
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextPosition="Sup"
@@ -527,11 +503,9 @@
          >
         <?MarkedContent page="1" ?>3
        </text-fragment>
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
-      <?MarkedContent page="1" ?>
-      <?MarkedContent page="1" ?> linea sexta  linea sexta 
+      <?MarkedContent page="1" ?> linea sexta linea sexta 
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -557,7 +531,6 @@
       <?MarkedContent page="1" ?>
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextPosition="Sup"
@@ -565,7 +538,6 @@
          >
         <?MarkedContent page="1" ?>3
        </text-fragment>
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
       <?MarkedContent page="1" ?>familiar footnote A.
@@ -619,7 +591,6 @@
       <?MarkedContent page="1" ?>
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextPosition="Sup"
@@ -627,7 +598,6 @@
          >
         <?MarkedContent page="1" ?>3
        </text-fragment>
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
       <?MarkedContent page="1" ?>familiar footnote B.

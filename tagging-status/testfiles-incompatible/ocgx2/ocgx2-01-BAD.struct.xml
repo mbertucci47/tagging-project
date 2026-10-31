@@ -75,6 +75,7 @@
        referenced-as="2"
       >
      <?MarkedContent page="1" ?>bar
+     <?MarkedContent page="1" ?>
     </section-heading>
    </section>
   </Document>

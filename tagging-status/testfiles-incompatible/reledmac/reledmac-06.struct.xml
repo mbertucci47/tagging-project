@@ -225,7 +225,7 @@
        >
       <?MarkedContent page="1" ?>6
      </text-fragment>
-     <?MarkedContent page="1" ?>–
+     <?MarkedContent page="1" ?> –
      <Link xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="1" ?>8
@@ -299,7 +299,7 @@
        >
       <?MarkedContent page="1" ?>7
      </text-fragment>
-     <?MarkedContent page="1" ?>–
+     <?MarkedContent page="1" ?> –
      <Link xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="1" ?>11

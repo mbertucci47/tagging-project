@@ -211,7 +211,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?> 
+     <?MarkedContent page="1" ?>
     </text-block>
     <Formula xmlns="http://iso.org/pdf2/ssn"
        title="equation*"

@@ -102,7 +102,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>Frédéric Benhamou and Alain Colmerauer, editors.  Constraint Logic programming, Selected Research.  MIT Press, 1993.
+          <?MarkedContent page="1" ?>Frédéric Benhamou and Alain Colmerauer, editors. Constraint Logic programming, Selected Research. MIT Press, 1993.
          </text-block>
         </semantic-para>
        </itembody>
@@ -127,7 +127,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>Traïan Muntean.  Puces très performantes.  Terres du futur, Les Edi
+          <?MarkedContent page="1" ?>Traïan Muntean. Puces très performantes. Terres du futur, Les Edi
           <?MarkedContent page="1" ?>tions UNESCO. Hatier, Paris, 1993.
          </text-block>
         </semantic-para>
@@ -179,8 +179,8 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>M. Roux and J. Smart.  A model of medical knowledge representation, ap
-          <?MarkedContent page="1" ?>plication to the reports analysis of descriptive pathology.  In Methods of Information in Medecine. Schattauer, Holland, 1995.  À paraître.
+          <?MarkedContent page="1" ?>M. Roux and J. Smart. A model of medical knowledge representation, ap
+          <?MarkedContent page="1" ?>plication to the reports analysis of descriptive pathology. In Methods of Information in Medecine. Schattauer, Holland, 1995. À paraître.
          </text-block>
         </semantic-para>
        </itembody>
@@ -230,7 +230,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>Camilla B. Schwind.  Knowledge based language tutoring.  Computer Assisted Language Learning, 1996.  À paraître.
+          <?MarkedContent page="1" ?>Camilla B. Schwind. Knowledge based language tutoring. Computer Assisted Language Learning, 1996. À paraître.
          </text-block>
         </semantic-para>
        </itembody>

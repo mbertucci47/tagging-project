@@ -27,6 +27,7 @@
      </heading-number>
      <?MarkedContent page="1" ?>  
      <?MarkedContent page="1" ?>First section
+     <?MarkedContent page="1" ?>
     </section-heading>
    </section>
   </Document>

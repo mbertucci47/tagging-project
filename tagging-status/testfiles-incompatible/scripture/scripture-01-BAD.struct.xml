@@ -217,7 +217,7 @@
            Layout:TextAlign="Justify"
            rolemaps-to="P"
           >
-         <?MarkedContent page="1" ?> PSALM 3
+         <?MarkedContent page="1" ?>PSALM 3
         </text-block>
        </semantic-para>
        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -376,7 +376,7 @@
                >
               <?MarkedContent page="1" ?>2
              </text-fragment>
-             <?MarkedContent page="1" ?>‘I am the Lord your God, who brought you out of Egypt, out of the land of slavery.
+             <?MarkedContent page="1" ?> ‘I am the Lord your God, who brought you out of Egypt, out of the land of slavery.
             </text-block>
             <Formula xmlns="http://iso.org/pdf2/ssn"
                title="equation*"
@@ -464,7 +464,7 @@
            >
           <?MarkedContent page="1" ?>5
          </text-fragment>
-         <?MarkedContent page="1" ?>Some of his disciples were remarking about how the temple was adorned with beautiful stones and with gifts dedicated to God. But Jesus said, 
+         <?MarkedContent page="1" ?> Some of his disciples were remarking about how the temple was adorned with beautiful stones and with gifts dedicated to God. But Jesus said, 
          <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:TextPosition="Sup"
@@ -472,7 +472,7 @@
            >
           <?MarkedContent page="1" ?>6
          </text-fragment>
-         <?MarkedContent page="1" ?>“As for what you see here, the time will come when not one stone will be left on another; every one of them will be thrown down.”
+         <?MarkedContent page="1" ?> “As for what you see here, the time will come when not one stone will be left on another; every one of them will be thrown down.”
         </text-block>
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="equation*"
@@ -685,7 +685,7 @@
                Layout:TextAlign="Start"
                rolemaps-to="P"
               >
-             <?MarkedContent page="1" ?> declares the Lord.
+             <?MarkedContent page="1" ?>declares the Lord.
             </text-block>
             <Formula xmlns="http://iso.org/pdf2/ssn"
                title="equation*"
@@ -783,7 +783,7 @@
            >
           <?MarkedContent page="1" ?>25
          </text-fragment>
-         <?MarkedContent page="1" ?>‘This is the inscription that was written:
+         <?MarkedContent page="1" ?> ‘This is the inscription that was written:
         </text-block>
         <list xmlns="https://www.latex-project.org/ns/dflt"
            xmlns:List="http://iso.org/pdf/ssn/List"
@@ -1041,7 +1041,7 @@
            >
           <?MarkedContent page="2" ?>31
          </text-fragment>
-         <?MarkedContent page="2" ?>So whether you eat or drink or whatever you do, do it all for the glory of God. 
+         <?MarkedContent page="2" ?> So whether you eat or drink or whatever you do, do it all for the glory of God. 
          <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:TextPosition="Sup"
@@ -1049,7 +1049,7 @@
            >
           <?MarkedContent page="2" ?>32
          </text-fragment>
-         <?MarkedContent page="2" ?>Do not cause anyone to stumble, whether Jews, Greeks or the church of God—
+         <?MarkedContent page="2" ?> Do not cause anyone to stumble, whether Jews, Greeks or the church of God—
          <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
             Layout:TextPosition="Sup"
@@ -1057,7 +1057,7 @@
            >
           <?MarkedContent page="2" ?>33
          </text-fragment>
-         <?MarkedContent page="2" ?>even as I try to please everyone in every way. For I am not seeking my own good but the good of many, so that they may be saved.
+         <?MarkedContent page="2" ?> even as I try to please everyone in every way. For I am not seeking my own good but the good of many, so that they may be saved.
          <?MarkedContent page="2" ?>11
         </text-block>
        </semantic-para>
@@ -1086,7 +1086,7 @@
            >
           <?MarkedContent page="2" ?>1
          </text-fragment>
-         <?MarkedContent page="2" ?>Follow my example, as I follow the example of Christ.
+         <?MarkedContent page="2" ?> Follow my example, as I follow the example of Christ.
         </text-block>
        </semantic-para>
        <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -1183,7 +1183,7 @@
            >
           <?MarkedContent page="2" ?>18
          </text-fragment>
-         <?MarkedContent page="2" ?>They called for the king; and Eliakim son of Hilkiah the palace adminis
+         <?MarkedContent page="2" ?> They called for the king; and Eliakim son of Hilkiah the palace adminis
          <?MarkedContent page="2" ?>trator, Shebna the secretary, and Joah son of Asaph the recorder went out to them. 
          <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
             xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -1192,7 +1192,7 @@
            >
           <?MarkedContent page="2" ?>19
          </text-fragment>
-         <?MarkedContent page="2" ?>The field commander said to them, ‘Tell Hezekiah:
+         <?MarkedContent page="2" ?> The field commander said to them, ‘Tell Hezekiah:
         </text-block>
         <list xmlns="https://www.latex-project.org/ns/dflt"
            xmlns:List="http://iso.org/pdf/ssn/List"

@@ -10,6 +10,10 @@
        rolemaps-to="H1"
       >
      <?MarkedContent page="1" ?>Contents
+     <?MarkedContent page="1" ?>1Some section
+     <?MarkedContent page="1" ?>...................1
+     <?MarkedContent page="1" ?>2Another section
+     <?MarkedContent page="1" ?>..................1
     </section-heading>
     <TOC xmlns="http://iso.org/pdf/ssn"
        title="toc"

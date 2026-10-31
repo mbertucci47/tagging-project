@@ -19,7 +19,7 @@
        Layout:TextAlign="Center"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?> Karl J. Niklas
+     <?MarkedContent page="1" ?> Karl J. Niklas 
     </title-author>
     <title-date xmlns="https://www.latex-project.org/ns/dflt"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -70,7 +70,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>In this paper, I review the construction of a morphospace for early land plants (Niklas and Kerchner, 1984; Niklas, 1997a;  1997b) and show how it can be used ….
+      <?MarkedContent page="1" ?>In this paper, I review the construction of a morphospace for early land plants (Niklas and Kerchner, 1984; Niklas, 1997a; 1997b) and show how it can be used ….
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -81,7 +81,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>… horizontally cantilevered branches impose the largest bending moments on subtending branches (Niklas, 1992;  1994a).
+      <?MarkedContent page="1" ?>… horizontally cantilevered branches impose the largest bending moments on subtending branches (Niklas, 1992; 1994a).
      </text-block>
     </semantic-para>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -103,7 +103,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>… fossil record for Devonian and Carboniferous vascular land plants (Niklas et al., 1980;  1983; Gensel and Andrews, 1984).
+      <?MarkedContent page="1" ?>… fossil record for Devonian and Carboniferous vascular land plants (Niklas et al., 1980; 1983; Gensel and Andrews, 1984).
      </text-block>
     </semantic-para>
    </section>

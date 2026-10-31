@@ -281,7 +281,7 @@
        </AssociatedFile>
       <?MarkedContent page="1" ?>−1−1=−2
      </Formula>
-     <?MarkedContent page="1" ?>.  Now use the control sequence: 
+     <?MarkedContent page="1" ?>. Now use the control sequence: 
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
         af="mathml-13.xml source.tex"

@@ -152,7 +152,6 @@
            Layout:TextAlign="Justify"
            rolemaps-to="P"
           >
-         <?MarkedContent page="1" ?> 
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
             af="mathml-6.xml source.tex"
@@ -214,7 +213,6 @@
            Layout:TextAlign="Justify"
            rolemaps-to="P"
           >
-         <?MarkedContent page="1" ?> 
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
             af="mathml-7.xml source.tex"
@@ -315,7 +313,6 @@
            Layout:TextAlign="Justify"
            rolemaps-to="P"
           >
-         <?MarkedContent page="1" ?> 
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
             af="mathml-9.xml source.tex"
@@ -431,7 +428,6 @@
            Layout:TextAlign="Justify"
            rolemaps-to="P"
           >
-         <?MarkedContent page="1" ?> 
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
             af="mathml-12.xml source.tex"
@@ -469,7 +465,6 @@
            Layout:TextAlign="Justify"
            rolemaps-to="P"
           >
-         <?MarkedContent page="1" ?> 
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
             af="mathml-13.xml source.tex"
@@ -529,7 +524,6 @@
            Layout:TextAlign="Justify"
            rolemaps-to="P"
           >
-         <?MarkedContent page="1" ?> 
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
             af="mathml-14.xml source.tex"
@@ -615,7 +609,6 @@
            Layout:TextAlign="Justify"
            rolemaps-to="P"
           >
-         <?MarkedContent page="1" ?> 
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
             af="mathml-15.xml source.tex"
@@ -677,7 +670,6 @@
            Layout:TextAlign="Justify"
            rolemaps-to="P"
           >
-         <?MarkedContent page="1" ?> 
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
             af="mathml-16.xml source.tex"
@@ -715,7 +707,6 @@
            Layout:TextAlign="Justify"
            rolemaps-to="P"
           >
-         <?MarkedContent page="1" ?> 
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
             af="mathml-17.xml source.tex"

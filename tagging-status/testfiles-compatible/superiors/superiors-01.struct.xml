@@ -16,7 +16,7 @@
         referenced-as="2"
        >
        <?References objects="1" ?>
-      <?MarkedContent page="1" ?> abcdef¹²³⁴⁵⁶ 
+      <?MarkedContent page="1" ?>abcdef¹²³⁴⁵⁶
      </footnotemark>
      <footnote xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="FENote"
@@ -26,7 +26,7 @@
       <footnotelabel xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Lbl"
         >
-       <?MarkedContent page="1" ?> abcdef¹²³⁴⁵⁶ 
+       <?MarkedContent page="1" ?>abcdef¹²³⁴⁵⁶
       </footnotelabel>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Part"

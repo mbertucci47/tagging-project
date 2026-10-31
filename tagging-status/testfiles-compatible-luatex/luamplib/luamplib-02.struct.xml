@@ -30,6 +30,7 @@
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>A
+     <?MarkedContent page="1" ?>√𝑥
      <Figure xmlns="http://iso.org/pdf2/ssn"
         alt="example 2"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -42,7 +43,8 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 294.0213, 581.49767, 416.06587, 646.20177 }"
        >
-      <?MarkedContent page="1" ?>√𝑥𝑥𝑦
+      <?MarkedContent page="1" ?>
+      <?MarkedContent page="1" ?>𝑥𝑦
      </Figure>
      <?MarkedContent page="1" ?>B
     </text-block>
@@ -56,12 +58,18 @@
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>A
+     <?MarkedContent page="1" ?>1
+     <?MarkedContent page="1" ?>2
+     <?MarkedContent page="1" ?>3
      <Figure xmlns="http://iso.org/pdf2/ssn"
         alt="example 3"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 156.18431, 483.21582, 251.3557, 578.5089 }"
        >
-      <?MarkedContent page="1" ?>𝑒1𝑒2𝑒3
+      <?MarkedContent page="1" ?>𝑒
+      <?MarkedContent page="1" ?>𝑒
+      <?MarkedContent page="1" ?>𝑒
+      <?MarkedContent page="1" ?>
      </Figure>
      <?MarkedContent page="1" ?>B
     </text-block>
@@ -79,14 +87,16 @@
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 148.71233, 441.21956, 169.21233, 461.71956 }"
        >
-      <?MarkedContent page="1" ?>√2
+      <?MarkedContent page="1" ?>
+      <?MarkedContent page="1" ?>
      </Figure>
      <Figure xmlns="http://iso.org/pdf2/ssn"
         alt="another example"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 169.21233, 441.21956, 210.21233, 482.21956 }"
        >
-      <?MarkedContent page="1" ?>√2
+      <?MarkedContent page="1" ?>
+      <?MarkedContent page="1" ?>
      </Figure>
     </text-block>
    </semantic-para>
@@ -139,14 +149,19 @@
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 133.76837, 209.28113, 268.23926, 330.495 }"
      >
-    <?MarkedContent page="1" ?>204060802×1044×1046×1048×104
+    <?MarkedContent page="1" ?>204060802×10
+    <?MarkedContent page="1" ?>4×10
+    <?MarkedContent page="1" ?>6×10
+    <?MarkedContent page="1" ?>8×10
+    <?MarkedContent page="1" ?>
    </Figure>
    <Figure xmlns="http://iso.org/pdf2/ssn"
       alt="example 9"
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 133.76837, 197.32596, 151.54855, 207.68709 }"
      >
-    <?MarkedContent page="1" ?>√2
+    <?MarkedContent page="1" ?>
+    <?MarkedContent page="1" ?>
    </Figure>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
       rolemaps-to="Part"
@@ -178,7 +193,8 @@
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 133.76837, 570.85399, 265.73578, 667.19801 }"
      >
-    <?MarkedContent page="2" ?>Funny√2xyz
+    <?MarkedContent page="2" ?>Funny
+    <?MarkedContent page="2" ?>xyz
    </Figure>
    <Figure xmlns="http://iso.org/pdf2/ssn"
       alt="example 13"
@@ -268,11 +284,15 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
+     <?MarkedContent page="2" ?>
+     <?MarkedContent page="2" ?>
      <Figure xmlns="http://iso.org/pdf2/ssn"
         alt="fig example 9"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 148.71233, 179.1945, 373.71233, 304.39932 }"
        >
+      <?MarkedContent page="2" ?>
+      <?MarkedContent page="2" ?>
       <?MarkedContent page="2" ?>
      </Figure>
     </text-block>
@@ -313,11 +333,13 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
+     <?MarkedContent page="3" ?>
      <Figure xmlns="http://iso.org/pdf2/ssn"
         alt="fig example 11"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:BBox="{ 148.71233, 285.97406, 262.96774, 376.65924 }"
        >
+      <?MarkedContent page="3" ?>
       <?MarkedContent page="3" ?>
      </Figure>
      <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
@@ -347,7 +369,8 @@
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 133.76837, 178.40285, 257.53969, 207.24927 }"
      >
-    <?MarkedContent page="3" ?>a circle with 𝑑=𝑎TEX
+    <?MarkedContent page="3" ?>a circle with 𝑑=𝑎T
+    <?MarkedContent page="3" ?>X
    </Figure>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
       rolemaps-to="Part"
@@ -419,7 +442,8 @@
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 133.76837, 503.4534, 423.96786, 534.19676 }"
      >
-    <?MarkedContent page="4" ?>a square with side =𝑎, inherited from the same instanceTEX
+    <?MarkedContent page="4" ?>a square with side =𝑎, inherited from the same instanceT
+    <?MarkedContent page="4" ?>X
    </Figure>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
       rolemaps-to="Part"

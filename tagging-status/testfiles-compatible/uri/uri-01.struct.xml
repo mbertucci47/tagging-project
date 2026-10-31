@@ -65,8 +65,6 @@
           <?MarkedContent page="1" ?>ASIN:0201362996
           <?ReferencedObject type="Annot" page="1" ?>
          </Link>
-         <?MarkedContent page="1" ?>
-         <?MarkedContent page="1" ?>
         </text-block>
        </semantic-para>
       </itembody>
@@ -96,8 +94,6 @@
           <?MarkedContent page="1" ?>arXiv:math/9201303
           <?ReferencedObject type="Annot" page="1" ?>
          </Link>
-         <?MarkedContent page="1" ?>
-         <?MarkedContent page="1" ?>
         </text-block>
        </semantic-para>
       </itembody>
@@ -127,8 +123,6 @@
           <?MarkedContent page="1" ?>OCLC:935889548
           <?ReferencedObject type="Annot" page="1" ?>
          </Link>
-         <?MarkedContent page="1" ?>
-         <?MarkedContent page="1" ?>
         </text-block>
        </semantic-para>
       </itembody>
@@ -158,8 +152,6 @@
           <?MarkedContent page="1" ?>HDL:10338.dmlcz/702604
           <?ReferencedObject type="Annot" page="1" ?>
          </Link>
-         <?MarkedContent page="1" ?>
-         <?MarkedContent page="1" ?>
         </text-block>
        </semantic-para>
       </itembody>
@@ -189,8 +181,6 @@
           <?MarkedContent page="1" ?>DOI:10.1111/coin.12165
           <?ReferencedObject type="Annot" page="1" ?>
          </Link>
-         <?MarkedContent page="1" ?>
-         <?MarkedContent page="1" ?>
         </text-block>
        </semantic-para>
       </itembody>
@@ -220,8 +210,6 @@
           <?MarkedContent page="1" ?>urn:nbn:de:bsz:mit1-opus-3145
           <?ReferencedObject type="Annot" page="1" ?>
          </Link>
-         <?MarkedContent page="1" ?>
-         <?MarkedContent page="1" ?>
         </text-block>
        </semantic-para>
       </itembody>
@@ -251,8 +239,6 @@
           <?MarkedContent page="1" ?>PubMed:24925405
           <?ReferencedObject type="Annot" page="1" ?>
          </Link>
-         <?MarkedContent page="1" ?>
-         <?MarkedContent page="1" ?>
         </text-block>
        </semantic-para>
       </itembody>
@@ -282,8 +268,6 @@
           <?MarkedContent page="1" ?>WC:71lh2xily
           <?ReferencedObject type="Annot" page="1" ?>
          </Link>
-         <?MarkedContent page="1" ?>
-         <?MarkedContent page="1" ?>
         </text-block>
        </semantic-para>
       </itembody>
@@ -303,8 +287,6 @@
       <?MarkedContent page="1" ?>ASIN(0201362996)
       <?ReferencedObject type="Annot" page="1" ?>
      </Link>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -320,8 +302,6 @@
       <?MarkedContent page="1" ?>doi:10.1111/coin.12165
       <?ReferencedObject type="Annot" page="1" ?>
      </Link>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -338,7 +318,6 @@
       <?MarkedContent page="1" ?>TINY:424242
       <?ReferencedObject type="Annot" page="1" ?>
      </Link>
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>.
     </text-block>
    </semantic-para>
@@ -356,7 +335,6 @@
       <?MarkedContent page="1" ?>TINY:P:optpag
       <?ReferencedObject type="Annot" page="1" ?>
      </Link>
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>.
     </text-block>
    </semantic-para>
@@ -374,7 +352,6 @@
       <?MarkedContent page="1" ?>&lt;https://latex-project.org>
       <?ReferencedObject type="Annot" page="1" ?>
      </Link>
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>.
     </text-block>
    </semantic-para>
@@ -392,8 +369,6 @@
       <?MarkedContent page="1" ?>mailto:webmaster@latex-project.org
       <?ReferencedObject type="Annot" page="1" ?>
      </Link>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
     </text-block>
    </semantic-para>
   </Document>

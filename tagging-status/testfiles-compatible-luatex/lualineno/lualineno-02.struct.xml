@@ -19,7 +19,7 @@
        Layout:TextAlign="Center"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?> Some author
+     <?MarkedContent page="1" ?> Some author 
     </title-author>
     <title-date xmlns="https://www.latex-project.org/ns/dflt"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -43,7 +43,6 @@
      <?MarkedContent page="1" ?>The paralogisms of practical reason are what first give rise to the architectonic 
      <?MarkedContent page="1" ?>of practical reason. As will easily be shown in the next section, reason would 
      <?MarkedContent page="1" ?>thereby be made to contradict, in view of these considerations, the Ideal of prac
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>tical reason, yet the manifold depends on the phenomena. Necessity depends 
      <?MarkedContent page="1" ?>on, when thus treated as the practical employment of the never-ending regress 
      <?MarkedContent page="1" ?>in the series of empirical conditions, time. Human reason depends on our sense 
@@ -61,7 +60,6 @@
       >
      <?MarkedContent page="1" ?>Let us suppose that the noumena have nothing to do with necessity, since 
      <?MarkedContent page="1" ?>knowledge of the Categories is a posteriori. Hume tells us that the transcen
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>dental unity of apperception can not take account of the discipline of natural 
      <?MarkedContent page="1" ?>reason, by means of analytic unity. As is proven in the ontological manuals, it is 
      <?MarkedContent page="1" ?>obvious that the transcendental unity of apperception proves the validity of the 
@@ -82,13 +80,11 @@
        rolemaps-to="P"
       >
      <?MarkedContent page="2" ?>As is shown in the writings of Aristotle, the things in themselves (and it re
-     <?MarkedContent page="2" ?>
      <?MarkedContent page="2" ?>mains a mystery why this is the case) are a representation of time. Our concepts 
      <?MarkedContent page="2" ?>have lying before them the paralogisms of natural reason, but our a posteriori 
      <?MarkedContent page="2" ?>concepts have lying before them the practical employment of our experience. 
      <?MarkedContent page="2" ?>Because of our necessary ignorance of the conditions, the paralogisms would 
      <?MarkedContent page="2" ?>thereby be made to contradict, indeed, space; for these reasons, the Transcen
-     <?MarkedContent page="2" ?>
      <?MarkedContent page="2" ?>dental Deduction has lying before it our sense perceptions. (Our a posteriori 
      <?MarkedContent page="2" ?>knowledge can never furnish a true and demonstrated science, because, like 
      <?MarkedContent page="2" ?>time, it depends on analytic principles.) So, it must not be supposed that our 
@@ -113,13 +109,11 @@
      <?MarkedContent page="2" ?>the full sense of these terms, would be falsified. Let us suppose that, indeed, 
      <?MarkedContent page="2" ?>our problematic judgements, indeed, can be treated like our concepts. As any 
      <?MarkedContent page="2" ?>dedicated reader can clearly see, our knowledge can be treated like the tran
-     <?MarkedContent page="2" ?>
      <?MarkedContent page="2" ?>scendental unity of apperception, but the phenomena occupy part of the sphere 
      <?MarkedContent page="2" ?>of the manifold concerning the existence of natural causes in general. Whence 
      <?MarkedContent page="2" ?>comes the architectonic of natural reason, the solution of which involves the 
      <?MarkedContent page="2" ?>relation between necessity and the Categories? Natural causes (and it is not 
      <?MarkedContent page="2" ?>at all certain that this is the case) constitute the whole content for the paral
-     <?MarkedContent page="2" ?>
      <?MarkedContent page="2" ?>ogisms. This could not be passed over in a complete system of transcendental 
      <?MarkedContent page="2" ?>philosophy, but in a merely critical essay the simple mention of the fact may 
      <?MarkedContent page="2" ?>suffice.

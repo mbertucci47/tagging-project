@@ -79,6 +79,7 @@
       </heading-number>
       <?MarkedContent page="1" ?>  
       <?MarkedContent page="1" ?>Umlauts: ÄÖÜäöüß
+      <?MarkedContent page="1" ?>
      </subsection-heading>
     </subsection>
    </section>
@@ -121,7 +122,8 @@
        title="Misc"
        rolemaps-to="Title"
       >
-     <?MarkedContent page="2" ?>Part  
+     <?MarkedContent page="2" ?>Part
+     <?MarkedContent page="2" ?>  
      <heading-number xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
        >
@@ -190,6 +192,7 @@
        </heading-number>
        <?MarkedContent page="2" ?>  
        <?MarkedContent page="2" ?>Subsection
+       <?MarkedContent page="2" ?>
       </subsection-heading>
      </subsection>
     </section>

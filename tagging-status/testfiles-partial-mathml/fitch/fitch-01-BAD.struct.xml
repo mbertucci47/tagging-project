@@ -90,7 +90,6 @@
          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\makebox [\nd@indent ][c]{$$}$
          </AssociatedFile>
-        <?MarkedContent page="1" ?>
        </Formula>
        <Formula xmlns="http://iso.org/pdf2/ssn"
           title="math"
@@ -161,7 +160,6 @@
          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\makebox [\nd@indent ][c]{$$}$
          </AssociatedFile>
-        <?MarkedContent page="1" ?>
        </Formula>
        <Formula xmlns="http://iso.org/pdf2/ssn"
           title="math"
@@ -572,7 +570,6 @@
          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\makebox [\nd@indent ][c]{$$}$
          </AssociatedFile>
-        <?MarkedContent page="1" ?>
        </Formula>
        <Formula xmlns="http://iso.org/pdf2/ssn"
           title="math"
@@ -643,7 +640,6 @@
          <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
          $\makebox [\nd@indent ][c]{$$}$
          </AssociatedFile>
-        <?MarkedContent page="1" ?>
        </Formula>
        <Formula xmlns="http://iso.org/pdf2/ssn"
           title="math"

@@ -487,7 +487,6 @@
          >
         <?MarkedContent page="2" ?>
        </Figure>
-       <?MarkedContent page="2" ?>
       </text-block>
      </semantic-para>
     </float>
@@ -523,7 +522,6 @@
          >
         <?MarkedContent page="2" ?>
        </Figure>
-       <?MarkedContent page="2" ?>
       </text-block>
      </semantic-para>
     </float>
@@ -559,7 +557,6 @@
          >
         <?MarkedContent page="3" ?>
        </Figure>
-       <?MarkedContent page="3" ?>
       </text-block>
      </semantic-para>
     </float>

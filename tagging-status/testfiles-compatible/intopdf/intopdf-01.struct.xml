@@ -11,17 +11,10 @@
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>The source of the document is attached here.
+     <?ReferencedObject type="Annot" page="1" ?>
+     <?ReferencedObject type="Annot" page="1" ?>
     </text-block>
    </semantic-para>
-   <Artifact xmlns="http://iso.org/pdf2/ssn"
-      title="Ignored link annotations"
-     >
-    <Link xmlns="http://iso.org/pdf2/ssn"
-      >
-     <?ReferencedObject type="Annot" page="1" ?>
-     <?ReferencedObject type="Annot" page="1" ?>
-    </Link>
-   </Artifact>
   </Document>
  </StructTreeRoot>
 </PDF>

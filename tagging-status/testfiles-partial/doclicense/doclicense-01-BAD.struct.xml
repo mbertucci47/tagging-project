@@ -50,7 +50,6 @@
         >
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <Figure xmlns="http://iso.org/pdf2/ssn"
            alt="doclicense-CC-by-sa-88x31.pdf"
            xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -58,7 +57,6 @@
           >
          <?MarkedContent page="1" ?>
         </Figure>
-        <?MarkedContent page="1" ?>
         <?ReferencedObject type="Annot" page="1" ?>
        </Link>
       </text-block>

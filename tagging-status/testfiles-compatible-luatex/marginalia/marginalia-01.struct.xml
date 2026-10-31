@@ -11,12 +11,8 @@
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>Here is some body text.
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?> Some more body text.
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?> Some final body text.
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
     </text-block>
     <Aside xmlns="http://iso.org/pdf2/ssn"
       >

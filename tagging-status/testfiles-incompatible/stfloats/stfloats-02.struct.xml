@@ -29,7 +29,6 @@
        <?References objects="1" ?>
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextPosition="Sup"
@@ -37,7 +36,6 @@
          >
         <?MarkedContent page="1" ?>1
        </text-fragment>
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
      </footnotemark>
@@ -65,7 +63,6 @@
           Layout:TextAlign="Justify"
           rolemaps-to="P"
          >
-        <?MarkedContent page="1" ?>
         <?MarkedContent page="1" ?>A footnote
        </text-block>
       </semantic-para>
@@ -89,7 +86,6 @@
        <?References objects="3" ?>
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="1" ?>
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextPosition="Sup"
@@ -97,7 +93,6 @@
          >
         <?MarkedContent page="1" ?>2
        </text-fragment>
-       <?MarkedContent page="1" ?>
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
      </footnotemark>
@@ -125,7 +120,6 @@
           Layout:TextAlign="Justify"
           rolemaps-to="P"
          >
-        <?MarkedContent page="1" ?>
         <?MarkedContent page="1" ?>another footnote
        </text-block>
       </semantic-para>

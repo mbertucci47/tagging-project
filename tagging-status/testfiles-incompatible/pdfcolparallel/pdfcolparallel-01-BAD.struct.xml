@@ -11,7 +11,6 @@
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>text 
-     <?MarkedContent page="1" ?>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"
        >
@@ -23,7 +22,6 @@
        <?MarkedContent page="1" ?>Jisu thakddunsi pulo, “Philip, 
        <?MarkedContent page="1" ?>ne lapu-an arni keding nangtum 
        <?MarkedContent page="1" ?>along nangkedodun anta nang
-       <?MarkedContent page="1" ?>
        <?MarkedContent page="1" ?>tum nephan nechininelangma? 
        <?MarkedContent page="1" ?>Nephan nekethek-long abang ke 
        <?MarkedContent page="1" ?>Po aphanta thek-long-lo. Tangte 
@@ -57,20 +55,6 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
     </text-block>
    </semantic-para>
   </Document>

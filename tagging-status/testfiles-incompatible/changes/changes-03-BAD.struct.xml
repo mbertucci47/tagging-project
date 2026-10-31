@@ -20,9 +20,7 @@
       <?MarkedContent page="1" ?>FMi
      </text-fragment>
      <?MarkedContent page="1" ?> stuff re
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>moved.
-     <?MarkedContent page="1" ?>
     </text-block>
     <Aside xmlns="http://iso.org/pdf2/ssn"
       >

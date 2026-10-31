@@ -146,7 +146,6 @@
       <?MarkedContent page="1" ?>ground
      </Em>
      <?MarkedContent page="1" ?>, there
-     <?MarkedContent page="1" ?>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
         af="mathml-1.xml source.tex"

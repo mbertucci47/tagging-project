@@ -24,8 +24,6 @@
        </AssociatedFile>
       <?MarkedContent page="1" ?>Γ
       <?MarkedContent page="1" ?>LPD𝑥,𝑦
-      <?MarkedContent page="1" ?>
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>𝑃
      </Formula>
     </text-block>
@@ -47,7 +45,6 @@
       </AssociatedFile>
      <?MarkedContent page="1" ?>Γ
      <?MarkedContent page="1" ?>LC𝑥,𝑦,𝑧,𝑤
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>𝑃
     </Formula>
    </semantic-para>

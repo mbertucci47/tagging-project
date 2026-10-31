@@ -32,13 +32,9 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        \begin {equation}\zcsetup {reftype=pluralequation} \zlabel {eq:1} \begin {aligned} A+B&amp;=B+A\\ C&amp;=D+E\\ E&amp;=F \end {aligned}\end {equation}
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>𝐴+𝐵=𝐵+𝐴
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>𝐶=𝐷+𝐸
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>𝐸=𝐹
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>(1)
      </Formula>
      <text-block xmlns="https://www.latex-project.org/ns/dflt"

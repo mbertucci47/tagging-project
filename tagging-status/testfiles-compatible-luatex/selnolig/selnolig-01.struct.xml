@@ -32,11 +32,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>shelf
-     <?MarkedContent page="1" ?>ful shelf
-     <?MarkedContent page="1" ?>fuls bookshelf
-     <?MarkedContent page="1" ?>ful self
-     <?MarkedContent page="1" ?>fulfilling
+     <?MarkedContent page="1" ?>shelfful shelffuls bookshelfful selffulfilling
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -47,16 +43,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>beef
-     <?MarkedContent page="1" ?>less brief
-     <?MarkedContent page="1" ?>less hoof
-     <?MarkedContent page="1" ?>less leaf
-     <?MarkedContent page="1" ?>less roof
-     <?MarkedContent page="1" ?>less self
-     <?MarkedContent page="1" ?>less turf
-     <?MarkedContent page="1" ?>less self
-     <?MarkedContent page="1" ?>lessly self
-     <?MarkedContent page="1" ?>lessness
+     <?MarkedContent page="1" ?>beefless briefless hoofless leafless roofless selfless turfless selflessly selflessness
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -67,22 +54,8 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>calf
-     <?MarkedContent page="1" ?>like dwarf
-     <?MarkedContent page="1" ?>like elf
-     <?MarkedContent page="1" ?>like gulf
-     <?MarkedContent page="1" ?>like hoof
-     <?MarkedContent page="1" ?>like leaf
-     <?MarkedContent page="1" ?>like roof
-     <?MarkedContent page="1" ?>like serf
-     <?MarkedContent page="1" ?>like sheaf
-     <?MarkedContent page="1" ?>like shelf
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>like surf
-     <?MarkedContent page="1" ?>like turf
-     <?MarkedContent page="1" ?>like waif
-     <?MarkedContent page="1" ?>like wolf
-     <?MarkedContent page="1" ?>like
+     <?MarkedContent page="1" ?>calflike dwarflike elflike gulflike hooflike leaflike rooflike serflike sheaflike shelf
+     <?MarkedContent page="1" ?>like surflike turflike waiflike wolflike
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -93,11 +66,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>half
-     <?MarkedContent page="1" ?>life shelf
-     <?MarkedContent page="1" ?>life half
-     <?MarkedContent page="1" ?>lives shelf
-     <?MarkedContent page="1" ?>lives
+     <?MarkedContent page="1" ?>halflife shelflife halflives shelflives
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -108,11 +77,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>half
-     <?MarkedContent page="1" ?>line roof
-     <?MarkedContent page="1" ?>line half
-     <?MarkedContent page="1" ?>lines roof
-     <?MarkedContent page="1" ?>lines
+     <?MarkedContent page="1" ?>halfline roofline halflines rooflines
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -123,14 +88,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>leaf
-     <?MarkedContent page="1" ?>let leaf
-     <?MarkedContent page="1" ?>lets leaf
-     <?MarkedContent page="1" ?>leted leaf
-     <?MarkedContent page="1" ?>leting leaf
-     <?MarkedContent page="1" ?>letting leaf
-     <?MarkedContent page="1" ?>letted leaf
-     <?MarkedContent page="1" ?>leteer
+     <?MarkedContent page="1" ?>leaflet leaflets leafleted leafleting leafletting leafletted leafleteer
     </text-block>
    </semantic-para>
   </Document>

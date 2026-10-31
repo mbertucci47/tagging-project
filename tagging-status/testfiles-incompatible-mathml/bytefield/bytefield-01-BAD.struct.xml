@@ -116,8 +116,8 @@
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 499.3992, 606.45084, 546.76659, 606.45084 }"
      >
-    <?MarkedContent page="1" ?> 
-    <?MarkedContent page="1" ?> 
+    <?MarkedContent page="1" ?>
+    <?MarkedContent page="1" ?>
    </Figure>
    <Figure xmlns="http://iso.org/pdf2/ssn"
       alt="picture environment"
@@ -201,8 +201,8 @@
       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
       Layout:BBox="{ 499.3992, 486.22177, 550.7616, 486.22177 }"
      >
-    <?MarkedContent page="1" ?> 
-    <?MarkedContent page="1" ?> 
+    <?MarkedContent page="1" ?>
+    <?MarkedContent page="1" ?>
    </Figure>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
       rolemaps-to="Part"

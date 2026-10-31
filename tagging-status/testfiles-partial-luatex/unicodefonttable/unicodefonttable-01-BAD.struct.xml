@@ -148,7 +148,7 @@
       <?MarkedContent page="1" ?>F
      </TH>
     </TR>
-    <Artifact xmlns="http://iso.org/pdf2/ssn"
+    <TR xmlns="http://iso.org/pdf2/ssn"
       >
      <TD xmlns="http://iso.org/pdf2/ssn"
         xmlns:Table="http://iso.org/pdf/ssn/Table"
@@ -178,9 +178,21 @@
              Layout:TextAlign="Justify"
              rolemaps-to="P"
             >
+           <?MarkedContent page="2" ?>Table 1: Tex Gyre Termes 
+           <?MarkedContent page="3" ?>Table 1: Tex Gyre Termes 
+           <?MarkedContent page="4" ?>Table 1: Tex Gyre Termes 
+           <?MarkedContent page="5" ?>Table 1: Tex Gyre Termes 
            <Em xmlns="http://iso.org/pdf2/ssn"
              >
+            <?MarkedContent page="2" ?>cont.
+            <?MarkedContent page="3" ?>cont.
+            <?MarkedContent page="4" ?>cont.
+            <?MarkedContent page="5" ?>cont.
            </Em>
+           <?MarkedContent page="2" ?>
+           <?MarkedContent page="3" ?>
+           <?MarkedContent page="4" ?>
+           <?MarkedContent page="5" ?>
           </text-block>
          </Div>
         </text-parbox>
@@ -191,61 +203,125 @@
        </Div>
       </text-parbox>
      </TD>
-    </Artifact>
-    <Artifact xmlns="http://iso.org/pdf2/ssn"
+    </TR>
+    <TR xmlns="http://iso.org/pdf2/ssn"
       >
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
+      <?MarkedContent page="2" ?>0
+      <?MarkedContent page="3" ?>0
+      <?MarkedContent page="4" ?>0
+      <?MarkedContent page="5" ?>0
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
+      <?MarkedContent page="2" ?>1
+      <?MarkedContent page="3" ?>1
+      <?MarkedContent page="4" ?>1
+      <?MarkedContent page="5" ?>1
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
+      <?MarkedContent page="2" ?>2
+      <?MarkedContent page="3" ?>2
+      <?MarkedContent page="4" ?>2
+      <?MarkedContent page="5" ?>2
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
+      <?MarkedContent page="2" ?>3
+      <?MarkedContent page="3" ?>3
+      <?MarkedContent page="4" ?>3
+      <?MarkedContent page="5" ?>3
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
+      <?MarkedContent page="2" ?>4
+      <?MarkedContent page="3" ?>4
+      <?MarkedContent page="4" ?>4
+      <?MarkedContent page="5" ?>4
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
+      <?MarkedContent page="2" ?>5
+      <?MarkedContent page="3" ?>5
+      <?MarkedContent page="4" ?>5
+      <?MarkedContent page="5" ?>5
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
+      <?MarkedContent page="2" ?>6
+      <?MarkedContent page="3" ?>6
+      <?MarkedContent page="4" ?>6
+      <?MarkedContent page="5" ?>6
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
+      <?MarkedContent page="2" ?>7
+      <?MarkedContent page="3" ?>7
+      <?MarkedContent page="4" ?>7
+      <?MarkedContent page="5" ?>7
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
+      <?MarkedContent page="2" ?>8
+      <?MarkedContent page="3" ?>8
+      <?MarkedContent page="4" ?>8
+      <?MarkedContent page="5" ?>8
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
+      <?MarkedContent page="2" ?>9
+      <?MarkedContent page="3" ?>9
+      <?MarkedContent page="4" ?>9
+      <?MarkedContent page="5" ?>9
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
+      <?MarkedContent page="2" ?>A
+      <?MarkedContent page="3" ?>A
+      <?MarkedContent page="4" ?>A
+      <?MarkedContent page="5" ?>A
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
+      <?MarkedContent page="2" ?>B
+      <?MarkedContent page="3" ?>B
+      <?MarkedContent page="4" ?>B
+      <?MarkedContent page="5" ?>B
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
+      <?MarkedContent page="2" ?>C
+      <?MarkedContent page="3" ?>C
+      <?MarkedContent page="4" ?>C
+      <?MarkedContent page="5" ?>C
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
+      <?MarkedContent page="2" ?>D
+      <?MarkedContent page="3" ?>D
+      <?MarkedContent page="4" ?>D
+      <?MarkedContent page="5" ?>D
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
+      <?MarkedContent page="2" ?>E
+      <?MarkedContent page="3" ?>E
+      <?MarkedContent page="4" ?>E
+      <?MarkedContent page="5" ?>E
      </TD>
      <TD xmlns="http://iso.org/pdf2/ssn"
        >
+      <?MarkedContent page="2" ?>F
+      <?MarkedContent page="3" ?>F
+      <?MarkedContent page="4" ?>F
+      <?MarkedContent page="5" ?>F
      </TD>
-    </Artifact>
+    </TR>
     <TR xmlns="http://iso.org/pdf2/ssn"
       >
      <TD xmlns="http://iso.org/pdf2/ssn"

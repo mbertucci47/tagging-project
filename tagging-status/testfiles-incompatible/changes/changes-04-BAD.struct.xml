@@ -102,7 +102,6 @@
        </text-block>
       </semantic-para>
      </footnote>
-     <?MarkedContent page="1" ?>
     </text-block>
    </semantic-para>
    <section xmlns="https://www.latex-project.org/ns/dflt"
@@ -123,101 +122,6 @@
         rolemaps-to="P"
        >
       <?MarkedContent page="1" ?>Author: anonymous
-     </text-block>
-     <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
-        rolemaps-to="Div"
-       >
-      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-         rolemaps-to="Part"
-        >
-       <text-block xmlns="https://www.latex-project.org/ns/dflt"
-          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-          Layout:TextAlign="Justify"
-          rolemaps-to="P"
-         >
-        <?MarkedContent page="1" ?>Added ...... 1
-       </text-block>
-      </semantic-para>
-     </text-parbox>
-     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        rolemaps-to="P"
-       >
-     </text-block>
-     <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
-        rolemaps-to="Div"
-       >
-      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-         rolemaps-to="Part"
-        >
-       <text-block xmlns="https://www.latex-project.org/ns/dflt"
-          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-          Layout:TextAlign="Justify"
-          rolemaps-to="P"
-         >
-        <?MarkedContent page="1" ?>Deleted ..... 0
-       </text-block>
-      </semantic-para>
-     </text-parbox>
-     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        rolemaps-to="P"
-       >
-     </text-block>
-     <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
-        rolemaps-to="Div"
-       >
-      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-         rolemaps-to="Part"
-        >
-       <text-block xmlns="https://www.latex-project.org/ns/dflt"
-          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-          Layout:TextAlign="Justify"
-          rolemaps-to="P"
-         >
-        <?MarkedContent page="1" ?>Replaced .... 0
-       </text-block>
-      </semantic-para>
-     </text-parbox>
-     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        rolemaps-to="P"
-       >
-     </text-block>
-     <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
-        rolemaps-to="Div"
-       >
-      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-         rolemaps-to="Part"
-        >
-       <text-block xmlns="https://www.latex-project.org/ns/dflt"
-          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-          Layout:TextAlign="Justify"
-          rolemaps-to="P"
-         >
-        <?MarkedContent page="1" ?>Highlighted . 1
-       </text-block>
-      </semantic-para>
-     </text-parbox>
-     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        rolemaps-to="P"
-       >
-     </text-block>
-     <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
-        rolemaps-to="Div"
-       >
-      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-         rolemaps-to="Part"
-        >
-       <text-block xmlns="https://www.latex-project.org/ns/dflt"
-          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-          Layout:TextAlign="Justify"
-          rolemaps-to="P"
-         >
-        <?MarkedContent page="1" ?>Commented . 0
-       </text-block>
-      </semantic-para>
-     </text-parbox>
-     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        rolemaps-to="P"
-       >
       <?MarkedContent page="1" ?>Author: FMi (Frank M.)
      </text-block>
      <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
@@ -231,7 +135,7 @@
           Layout:TextAlign="Justify"
           rolemaps-to="P"
          >
-        <?MarkedContent page="1" ?>Added ...... 0
+        <?MarkedContent page="1" ?>Added ......1
        </text-block>
       </semantic-para>
      </text-parbox>
@@ -250,7 +154,7 @@
           Layout:TextAlign="Justify"
           rolemaps-to="P"
          >
-        <?MarkedContent page="1" ?>Deleted ..... 1
+        <?MarkedContent page="1" ?>Deleted .....0
        </text-block>
       </semantic-para>
      </text-parbox>
@@ -269,7 +173,7 @@
           Layout:TextAlign="Justify"
           rolemaps-to="P"
          >
-        <?MarkedContent page="1" ?>Replaced .... 1
+        <?MarkedContent page="1" ?>Replaced ....0
        </text-block>
       </semantic-para>
      </text-parbox>
@@ -288,7 +192,7 @@
           Layout:TextAlign="Justify"
           rolemaps-to="P"
          >
-        <?MarkedContent page="1" ?>Highlighted . 0
+        <?MarkedContent page="1" ?>Highlighted .1
        </text-block>
       </semantic-para>
      </text-parbox>
@@ -307,7 +211,102 @@
           Layout:TextAlign="Justify"
           rolemaps-to="P"
          >
-        <?MarkedContent page="1" ?>Commented . 2
+        <?MarkedContent page="1" ?>Commented .0
+       </text-block>
+      </semantic-para>
+     </text-parbox>
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="P"
+       >
+     </text-block>
+     <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Div"
+       >
+      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Part"
+        >
+       <text-block xmlns="https://www.latex-project.org/ns/dflt"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:TextAlign="Justify"
+          rolemaps-to="P"
+         >
+        <?MarkedContent page="1" ?>Added ......0
+       </text-block>
+      </semantic-para>
+     </text-parbox>
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="P"
+       >
+     </text-block>
+     <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Div"
+       >
+      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Part"
+        >
+       <text-block xmlns="https://www.latex-project.org/ns/dflt"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:TextAlign="Justify"
+          rolemaps-to="P"
+         >
+        <?MarkedContent page="1" ?>Deleted .....1
+       </text-block>
+      </semantic-para>
+     </text-parbox>
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="P"
+       >
+     </text-block>
+     <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Div"
+       >
+      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Part"
+        >
+       <text-block xmlns="https://www.latex-project.org/ns/dflt"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:TextAlign="Justify"
+          rolemaps-to="P"
+         >
+        <?MarkedContent page="1" ?>Replaced ....1
+       </text-block>
+      </semantic-para>
+     </text-parbox>
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="P"
+       >
+     </text-block>
+     <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Div"
+       >
+      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Part"
+        >
+       <text-block xmlns="https://www.latex-project.org/ns/dflt"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:TextAlign="Justify"
+          rolemaps-to="P"
+         >
+        <?MarkedContent page="1" ?>Highlighted .0
+       </text-block>
+      </semantic-para>
+     </text-parbox>
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="P"
+       >
+     </text-block>
+     <text-parbox xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Div"
+       >
+      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+         rolemaps-to="Part"
+        >
+       <text-block xmlns="https://www.latex-project.org/ns/dflt"
+          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+          Layout:TextAlign="Justify"
+          rolemaps-to="P"
+         >
+        <?MarkedContent page="1" ?>Commented .2
        </text-block>
       </semantic-para>
      </text-parbox>

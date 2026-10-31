@@ -111,7 +111,6 @@
          rolemaps-to="Div"
         >
       </text-minipage>
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>)
      </Formula>
     </text-block>

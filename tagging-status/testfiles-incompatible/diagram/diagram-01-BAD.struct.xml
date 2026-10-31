@@ -118,7 +118,7 @@
        Layout:TextAlign="Start"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>1Thomas BrandProblemkiste  1992Elmar Bartel gew.
+     <?MarkedContent page="1" ?>1Thomas Brand Problemkiste 1992Elmar Bartel gew.
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -129,6 +129,7 @@
        Layout:TextAlign="Start"
        rolemaps-to="P"
       >
+     <?MarkedContent page="1" ?> 
      <?MarkedContent page="1" ?>h#7
     </text-block>
    </semantic-para>

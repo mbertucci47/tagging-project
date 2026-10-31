@@ -78,7 +78,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        \begin {equation}\begin {split} \iiiint \limits _{\mathbf {Q}} f(w,x,y,z)\,dw\,dx\,dy\,dz &amp;\leq \oint _{\bm {\partial Q}} f' \left ( \max \left \lbrace \frac {\lVert w \rVert }{\lvert w^2 + x^2 \rvert } ; \frac {\lVert z \rVert }{\lvert y^2 + z^2 \rvert } ; \frac {\lVert w \oplus z \rVert }{\lVert x \oplus y \rVert } \right \rbrace \right ) \\ &amp;\precapprox \biguplus _{\mathbb {Q} \Subset \bar {\mathbf {Q}}} \left [ f^{\ast } \left ( \frac {\left \lmoustache \mathbb {Q}(t)\right \rmoustache } {\sqrt {1 - t^2}} \right )\right ]_{t=\alpha }^{t=\vartheta } - ( \Delta + \nu - v )^3 \end {split}\end {equation}
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>∫︂∫︂∫︂∫︂Qf(w,x,y,z)dwdxdydz≤∮︂∂Qf′(︃max{︃∥w∥|w2+x2|;∥z∥|y2+z2|;∥w⊕z∥∥x⊕y∥}︃)︃
       <?MarkedContent page="1" ?>≾⨄︂Q⋐¯Q⎡⎣f∗⎛⎝⎧⎭Q(t)⎫⎩√1−t2⎞⎠⎤⎦t=θt=α−(∆+ν−v)3
       <Lbl xmlns="http://iso.org/pdf2/ssn"
@@ -228,7 +227,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        \begin {equation}\begin {split} \iiiint \limits _{\mathbf {Q}} f(w,x,y,z)\,dw\,dx\,dy\,dz &amp;\leq \oint _{\bm {\partial Q}} f' \left ( \max \left \lbrace \frac {\lVert w \rVert }{\lvert w^2 + x^2 \rvert } ; \frac {\lVert z \rVert }{\lvert y^2 + z^2 \rvert } ; \frac {\lVert w \oplus z \rVert }{\lVert x \oplus y \rVert } \right \rbrace \right ) \\ &amp;\precapprox \biguplus _{\mathbb {Q} \Subset \bar {\mathbf {Q}}} \left [ f^{\ast } \left ( \frac {\left \lmoustache \mathbb {Q}(t)\right \rmoustache } {\sqrt {1 - t^2}} \right )\right ]_{t=\alpha }^{t=\vartheta } - ( \Delta + \nu - v )^3 \end {split}\end {equation}
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
       <?MarkedContent page="1" ?>∫︂∫︂∫︂∫︂Qf(w,x,y,z)dwdxdydz≤∮︂∂Qf′(︃max{︃∥w∥|w2+x2|;∥z∥|y2+z2|;∥w⊕z∥∥x⊕y∥}︃)︃
       <?MarkedContent page="1" ?>≾⨄︂Q⋐¯Q⎡⎣f∗⎛⎝⎧⎭Q(t)⎫⎩√1−t2⎞⎠⎤⎦t=θt=α−(∆+ν−v)3
       <Lbl xmlns="http://iso.org/pdf2/ssn"
@@ -379,11 +377,6 @@
        \begin {equation}\begin {split} \iiiint \limits _{\mathbf {Q}} f(w,x,y,z)\,dw\,dx\,dy\,dz &amp;\leq \oint _{\bm {\partial Q}} f' \left ( \max \left \lbrace \frac {\lVert w \rVert }{\lvert w^2 + x^2 \rvert } ; \frac {\lVert z \rVert }{\lvert y^2 + z^2 \rvert } ; \frac {\lVert w \oplus z \rVert }{\lVert x \oplus y \rVert } \right \rbrace \right ) \\ &amp;\precapprox \biguplus _{\mathbb {Q} \Subset \bar {\mathbf {Q}}} \left [ f^{\ast } \left ( \frac {\left \lmoustache \mathbb {Q}(t)\right \rmoustache } {\sqrt {1 - t^2}} \right )\right ]_{t=\alpha }^{t=\vartheta } - ( \Delta + \nu - v )^3 \end {split}\end {equation}
        </AssociatedFile>
       <?MarkedContent page="1" ?>
-      <?MarkedContent page="1" ?>
-      <?MarkedContent page="1" ?>
-      <?MarkedContent page="1" ?>
-      <?MarkedContent page="1" ?>
-      <?MarkedContent page="2" ?>
       <?MarkedContent page="2" ?>∫︂∫︂∫︂∫︂Qf(w,x,y,z)dwdxdydz≤∮︂∂Qf′(︃max{︃∥w∥|w2+x2|;∥z∥|y2+z2|;∥w⊕z∥∥x⊕y∥}︃)︃
       <?MarkedContent page="2" ?>≾⨄︂Q⋐¯Q⎡⎣f∗⎛⎝⎧⎭Q(t)⎫⎩√1−t2⎞⎠⎤⎦t=θt=α−(∆+ν−v)3
       <Lbl xmlns="http://iso.org/pdf2/ssn"
@@ -533,7 +526,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        \begin {equation}\begin {split} \iiiint \limits _{\mathbf {Q}} f(w,x,y,z)\,dw\,dx\,dy\,dz &amp;\leq \oint _{\bm {\partial Q}} f' \left ( \max \left \lbrace \frac {\lVert w \rVert }{\lvert w^2 + x^2 \rvert } ; \frac {\lVert z \rVert }{\lvert y^2 + z^2 \rvert } ; \frac {\lVert w \oplus z \rVert }{\lVert x \oplus y \rVert } \right \rbrace \right ) \\ &amp;\precapprox \biguplus _{\mathbb {Q} \Subset \bar {\mathbf {Q}}} \left [ f^{\ast } \left ( \frac {\left \lmoustache \mathbb {Q}(t)\right \rmoustache } {\sqrt {1 - t^2}} \right )\right ]_{t=\alpha }^{t=\vartheta } - ( \Delta + \nu - v )^3 \end {split}\end {equation}
        </AssociatedFile>
-      <?MarkedContent page="2" ?>
       <?MarkedContent page="2" ?>∫︂∫︂∫︂∫︂Qf(w,x,y,z)dwdxdydz≤∮︂∂Qf′(︃max{︃∥w∥|w2+x2|;∥z∥|y2+z2|;∥w⊕z∥∥x⊕y∥}︃)︃
       <?MarkedContent page="2" ?>≾⨄︂Q⋐¯Q⎡⎣f∗⎛⎝⎧⎭Q(t)⎫⎩√1−t2⎞⎠⎤⎦t=θt=α−(∆+ν−v)3
       <Lbl xmlns="http://iso.org/pdf2/ssn"

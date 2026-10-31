@@ -101,12 +101,12 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>Anthony J. Arduengo, III, H. V. Rasika Dias, Richard L. Harlow, and Michael Kline.  Electronic stabilization of nucleophilic carbenes.  
+          <?MarkedContent page="1" ?>Anthony J. Arduengo, III, H. V. Rasika Dias, Richard L. Harlow, and Michael Kline. Electronic stabilization of nucleophilic carbenes. 
           <Em xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="1" ?>J. Am. Chem. Soc.
           </Em>
-          <?MarkedContent page="1" ?>, 114(14):5530–5534, 1992.  doi: 10.1021/ja00040a007.
+          <?MarkedContent page="1" ?>, 114(14):5530–5534, 1992. doi: 10.1021/ja00040a007.
          </text-block>
         </semantic-para>
        </itembody>
@@ -130,13 +130,13 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>Anthony J. Arduengo, III, Siegfried F. Gamper, Joseph C. Calabrese, and Fredric Davidson.  Low-coordinate carbene complexes of nickel(0) and plat
-          <?MarkedContent page="1" ?>inum(0).  
+          <?MarkedContent page="1" ?>Anthony J. Arduengo, III, Siegfried F. Gamper, Joseph C. Calabrese, and Fredric Davidson. Low-coordinate carbene complexes of nickel(0) and plat
+          <?MarkedContent page="1" ?>inum(0). 
           <Em xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="1" ?>jacsat
           </Em>
-          <?MarkedContent page="1" ?>, 116(10):4391–4394, 1994.  doi: 10.1021/ja00089a029.
+          <?MarkedContent page="1" ?>, 116(10):4391–4394, 1994. doi: 10.1021/ja00089a029.
          </text-block>
         </semantic-para>
        </itembody>
@@ -161,12 +161,12 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>Albert Einstein.  Zur Elektrodynamik bewegter Körper. (German) [On the electrodynamics of moving bodies].  
+          <?MarkedContent page="1" ?>Albert Einstein. Zur Elektrodynamik bewegter Körper. (German) [On the electrodynamics of moving bodies]. 
           <Em xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="1" ?>Annalen der Physik
           </Em>
-          <?MarkedContent page="1" ?>, 322(10):891–921, 1905.  doi: http://dx.doi.org/10.1002/andp.19053221004.
+          <?MarkedContent page="1" ?>, 322(10):891–921, 1905. doi: http://dx.doi.org/10.1002/andp.19053221004.
          </text-block>
         </semantic-para>
        </itembody>

@@ -25,7 +25,6 @@
         </AssociatedFile>
        <?MarkedContent page="1" ?>𝑎=𝑏
        <?MarkedContent page="1" ?>Q&amp;A
-       <?MarkedContent page="1" ?>
       </Formula>
       <text-block xmlns="https://www.latex-project.org/ns/dflt"
          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -73,10 +72,8 @@
       </AssociatedFile>
      <?MarkedContent page="1" ?>𝑎=𝑎
      <?MarkedContent page="1" ?>[2]
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>𝑏=𝑏
      <?MarkedContent page="1" ?>[**]
-     <?MarkedContent page="1" ?>
     </Formula>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -115,10 +112,8 @@
       \begin {align}c&amp;=c \label {eq:c} \\ d&amp;=d \label {eq:d}\end {align}
       </AssociatedFile>
      <?MarkedContent page="1" ?>𝑐=𝑐
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>𝑑=𝑑
      <?MarkedContent page="1" ?>(3)
-     <?MarkedContent page="1" ?>
     </Formula>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"

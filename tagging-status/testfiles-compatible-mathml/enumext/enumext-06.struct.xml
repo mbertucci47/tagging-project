@@ -212,7 +212,6 @@
          <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
             rolemaps-to="Lbl"
            >
-          <?MarkedContent page="1" ?>
           <Formula xmlns="http://iso.org/pdf2/ssn"
              title="math"
              af="mathml-1.xml source.tex"
@@ -265,7 +264,6 @@
              <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
                 rolemaps-to="Lbl"
                >
-              <?MarkedContent page="1" ?>
               <Formula xmlns="http://iso.org/pdf2/ssn"
                  title="math"
                  af="mathml-3.xml source.tex"
@@ -318,7 +316,6 @@
                  <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
                     rolemaps-to="Lbl"
                    >
-                  <?MarkedContent page="1" ?>
                   <Formula xmlns="http://iso.org/pdf2/ssn"
                      title="math"
                      af="mathml-5.xml source.tex"
@@ -371,7 +368,6 @@
                      <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
                         rolemaps-to="Lbl"
                        >
-                      <?MarkedContent page="1" ?>
                       <Formula xmlns="http://iso.org/pdf2/ssn"
                          title="math"
                          af="mathml-7.xml source.tex"
@@ -421,7 +417,6 @@
          <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
             rolemaps-to="Lbl"
            >
-          <?MarkedContent page="1" ?>
           <Formula xmlns="http://iso.org/pdf2/ssn"
              title="math"
              af="mathml-1.xml source.tex"
@@ -515,7 +510,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
        </itemlabel>
        <itembody xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="LBody"
@@ -830,7 +824,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
        </itemlabel>
        <itembody xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="LBody"
@@ -1161,7 +1154,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="1" ?>
        </itemlabel>
        <itembody xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="LBody"
@@ -1278,7 +1270,6 @@
         >
        <Lbl xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
        </Lbl>
        <LBody xmlns="http://iso.org/pdf2/ssn"
          >
@@ -1441,7 +1432,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="2" ?>
        </itemlabel>
        <itembody xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="LBody"

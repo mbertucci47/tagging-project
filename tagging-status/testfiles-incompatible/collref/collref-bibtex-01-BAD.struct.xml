@@ -81,8 +81,8 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>Donald E. Knuth.  Fundamental Algorithms, volume 1 of The Art of Com
-          <?MarkedContent page="1" ?>puter Programming, section 1.2, pages 10–119.  Addison-Wesley, Reading, Massachusetts, second edition, 10 January 1973.  This is a full INBOOK entry.
+          <?MarkedContent page="1" ?>Donald E. Knuth. Fundamental Algorithms, volume 1 of The Art of Com
+          <?MarkedContent page="1" ?>puter Programming, section 1.2, pages 10–119. Addison-Wesley, Reading, Massachusetts, second edition, 10 January 1973. This is a full INBOOK entry.
          </text-block>
         </semantic-para>
        </itembody>
@@ -107,7 +107,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>L[eslie] A. Aamport.  The gnats and gnus document preparation system. G-Animal’s Journal, 41(7):73+, July 1986.  This is a full ARTICLE entry.
+          <?MarkedContent page="1" ?>L[eslie] A. Aamport. The gnats and gnus document preparation system. G-Animal’s Journal, 41(7):73+, July 1986. This is a full ARTICLE entry.
          </text-block>
         </semantic-para>
         <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -118,7 +118,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>Donald E. Knuth.  The Art of Computer Programming.  Four volumes. Addison-Wesley, 1968–90.  Seven volumes planned (this is a cross-referenced set of BOOKs).
+          <?MarkedContent page="1" ?>Donald E. Knuth. The Art of Computer Programming. Four volumes. Addison-Wesley, 1968–90. Seven volumes planned (this is a cross-referenced set of BOOKs).
          </text-block>
         </semantic-para>
         <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -129,7 +129,7 @@
             Layout:TextAlign="Justify"
             rolemaps-to="P"
            >
-          <?MarkedContent page="1" ?>Larry Manmaker.  The Definitive Computer Manual.  Chips-R-Us, Silicon Valley, silver edition, April-May 1986.  This is a full MANUAL entry.
+          <?MarkedContent page="1" ?>Larry Manmaker. The Definitive Computer Manual. Chips-R-Us, Silicon Valley, silver edition, April-May 1986. This is a full MANUAL entry.
          </text-block>
         </semantic-para>
        </itembody>

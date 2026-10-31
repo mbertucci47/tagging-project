@@ -153,8 +153,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="3" ?>magna aliqua. Ut enim ad minim veniam Ut enim ad minim veniam, quis 
-     <?MarkedContent page="3" ?>nostrud
+     <?MarkedContent page="3" ?>magna aliqua. Ut enim ad minim veniam Ut enim ad minim veniam, quis nostrud
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"

@@ -21,7 +21,6 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"
        >
@@ -31,14 +30,12 @@
          rolemaps-to="P"
         >
        <?MarkedContent page="1" ?>Let us suppose that the noumena have nothing to do with ne
-       <?MarkedContent page="1" ?>
        <?MarkedContent page="1" ?>cessity, since knowledge of the Categories is a posteriori. Hume 
        <?MarkedContent page="1" ?>tells us that the transcendental unity of apperception can not take 
        <?MarkedContent page="1" ?>account of the discipline of natural reason, by means of analytic 
        <?MarkedContent page="1" ?>unity. As is proven in the ontological manuals, it is obvious that 
        <?MarkedContent page="1" ?>the transcendental unity of apperception proves the validity of the 
        <?MarkedContent page="1" ?>Antinomies; what we have alone been able to show is that, our un
-       <?MarkedContent page="1" ?>
        <?MarkedContent page="1" ?>derstanding depends on the Categories. It remains a mystery why 
        <?MarkedContent page="1" ?>the Ideal stands in need of reason. It must not be supposed that 
        <?MarkedContent page="1" ?>our faculties have lying before them, in the case of the Ideal, the 
@@ -55,8 +52,6 @@
          Layout:TextAlign="Justify"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?>
-       <?MarkedContent page="1" ?>
       </text-block>
      </semantic-para>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -67,8 +62,6 @@
          Layout:TextAlign="Justify"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?>
-       <?MarkedContent page="1" ?>
       </text-block>
      </semantic-para>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -79,8 +72,6 @@
          Layout:TextAlign="Justify"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?>
-       <?MarkedContent page="1" ?>
       </text-block>
      </semantic-para>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -91,8 +82,6 @@
          Layout:TextAlign="Justify"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?>
-       <?MarkedContent page="1" ?>
       </text-block>
      </semantic-para>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -103,8 +92,6 @@
          Layout:TextAlign="Justify"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?>
-       <?MarkedContent page="1" ?>
       </text-block>
      </semantic-para>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -115,8 +102,6 @@
          Layout:TextAlign="Justify"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?>
-       <?MarkedContent page="1" ?>
       </text-block>
      </semantic-para>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -127,8 +112,6 @@
          Layout:TextAlign="Justify"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?>
-       <?MarkedContent page="1" ?>
       </text-block>
      </semantic-para>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -139,8 +122,6 @@
          Layout:TextAlign="Justify"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?>
-       <?MarkedContent page="1" ?>
       </text-block>
      </semantic-para>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -151,8 +132,6 @@
          Layout:TextAlign="Justify"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?>
-       <?MarkedContent page="1" ?>
       </text-block>
      </semantic-para>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -163,8 +142,6 @@
          Layout:TextAlign="Justify"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?>
-       <?MarkedContent page="1" ?>
       </text-block>
      </semantic-para>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -175,8 +152,6 @@
          Layout:TextAlign="Justify"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?>
-       <?MarkedContent page="1" ?>
       </text-block>
      </semantic-para>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -187,8 +162,6 @@
          Layout:TextAlign="Justify"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?>
-       <?MarkedContent page="1" ?>
       </text-block>
      </semantic-para>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -199,8 +172,6 @@
          Layout:TextAlign="Justify"
          rolemaps-to="P"
         >
-       <?MarkedContent page="1" ?>
-       <?MarkedContent page="1" ?>
       </text-block>
      </semantic-para>
      <?MarkedContent page="1" ?>

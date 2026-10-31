@@ -81,7 +81,6 @@
         Layout:TextPosition="Sup"
         rolemaps-to="Span"
        >
-      <?MarkedContent page="1" ?>
       <Formula xmlns="http://iso.org/pdf2/ssn"
          title="math"
          af="mathml-1.xml source.tex"
@@ -135,7 +134,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \nprt@unitsep $
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
      </Formula>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
@@ -185,7 +183,6 @@
        <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
        $\relax \nprt@unitsep $
        </AssociatedFile>
-      <?MarkedContent page="1" ?>
      </Formula>
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"

@@ -120,7 +120,6 @@
        </AssociatedFile>
       <?MarkedContent page="1" ?>∞∫11𝑥2𝑑𝑥=1
      </Formula>
-     <?MarkedContent page="1" ?>
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -161,7 +160,6 @@
        </AssociatedFile>
       <?MarkedContent page="1" ?>∞∫11𝑥2𝑑𝑥=1
      </Formula>
-     <?MarkedContent page="1" ?>
     </text-block>
    </semantic-para>
   </Document>

@@ -86,7 +86,6 @@
       <?MarkedContent page="1" ?>
      </Figure>
      <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -105,7 +104,6 @@
       <?MarkedContent page="1" ?>
      </Figure>
      <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -123,7 +121,6 @@
        >
       <?MarkedContent page="1" ?>
      </Figure>
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
     </text-block>
    </semantic-para>

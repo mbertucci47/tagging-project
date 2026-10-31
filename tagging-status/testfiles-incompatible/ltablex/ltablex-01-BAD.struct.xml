@@ -9,11 +9,9 @@
      >
     <TD xmlns="http://iso.org/pdf2/ssn"
       >
-     <?MarkedContent page="1" ?>A
     </TD>
     <TD xmlns="http://iso.org/pdf2/ssn"
       >
-     <?MarkedContent page="1" ?>B
     </TD>
    </TR>
   </Table>

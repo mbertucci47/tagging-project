@@ -26,7 +26,6 @@
       </AssociatedFile>
      <?MarkedContent page="1" ?>𝑎2+𝑏2=𝑐2
      <?MarkedContent page="1" ?>(1)
-     <?MarkedContent page="1" ?>
     </Formula>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -56,7 +55,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="1" ?>   \Fref{eq:pythagoras} has ...
+      <?MarkedContent page="1" ?> \Fref{eq:pythagoras} has ...
      </codeline>
     </verbatim>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
@@ -74,7 +73,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="1" ?>   Equation~(\Fref{eq:pythagoras}) has ...
+      <?MarkedContent page="1" ?> Equation~(\Fref{eq:pythagoras}) has ...
      </codeline>
     </verbatim>
    </semantic-para>
@@ -136,7 +135,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="2" ?>   \renewcommand*{\fancyrefdefaultformat}{plain}
+      <?MarkedContent page="2" ?> \renewcommand*{\fancyrefdefaultformat}{plain}
      </codeline>
     </verbatim>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
@@ -173,7 +172,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="2" ?>   \renewcommand*{\Frefeqname}{Eq.}
+      <?MarkedContent page="2" ?> \renewcommand*{\Frefeqname}{Eq.}
      </codeline>
     </verbatim>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
@@ -223,7 +222,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="2" ?>   \renewcommand*{\fancyrefargdelim}{-}
+      <?MarkedContent page="2" ?> \renewcommand*{\fancyrefargdelim}{-}
      </codeline>
     </verbatim>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
@@ -247,7 +246,6 @@
       </AssociatedFile>
      <?MarkedContent page="2" ?>𝑎=𝑎
      <?MarkedContent page="2" ?>(2)
-     <?MarkedContent page="2" ?>
     </Formula>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -288,7 +286,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="2" ?>   \fancyrefchangeprefix{\fancyrefeqlabelprefix}{eqn}
+      <?MarkedContent page="2" ?> \fancyrefchangeprefix{\fancyrefeqlabelprefix}{eqn}
      </codeline>
     </verbatim>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
@@ -312,7 +310,6 @@
       </AssociatedFile>
      <?MarkedContent page="2" ?>𝑏=𝑏
      <?MarkedContent page="2" ?>(3)
-     <?MarkedContent page="2" ?>
     </Formula>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -354,21 +351,21 @@
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="2" ?>   \renewcommand*{\fancyrefdefaultspacing}{%
+      <?MarkedContent page="2" ?> \renewcommand*{\fancyrefdefaultspacing}{%
      </codeline>
      <codeline xmlns="https://www.latex-project.org/ns/dflt"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="2" ?>     \fancyreftightspacing
+      <?MarkedContent page="2" ?> \fancyreftightspacing
      </codeline>
      <codeline xmlns="https://www.latex-project.org/ns/dflt"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="2" ?>   }
+      <?MarkedContent page="2" ?> }
      </codeline>
     </verbatim>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
@@ -405,7 +402,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="3" ?>   \renewcommand*{\fancyrefhook}[1]{(#1)}
+      <?MarkedContent page="3" ?> \renewcommand*{\fancyrefhook}[1]{(#1)}
      </codeline>
     </verbatim>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
@@ -436,7 +433,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="3" ?>   \usepackage[paren]{fancyref}
+      <?MarkedContent page="3" ?> \usepackage[paren]{fancyref}
      </codeline>
     </verbatim>
    </semantic-para>
@@ -458,7 +455,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="3" ?>   \newcommand*{\fancyrefthmlabelprefix}{thm}
+      <?MarkedContent page="3" ?> \newcommand*{\fancyrefthmlabelprefix}{thm}
      </codeline>
     </verbatim>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
@@ -476,70 +473,70 @@
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="3" ?>   \frefformat{foot}{\fancyrefthmlabelprefix}{%
+      <?MarkedContent page="3" ?> \frefformat{foot}{\fancyrefthmlabelprefix}{%
      </codeline>
      <codeline xmlns="https://www.latex-project.org/ns/dflt"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="3" ?>     \unskip\footnote{%
+      <?MarkedContent page="3" ?> \unskip\footnote{%
      </codeline>
      <codeline xmlns="https://www.latex-project.org/ns/dflt"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="3" ?>       \huge\itshape\Frefthmname\fancyrefdefaultspacing#1#3%
+      <?MarkedContent page="3" ?> \huge\itshape\Frefthmname\fancyrefdefaultspacing#1#3%
      </codeline>
      <codeline xmlns="https://www.latex-project.org/ns/dflt"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="3" ?>     }%
+      <?MarkedContent page="3" ?> }%
      </codeline>
      <codeline xmlns="https://www.latex-project.org/ns/dflt"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="3" ?>   }
+      <?MarkedContent page="3" ?> }
      </codeline>
      <codeline xmlns="https://www.latex-project.org/ns/dflt"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="3" ?>   \Frefformat{foot}{\fancyrefthmlabelprefix}{%
+      <?MarkedContent page="3" ?> \Frefformat{foot}{\fancyrefthmlabelprefix}{%
      </codeline>
      <codeline xmlns="https://www.latex-project.org/ns/dflt"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="3" ?>     \unskip\footnote{%
+      <?MarkedContent page="3" ?> \unskip\footnote{%
      </codeline>
      <codeline xmlns="https://www.latex-project.org/ns/dflt"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="3" ?>       \huge\itshape\Frefthmname\fancyrefdefaultspacing#1#3%
+      <?MarkedContent page="3" ?> \huge\itshape\Frefthmname\fancyrefdefaultspacing#1#3%
      </codeline>
      <codeline xmlns="https://www.latex-project.org/ns/dflt"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="3" ?>     }%
+      <?MarkedContent page="3" ?> }%
      </codeline>
      <codeline xmlns="https://www.latex-project.org/ns/dflt"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="3" ?>   }
+      <?MarkedContent page="3" ?> }
      </codeline>
     </verbatim>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
@@ -557,42 +554,42 @@
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="3" ?>   \fancyrefaddcaptions{english}{%
+      <?MarkedContent page="3" ?> \fancyrefaddcaptions{english}{%
      </codeline>
      <codeline xmlns="https://www.latex-project.org/ns/dflt"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="3" ?>     \newcommand*{\Frefthmname}{Theorem}%
+      <?MarkedContent page="3" ?> \newcommand*{\Frefthmname}{Theorem}%
      </codeline>
      <codeline xmlns="https://www.latex-project.org/ns/dflt"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="3" ?>     \newcommand*{\frefthmname}{%
+      <?MarkedContent page="3" ?> \newcommand*{\frefthmname}{%
      </codeline>
      <codeline xmlns="https://www.latex-project.org/ns/dflt"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="3" ?>       \MakeLowercase{\Frefthmname}%
+      <?MarkedContent page="3" ?> \MakeLowercase{\Frefthmname}%
      </codeline>
      <codeline xmlns="https://www.latex-project.org/ns/dflt"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="3" ?>     }%
+      <?MarkedContent page="3" ?> }%
      </codeline>
      <codeline xmlns="https://www.latex-project.org/ns/dflt"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="3" ?>   }%
+      <?MarkedContent page="3" ?> }%
      </codeline>
     </verbatim>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
@@ -608,12 +605,15 @@
      >
     <Caption xmlns="http://iso.org/pdf2/ssn"
       >
-     <?MarkedContent page="3" ?>Theorem  
+     <?MarkedContent page="3" ?>Theorem
+     <?MarkedContent page="3" ?>  
      <Lbl xmlns="http://iso.org/pdf2/ssn"
        >
       <?MarkedContent page="3" ?>1
      </Lbl>
-     <?MarkedContent page="3" ?>  (Murphy).
+     <?MarkedContent page="3" ?>  
+     <?MarkedContent page="3" ?>(Murphy)
+     <?MarkedContent page="3" ?>. 
     </Caption>
     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
        rolemaps-to="Part"
@@ -658,7 +658,6 @@
        <?References objects="1" ?>
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="3" ?>
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextPosition="Sup"
@@ -666,7 +665,6 @@
          >
         <?MarkedContent page="3" ?>1
        </text-fragment>
-       <?MarkedContent page="3" ?>
        <?ReferencedObject type="Annot" page="3" ?>
       </Link>
      </footnotemark>
@@ -694,7 +692,6 @@
           Layout:TextAlign="Justify"
           rolemaps-to="P"
          >
-        <?MarkedContent page="3" ?>
         <?MarkedContent page="3" ?>Theorem
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
@@ -715,7 +712,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="Sub"
        >
-      <?MarkedContent page="3" ?>   \renewcommand*{\fancyrefhook}[1]{#1}
+      <?MarkedContent page="3" ?> \renewcommand*{\fancyrefhook}[1]{#1}
      </codeline>
     </verbatim>
     <text-block xmlns="https://www.latex-project.org/ns/dflt"
@@ -731,7 +728,6 @@
        <?References objects="3" ?>
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
-       <?MarkedContent page="3" ?>
        <text-fragment xmlns="https://www.latex-project.org/ns/dflt"
           xmlns:Layout="http://iso.org/pdf/ssn/Layout"
           Layout:TextPosition="Sup"
@@ -739,7 +735,6 @@
          >
         <?MarkedContent page="3" ?>2
        </text-fragment>
-       <?MarkedContent page="3" ?>
        <?ReferencedObject type="Annot" page="3" ?>
       </Link>
      </footnotemark>
@@ -767,7 +762,6 @@
           Layout:TextAlign="Justify"
           rolemaps-to="P"
          >
-        <?MarkedContent page="3" ?>
         <?MarkedContent page="3" ?>Theorem
         <Link xmlns="http://iso.org/pdf2/ssn"
           >

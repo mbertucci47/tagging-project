@@ -55,10 +55,7 @@
            Layout:BBox="{ 155.08842, 642.88918, 212.4135, 666.79951 }"
           >
          <?MarkedContent page="1" ?>
-         <?MarkedContent page="1" ?>
         </Figure>
-        <?MarkedContent page="1" ?>
-        <?MarkedContent page="1" ?>
        </Formula>
       </TD>
       <TD xmlns="http://iso.org/pdf2/ssn"
@@ -109,10 +106,7 @@
            Layout:BBox="{ 287.76097, 642.88918, 343.51193, 666.79951 }"
           >
          <?MarkedContent page="1" ?>
-         <?MarkedContent page="1" ?>
         </Figure>
-        <?MarkedContent page="1" ?>
-        <?MarkedContent page="1" ?>
        </Formula>
       </TD>
      </TR>
@@ -221,10 +215,7 @@
            Layout:BBox="{ 155.08842, 584.42342, 212.33197, 616.78708 }"
           >
          <?MarkedContent page="1" ?>
-         <?MarkedContent page="1" ?>
         </Figure>
-        <?MarkedContent page="1" ?>
-        <?MarkedContent page="1" ?>
        </Formula>
       </TD>
       <TD xmlns="http://iso.org/pdf2/ssn"

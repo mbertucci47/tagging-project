@@ -108,7 +108,8 @@
          rolemaps-to="H1"
          referenced-as="2"
         >
-       <?MarkedContent page="5" ?>CHAPTER  
+       <?MarkedContent page="5" ?>CHAPTER
+       <?MarkedContent page="5" ?>  
        <heading-number xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
@@ -131,6 +132,7 @@
         </heading-number>
         <?MarkedContent page="5" ?>  
         <?MarkedContent page="5" ?>First section
+        <?MarkedContent page="5" ?>
        </section-heading>
        <subsection xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Sect"
@@ -140,13 +142,13 @@
            Layout:TextAlign="Justify"
            rolemaps-to="H3"
           >
-         <?MarkedContent page="5" ?> 
          <heading-number xmlns="https://www.latex-project.org/ns/dflt"
             rolemaps-to="Lbl"
            >
           <?MarkedContent page="5" ?>1.1.
          </heading-number>
-         <?MarkedContent page="5" ?>  First subsection.
+         <?MarkedContent page="5" ?>  
+         <?MarkedContent page="5" ?>First subsection.
         </subsection-heading>
         <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
            rolemaps-to="Part"

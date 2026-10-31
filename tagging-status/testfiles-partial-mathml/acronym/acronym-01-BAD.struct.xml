@@ -99,7 +99,7 @@
         Layout:TextAlign="Justify"
         rolemaps-to="P"
        >
-      <?MarkedContent page="1" ?>If you want to know more about Global System for Mobile communication(
+      <?MarkedContent page="1" ?>If you want to know more about Global System for Mobile communication (
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="1" ?>GSM
@@ -111,7 +111,7 @@
        <?MarkedContent page="1" ?>TDMA
        <?ReferencedObject type="Annot" page="1" ?>
       </Link>
-      <?MarkedContent page="1" ?>), Code Division Multiple Access(
+      <?MarkedContent page="1" ?>), Code Division Multiple Access (
       <Link xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="1" ?>CDMA
@@ -160,7 +160,6 @@
           >
          <?MarkedContent page="1" ?>+
         </text-fragment>
-        <?MarkedContent page="1" ?>
         <?ReferencedObject type="Annot" page="1" ?>
        </Link>
        <?MarkedContent page="1" ?>) is a major electron acceptor in the oxidation of fuel molecules. The reactive part of 
@@ -174,7 +173,6 @@
           >
          <?MarkedContent page="1" ?>+
         </text-fragment>
-        <?MarkedContent page="1" ?>
         <?ReferencedObject type="Annot" page="1" ?>
        </Link>
        <?MarkedContent page="1" ?> is its nictinamide ring, a pyridine derivate.
@@ -191,7 +189,6 @@
        <?MarkedContent page="1" ?>One mol consists of 
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="math"
            af="mathml-1.xml source.tex"
@@ -206,7 +203,6 @@
           </AssociatedFile>
          <?MarkedContent page="1" ?>𝑁A
         </Formula>
-        <?MarkedContent page="1" ?>
         <?ReferencedObject type="Annot" page="1" ?>
        </Link>
        <?MarkedContent page="1" ?> atoms or molecules. There is a relation between the constant of Boltzmann and the Number of Avogadro:
@@ -229,9 +225,7 @@
         <?MarkedContent page="1" ?>𝑁A
         <?ReferencedObject type="Annot" page="1" ?>
        </Link>
-       <?MarkedContent page="1" ?>
        <?MarkedContent page="1" ?>(1)
-       <?MarkedContent page="1" ?>
       </Formula>
      </semantic-para>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -245,7 +239,6 @@
        <?MarkedContent page="1" ?>Liquid Oxygen/Liquid Hydrogen (
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="math"
            af="mathml-3.xml source.tex"
@@ -260,13 +253,11 @@
           </AssociatedFile>
          <?MarkedContent page="1" ?>𝐿𝑂𝑋
         </Formula>
-        <?MarkedContent page="1" ?>
         <?ReferencedObject type="Annot" page="1" ?>
        </Link>
        <?MarkedContent page="1" ?>/
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <Formula xmlns="http://iso.org/pdf2/ssn"
            title="math"
            af="mathml-4.xml source.tex"
@@ -281,7 +272,6 @@
           </AssociatedFile>
          <?MarkedContent page="1" ?>𝐿𝐻2
         </Formula>
-        <?MarkedContent page="1" ?>
         <?ReferencedObject type="Annot" page="1" ?>
        </Link>
        <?MarkedContent page="1" ?>)
@@ -398,7 +388,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="2" ?>
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="2" ?>CDMA
@@ -432,7 +421,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="2" ?>
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="2" ?>GSM
@@ -466,10 +454,8 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="2" ?>
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
-         <?MarkedContent page="2" ?>
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
             af="mathml-1.xml source.tex"
@@ -484,7 +470,6 @@
            </AssociatedFile>
           <?MarkedContent page="2" ?>𝑁A
          </Formula>
-         <?MarkedContent page="2" ?>
          <?ReferencedObject type="Annot" page="2" ?>
         </Link>
        </itemlabel>
@@ -515,7 +500,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="2" ?>
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="2" ?>NAD
@@ -526,7 +510,6 @@
            >
           <?MarkedContent page="2" ?>+
          </text-fragment>
-         <?MarkedContent page="2" ?>
          <?ReferencedObject type="Annot" page="2" ?>
         </Link>
        </itemlabel>
@@ -557,7 +540,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="2" ?>
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="2" ?>LFVP
@@ -591,7 +573,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="2" ?>
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="2" ?>TDMA
@@ -625,7 +606,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="2" ?>
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="2" ?>UA
@@ -659,10 +639,8 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="2" ?>
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
-         <?MarkedContent page="2" ?>
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
             af="mathml-3.xml source.tex"
@@ -677,7 +655,6 @@
            </AssociatedFile>
           <?MarkedContent page="2" ?>𝐿𝑂𝑋
          </Formula>
-         <?MarkedContent page="2" ?>
          <?ReferencedObject type="Annot" page="2" ?>
         </Link>
        </itemlabel>
@@ -708,10 +685,8 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="2" ?>
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
-         <?MarkedContent page="2" ?>
          <Formula xmlns="http://iso.org/pdf2/ssn"
             title="math"
             af="mathml-4.xml source.tex"
@@ -726,7 +701,6 @@
            </AssociatedFile>
           <?MarkedContent page="2" ?>𝐿𝐻2
          </Formula>
-         <?MarkedContent page="2" ?>
          <?ReferencedObject type="Annot" page="2" ?>
         </Link>
        </itemlabel>
@@ -757,7 +731,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="2" ?>
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="2" ?>IC
@@ -791,7 +764,6 @@
        <itemlabel xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
-        <?MarkedContent page="2" ?>
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="2" ?>BUT

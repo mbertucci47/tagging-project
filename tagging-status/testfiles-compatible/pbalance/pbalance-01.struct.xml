@@ -19,7 +19,7 @@
        Layout:TextAlign="Center"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?> Some author
+     <?MarkedContent page="1" ?> Some author 
     </title-author>
     <title-date xmlns="https://www.latex-project.org/ns/dflt"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -79,12 +79,13 @@
       >
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="1" ?>Theorem  
+      <?MarkedContent page="1" ?>Theorem
+      <?MarkedContent page="1" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="1" ?>1.1
       </Lbl>
-      <?MarkedContent page="1" ?>.
+      <?MarkedContent page="1" ?>. 
      </Caption>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"
@@ -95,7 +96,6 @@
          rolemaps-to="P"
         >
        <?MarkedContent page="1" ?>Nulla malesuada porttitor diam. Donec felis erat, congue non, volut
-       <?MarkedContent page="1" ?>
        <?MarkedContent page="1" ?>pat at, tincidunt tristique, libero. Vivamus viverra fermentum felis. Donec nonummy pel
        <?MarkedContent page="1" ?>lentesque ante. Phasellus adipiscing semper elit. Proin fermentum massa ac quam. Sed diam turpis, molestie vitae, placerat a, mo
        <?MarkedContent page="1" ?>lestie nec, leo. Maecenas lacinia. Nam ipsum ligula, eleifend at, accumsan nec, suscipit a, ipsum. Morbi blandit ligula feugiat magna. Nunc eleifend consequat lorem. Sed lacinia nulla vitae enim. Pellentesque tincidunt purus vel magna. Integer non enim. Praesent euis
@@ -191,7 +191,6 @@
       <?MarkedContent page="2" ?>per, leo velit ultricies tellus, ac venenatis arcu wisi vel nisl. Vestibulum diam. Aliquam pel
       <?MarkedContent page="2" ?>lentesque, augue quis sagittis posuere, turpis lacus congue quam, in hendrerit risus eros eget felis. Maecenas eget erat in sapien mattis port
       <?MarkedContent page="2" ?>titor. Vestibulum porttitor. Nulla facilisi. Sed a turpis eu lacus commodo facilisis. Morbi fringilla, wisi in dignissim interdum, justo lec
-      <?MarkedContent page="2" ?>
       <?MarkedContent page="2" ?>tus sagittis dui, et vehicula libero dui cursus dui. Mauris tempor ligula sed lacus. Duis cur
       <?MarkedContent page="2" ?>sus enim ut augue. Cras ac magna. Cras nulla. Nulla egestas. Curabitur a leo. Quisque eges
       <?MarkedContent page="2" ?>tas wisi eget nunc. Nam feugiat lacus vel est. Curabitur consectetuer.
@@ -254,12 +253,13 @@
       >
      <Caption xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="2" ?>Lemma  
+      <?MarkedContent page="2" ?>Lemma
+      <?MarkedContent page="2" ?>  
       <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
        <?MarkedContent page="2" ?>1.2
       </Lbl>
-      <?MarkedContent page="2" ?>.
+      <?MarkedContent page="2" ?>. 
      </Caption>
      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Part"

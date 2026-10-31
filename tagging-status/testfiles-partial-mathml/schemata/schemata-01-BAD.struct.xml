@@ -25,7 +25,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\vcenter {\schemabox {A}}\@schemata@lbrace {\@schemata@rheight }\vcenter {\schemabox {B\\C}}$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
     <?MarkedContent page="1" ?>A{
     <?MarkedContent page="1" ?>BC
    </Formula>
@@ -41,7 +40,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\vcenter {\schemabox {A}}\@schemata@lbrace {\@schemata@rheight }\vcenter {\NudgeSB [left]\schemabox {B\\C}}$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
     <?MarkedContent page="1" ?>A[
     <?MarkedContent page="1" ?>BC
    </Formula>
@@ -57,7 +55,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\vcenter {\NudgeSB \schemabox {A\\B}}\kern -0.2em\@schemata@rbrace {\@schemata@lheight }\vcenter {\schemabox {C}}$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
     <?MarkedContent page="1" ?>AB)
     <?MarkedContent page="1" ?>C
    </Formula>
@@ -73,7 +70,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\vcenter {\vskip 1.44265\@schemata@one \smallskip \schemabox {A}}\@schemata@biglbrace {0ex}{3ex}\vcenter {\Schema [close]{0ex}{3ex} {\NudgeSB \schemabox {B\\C}} {\smallskip \schemabox {D}} }$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
     <?MarkedContent page="1" ?>A⟮⟮⟮⟮
     <?MarkedContent page="1" ?>BC⟯⟯⟯⟯
     <?MarkedContent page="1" ?>D
@@ -116,7 +112,6 @@
      <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
      $\vcenter { \schemabox {Subjectum theo-\\ logi\ae {} est Notitia\\ Dei. Considerat\\ ergo, Dei, vel} }\@schemata@lbrace {\@schemata@rheight }\vcenter { \schema { \schemabox {\textsc {Essentiam},} } { \schemabox {Unitate natur\ae {}.\\ Trinitate personarum.\\ Operibus ad intra.} } \schema { \schemabox {\textsc {Voluntatem},\\ manifestatam in\\ operibus ad extra;\\ ut in} } { \schemabox {Creatione.\\ Sustentatione natur\ae {} laps\ae {}.\\ Reparatione.\\ Conversione.\\ Justificatione.\\ Sanctificatione \&amp;\\ Glorificatione ejusdem.} } }$
      </AssociatedFile>
-    <?MarkedContent page="1" ?>
     <?MarkedContent page="1" ?>Subjectum theo-logiæ est NotitiaDei. Consideratergo, Dei, vel⟮⟮⟮⟮⟮⟮⟮⟮⟮⟮⟮⟮⟮
     <?MarkedContent page="1" ?>Essentiam,⟮⟮⟮
     <?MarkedContent page="1" ?>Unitate naturæ.Trinitate personarum.Operibus ad intra.

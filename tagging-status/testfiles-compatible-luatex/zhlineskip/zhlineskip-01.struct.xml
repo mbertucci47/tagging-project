@@ -10,8 +10,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>人人生而自由，在尊严和权利上一律平等。他们赋有理性和良
-     <?MarkedContent page="1" ?>心，并应以兄弟关系的精神相对待。
+     <?MarkedContent page="1" ?>人人生而自由，在尊严和权利上一律平等。他们赋有理性和良心，并应以兄弟关系的精神相对待。
     </text-block>
    </semantic-para>
    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
@@ -22,9 +21,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>All human beings are born free and equal in dignity and rights. They 
-     <?MarkedContent page="1" ?>are endowed with reason and conscience and should act towards one another 
-     <?MarkedContent page="1" ?>in a spirit of brotherhood.
+     <?MarkedContent page="1" ?>All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
      <footnotemark xmlns="https://www.latex-project.org/ns/dflt"
         rolemaps-to="Lbl"
         referenced-as="2"
@@ -98,7 +95,7 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>不分种族、肤色、性别、语言 
+     <?MarkedContent page="1" ?>不分种族、肤色、性别、语言
      <?MarkedContent page="1" ?>
     </text-block>
    </semantic-para>
@@ -133,7 +130,6 @@
        rolemaps-to="P"
       >
      <?MarkedContent page="1" ?>Declaration, without distinction of any kind, such as race, colour, sex, lan
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>guage…
     </text-block>
    </semantic-para>

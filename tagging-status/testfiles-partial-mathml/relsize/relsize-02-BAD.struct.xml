@@ -12,9 +12,13 @@
       >
      <Formula xmlns="http://iso.org/pdf2/ssn"
         title="math"
+        af="source.tex"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:Placement="Inline"
        >
+       <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
+       
+       </AssociatedFile>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
         >
        <mstyle xmlns="http://www.w3.org/1998/Math/MathML"
@@ -48,7 +52,6 @@
         </mi>
        </mstyle>
       </math>
-      <?MarkedContent page="1" ?>
      </Formula>
     </text-block>
    </semantic-para>

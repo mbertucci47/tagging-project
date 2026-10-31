@@ -105,7 +105,6 @@
           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           $\,$
           </AssociatedFile>
-         <?MarkedContent page="1" ?>
         </Formula>
         <?MarkedContent page="1" ?>[1]
        </itemlabel>
@@ -144,7 +143,6 @@
           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           $\,$
           </AssociatedFile>
-         <?MarkedContent page="1" ?>
         </Formula>
         <?MarkedContent page="1" ?>[2]
        </itemlabel>
@@ -184,7 +182,6 @@
           <AssociatedFile name="source.tex" relationship="Source" media-type="application/x-tex" xmlns="">
           $\,$
           </AssociatedFile>
-         <?MarkedContent page="1" ?>
         </Formula>
         <?MarkedContent page="1" ?>[3]
        </itemlabel>

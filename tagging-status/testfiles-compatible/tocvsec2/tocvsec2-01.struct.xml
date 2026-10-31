@@ -22,7 +22,6 @@
         >
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <Lbl xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="1" ?>1
@@ -43,7 +42,6 @@
          >
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
-         <?MarkedContent page="1" ?>
          <Lbl xmlns="http://iso.org/pdf2/ssn"
            >
           <?MarkedContent page="1" ?>1.1
@@ -64,7 +62,6 @@
           >
          <Link xmlns="http://iso.org/pdf2/ssn"
            >
-          <?MarkedContent page="1" ?>
           <Lbl xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="1" ?>1.1.1
@@ -83,7 +80,6 @@
           >
          <Link xmlns="http://iso.org/pdf2/ssn"
            >
-          <?MarkedContent page="1" ?>
           <Lbl xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="1" ?>1.1.2
@@ -103,7 +99,6 @@
          >
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
-         <?MarkedContent page="1" ?>
          <Lbl xmlns="http://iso.org/pdf2/ssn"
            >
           <?MarkedContent page="1" ?>1.2
@@ -123,7 +118,6 @@
         >
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <Lbl xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="1" ?>2
@@ -144,7 +138,6 @@
          >
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
-         <?MarkedContent page="1" ?>
          <Lbl xmlns="http://iso.org/pdf2/ssn"
            >
           <?MarkedContent page="1" ?>2.1
@@ -163,7 +156,6 @@
          >
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
-         <?MarkedContent page="1" ?>
          <Lbl xmlns="http://iso.org/pdf2/ssn"
            >
           <?MarkedContent page="1" ?>2.2
@@ -183,7 +175,6 @@
         >
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <Lbl xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="1" ?>3
@@ -202,7 +193,6 @@
         >
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <Lbl xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="1" ?>4
@@ -223,7 +213,6 @@
          >
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
-         <?MarkedContent page="1" ?>
          <Lbl xmlns="http://iso.org/pdf2/ssn"
            >
           <?MarkedContent page="1" ?>4.1
@@ -242,7 +231,6 @@
          >
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
-         <?MarkedContent page="1" ?>
          <Lbl xmlns="http://iso.org/pdf2/ssn"
            >
           <?MarkedContent page="1" ?>4.2
@@ -262,7 +250,6 @@
         >
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <Lbl xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="1" ?>5
@@ -281,7 +268,6 @@
         >
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <Lbl xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="1" ?>6
@@ -302,7 +288,6 @@
          >
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
-         <?MarkedContent page="1" ?>
          <Lbl xmlns="http://iso.org/pdf2/ssn"
            >
           <?MarkedContent page="1" ?>6.1
@@ -323,7 +308,6 @@
           >
          <Link xmlns="http://iso.org/pdf2/ssn"
            >
-          <?MarkedContent page="1" ?>
           <Lbl xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="1" ?>6.1.1
@@ -342,7 +326,6 @@
           >
          <Link xmlns="http://iso.org/pdf2/ssn"
            >
-          <?MarkedContent page="1" ?>
           <Lbl xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="1" ?>6.1.2
@@ -362,7 +345,6 @@
          >
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
-         <?MarkedContent page="1" ?>
          <Lbl xmlns="http://iso.org/pdf2/ssn"
            >
           <?MarkedContent page="1" ?>6.2
@@ -382,7 +364,6 @@
         >
        <Link xmlns="http://iso.org/pdf2/ssn"
          >
-        <?MarkedContent page="1" ?>
         <Lbl xmlns="http://iso.org/pdf2/ssn"
           >
          <?MarkedContent page="1" ?>A
@@ -403,7 +384,6 @@
          >
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
-         <?MarkedContent page="1" ?>
          <Lbl xmlns="http://iso.org/pdf2/ssn"
            >
           <?MarkedContent page="1" ?>A.1
@@ -424,7 +404,6 @@
           >
          <Link xmlns="http://iso.org/pdf2/ssn"
            >
-          <?MarkedContent page="1" ?>
           <Lbl xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="1" ?>A.1.1
@@ -443,7 +422,6 @@
           >
          <Link xmlns="http://iso.org/pdf2/ssn"
            >
-          <?MarkedContent page="1" ?>
           <Lbl xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="1" ?>A.1.2
@@ -463,7 +441,6 @@
          >
         <Link xmlns="http://iso.org/pdf2/ssn"
           >
-         <?MarkedContent page="1" ?>
          <Lbl xmlns="http://iso.org/pdf2/ssn"
            >
           <?MarkedContent page="1" ?>A.2
@@ -484,7 +461,6 @@
           >
          <Link xmlns="http://iso.org/pdf2/ssn"
            >
-          <?MarkedContent page="1" ?>
           <Lbl xmlns="http://iso.org/pdf2/ssn"
             >
            <?MarkedContent page="1" ?>A.2.0.1
@@ -1458,13 +1434,13 @@
          rolemaps-to="H4"
          referenced-as="24"
         >
-       <?MarkedContent page="4" ?>
        <heading-number xmlns="https://www.latex-project.org/ns/dflt"
           rolemaps-to="Lbl"
          >
         <?MarkedContent page="4" ?>A.2.0.1
        </heading-number>
-       <?MarkedContent page="4" ?>  foo
+       <?MarkedContent page="4" ?>  
+       <?MarkedContent page="4" ?>foo
       </paragraph-heading>
       <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
          rolemaps-to="Part"

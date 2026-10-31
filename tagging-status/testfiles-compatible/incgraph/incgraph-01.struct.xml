@@ -10,7 +10,6 @@
        Layout:TextAlign="Justify"
        rolemaps-to="P"
       >
-     <?MarkedContent page="1" ?>
      <Figure xmlns="http://iso.org/pdf2/ssn"
         alt="hand-drawn"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
@@ -18,13 +17,6 @@
        >
       <?MarkedContent page="1" ?>
      </Figure>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
-     <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
