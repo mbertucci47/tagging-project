@@ -57,22 +57,6 @@
       </Reference>
      </TOCI>
     </TOC>
-    <float xmlns="https://www.latex-project.org/ns/dflt"
-       rolemaps-to="Aside"
-      >
-     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-        rolemaps-to="Part"
-       >
-      <text-block xmlns="https://www.latex-project.org/ns/dflt"
-         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-         Layout:TextAlign="Center"
-         rolemaps-to="P"
-         referenced-as="1"
-        >
-       <?MarkedContent page="1" ?>Something for a graph Graph 1: My graph
-      </text-block>
-     </semantic-para>
-    </float>
    </section>
    <figures xmlns="https://www.latex-project.org/ns/dflt"
       rolemaps-to="Sect"
@@ -108,6 +92,40 @@
      </semantic-para>
     </float>
    </figures>
+   <graph-floats xmlns="https://www.latex-project.org/ns/local/trivfloat"
+      rolemaps-to="Sect"
+     >
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>Graph 1:
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?> My graph
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Center"
+         rolemaps-to="P"
+         referenced-as="1"
+        >
+       <?MarkedContent page="1" ?>Something for a graph
+      </text-block>
+     </semantic-para>
+    </float>
+   </graph-floats>
   </Document>
  </StructTreeRoot>
 </PDF>

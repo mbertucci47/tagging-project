@@ -2,150 +2,254 @@
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
     >
-   <float xmlns="https://www.latex-project.org/ns/dflt"
-      rolemaps-to="Aside"
+   <plainfloat-floats xmlns="https://www.latex-project.org/ns/local/float"
+      rolemaps-to="Sect"
      >
-    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       rolemaps-to="Part"
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
       >
-     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-        Layout:TextAlign="Justify"
-        rolemaps-to="P"
+     <Caption xmlns="http://iso.org/pdf2/ssn"
        >
-      <?MarkedContent page="1" ?>Some figure
-     </text-block>
-    </semantic-para>
-   </float>
-   <float xmlns="https://www.latex-project.org/ns/dflt"
-      rolemaps-to="Aside"
-     >
-    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       rolemaps-to="Part"
-      >
-     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-        Layout:TextAlign="Justify"
-        rolemaps-to="P"
-       >
-      <?MarkedContent page="1" ?>Another figure plainfloat 0.2: Another caption
-     </text-block>
-    </semantic-para>
-   </float>
-   <float xmlns="https://www.latex-project.org/ns/dflt"
-      rolemaps-to="Aside"
-     >
-    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       rolemaps-to="Part"
-      >
-     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-        Layout:TextAlign="Justify"
-        rolemaps-to="P"
-       >
-      <?MarkedContent page="1" ?>Some figure
-     </text-block>
-    </semantic-para>
-   </float>
-   <float xmlns="https://www.latex-project.org/ns/dflt"
-      rolemaps-to="Aside"
-     >
-    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       rolemaps-to="Part"
-      >
-     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-        Layout:TextAlign="Justify"
-        rolemaps-to="P"
-       >
-      <?MarkedContent page="1" ?>plaintopfloat 2: Another caption
-      <?MarkedContent page="1" ?>Another figure 
-     </text-block>
-    </semantic-para>
-   </float>
-   <float xmlns="https://www.latex-project.org/ns/dflt"
-      rolemaps-to="Aside"
-     >
-    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       rolemaps-to="Part"
-      >
-     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-        Layout:TextAlign="Justify"
-        rolemaps-to="P"
-       >
-      <?MarkedContent page="1" ?>Some figure
-     </text-block>
-    </semantic-para>
-   </float>
-   <float xmlns="https://www.latex-project.org/ns/dflt"
-      rolemaps-to="Aside"
-     >
-    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       rolemaps-to="Part"
-      >
-     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-        Layout:TextAlign="Justify"
-        rolemaps-to="P"
-       >
-      <?MarkedContent page="1" ?>Another figure 
-      <?MarkedContent page="1" ?>boxedfloat 2: Another caption
-     </text-block>
-    </semantic-para>
-   </float>
-   <float xmlns="https://www.latex-project.org/ns/dflt"
-      rolemaps-to="Aside"
-     >
-    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       rolemaps-to="Part"
-      >
-     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-        Layout:TextAlign="Justify"
-        rolemaps-to="P"
-       >
-      <?MarkedContent page="1" ?>ruledfloat 1 A caption
-     </text-block>
-    </semantic-para>
-    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       rolemaps-to="Part"
-      >
-     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-        Layout:TextAlign="Justify"
-        rolemaps-to="P"
-       >
-      <?MarkedContent page="1" ?>Some figure
-     </text-block>
-    </semantic-para>
-   </float>
-   <float xmlns="https://www.latex-project.org/ns/dflt"
-      rolemaps-to="Aside"
-     >
-    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-       rolemaps-to="Part"
-      >
-     <text-block xmlns="https://www.latex-project.org/ns/dflt"
-        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-        Layout:TextAlign="Justify"
-        rolemaps-to="P"
-       >
-      <?MarkedContent page="1" ?>Another figure 
-      <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
-         rolemaps-to="Part"
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
         >
-       <text-block xmlns="https://www.latex-project.org/ns/dflt"
-          xmlns:Layout="http://iso.org/pdf/ssn/Layout"
-          Layout:TextAlign="Justify"
-          rolemaps-to="P"
-         >
-        <?MarkedContent page="1" ?>ruledfloat 2 Another caption
-       </text-block>
-      </semantic-para>
-     </text-block>
-    </semantic-para>
-   </float>
+       <?MarkedContent page="1" ?>plainfloat 0.1:
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?> A caption
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?>Some figure
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>plainfloat 0.2:
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?> Another caption
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?>Another figure
+      </text-block>
+     </semantic-para>
+    </float>
+   </plainfloat-floats>
+   <plaintopfloat-floats xmlns="https://www.latex-project.org/ns/local/float"
+      rolemaps-to="Sect"
+     >
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>plaintopfloat 1:
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?> A caption
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?>Some figure
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>plaintopfloat 2:
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?> Another caption
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?>Another figure
+      </text-block>
+     </semantic-para>
+    </float>
+   </plaintopfloat-floats>
+   <boxedfloat-floats xmlns="https://www.latex-project.org/ns/local/float"
+      rolemaps-to="Sect"
+     >
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>boxedfloat 1:
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?> A caption
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?>Some figure
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>boxedfloat 2:
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?> Another caption
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?>Another figure
+      </text-block>
+     </semantic-para>
+    </float>
+   </boxedfloat-floats>
+   <ruledfloat-floats xmlns="https://www.latex-project.org/ns/local/float"
+      rolemaps-to="Sect"
+     >
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>ruledfloat 1
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?> A caption
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?>Some figure
+      </text-block>
+     </semantic-para>
+    </float>
+    <float xmlns="https://www.latex-project.org/ns/dflt"
+       rolemaps-to="Aside"
+      >
+     <Caption xmlns="http://iso.org/pdf2/ssn"
+       >
+      <Lbl xmlns="http://iso.org/pdf2/ssn"
+        >
+       <?MarkedContent page="1" ?>ruledfloat 2
+      </Lbl>
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?> Another caption
+      </text-block>
+     </Caption>
+     <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
+        rolemaps-to="Part"
+       >
+      <text-block xmlns="https://www.latex-project.org/ns/dflt"
+         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+         Layout:TextAlign="Justify"
+         rolemaps-to="P"
+        >
+       <?MarkedContent page="1" ?>Another figure
+      </text-block>
+     </semantic-para>
+    </float>
+   </ruledfloat-floats>
   </Document>
  </StructTreeRoot>
 </PDF>
